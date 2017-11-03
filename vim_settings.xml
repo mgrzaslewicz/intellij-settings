@@ -3,22 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1509752390830">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/tmp/ta4k-autocoin/ta4k/pom.xml" timestamp="1509747516502">
         <mark key="'" line="6" column="21" />
       </file>
-      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" timestamp="1509747620900">
-        <mark key="'" line="24" column="22" />
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="34" />
-        <mark key="." line="25" column="34" />
-        <mark key="^" line="25" column="34" />
+      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" timestamp="1509751790345">
+        <mark key="'" line="25" column="36" />
+        <mark key="[" line="25" column="54" />
+        <mark key="]" line="25" column="54" />
+        <mark key="." line="25" column="54" />
+        <mark key="^" line="25" column="36" />
       </file>
-      <file name="C:/tmp/ta4k-autocoin/pom.xml" timestamp="1509750808888">
-        <mark key="'" line="71" column="4" />
+      <file name="C:/tmp/ta4k-autocoin/pom.xml" timestamp="1509751902129">
+        <mark key="'" line="63" column="24" />
         <mark key="[" line="66" column="37" />
-        <mark key="]" line="66" column="41" />
-        <mark key="." line="66" column="41" />
-        <mark key="^" line="66" column="41" />
+        <mark key="]" line="66" column="40" />
+        <mark key="." line="66" column="40" />
+        <mark key="^" line="66" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -29,45 +32,58 @@
       <jump line="0" column="0" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
       <jump line="6" column="21" filename="C:/tmp/ta4k-autocoin/ta4k/pom.xml" />
       <jump line="4" column="17" filename="C:/tmp/ta4k-autocoin/pom.xml" />
-      <jump line="0" column="0" filename="C:/tmp/ta4k-autocoin/pom.xml" />
       <jump line="70" column="9" filename="C:/tmp/ta4k-autocoin/pom.xml" />
       <jump line="22" column="16" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
       <jump line="24" column="22" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
       <jump line="71" column="4" filename="C:/tmp/ta4k-autocoin/pom.xml" />
+      <jump line="66" column="41" filename="C:/tmp/ta4k-autocoin/pom.xml" />
+      <jump line="254" column="0" filename="C:/tmp/ta4k-autocoin/pom.xml" />
+      <jump line="0" column="0" filename="C:/tmp/ta4k-autocoin/pom.xml" />
+      <jump line="25" column="36" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
+      <jump line="63" column="24" filename="C:/tmp/ta4k-autocoin/pom.xml" />
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>1.2-M2</text>
+        <text encoding="base64">PjEuMi4wLXJjLTM=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="2" type="4">
-        <text>1.2.0-beta-88</text>
+        <text>1.2.0-rc-39</text>
       </register>
       <register name="3" type="4">
+        <text>1.2.0-rc-39</text>
+      </register>
+      <register name="4" type="4">
         <text>1.2-M2</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="4">
+        <text>1.2.0-beta-88</text>
+      </register>
+      <register name="6" type="4">
+        <text>1.2-M2</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQk8a290bGluLnZlcnNpb24+MS4yLU0yPC9rb3RsaW4udmVyc2lvbj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PA==</text>
+        <text>fa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PA==</last-search>
+      <last-search>fa</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PA==</last-pattern>
+      <last-pattern>fa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -75,9 +91,12 @@
       <history-search>
         <entry>kotlin.ve</entry>
         <entry>kotlin</entry>
-        <entry encoding="base64">Pg==</entry>
         <entry>1</entry>
+        <entry>kotlin.v</entry>
         <entry encoding="base64">PA==</entry>
+        <entry encoding="base64">Pg==</entry>
+        <entry>9</entry>
+        <entry>fa</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
