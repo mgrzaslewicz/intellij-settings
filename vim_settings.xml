@@ -3,12 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" timestamp="1509746805055">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="53" />
-        <mark key="." line="25" column="53" />
-        <mark key="^" line="25" column="53" />
+      <file name="C:/tmp/ta4k-autocoin/ta4k/pom.xml" timestamp="1509747516502">
+        <mark key="'" line="6" column="21" />
+      </file>
+      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" timestamp="1509747620900">
+        <mark key="'" line="24" column="22" />
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="34" />
+        <mark key="." line="25" column="34" />
+        <mark key="^" line="25" column="34" />
+      </file>
+      <file name="C:/tmp/ta4k-autocoin/pom.xml" timestamp="1509747573914">
+        <mark key="'" line="70" column="9" />
+        <mark key="[" line="70" column="24" />
+        <mark key="]" line="70" column="34" />
+        <mark key="." line="70" column="34" />
+        <mark key="^" line="70" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -17,37 +27,53 @@
       <jump line="118" column="23" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
       <jump line="70" column="23" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
       <jump line="0" column="0" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
+      <jump line="6" column="21" filename="C:/tmp/ta4k-autocoin/ta4k/pom.xml" />
+      <jump line="4" column="17" filename="C:/tmp/ta4k-autocoin/pom.xml" />
+      <jump line="0" column="0" filename="C:/tmp/ta4k-autocoin/pom.xml" />
+      <jump line="70" column="9" filename="C:/tmp/ta4k-autocoin/pom.xml" />
+      <jump line="22" column="16" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
+      <jump line="24" column="22" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>1.2.0-beta-88</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQk8a290bGluLnZlcnNpb24+MS4yLU0yPC9rb3RsaW4udmVyc2lvbj4=</text>
+        <text>1.2.0-beta-88</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>1.2-M2</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQk8a290bGluLnZlcnNpb24+MS4yLU0yPC9rb3RsaW4udmVyc2lvbj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQk8a290bGluLnZlcnNpb24+MS4yLU0yPC9rb3RsaW4udmVyc2lvbj4=</text>
+        <text>1.2.0-beta-88</text>
       </register>
       <register name="/" type="4">
-        <text>kotlin.ve</text>
+        <text encoding="base64">PA==</text>
       </register>
     </registers>
     <search>
-      <last-search>kotlin.ve</last-search>
+      <last-search encoding="base64">PA==</last-search>
       <last-offset />
-      <last-pattern>kotlin.ve</last-pattern>
+      <last-pattern encoding="base64">PA==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>kotlin.ve</entry>
+        <entry>kotlin</entry>
+        <entry encoding="base64">Pg==</entry>
+        <entry>1</entry>
+        <entry encoding="base64">PA==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -65,6 +91,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
