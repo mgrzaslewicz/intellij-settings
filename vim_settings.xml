@@ -13,12 +13,12 @@
         <mark key="." line="25" column="34" />
         <mark key="^" line="25" column="34" />
       </file>
-      <file name="C:/tmp/ta4k-autocoin/pom.xml" timestamp="1509747573914">
-        <mark key="'" line="70" column="9" />
-        <mark key="[" line="70" column="24" />
-        <mark key="]" line="70" column="34" />
-        <mark key="." line="70" column="34" />
-        <mark key="^" line="70" column="34" />
+      <file name="C:/tmp/ta4k-autocoin/pom.xml" timestamp="1509750808888">
+        <mark key="'" line="71" column="4" />
+        <mark key="[" line="66" column="37" />
+        <mark key="]" line="66" column="41" />
+        <mark key="." line="66" column="41" />
+        <mark key="^" line="66" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -33,28 +33,32 @@
       <jump line="70" column="9" filename="C:/tmp/ta4k-autocoin/pom.xml" />
       <jump line="22" column="16" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
       <jump line="24" column="22" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
+      <jump line="71" column="4" filename="C:/tmp/ta4k-autocoin/pom.xml" />
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>1.2.0-beta-88</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>1.2.0-beta-88</text>
-      </register>
-      <register name="2" type="4">
         <text>1.2-M2</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
+      </register>
+      <register name="2" type="4">
+        <text>1.2.0-beta-88</text>
+      </register>
+      <register name="3" type="4">
+        <text>1.2-M2</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQk8a290bGluLnZlcnNpb24+MS4yLU0yPC9rb3RsaW4udmVyc2lvbj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>1.2.0-beta-88</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
@@ -78,6 +82,7 @@
       <history-cmd>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>tr</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -97,6 +102,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
