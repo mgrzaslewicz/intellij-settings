@@ -1,9 +1,12 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1509792469469">
+      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/RestTickerService.kt" timestamp="1509833361148">
+        <mark key="'" line="42" column="53" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1509833472381">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" timestamp="1509792291558">
@@ -11,6 +14,12 @@
         <mark key="[" line="105" column="10" />
         <mark key="]" line="105" column="10" />
         <mark key="." line="105" column="10" />
+      </file>
+      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersMerger.kt" timestamp="1509833332580">
+        <mark key="'" line="7" column="8" />
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="30" />
       </file>
       <file name="C:/tmp/ta4k-autocoin/ta4k/pom.xml" timestamp="1509747516502">
         <mark key="'" line="6" column="21" />
@@ -20,35 +29,37 @@
         <mark key="]" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" timestamp="1509829599340">
-        <mark key="'" line="116" column="0" />
-        <mark key="[" line="93" column="34" />
-        <mark key="]" line="66" column="20" />
-        <mark key="." line="66" column="20" />
-        <mark key="^" line="66" column="20" />
+      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" timestamp="1509833293085">
+        <mark key="'" line="140" column="9" />
+        <mark key="[" line="220" column="134" />
+        <mark key="]" line="220" column="134" />
+        <mark key="." line="220" column="134" />
+        <mark key="^" line="140" column="9" />
       </file>
-      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" timestamp="1509751790345">
-        <mark key="'" line="25" column="36" />
-        <mark key="[" line="25" column="54" />
-        <mark key="]" line="25" column="54" />
-        <mark key="." line="25" column="54" />
-        <mark key="^" line="25" column="36" />
+      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" timestamp="1509833163345">
+        <mark key="'" line="25" column="31" />
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="43" column="20" />
+        <mark key="." line="43" column="20" />
+        <mark key="^" line="43" column="20" />
       </file>
       <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/resources/schema.sql" timestamp="1509829531596">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="15" column="41" />
       </file>
-      <file name="C:/tmp/ta4k-autocoin/pom.xml" timestamp="1509751902129">
-        <mark key="'" line="63" column="24" />
-        <mark key="[" line="66" column="37" />
-        <mark key="]" line="66" column="40" />
-        <mark key="." line="66" column="40" />
-        <mark key="^" line="66" column="40" />
+      <file name="/pom.xml" timestamp="1509831307319" />
+      <file name="C:/tmp/ta4k-autocoin/pom.xml" timestamp="1509832826846">
+        <mark key="'" line="97" column="42" />
+        <mark key="[" line="70" column="24" />
+        <mark key="]" line="70" column="36" />
+        <mark key="." line="70" column="36" />
+        <mark key="^" line="70" column="36" />
       </file>
-      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" timestamp="1509792400654">
-        <mark key="[" line="60" column="25" />
-        <mark key="]" line="60" column="25" />
-        <mark key="." line="60" column="25" />
+      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" timestamp="1509833553057">
+        <mark key="[" line="85" column="2" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="85" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -56,17 +67,13 @@
       <jump line="147" column="27" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
       <jump line="118" column="23" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
       <jump line="70" column="23" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
-      <jump line="0" column="0" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
       <jump line="6" column="21" filename="C:/tmp/ta4k-autocoin/ta4k/pom.xml" />
       <jump line="4" column="17" filename="C:/tmp/ta4k-autocoin/pom.xml" />
-      <jump line="70" column="9" filename="C:/tmp/ta4k-autocoin/pom.xml" />
       <jump line="22" column="16" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
       <jump line="24" column="22" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
       <jump line="71" column="4" filename="C:/tmp/ta4k-autocoin/pom.xml" />
-      <jump line="66" column="41" filename="C:/tmp/ta4k-autocoin/pom.xml" />
       <jump line="254" column="0" filename="C:/tmp/ta4k-autocoin/pom.xml" />
       <jump line="0" column="0" filename="C:/tmp/ta4k-autocoin/pom.xml" />
-      <jump line="25" column="36" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
       <jump line="63" column="24" filename="C:/tmp/ta4k-autocoin/pom.xml" />
       <jump line="55" column="30" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
       <jump line="57" column="0" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
@@ -79,52 +86,72 @@
       <jump line="105" column="10" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
       <jump line="0" column="0" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/resources/schema.sql" />
       <jump line="113" column="0" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" />
+      <jump line="70" column="9" filename="C:/tmp/ta4k-autocoin/pom.xml" />
+      <jump line="66" column="34" filename="C:/tmp/ta4k-autocoin/pom.xml" />
+      <jump line="100" column="31" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
+      <jump line="15" column="33" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
+      <jump line="74" column="31" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
+      <jump line="98" column="0" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
+      <jump line="0" column="0" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
+      <jump line="105" column="24" filename="C:/tmp/ta4k-autocoin/pom.xml" />
+      <jump line="102" column="49" filename="C:/tmp/ta4k-autocoin/pom.xml" />
+      <jump line="21" column="40" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
+      <jump line="25" column="31" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
+      <jump line="97" column="42" filename="C:/tmp/ta4k-autocoin/pom.xml" />
+      <jump line="140" column="9" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" />
+      <jump line="5" column="6" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersMerger.kt" />
+      <jump line="6" column="47" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersMerger.kt" />
+      <jump line="7" column="8" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersMerger.kt" />
+      <jump line="42" column="53" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/RestTickerService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Trade</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIExvY2FsT3JkZXIoMSwgImVmN2I4M2NjLWQyNjQtNDIwYy04NWJiLWU3ZWFjNzcyYTk0MyIsIEZJTExFRCwgdHJ1ZSwgQmlnRGVjaW1hbC52YWx1ZU9mKDAuMDAxNDczMjMpLCBCaWdEZWNpbWFsLnZhbHVlT2YoMjAuMzYzMzk1MDApLCBUaW1lc3RhbXAudmFsdWVPZigiMjAxNy0wOS0xNiAyMjoxNDozNi43MTEwMDAiKS50b1pvbmVkRGF0ZSgpLCBUaW1lc3RhbXAudmFsdWVPZigiMjAxNy0wOS0xNiAyMjoxNDozNi4xMDUwMDAiKS50b1pvbmVkRGF0ZSgpLCBUaW1lc3RhbXAudmFsdWVPZigiMjAxNy0wOS0xOSAxMDoyMDo1Ny4zOTAwMDAiKS50b1pvbmVkRGF0ZSgpLCBsb2NhbFRyYWRlKSwKICAgICAgICAgICAgICAgICAgICAgICAgTG9jYWxPcmRlcigyLCAiNTBiZTAzMTgtMDg2Ni00ODJkLWI3ZWItZTI2YWRiYzY2YjUzIiwgRklMTEVELCB0cnVlLCBCaWdEZWNpbWFsLnZhbHVlT2YoMC4wMDE2MjM4MyksIEJpZ0RlY2ltYWwudmFsdWVPZig4LjI5MzExNzYwKSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMTkgMTI6NDI6NDYuNjk5MDAwIikudG9ab25lZERhdGUoKSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMTkgMTI6NDI6NDYuNjk2MDAwIikudG9ab25lZERhdGUoKSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMTkgMTI6NDI6NTYuOTk2MDAwIikudG9ab25lZERhdGUoKSwgbG9jYWxUcmFkZSksCiAgICAgICAgICAgICAgICAgICAgICAgIExvY2FsT3JkZXIoMywgIjRlNzNiNGYwLTc0MGItNDM1NS04YzVkLTU4MDFlNzQ1ZTk0MSIsIEZJTExFRCwgdHJ1ZSwgQmlnRGVjaW1hbC52YWx1ZU9mKDAuMDAxNjI0NDYpLCBCaWdEZWNpbWFsLnZhbHVlT2YoNC4xMzkzODY4MCksIFRpbWVzdGFtcC52YWx1ZU9mKCIyMDE3LTA5LTE5IDEyOjU4OjExLjUzMDAwMCIpLnRvWm9uZWREYXRlKCksIFRpbWVzdGFtcC52YWx1ZU9mKCIyMDE3LTA5LTE5IDEyOjU4OjExLjUzMDAwMCIpLnRvWm9uZWREYXRlKCksIFRpbWVzdGFtcC52YWx1ZU9mKCIyMDE3LTA5LTE5IDEyOjU4OjIxLjk2MTAwMCIpLnRvWm9uZWREYXRlKCksIGxvY2FsVHJhZGUpLAogICAgICAgICAgICAgICAgICAgICAgICBMb2NhbE9yZGVyKDQsICI3OTE3OWE4Yi0zODI5LTQ4ODYtYWZjOC1jYWRlYTU5MTI5YTMiLCBGSUxMRUQsIHRydWUsIEJpZ0RlY2ltYWwudmFsdWVPZigwLjAwMTYxOTAyKSwgQmlnRGVjaW1hbC52YWx1ZU9mKDIuMTMxODA3ODApLCBUaW1lc3RhbXAudmFsdWVPZigiMjAxNy0wOS0xOSAxMzoxMjozNi4xNjIwMDAiKS50b1pvbmVkRGF0ZSgpLCBUaW1lc3RhbXAudmFsdWVPZigiMjAxNy0wOS0xOSAxMzoxMjozNi4xNjEwMDAiKS50b1pvbmVkRGF0ZSgpLCBUaW1lc3RhbXAudmFsdWVPZigiMjAxNy0wOS0xOSAxMzoxMjo0Ni42MjAwMDAiKS50b1pvbmVkRGF0ZSgpLCBsb2NhbFRyYWRlKSwKICAgICAgICAgICAgICAgICAgICAgICAgTG9jYWxPcmRlcig1LCAiMWI5NTQzMTAtODEwOC00ODhjLWJiMGUtNTQ4YjNmNTk1OWZjIiwgRklMTEVELCB0cnVlLCBCaWdEZWNpbWFsLnZhbHVlT2YoMC4wMDE2MTYyNSksIEJpZ0RlY2ltYWwudmFsdWVPZigxLjA5NzU3ODAwKSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMTkgMTM6Mjc6NDIuODc1MDAwIikudG9ab25lZERhdGUoKSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMTkgMTM6Mjc6NDIuODc0MDAwIikudG9ab25lZERhdGUoKSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMTkgMTM6Mjg6MDQuNjA4MDAwIikudG9ab25lZERhdGUoKSwgbG9jYWxUcmFkZSksCiAgICAgICAgICAgICAgICAgICAgICAgIExvY2FsT3JkZXIoNiwgIjc0ODlmODI0LTA1YTEtNDk1ZC05NzMzLTg1ZDkwYjQxMWRmZCIsIEZJTExFRCwgdHJ1ZSwgQmlnRGVjaW1hbC52YWx1ZU9mKDAuMDAxNjA2NzEpLCBCaWdEZWNpbWFsLnZhbHVlT2YoMC42NTkxMTAwNiksIFRpbWVzdGFtcC52YWx1ZU9mKCIyMDE3LTA5LTE5IDEzOjQ0OjE0LjIxMjAwMCIpLnRvWm9uZWREYXRlKCksIFRpbWVzdGFtcC52YWx1ZU9mKCIyMDE3LTA5LTE5IDEzOjQ0OjE0LjIxMTAwMCIpLnRvWm9uZWREYXRlKCksIFRpbWVzdGFtcC52YWx1ZU9mKCIyMDE3LTA5LTE5IDEzOjQ0OjI0LjY4NDAwMCIpLnRvWm9uZWREYXRlKCksIGxvY2FsVHJhZGUpLAogICAgICAgICAgICAgICAgICAgICAgICBMb2NhbE9yZGVyKDcsICIyNWNiY2QwNi02YzIzLTQ2NmMtYmZjYS02ODM0ZmQzMGY1ZGIiLCBGSUxMRUQsIHRydWUsIEJpZ0RlY2ltYWwudmFsdWVPZigwLjAwMTYwMjg4KSwgQmlnRGVjaW1hbC52YWx1ZU9mKDAuMzc0MDk4MjApLCBUaW1lc3RhbXAudmFsdWVPZigiMjAxNy0wOS0xOSAxMzo1Nzo0OC45MjcwMDAiKS50b1pvbmVkRGF0ZSgpLCBUaW1lc3RhbXAudmFsdWVPZigiMjAxNy0wOS0xOSAxMzo1Nzo0OC45MjcwMDAiKS50b1pvbmVkRGF0ZSgpLCBUaW1lc3RhbXAudmFsdWVPZigiMjAxNy0wOS0xOSAxMzo1OTo0NS4zMDIwMDAiKS50b1pvbmVkRGF0ZSgpLCBsb2NhbFRyYWRlKSwKICAgICAgICAgICAgICAgICAgICAgICAgTG9jYWxPcmRlcig4LCAiODQzOTg4NTAtYWRkMC00ZmY1LWI0ZTEtMWJkYmRhNTZkMTAzIiwgRklMTEVELCB0cnVlLCBCaWdEZWNpbWFsLnZhbHVlT2YoMC4wMDE1OTE0NCksIEJpZ0RlY2ltYWwudmFsdWVPZigwLjMyMTYwNzE5KSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMTkgMTU6MTI6NDcuMTA3MDAwIikudG9ab25lZERhdGUoKSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMTkgMTU6MTI6NDcuMTA2MDAwIikudG9ab25lZERhdGUoKSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMTkgMTU6MTI6NTcuNTEzMDAwIikudG9ab25lZERhdGUoKSwgbG9jYWxUcmFkZSksCiAgICAgICAgICAgICAgICAgICAgICAgIExvY2FsT3JkZXIoOSwgIjNlZjQwMjY1LTc5NzktNDFhNC1iNTE5LTEyYzg3ODdkMmQwYyIsIEZJTExFRCwgdHJ1ZSwgQmlnRGVjaW1hbC52YWx1ZU9mKDAuMDAxNTc2NjApLCBCaWdEZWNpbWFsLnZhbHVlT2YoMC4zMzgyOTgzNSksIFRpbWVzdGFtcC52YWx1ZU9mKCIyMDE3LTA5LTE5IDE1OjI3OjQyLjE2MzAwMCIpLnRvWm9uZWREYXRlKCksIFRpbWVzdGFtcC52YWx1ZU9mKCIyMDE3LTA5LTE5IDE1OjI3OjQyLjE2MjAwMCIpLnRvWm9uZWREYXRlKCksIFRpbWVzdGFtcC52YWx1ZU9mKCIyMDE3LTA5LTE5IDE1OjI3OjUyLjYwNDAwMCIpLnRvWm9uZWREYXRlKCksIGxvY2FsVHJhZGUpLAogICAgICAgICAgICAgICAgICAgICAgICBMb2NhbE9yZGVyKDEwLCAiOGVmYjNhY2ItNTg0Yi00NGQyLTg4NjgtOWNkNzliYjYwZmM5IiwgRklMTEVELCB0cnVlLCBCaWdEZWNpbWFsLnZhbHVlT2YoMC4wMDE1NTc2MCksIEJpZ0RlY2ltYWwudmFsdWVPZigwLjQwMTI1MDA2KSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMjAgMDI6Mjc6NDEuNTIwMDAwIikudG9ab25lZERhdGUoKSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMjAgMDI6Mjc6NDEuNTEwMDAwIikudG9ab25lZERhdGUoKSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMjAgMDI6Mjc6NTEuOTY3MDAwIikudG9ab25lZERhdGUoKSwgbG9jYWxUcmFkZSkKIA==</text>
       </register>
       <register name="-" type="4">
-        <text>Trade</text>
+        <text>!!</text>
       </register>
       <register name="/" type="4">
-        <text>L</text>
+        <text>v</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIExvY2FsT3JkZXIoMSwgImVmN2I4M2NjLWQyNjQtNDIwYy04NWJiLWU3ZWFjNzcyYTk0MyIsIEZJTExFRCwgdHJ1ZSwgQmlnRGVjaW1hbC52YWx1ZU9mKDAuMDAxNDczMjMpLCBCaWdEZWNpbWFsLnZhbHVlT2YoMjAuMzYzMzk1MDApLCBUaW1lc3RhbXAudmFsdWVPZigiMjAxNy0wOS0xNiAyMjoxNDozNi43MTEwMDAiKS50b1pvbmVkRGF0ZSgpLCBUaW1lc3RhbXAudmFsdWVPZigiMjAxNy0wOS0xNiAyMjoxNDozNi4xMDUwMDAiKS50b1pvbmVkRGF0ZSgpLCBUaW1lc3RhbXAudmFsdWVPZigiMjAxNy0wOS0xOSAxMDoyMDo1Ny4zOTAwMDAiKS50b1pvbmVkRGF0ZSgpLCBsb2NhbFRyYWRlKSwKICAgICAgICAgICAgICAgICAgICAgICAgTG9jYWxPcmRlcigyLCAiNTBiZTAzMTgtMDg2Ni00ODJkLWI3ZWItZTI2YWRiYzY2YjUzIiwgRklMTEVELCB0cnVlLCBCaWdEZWNpbWFsLnZhbHVlT2YoMC4wMDE2MjM4MyksIEJpZ0RlY2ltYWwudmFsdWVPZig4LjI5MzExNzYwKSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMTkgMTI6NDI6NDYuNjk5MDAwIikudG9ab25lZERhdGUoKSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMTkgMTI6NDI6NDYuNjk2MDAwIikudG9ab25lZERhdGUoKSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMTkgMTI6NDI6NTYuOTk2MDAwIikudG9ab25lZERhdGUoKSwgbG9jYWxUcmFkZSksCiAgICAgICAgICAgICAgICAgICAgICAgIExvY2FsT3JkZXIoMywgIjRlNzNiNGYwLTc0MGItNDM1NS04YzVkLTU4MDFlNzQ1ZTk0MSIsIEZJTExFRCwgdHJ1ZSwgQmlnRGVjaW1hbC52YWx1ZU9mKDAuMDAxNjI0NDYpLCBCaWdEZWNpbWFsLnZhbHVlT2YoNC4xMzkzODY4MCksIFRpbWVzdGFtcC52YWx1ZU9mKCIyMDE3LTA5LTE5IDEyOjU4OjExLjUzMDAwMCIpLnRvWm9uZWREYXRlKCksIFRpbWVzdGFtcC52YWx1ZU9mKCIyMDE3LTA5LTE5IDEyOjU4OjExLjUzMDAwMCIpLnRvWm9uZWREYXRlKCksIFRpbWVzdGFtcC52YWx1ZU9mKCIyMDE3LTA5LTE5IDEyOjU4OjIxLjk2MTAwMCIpLnRvWm9uZWREYXRlKCksIGxvY2FsVHJhZGUpLAogICAgICAgICAgICAgICAgICAgICAgICBMb2NhbE9yZGVyKDQsICI3OTE3OWE4Yi0zODI5LTQ4ODYtYWZjOC1jYWRlYTU5MTI5YTMiLCBGSUxMRUQsIHRydWUsIEJpZ0RlY2ltYWwudmFsdWVPZigwLjAwMTYxOTAyKSwgQmlnRGVjaW1hbC52YWx1ZU9mKDIuMTMxODA3ODApLCBUaW1lc3RhbXAudmFsdWVPZigiMjAxNy0wOS0xOSAxMzoxMjozNi4xNjIwMDAiKS50b1pvbmVkRGF0ZSgpLCBUaW1lc3RhbXAudmFsdWVPZigiMjAxNy0wOS0xOSAxMzoxMjozNi4xNjEwMDAiKS50b1pvbmVkRGF0ZSgpLCBUaW1lc3RhbXAudmFsdWVPZigiMjAxNy0wOS0xOSAxMzoxMjo0Ni42MjAwMDAiKS50b1pvbmVkRGF0ZSgpLCBsb2NhbFRyYWRlKSwKICAgICAgICAgICAgICAgICAgICAgICAgTG9jYWxPcmRlcig1LCAiMWI5NTQzMTAtODEwOC00ODhjLWJiMGUtNTQ4YjNmNTk1OWZjIiwgRklMTEVELCB0cnVlLCBCaWdEZWNpbWFsLnZhbHVlT2YoMC4wMDE2MTYyNSksIEJpZ0RlY2ltYWwudmFsdWVPZigxLjA5NzU3ODAwKSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMTkgMTM6Mjc6NDIuODc1MDAwIikudG9ab25lZERhdGUoKSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMTkgMTM6Mjc6NDIuODc0MDAwIikudG9ab25lZERhdGUoKSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMTkgMTM6Mjg6MDQuNjA4MDAwIikudG9ab25lZERhdGUoKSwgbG9jYWxUcmFkZSksCiAgICAgICAgICAgICAgICAgICAgICAgIExvY2FsT3JkZXIoNiwgIjc0ODlmODI0LTA1YTEtNDk1ZC05NzMzLTg1ZDkwYjQxMWRmZCIsIEZJTExFRCwgdHJ1ZSwgQmlnRGVjaW1hbC52YWx1ZU9mKDAuMDAxNjA2NzEpLCBCaWdEZWNpbWFsLnZhbHVlT2YoMC42NTkxMTAwNiksIFRpbWVzdGFtcC52YWx1ZU9mKCIyMDE3LTA5LTE5IDEzOjQ0OjE0LjIxMjAwMCIpLnRvWm9uZWREYXRlKCksIFRpbWVzdGFtcC52YWx1ZU9mKCIyMDE3LTA5LTE5IDEzOjQ0OjE0LjIxMTAwMCIpLnRvWm9uZWREYXRlKCksIFRpbWVzdGFtcC52YWx1ZU9mKCIyMDE3LTA5LTE5IDEzOjQ0OjI0LjY4NDAwMCIpLnRvWm9uZWREYXRlKCksIGxvY2FsVHJhZGUpLAogICAgICAgICAgICAgICAgICAgICAgICBMb2NhbE9yZGVyKDcsICIyNWNiY2QwNi02YzIzLTQ2NmMtYmZjYS02ODM0ZmQzMGY1ZGIiLCBGSUxMRUQsIHRydWUsIEJpZ0RlY2ltYWwudmFsdWVPZigwLjAwMTYwMjg4KSwgQmlnRGVjaW1hbC52YWx1ZU9mKDAuMzc0MDk4MjApLCBUaW1lc3RhbXAudmFsdWVPZigiMjAxNy0wOS0xOSAxMzo1Nzo0OC45MjcwMDAiKS50b1pvbmVkRGF0ZSgpLCBUaW1lc3RhbXAudmFsdWVPZigiMjAxNy0wOS0xOSAxMzo1Nzo0OC45MjcwMDAiKS50b1pvbmVkRGF0ZSgpLCBUaW1lc3RhbXAudmFsdWVPZigiMjAxNy0wOS0xOSAxMzo1OTo0NS4zMDIwMDAiKS50b1pvbmVkRGF0ZSgpLCBsb2NhbFRyYWRlKSwKICAgICAgICAgICAgICAgICAgICAgICAgTG9jYWxPcmRlcig4LCAiODQzOTg4NTAtYWRkMC00ZmY1LWI0ZTEtMWJkYmRhNTZkMTAzIiwgRklMTEVELCB0cnVlLCBCaWdEZWNpbWFsLnZhbHVlT2YoMC4wMDE1OTE0NCksIEJpZ0RlY2ltYWwudmFsdWVPZigwLjMyMTYwNzE5KSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMTkgMTU6MTI6NDcuMTA3MDAwIikudG9ab25lZERhdGUoKSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMTkgMTU6MTI6NDcuMTA2MDAwIikudG9ab25lZERhdGUoKSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMTkgMTU6MTI6NTcuNTEzMDAwIikudG9ab25lZERhdGUoKSwgbG9jYWxUcmFkZSksCiAgICAgICAgICAgICAgICAgICAgICAgIExvY2FsT3JkZXIoOSwgIjNlZjQwMjY1LTc5NzktNDFhNC1iNTE5LTEyYzg3ODdkMmQwYyIsIEZJTExFRCwgdHJ1ZSwgQmlnRGVjaW1hbC52YWx1ZU9mKDAuMDAxNTc2NjApLCBCaWdEZWNpbWFsLnZhbHVlT2YoMC4zMzgyOTgzNSksIFRpbWVzdGFtcC52YWx1ZU9mKCIyMDE3LTA5LTE5IDE1OjI3OjQyLjE2MzAwMCIpLnRvWm9uZWREYXRlKCksIFRpbWVzdGFtcC52YWx1ZU9mKCIyMDE3LTA5LTE5IDE1OjI3OjQyLjE2MjAwMCIpLnRvWm9uZWREYXRlKCksIFRpbWVzdGFtcC52YWx1ZU9mKCIyMDE3LTA5LTE5IDE1OjI3OjUyLjYwNDAwMCIpLnRvWm9uZWREYXRlKCksIGxvY2FsVHJhZGUpLAogICAgICAgICAgICAgICAgICAgICAgICBMb2NhbE9yZGVyKDEwLCAiOGVmYjNhY2ItNTg0Yi00NGQyLTg4NjgtOWNkNzliYjYwZmM5IiwgRklMTEVELCB0cnVlLCBCaWdEZWNpbWFsLnZhbHVlT2YoMC4wMDE1NTc2MCksIEJpZ0RlY2ltYWwudmFsdWVPZigwLjQwMTI1MDA2KSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMjAgMDI6Mjc6NDEuNTIwMDAwIikudG9ab25lZERhdGUoKSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMjAgMDI6Mjc6NDEuNTEwMDAwIikudG9ab25lZERhdGUoKSwgVGltZXN0YW1wLnZhbHVlT2YoIjIwMTctMDktMjAgMDI6Mjc6NTEuOTY3MDAwIikudG9ab25lZERhdGUoKSwgbG9jYWxUcmFkZSkKIA==</text>
       </register>
       <register name="1" type="4">
-        <text>price</text>
+        <text>1.2-rc-39</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PjEuMi4wLXJjLTM=</text>
-      </register>
-      <register name="3" type="4">
-        <text>1.2.0-rc-39</text>
-      </register>
-      <register name="4" type="4">
-        <text>1.2.0-rc-39</text>
-      </register>
-      <register name="5" type="4">
-        <text>1.2-M2</text>
-      </register>
-      <register name="6" type="4">
-        <text>1.2.0-beta-88</text>
-      </register>
-      <register name="7" type="4">
-        <text>1.2-M2</text>
-      </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQk8a290bGluLnZlcnNpb24+MS4yLU0yPC9rb3RsaW4udmVyc2lvbj4K</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQk8L2RlcGVuZGVuY3k+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJPHZlcnNpb24+MS40LjY8L3ZlcnNpb24+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJPGFydGlmYWN0SWQ+a290bGluLWxvZ2dpbmc8L2FydGlmYWN0SWQ+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJPGdyb3VwSWQ+aW8uZ2l0aHViLm1pY3JvdXRpbHM8L2dyb3VwSWQ+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4K</text>
+      </register>
+      <register name="8" type="4">
+        <text>beta-88</text>
+      </register>
+      <register name="9" type="4">
+        <text>price</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>L</last-search>
+      <last-search>v</last-search>
       <last-offset />
-      <last-pattern>L</last-pattern>
+      <last-pattern>v</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -133,17 +160,28 @@
         <entry>kotlin.ve</entry>
         <entry>kotlin</entry>
         <entry>1</entry>
-        <entry>kotlin.v</entry>
-        <entry encoding="base64">PA==</entry>
         <entry encoding="base64">Pg==</entry>
         <entry>9</entry>
         <entry>fa</entry>
         <entry>L</entry>
+        <entry>kotlin.v</entry>
+        <entry>beta</entry>
+        <entry>t</entry>
+        <entry>logging</entry>
+        <entry>inc</entry>
+        <entry>f</entry>
+        <entry>39</entry>
+        <entry>-stdlib</entry>
+        <entry>M@</entry>
+        <entry>M2</entry>
+        <entry encoding="base64">PA==</entry>
+        <entry>v</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>tr</entry>
+        <entry>x</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -166,6 +204,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
