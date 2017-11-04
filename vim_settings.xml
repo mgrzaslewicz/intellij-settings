@@ -3,11 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1509752765072">
+      <file name="/Dummy.txt" timestamp="1509792454186">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" timestamp="1509792291558">
+        <mark key="'" line="105" column="10" />
+        <mark key="[" line="105" column="10" />
+        <mark key="]" line="105" column="10" />
+        <mark key="." line="105" column="10" />
       </file>
       <file name="C:/tmp/ta4k-autocoin/ta4k/pom.xml" timestamp="1509747516502">
         <mark key="'" line="6" column="21" />
+      </file>
+      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/Profiles.kt" timestamp="1509792159367">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="14" />
       </file>
       <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" timestamp="1509751790345">
         <mark key="'" line="25" column="36" />
@@ -22,6 +33,11 @@
         <mark key="]" line="66" column="40" />
         <mark key="." line="66" column="40" />
         <mark key="^" line="66" column="40" />
+      </file>
+      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" timestamp="1509792400654">
+        <mark key="[" line="60" column="25" />
+        <mark key="]" line="60" column="25" />
+        <mark key="." line="60" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -41,49 +57,61 @@
       <jump line="0" column="0" filename="C:/tmp/ta4k-autocoin/pom.xml" />
       <jump line="25" column="36" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
       <jump line="63" column="24" filename="C:/tmp/ta4k-autocoin/pom.xml" />
+      <jump line="55" column="30" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
+      <jump line="57" column="0" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
+      <jump line="61" column="0" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
+      <jump line="65" column="0" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
+      <jump line="67" column="0" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
+      <jump line="73" column="0" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
+      <jump line="75" column="4" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
+      <jump line="60" column="8" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
+      <jump line="105" column="10" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">PjEuMi4wLXJjLTM=</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>price</text>
+      </register>
+      <register name="-" type="4">
+        <text>price</text>
+      </register>
+      <register name="/" type="4">
+        <text>L</text>
+      </register>
+      <register name="1" type="4">
+        <text>price</text>
       </register>
       <register name="2" type="4">
-        <text>1.2.0-rc-39</text>
+        <text encoding="base64">PjEuMi4wLXJjLTM=</text>
       </register>
       <register name="3" type="4">
         <text>1.2.0-rc-39</text>
       </register>
       <register name="4" type="4">
-        <text>1.2-M2</text>
+        <text>1.2.0-rc-39</text>
       </register>
       <register name="5" type="4">
-        <text>1.2.0-beta-88</text>
-      </register>
-      <register name="6" type="4">
         <text>1.2-M2</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>1.2.0-beta-88</text>
+      </register>
+      <register name="7" type="4">
+        <text>1.2-M2</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">CQk8a290bGluLnZlcnNpb24+MS4yLU0yPC9rb3RsaW4udmVyc2lvbj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>false</text>
-      </register>
-      <register name="/" type="4">
-        <text>fa</text>
-      </register>
     </registers>
     <search>
-      <last-search>fa</last-search>
+      <last-search>L</last-search>
       <last-offset />
-      <last-pattern>fa</last-pattern>
+      <last-pattern>L</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -97,6 +125,7 @@
         <entry encoding="base64">Pg==</entry>
         <entry>9</entry>
         <entry>fa</entry>
+        <entry>L</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
