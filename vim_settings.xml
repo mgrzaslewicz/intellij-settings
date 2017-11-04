@@ -20,12 +20,23 @@
         <mark key="]" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
+      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" timestamp="1509829599340">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="93" column="34" />
+        <mark key="]" line="66" column="20" />
+        <mark key="." line="66" column="20" />
+        <mark key="^" line="66" column="20" />
+      </file>
       <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" timestamp="1509751790345">
         <mark key="'" line="25" column="36" />
         <mark key="[" line="25" column="54" />
         <mark key="]" line="25" column="54" />
         <mark key="." line="25" column="54" />
         <mark key="^" line="25" column="36" />
+      </file>
+      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/resources/schema.sql" timestamp="1509829531596">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="41" />
       </file>
       <file name="C:/tmp/ta4k-autocoin/pom.xml" timestamp="1509751902129">
         <mark key="'" line="63" column="24" />
@@ -66,13 +77,15 @@
       <jump line="75" column="4" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
       <jump line="60" column="8" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
       <jump line="105" column="10" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
+      <jump line="0" column="0" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/resources/schema.sql" />
+      <jump line="113" column="0" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>price</text>
+        <text>Trade</text>
       </register>
       <register name="-" type="4">
-        <text>price</text>
+        <text>Trade</text>
       </register>
       <register name="/" type="4">
         <text>L</text>
@@ -129,8 +142,8 @@
       </history-search>
       <history-cmd>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>tr</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
