@@ -21,6 +21,10 @@
         <mark key="]" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" timestamp="1509883057102">
+        <mark key="'" line="209" column="8" />
+        <mark key="[" line="209" column="58" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/TradingParameters.kt" timestamp="1509881518554">
         <mark key="'" line="91" column="30" />
         <mark key="[" line="89" column="82" />
@@ -150,6 +154,9 @@
       <jump line="82" column="60" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TickerListenerTest.kt" />
       <jump line="39" column="24" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="153" column="79" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
+      <jump line="166" column="41" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" />
+      <jump line="57" column="37" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" />
+      <jump line="209" column="8" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -159,7 +166,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>n</text>
+        <text>any</text>
       </register>
       <register name="0" type="4">
         <text>strategyName: String)</text>
@@ -196,15 +203,14 @@
       </register>
     </registers>
     <search>
-      <last-search>n</last-search>
+      <last-search>any</last-search>
       <last-offset />
-      <last-pattern>n</last-pattern>
+      <last-pattern>any</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>L</entry>
         <entry>kotlin.v</entry>
         <entry>beta</entry>
         <entry>t</entry>
@@ -224,6 +230,7 @@
         <entry>Ti</entry>
         <entry>W</entry>
         <entry>n</entry>
+        <entry>any</entry>
       </history-search>
       <history-cmd>
         <entry>tr</entry>
