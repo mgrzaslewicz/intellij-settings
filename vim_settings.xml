@@ -27,10 +27,10 @@
         <mark key="." line="43" column="20" />
         <mark key="^" line="43" column="20" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TestConfig.kt" timestamp="1509920072873">
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TestConfig.kt" timestamp="1509924341389">
         <mark key="'" line="88" column="4" />
-        <mark key="[" line="88" column="14" />
-        <mark key="]" line="88" column="38" />
+        <mark key="[" line="88" column="43" />
+        <mark key="]" line="88" column="68" />
         <mark key="." line="88" column="38" />
         <mark key="^" line="88" column="38" />
       </file>
@@ -150,8 +150,11 @@
         <mark key="." line="82" column="46" />
         <mark key="^" line="82" column="46" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TradingParametersTest.kt" timestamp="1509923055269">
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TradingParametersTest.kt" timestamp="1509924280921">
         <mark key="[" line="19" column="45" />
+        <mark key="]" line="19" column="84" />
+        <mark key="^" line="19" column="84" />
+        <mark key="." line="19" column="84" />
       </file>
       <file name="/fragment.java" timestamp="1509922861917">
         <mark key="[" line="0" column="0" />
@@ -227,7 +230,7 @@
         <text>(</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBmdW4gc2hvdWxkR2V0U3RpbGxPcGVuT3JkZXJzRnJvbUxhc3RUcmFkZSgpIHsKICAgICAgICAvLyBnaXZlbgogICAgICAgIGluaXRMb2NhbE9yZGVycyhuZXdMb2NhbFRyYWRlKCkpCiAgICAgICAgbG9jYWxPcmRlclJlcG9zaXRvcnkuc2F2ZUFsbChvcGVuTG9jYWxPcmRlcnNGcm9tTGFzdFRyYWRlKQogICAgICAgIC8vIHdoZW4KICAgICAgICB2YWwgb3Blbk9yZGVycyA9IG9yZGVyc0Zyb21MYXN0VHJhZGUuZmluZFN0aWxsT3BlbkF0RXhjaGFuZ2VBbmRTZXRDbG9zZWQoY3VycmVuY3lQYWlyLCBzdHJhdGVneU5hbWUpCiAgICAgICAgLy8gdGhlbgogICAgICAgIHZhbCBhc3NlcnRpb25zID0gU29mdEFzc2VydGlvbnMoKQogICAgICAgIGFzc2VydGlvbnMuYXNzZXJ0VGhhdChvcGVuT3JkZXJzKS5oYXNTaXplKDIpCiAgICAgICAgYXNzZXJ0aW9ucy5hc3NlcnRUaGF0KG9wZW5PcmRlcnMubWFwIHsgaXQuaWQgfSkuY29udGFpbnNFeGFjdGx5SW5BbnlPcmRlcigiYSIsICJkIikKICAgICAgICBhc3NlcnRpb25zLmFzc2VydEFsbCgpCiAgICB9</text>
+        <text>sample-trading-parameters&quot;</text>
       </register>
       <register name="1" type="4">
         <text>Session</text>
