@@ -1,10 +1,56 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/RestTickerService.kt" timestamp="1509833361148">
-        <mark key="'" line="42" column="53" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" timestamp="1509922829720">
+        <mark key="'" line="47" column="1" />
+        <mark key="[" line="48" column="6" />
+        <mark key="]" line="47" column="16" />
+        <mark key="^" line="47" column="60" />
+        <mark key="." line="47" column="16" />
+      </file>
+      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersMerger.kt" timestamp="1509833332580">
+        <mark key="'" line="7" column="8" />
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" timestamp="1509923016699">
+        <mark key="'" line="209" column="8" />
+        <mark key="[" line="47" column="33" />
+      </file>
+      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" timestamp="1509833163345">
+        <mark key="'" line="25" column="31" />
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="43" column="20" />
+        <mark key="." line="43" column="20" />
+        <mark key="^" line="43" column="20" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TestConfig.kt" timestamp="1509920072873">
+        <mark key="'" line="88" column="4" />
+        <mark key="[" line="88" column="14" />
+        <mark key="]" line="88" column="38" />
+        <mark key="." line="88" column="38" />
+        <mark key="^" line="88" column="38" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" timestamp="1509920029054">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" timestamp="1509833553057">
+        <mark key="[" line="85" column="2" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="85" column="0" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" timestamp="1509922219201">
+        <mark key="'" line="305" column="53" />
+        <mark key="[" line="322" column="41" />
+        <mark key="]" line="322" column="45" />
+        <mark key="^" line="322" column="45" />
+        <mark key="." line="322" column="45" />
       </file>
       <file name="/Dummy.txt" timestamp="1509877168219">
         <mark key="[" line="0" column="0" />
@@ -15,40 +61,39 @@
         <mark key="]" line="105" column="10" />
         <mark key="." line="105" column="10" />
       </file>
-      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersMerger.kt" timestamp="1509833332580">
-        <mark key="'" line="7" column="8" />
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="8" column="30" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-exit-with-trailing-stop.yml" timestamp="1509919617987">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" timestamp="1509883057102">
-        <mark key="'" line="209" column="8" />
-        <mark key="[" line="209" column="58" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/InvestStrategy.kt" timestamp="1509922715164">
+        <mark key="[" line="133" column="20" />
+        <mark key="]" line="133" column="56" />
+        <mark key="." line="133" column="56" />
+        <mark key="^" line="133" column="56" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/TradingParameters.kt" timestamp="1509881518554">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/TradingParameters.kt" timestamp="1509919578544">
         <mark key="'" line="91" column="30" />
-        <mark key="[" line="89" column="82" />
+        <mark key="i" line="90" column="0" />
+        <mark key="[" line="84" column="0" />
         <mark key="]" line="91" column="56" />
         <mark key="." line="91" column="56" />
         <mark key="^" line="91" column="56" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" timestamp="1509880391335">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" timestamp="1509922492181">
         <mark key="'" line="201" column="15" />
-        <mark key="[" line="225" column="123" />
-        <mark key="]" line="225" column="136" />
-        <mark key="^" line="225" column="136" />
-        <mark key="." line="225" column="136" />
+        <mark key="[" line="131" column="159" />
+        <mark key="]" line="131" column="232" />
+        <mark key="^" line="131" column="232" />
+        <mark key="." line="131" column="232" />
       </file>
-      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" timestamp="1509833163345">
-        <mark key="'" line="25" column="31" />
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="43" column="20" />
-        <mark key="." line="43" column="20" />
-        <mark key="^" line="43" column="20" />
-      </file>
-      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/resources/schema.sql" timestamp="1509829531596">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="41" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" timestamp="1509922988015">
+        <mark key="[" line="45" column="33" />
+        <mark key="]" line="45" column="72" />
+        <mark key="^" line="45" column="72" />
+        <mark key="." line="45" column="72" />
       </file>
       <file name="C:/tmp/ta4k-autocoin/pom.xml" timestamp="1509832826846">
         <mark key="'" line="97" column="42" />
@@ -63,17 +108,13 @@
         <mark key="." line="7" column="11" />
         <mark key="^" line="7" column="11" />
       </file>
-      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" timestamp="1509833553057">
-        <mark key="[" line="85" column="2" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="85" column="0" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application.yml" timestamp="1509922766779">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/MarketListeners.kt" timestamp="1509881981949">
         <mark key="[" line="101" column="114" />
-      </file>
-      <file name="C:/tmp/ta4k-autocoin/ta4k/pom.xml" timestamp="1509747516502">
-        <mark key="'" line="6" column="21" />
       </file>
       <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/Profiles.kt" timestamp="1509792159367">
         <mark key="[" line="3" column="14" />
@@ -86,12 +127,21 @@
         <mark key="." line="44" column="24" />
         <mark key="^" line="44" column="24" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorProfitTest.kt" timestamp="1509923001941">
+        <mark key="[" line="50" column="45" />
+      </file>
       <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" timestamp="1509834933613">
         <mark key="'" line="141" column="9" />
         <mark key="[" line="69" column="16" />
         <mark key="]" line="69" column="47" />
         <mark key="." line="69" column="47" />
         <mark key="^" line="69" column="47" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-enter-when-dropping-exit-with-trailing-stop.yml" timestamp="1509921272576">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TickerListenerTest.kt" timestamp="1509881965004">
         <mark key="'" line="82" column="60" />
@@ -100,12 +150,11 @@
         <mark key="." line="82" column="46" />
         <mark key="^" line="82" column="46" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" timestamp="1509882348941">
-        <mark key="'" line="153" column="79" />
-        <mark key="[" line="153" column="88" />
-        <mark key="]" line="153" column="89" />
-        <mark key="^" line="153" column="79" />
-        <mark key="." line="153" column="89" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TradingParametersTest.kt" timestamp="1509923055269">
+        <mark key="[" line="19" column="45" />
+      </file>
+      <file name="/fragment.java" timestamp="1509922861917">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -157,67 +206,98 @@
       <jump line="166" column="41" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" />
       <jump line="57" column="37" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" />
       <jump line="209" column="8" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" />
+      <jump line="42" column="0" filename="E:/prj/autocoin-strategy-executor/src/test/resources/application-exit-with-trailing-stop.yml" />
+      <jump line="15" column="0" filename="E:/prj/autocoin-strategy-executor/src/test/resources/application-exit-with-trailing-stop.yml" />
+      <jump line="84" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/TradingParameters.kt" />
+      <jump line="47" column="1" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" />
+      <jump line="88" column="4" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TestConfig.kt" />
+      <jump line="8" column="0" filename="E:/prj/autocoin-strategy-executor/src/test/resources/application-enter-when-dropping-exit-with-trailing-stop.yml" />
+      <jump line="234" column="15" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
+      <jump line="283" column="0" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
+      <jump line="293" column="53" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>Session</text>
       </register>
       <register name="/" type="4">
-        <text>any</text>
+        <text>(</text>
       </register>
       <register name="0" type="4">
-        <text>strategyName: String)</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBmdW4gc2hvdWxkR2V0U3RpbGxPcGVuT3JkZXJzRnJvbUxhc3RUcmFkZSgpIHsKICAgICAgICAvLyBnaXZlbgogICAgICAgIGluaXRMb2NhbE9yZGVycyhuZXdMb2NhbFRyYWRlKCkpCiAgICAgICAgbG9jYWxPcmRlclJlcG9zaXRvcnkuc2F2ZUFsbChvcGVuTG9jYWxPcmRlcnNGcm9tTGFzdFRyYWRlKQogICAgICAgIC8vIHdoZW4KICAgICAgICB2YWwgb3Blbk9yZGVycyA9IG9yZGVyc0Zyb21MYXN0VHJhZGUuZmluZFN0aWxsT3BlbkF0RXhjaGFuZ2VBbmRTZXRDbG9zZWQoY3VycmVuY3lQYWlyLCBzdHJhdGVneU5hbWUpCiAgICAgICAgLy8gdGhlbgogICAgICAgIHZhbCBhc3NlcnRpb25zID0gU29mdEFzc2VydGlvbnMoKQogICAgICAgIGFzc2VydGlvbnMuYXNzZXJ0VGhhdChvcGVuT3JkZXJzKS5oYXNTaXplKDIpCiAgICAgICAgYXNzZXJ0aW9ucy5hc3NlcnRUaGF0KG9wZW5PcmRlcnMubWFwIHsgaXQuaWQgfSkuY29udGFpbnNFeGFjdGx5SW5BbnlPcmRlcigiYSIsICJkIikKICAgICAgICBhc3NlcnRpb25zLmFzc2VydEFsbCgpCiAgICB9</text>
       </register>
       <register name="1" type="4">
-        <text>Ticker</text>
-      </register>
-      <register name="2" type="4">
         <text>Session</text>
       </register>
-      <register name="3" type="4">
-        <text>Session</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRpb25zLmFzc2VydFRoYXQob3Blbk9yZGVycy5tYXAgeyBpdC5pZCB9KS5jb250YWluc0V4YWN0bHlJbkFueU9yZGVyKCJhIiwgImQiKQogICAgICAgIGFzc2VydGlvbnMuYXNzZXJ0QWxsKCkK</text>
       </register>
-      <register name="4" type="8">
-        <text>strategyName: String)</text>
+      <register name="3" type="2">
+        <text encoding="base64">I3NwcmluZy5wcm9maWxlcy5pbmNsdWRlOiB0ZXN0Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>TestProfiles.TEST</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBAQ29sdW1uKG51bGxhYmxlID0gZmFsc2UpCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>1.2-rc-39</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQk8L2RlcGVuZGVuY3k+Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByYWRpbmdQYXJhbWV0ZXJzOgogIGxpc3Q6CiAgICAtCiAgICAgIGVudHJ5Q3VycmVuY3lDb2RlOiBMU0sKICAgICAgZXhpdEN1cnJlbmN5Q29kZTogQlRDCiAgICAgIHN0cmF0ZWd5UHJvdmlkZXI6CiAgICAgICAgbmFtZTogRW50ZXJXaGVuRHJvcHBpbmdFeGl0V2l0aFRyYWlsaW5nU3RvcAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lOiBFbnRlcldoZW5Ecm9wcGluZ0V4aXRXaXRoVHJhaWxpbmdTdG9wcmFkaW5nUGFyYW1ldGVyczoKICBsaXN0OgogICAgLQogICAgICBlbnRyeUN1cnJlbmN5Q29kZTogTFNLCiAgICAgIGV4aXRDdXJyZW5jeUNvZGU6IEJUQwogICAgICBzdHJhdGVneVByb3ZpZGVyOgogICAgICAgIG5hbWU6IEVudGVyV2hlbkRyb3BwaW5nRXhpdFdpdGhUcmFpbGluZ1N0b3AK</text>
+      </register>
+      <register name="9" type="4">
+        <text>tradingParameters:
+  list:
+    -
+      entryCurrencyCode: LSK
+      exitCurrencyCode: BTC
+      maxEntryCurrencyValue: 2.2
+      minEntryCurrencyAmountToHold: 105
+      exitCurrencyFractionForBuying: 0.55
+      entryCurrencyFractionForSelling: 0.55
+      buyWithLossFraction: 0.0015
+      sellWithLossFraction: 0.0015
+      cancelSellOrderWhenPriceDroppedLowerThanFraction: 0.006
+      cancelBuyOrderWhenPriceGrewBiggerThanFraction: 0.006
+      strategyProvider:
+        name: RSI2
+
+    -
+      entryCurrencyCode: LTC
+      exitCurrencyCode: BTC
+      maxEntryCurrencyValue: 1.2
+      minEntryCurrencyAmountToHold: 0
+      exitCurrencyFractionForBuying: 0.6
+      entryCurrencyFractionForSelling: 0.7
+      buyWithLossFraction: 0.0015
+      sellWithLossFraction: 0.0015
+      cancelSellOrderWhenPriceDroppedLowerThanFraction: 0.0055
+      cancelBuyOrderWhenPriceGrewBiggerThanFraction: 0.0055
+      tickAggregatorDuration: PT15S
+      strategyProvider:
+        name: EnterWhenDroppingExitWithTrailingStop</text>
       </register>
       <register name=":" type="4">
-        <text>set nu</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>any</last-search>
+      <last-search>(</last-search>
       <last-offset />
-      <last-pattern>any</last-pattern>
+      <last-pattern>(</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>kotlin.v</entry>
-        <entry>beta</entry>
-        <entry>t</entry>
-        <entry>logging</entry>
-        <entry>inc</entry>
-        <entry>f</entry>
-        <entry>39</entry>
         <entry>-stdlib</entry>
         <entry>M@</entry>
         <entry>M2</entry>
@@ -231,15 +311,22 @@
         <entry>W</entry>
         <entry>n</entry>
         <entry>any</entry>
+        <entry>RS</entry>
+        <entry>)</entry>
+        <entry>&quot;</entry>
+        <entry>te</entry>
+        <entry>,</entry>
+        <entry>}</entry>
+        <entry>(</entry>
       </history-search>
       <history-cmd>
         <entry>tr</entry>
-        <entry>x</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>set clipboard+=unnamed</entry>
         <entry>set nonu</entry>
         <entry>set nu</entry>
+        <entry>x</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -274,6 +361,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
