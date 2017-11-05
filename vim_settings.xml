@@ -96,6 +96,13 @@
         <mark key="." line="82" column="46" />
         <mark key="^" line="82" column="46" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" timestamp="1509882348941">
+        <mark key="'" line="153" column="79" />
+        <mark key="[" line="153" column="88" />
+        <mark key="]" line="153" column="89" />
+        <mark key="^" line="153" column="79" />
+        <mark key="." line="153" column="89" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="134" column="18" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
@@ -141,6 +148,8 @@
       <jump line="201" column="15" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" />
       <jump line="90" column="30" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/TradingParameters.kt" />
       <jump line="82" column="60" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TickerListenerTest.kt" />
+      <jump line="39" column="24" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
+      <jump line="153" column="79" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -150,7 +159,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>W</text>
+        <text>n</text>
       </register>
       <register name="0" type="4">
         <text>strategyName: String)</text>
@@ -187,15 +196,14 @@
       </register>
     </registers>
     <search>
-      <last-search>W</last-search>
+      <last-search>n</last-search>
       <last-offset />
-      <last-pattern>W</last-pattern>
+      <last-pattern>n</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fa</entry>
         <entry>L</entry>
         <entry>kotlin.v</entry>
         <entry>beta</entry>
@@ -215,6 +223,7 @@
         <entry>T</entry>
         <entry>Ti</entry>
         <entry>W</entry>
+        <entry>n</entry>
       </history-search>
       <history-cmd>
         <entry>tr</entry>
