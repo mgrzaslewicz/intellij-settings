@@ -9,12 +9,12 @@
         <mark key="]" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/EnterWhenDroppingExitWithTrailingStopStrategyTest.kt" timestamp="1510009235087">
-        <mark key="'" line="130" column="8" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="126" />
-        <mark key="." line="130" column="0" />
-        <mark key="^" line="129" column="123" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/EnterWhenDroppingExitWithTrailingStopStrategyTest.kt" timestamp="1510009419157">
+        <mark key="'" line="132" column="29" />
+        <mark key="[" line="126" column="6" />
+        <mark key="]" line="126" column="7" />
+        <mark key="." line="126" column="7" />
+        <mark key="^" line="126" column="7" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" timestamp="1509956526776">
         <mark key="'" line="97" column="8" />
@@ -246,7 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="27" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
       <jump line="118" column="23" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
       <jump line="70" column="23" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
       <jump line="6" column="21" filename="C:/tmp/ta4k-autocoin/ta4k/pom.xml" />
@@ -345,20 +344,21 @@
       <jump line="125" column="6" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/EnterWhenDroppingExitWithTrailingStopStrategyTest.kt" />
       <jump line="126" column="73" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/EnterWhenDroppingExitWithTrailingStopStrategyTest.kt" />
       <jump line="127" column="8" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/EnterWhenDroppingExitWithTrailingStopStrategyTest.kt" />
-      <jump line="130" column="8" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/EnterWhenDroppingExitWithTrailingStopStrategyTest.kt" />
+      <jump line="130" column="37" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/EnterWhenDroppingExitWithTrailingStopStrategyTest.kt" />
+      <jump line="132" column="29" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/EnterWhenDroppingExitWithTrailingStopStrategyTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>hasSize(1)</text>
+        <text>EqualTo(CurrencyPair(Currency(&quot;LSK&quot;), Currency.BTC))</text>
       </register>
       <register name="/" type="4">
         <text>(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRpb25zLmFzc2VydFRoYXQoaW5pdGlhbFRyYWlsaW5nU3RvcE9yZGVyc1Byb3ZpZGVkQnlJbnZlc3RvclswXS5leGNoYW5nZUlkKS5pc0VxdWFsVG8oIjAuMDM5LTUtMjMuMDguMjAxNyAwODo0NSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRpb25zLmFzc2VydFRoYXQoaW5pdGlhbFRyYWlsaW5nU3RvcE9yZGVyc1Byb3ZpZGVkQnlJbnZlc3RvclswXS5jdXJyZW5jeVBhaXIoKSkuaXNFcXVhbFRvKEN1cnJlbmN5UGFpcihDdXJyZW5jeSgiTFNLIiksIEN1cnJlbmN5LkJUQykpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -402,7 +402,6 @@
     </search>
     <history>
       <history-search>
-        <entry>T</entry>
         <entry>Ti</entry>
         <entry>W</entry>
         <entry>n</entry>
@@ -421,6 +420,7 @@
         <entry>Has</entry>
         <entry>No</entry>
         <entry>gi</entry>
+        <entry>Tr</entry>
         <entry>(</entry>
       </history-search>
       <history-cmd>
