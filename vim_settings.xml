@@ -368,7 +368,7 @@
         <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIExPRyA9IEtvdGxpbkxvZ2dpbmcubG9nZ2VyIHt9CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/LOG/logger/g</text>
+        <text>set relativenumber</text>
       </register>
     </registers>
     <search>
@@ -412,6 +412,7 @@
         <entry>x</entry>
         <entry>w</entry>
         <entry>%s/LOG/logger/g</entry>
+        <entry>set relativenumber</entry>
       </history-cmd>
       <history-expr />
       <history-input />
