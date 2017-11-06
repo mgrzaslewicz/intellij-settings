@@ -9,12 +9,12 @@
         <mark key="]" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/EnterWhenDroppingExitWithTrailingStopStrategyTest.kt" timestamp="1509955768612">
-        <mark key="'" line="47" column="35" />
-        <mark key="[" line="49" column="4" />
-        <mark key="]" line="49" column="32" />
-        <mark key="." line="49" column="3" />
-        <mark key="^" line="49" column="3" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/EnterWhenDroppingExitWithTrailingStopStrategyTest.kt" timestamp="1510006038798">
+        <mark key="'" line="126" column="73" />
+        <mark key="[" line="125" column="2" />
+        <mark key="]" line="126" column="73" />
+        <mark key="." line="126" column="73" />
+        <mark key="^" line="126" column="73" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" timestamp="1509956526776">
         <mark key="'" line="97" column="8" />
@@ -54,6 +54,12 @@
         <mark key="]" line="105" column="10" />
         <mark key="." line="105" column="10" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/InvestStrategy.kt" timestamp="1510005658851">
+        <mark key="[" line="21" column="88" />
+        <mark key="]" line="135" column="56" />
+        <mark key="." line="135" column="56" />
+        <mark key="^" line="135" column="56" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" timestamp="1509955853970">
         <mark key="'" line="157" column="0" />
         <mark key="[" line="216" column="0" />
@@ -66,12 +72,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/MarketListeners.kt" timestamp="1510004753518">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/MarketListeners.kt" timestamp="1510005566062">
         <mark key="'" line="52" column="126" />
-        <mark key="[" line="99" column="41" />
-        <mark key="]" line="101" column="26" />
-        <mark key="." line="101" column="26" />
-        <mark key="^" line="101" column="26" />
+        <mark key="[" line="100" column="30" />
+        <mark key="]" line="100" column="29" />
+        <mark key="." line="100" column="29" />
+        <mark key="^" line="100" column="29" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/FeatureToggle.kt" timestamp="1509956587546">
         <mark key="'" line="23" column="0" />
@@ -84,11 +90,11 @@
         <mark key="]" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" timestamp="1509956429187">
-        <mark key="'" line="451" column="4" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" timestamp="1510005507622">
+        <mark key="'" line="452" column="4" />
+        <mark key="[" line="45" column="33" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
         <mark key="^" line="45" column="24" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorProfitTest.kt" timestamp="1509956751781">
@@ -151,6 +157,12 @@
         <mark key="." line="43" column="20" />
         <mark key="^" line="43" column="20" />
       </file>
+      <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" timestamp="1509833553057">
+        <mark key="[" line="85" column="2" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="85" column="0" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyProviders.kt" timestamp="1509956352654">
         <mark key="'" line="16" column="33" />
         <mark key="[" line="16" column="0" />
@@ -192,6 +204,12 @@
         <mark key="]" line="70" column="36" />
         <mark key="." line="70" column="36" />
         <mark key="^" line="70" column="36" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1509877132336">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+        <mark key="^" line="7" column="11" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/AutocoinApplication.kt" timestamp="1509956136033">
         <mark key="'" line="18" column="33" />
@@ -324,16 +342,19 @@
       <jump line="228" column="2" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="239" column="8" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="254" column="8" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
+      <jump line="52" column="53" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/EnterWhenDroppingExitWithTrailingStopStrategyTest.kt" />
+      <jump line="125" column="6" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/EnterWhenDroppingExitWithTrailingStopStrategyTest.kt" />
+      <jump line="126" column="73" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/EnterWhenDroppingExitWithTrailingStopStrategyTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>No</text>
+        <text>gi</text>
       </register>
       <register name="0" type="4">
         <text>private fun openBuyOrder(exchangeId: String): LimitOrder {
@@ -370,21 +391,20 @@
         <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIExPRyA9IEtvdGxpbkxvZ2dpbmcubG9nZ2VyIHt9CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set relativenumber</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>No</last-search>
+      <last-search>gi</last-search>
       <last-offset />
-      <last-pattern>No</last-pattern>
+      <last-pattern>gi</last-pattern>
       <last-replace>logger</last-replace>
       <last-substitute>LOG</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pa</entry>
         <entry>T</entry>
         <entry>Ti</entry>
         <entry>W</entry>
@@ -404,10 +424,10 @@
         <entry>Has</entry>
         <entry>(</entry>
         <entry>No</entry>
+        <entry>gi</entry>
       </history-search>
       <history-cmd>
         <entry>tr</entry>
-        <entry>q</entry>
         <entry>set clipboard+=unnamed</entry>
         <entry>set nonu</entry>
         <entry>set nu</entry>
@@ -415,6 +435,7 @@
         <entry>w</entry>
         <entry>%s/LOG/logger/g</entry>
         <entry>set relativenumber</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
