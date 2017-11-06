@@ -66,11 +66,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/MarketListeners.kt" timestamp="1509956788096">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/MarketListeners.kt" timestamp="1510004753518">
         <mark key="'" line="52" column="126" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+        <mark key="[" line="99" column="41" />
+        <mark key="]" line="101" column="26" />
+        <mark key="." line="101" column="26" />
+        <mark key="^" line="101" column="26" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/FeatureToggle.kt" timestamp="1509956587546">
         <mark key="'" line="23" column="0" />
@@ -156,12 +157,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" timestamp="1509956171202">
-        <mark key="'" line="303" column="53" />
-        <mark key="[" line="40" column="2" />
-        <mark key="]" line="40" column="2" />
-        <mark key="^" line="320" column="45" />
-        <mark key="." line="40" column="2" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" timestamp="1510003337505">
+        <mark key="'" line="254" column="8" />
+        <mark key="[" line="255" column="72" />
+        <mark key="]" line="255" column="84" />
+        <mark key="^" line="255" column="84" />
+        <mark key="." line="255" column="84" />
       </file>
       <file name="/Dummy.txt" timestamp="1509957902185">
         <mark key="[" line="0" column="0" />
@@ -172,12 +173,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="6" column="13" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/tickerrepository/TickerRepository.kt" timestamp="1509956229458">
-        <mark key="'" line="20" column="33" />
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="4" />
-        <mark key="." line="20" column="4" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" timestamp="1509956066213">
         <mark key="'" line="47" column="30" />
@@ -326,22 +321,29 @@
       <jump line="150" column="124" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorProfitTest.kt" />
       <jump line="52" column="126" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/MarketListeners.kt" />
       <jump line="92" column="8" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/AutoCoinTradeService.kt" />
+      <jump line="228" column="2" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
+      <jump line="239" column="8" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
+      <jump line="254" column="8" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>LOG</text>
+        <text>No</text>
       </register>
       <register name="0" type="4">
-        <text>private val LOG = KotlinLogging.logger {}</text>
+        <text>private fun openBuyOrder(exchangeId: String): LimitOrder {
+        val limitOrder = LimitOrder(BID, 2.0.toBigDecimal(), currencyPair, exchangeId, openTime.toDate(), 0.5.toBigDecimal())
+        limitOrder.setOrderStatus(NEW)
+        return limitOrder
+    }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIExPRyA9IEtvdGxpbkxvZ2dpbmcubG9nZ2VyIHt9CiAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text>HasNoOrdersAndSavingBuyOrder</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIExPRyA9IEtvdGxpbkxvZ2dpbmcubG9nZ2VyIHt9CiAgICB9Cg==</text>
@@ -353,16 +355,16 @@
         <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIExPRyA9IEtvdGxpbkxvZ2dpbmcubG9nZ2VyIHt9CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICAgICAgcHJpdmF0ZSB2YWwgbG9nZ2VyID0gS290bGluTG9nZ2luZy5sb2dnZXIge30KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIExPRyA9IEtvdGxpbkxvZ2dpbmcubG9nZ2VyIHt9CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIGxvZ2dlciA9IEtvdGxpbkxvZ2dpbmcubG9nZ2VyIHt9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICAgICAgcHJpdmF0ZSB2YWwgbG9nZ2VyID0gS290bGluTG9nZ2luZy5sb2dnZXIge30KICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICAgICAgcHJpdmF0ZSB2YWwgTE9HID0gS290bGluTG9nZ2luZy5sb2dnZXIge30KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIGxvZ2dlciA9IEtvdGxpbkxvZ2dpbmcubG9nZ2VyIHt9CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIExPRyA9IEtvdGxpbkxvZ2dpbmcubG9nZ2VyIHt9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICAgICAgcHJpdmF0ZSB2YWwgTE9HID0gS290bGluTG9nZ2luZy5sb2dnZXIge30KICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIExPRyA9IEtvdGxpbkxvZ2dpbmcubG9nZ2VyIHt9CiAgICB9Cg==</text>
@@ -372,9 +374,9 @@
       </register>
     </registers>
     <search>
-      <last-search>LOG</last-search>
+      <last-search>No</last-search>
       <last-offset />
-      <last-pattern>LOG</last-pattern>
+      <last-pattern>No</last-pattern>
       <last-replace>logger</last-replace>
       <last-substitute>LOG</last-substitute>
       <last-dir>1</last-dir>
@@ -382,8 +384,6 @@
     </search>
     <history>
       <history-search>
-        <entry>st</entry>
-        <entry>Pa</entry>
         <entry>pa</entry>
         <entry>T</entry>
         <entry>Ti</entry>
@@ -394,7 +394,6 @@
         <entry>&quot;</entry>
         <entry>te</entry>
         <entry>,</entry>
-        <entry>(</entry>
         <entry>}</entry>
         <entry>)</entry>
         <entry>compani</entry>
@@ -402,6 +401,9 @@
         <entry>compan</entry>
         <entry>logger</entry>
         <entry>LOG</entry>
+        <entry>Has</entry>
+        <entry>(</entry>
+        <entry>No</entry>
       </history-search>
       <history-cmd>
         <entry>tr</entry>
