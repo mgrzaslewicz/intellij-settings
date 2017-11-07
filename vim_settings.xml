@@ -73,6 +73,9 @@
         <mark key="." line="202" column="144" />
         <mark key="^" line="202" column="144" />
       </file>
+      <file name="/fragment.kt" timestamp="1510093144713">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/TradingParameters.kt" timestamp="1510091552762">
         <mark key="'" line="69" column="86" />
         <mark key="i" line="98" column="0" />
@@ -81,24 +84,23 @@
         <mark key="." line="46" column="111" />
         <mark key="^" line="46" column="111" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" timestamp="1509955853970">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" timestamp="1510093012547">
         <mark key="'" line="157" column="0" />
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="216" column="3" />
-        <mark key="^" line="216" column="3" />
-        <mark key="." line="216" column="3" />
+        <mark key="[" line="209" column="39" />
+        <mark key="]" line="220" column="3" />
+        <mark key="^" line="220" column="3" />
+        <mark key="." line="220" column="3" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application.yml" timestamp="1509922766779">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/MarketListeners.kt" timestamp="1510087915593">
-        <mark key="'" line="52" column="126" />
-        <mark key="[" line="99" column="41" />
-        <mark key="]" line="100" column="61" />
-        <mark key="." line="100" column="61" />
-        <mark key="^" line="100" column="61" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/MarketListeners.kt" timestamp="1510093191327">
+        <mark key="[" line="100" column="130" />
+        <mark key="]" line="100" column="7" />
+        <mark key="." line="100" column="7" />
+        <mark key="^" line="100" column="7" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/FeatureToggle.kt" timestamp="1509956587546">
         <mark key="'" line="23" column="0" />
@@ -129,12 +131,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TickerListenerTest.kt" timestamp="1509956693536">
-        <mark key="'" line="80" column="60" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="80" column="46" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TickerListenerTest.kt" timestamp="1510093163051">
+        <mark key="'" line="88" column="60" />
+        <mark key="[" line="84" column="36" />
+        <mark key="]" line="84" column="89" />
+        <mark key="." line="84" column="89" />
+        <mark key="^" line="84" column="89" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TradingParametersTest.kt" timestamp="1509955688485">
         <mark key="'" line="25" column="0" />
@@ -277,7 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="33" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
       <jump line="74" column="31" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
       <jump line="98" column="0" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
       <jump line="0" column="0" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/pom.xml" />
@@ -377,19 +378,20 @@
       <jump line="43" column="20" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/TradingParameters.kt" />
       <jump line="69" column="86" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/TradingParameters.kt" />
       <jump line="26" column="13" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
+      <jump line="100" column="61" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/MarketListeners.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>findClosedByCurrencyPairAndStrategyName</text>
       </register>
       <register name="/" type="4">
-        <text>M5</text>
+        <text>add</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGluaXRpYWxPcmRlcnNbMV0uY2xvc2VUaW1lKS5pc0VxdWFsVG8oY2xvc2VUaW1lKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgICBAVGVzdAogICAgZnVuIHNob3VsZExvYWRGaWxsZWRPcmRlcnNGcm9tUHJldmlvdXNUcmFkZVdoZW5GaXJzdEdldFRpY2soKSB7CiAgICAgICAgLy8gd2hlbgogICAgICAgIHRpY2tlckxpc3RlbmVyLmdldFRpY2tlckZyb21FeGNoYW5nZSgpCiAgICAgICAgLy8gdGhlbgogICAgICAgIHZlcmlmeShvcmRlcnNGcm9tTGFzdFRyYWRlKS5maW5kQ2xvc2VkQnlDdXJyZW5jeVBhaXJBbmRTdHJhdGVneU5hbWUoY3VycmVuY3lQYWlyLCBzdHJhdGVneU5hbWUpCiAgICAgICAgdmVyaWZ5KHN0cmF0ZWd5RXhlY3V0b3IpLmxvYWRDbG9zZWRPcmRlcnMoYW55TGlzdDxMb2NhbE9yZGVyPigpKQogICAgfQ==</text>
       </register>
       <register name="1" type="4">
         <text>= initialOrder!![&quot;buyAmount&quot;]!!</text>
@@ -423,17 +425,16 @@
       </register>
     </registers>
     <search>
-      <last-search>M5</last-search>
+      <last-search>add</last-search>
       <last-offset />
-      <last-pattern>M5</last-pattern>
+      <last-pattern>add</last-pattern>
       <last-replace />
       <last-substitute>s[1]</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Pg==</entry>
         <entry>e</entry>
         <entry>5</entry>
         <entry>LocalOrder</entry>
@@ -453,6 +454,7 @@
         <entry>=</entry>
         <entry>amo</entry>
         <entry>M5</entry>
+        <entry>add</entry>
       </history-search>
       <history-cmd>
         <entry>tr</entry>
