@@ -54,11 +54,11 @@
         <mark key="]" line="105" column="10" />
         <mark key="." line="105" column="10" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/InvestStrategy.kt" timestamp="1510005658851">
-        <mark key="[" line="21" column="88" />
-        <mark key="]" line="135" column="56" />
-        <mark key="." line="135" column="56" />
-        <mark key="^" line="135" column="56" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/InvestStrategy.kt" timestamp="1510085580571">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="25" column="17" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" timestamp="1509955853970">
         <mark key="'" line="157" column="0" />
@@ -72,12 +72,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/MarketListeners.kt" timestamp="1510005566062">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/MarketListeners.kt" timestamp="1510085411339">
         <mark key="'" line="52" column="126" />
-        <mark key="[" line="100" column="30" />
-        <mark key="]" line="100" column="29" />
-        <mark key="." line="100" column="29" />
-        <mark key="^" line="100" column="29" />
+        <mark key="[" line="100" column="129" />
+        <mark key="]" line="103" column="4" />
+        <mark key="." line="103" column="4" />
+        <mark key="^" line="103" column="4" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/FeatureToggle.kt" timestamp="1509956587546">
         <mark key="'" line="23" column="0" />
@@ -361,19 +361,19 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRpb25zLmFzc2VydFRoYXQoaW5pdGlhbFRyYWlsaW5nU3RvcE9yZGVyc1Byb3ZpZGVkQnlJbnZlc3RvclswXS5jdXJyZW5jeVBhaXIoKSkuaXNFcXVhbFRvKEN1cnJlbmN5UGFpcihDdXJyZW5jeSgiTFNLIiksIEN1cnJlbmN5LkJUQykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBpbml0aWFsT3JkZXJzKCk6IExpc3Q8TG9jYWxPcmRlcj4K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>HasNoOrdersAndSavingBuyOrder</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIExPRyA9IEtvdGxpbkxvZ2dpbmcubG9nZ2VyIHt9CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIExPRyA9IEtvdGxpbkxvZ2dpbmcubG9nZ2VyIHt9CiAgICB9Cg==</text>
@@ -385,7 +385,7 @@
         <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIExPRyA9IEtvdGxpbkxvZ2dpbmcubG9nZ2VyIHt9CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICAgICAgcHJpdmF0ZSB2YWwgbG9nZ2VyID0gS290bGluTG9nZ2luZy5sb2dnZXIge30KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIExPRyA9IEtvdGxpbkxvZ2dpbmcubG9nZ2VyIHt9CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -444,10 +444,10 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -456,13 +456,13 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
