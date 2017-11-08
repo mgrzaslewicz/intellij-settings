@@ -104,12 +104,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" timestamp="1510095064273">
-        <mark key="'" line="406" column="4" />
-        <mark key="[" line="160" column="36" />
-        <mark key="]" line="160" column="42" />
-        <mark key="." line="160" column="42" />
-        <mark key="^" line="160" column="42" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" timestamp="1510131479214">
+        <mark key="'" line="408" column="57" />
+        <mark key="[" line="409" column="57" />
+        <mark key="]" line="409" column="69" />
+        <mark key="." line="409" column="69" />
+        <mark key="^" line="409" column="69" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorProfitTest.kt" timestamp="1509956751781">
         <mark key="'" line="151" column="124" />
@@ -177,7 +177,7 @@
         <mark key="^" line="250" column="84" />
         <mark key="." line="250" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510091795877">
+      <file name="/Dummy.txt" timestamp="1510131334800">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-exit-with-trailing-stop.yml" timestamp="1509919617987">
@@ -245,7 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="42" filename="C:/tmp/ta4k-autocoin/pom.xml" />
       <jump line="140" column="9" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" />
       <jump line="5" column="6" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersMerger.kt" />
       <jump line="6" column="47" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersMerger.kt" />
@@ -339,22 +338,23 @@
       <jump line="26" column="13" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
       <jump line="100" column="61" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/MarketListeners.kt" />
       <jump line="106" column="96" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
-      <jump line="407" column="121" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
       <jump line="112" column="47" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
       <jump line="119" column="98" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
       <jump line="406" column="4" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
       <jump line="84" column="70" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TickerListenerTest.kt" />
       <jump line="28" column="16" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
+      <jump line="407" column="20" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
+      <jump line="408" column="57" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3BlbiA=</text>
+        <text>tradingParameters.getInitialOrders()</text>
       </register>
       <register name="/" type="4">
-        <text>M6</text>
+        <text>)</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CiAgICBAVGVzdAogICAgZnVuIHNob3VsZExvYWRGaWxsZWRPcmRlcnNGcm9tUHJldmlvdXNUcmFkZVdoZW5GaXJzdEdldFRpY2soKSB7CiAgICAgICAgLy8gd2hlbgogICAgICAgIHRpY2tlckxpc3RlbmVyLmdldFRpY2tlckZyb21FeGNoYW5nZSgpCiAgICAgICAgLy8gdGhlbgogICAgICAgIHZlcmlmeShvcmRlcnNGcm9tTGFzdFRyYWRlKS5maW5kQ2xvc2VkQnlDdXJyZW5jeVBhaXJBbmRTdHJhdGVneU5hbWUoY3VycmVuY3lQYWlyLCBzdHJhdGVneU5hbWUpCiAgICAgICAgdmVyaWZ5KHN0cmF0ZWd5RXhlY3V0b3IpLmxvYWRDbG9zZWRPcmRlcnMoYW55TGlzdDxMb2NhbE9yZGVyPigpKQogICAgfQ==</text>
@@ -391,9 +391,9 @@
       </register>
     </registers>
     <search>
-      <last-search>M6</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern>M6</last-pattern>
+      <last-pattern>)</last-pattern>
       <last-replace />
       <last-substitute>s[1]</last-substitute>
       <last-dir>1</last-dir>
@@ -401,7 +401,6 @@
     </search>
     <history>
       <history-search>
-        <entry>p</entry>
         <entry>Ore</entry>
         <entry>para</entry>
         <entry>S</entry>
@@ -417,10 +416,11 @@
         <entry>amo</entry>
         <entry>M5</entry>
         <entry>add</entry>
-        <entry>)</entry>
         <entry>currencyPair</entry>
         <entry>O</entry>
         <entry>M6</entry>
+        <entry>(</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
         <entry>tr</entry>
