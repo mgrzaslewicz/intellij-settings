@@ -104,12 +104,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" timestamp="1510131479214">
-        <mark key="'" line="408" column="57" />
-        <mark key="[" line="409" column="57" />
-        <mark key="]" line="409" column="69" />
-        <mark key="." line="409" column="69" />
-        <mark key="^" line="409" column="69" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" timestamp="1510172758324">
+        <mark key="'" line="408" column="28" />
+        <mark key="[" line="163" column="7" />
+        <mark key="]" line="163" column="6" />
+        <mark key="." line="163" column="6" />
+        <mark key="^" line="163" column="6" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorProfitTest.kt" timestamp="1509956751781">
         <mark key="'" line="151" column="124" />
@@ -187,6 +187,12 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="E:/prj/autocoin-ticker-service/src/main/kotlin/automate/profit/autocoin/ticker/TickerRepository.kt" timestamp="1510172820622">
+        <mark key="[" line="34" column="48" />
+        <mark key="]" line="34" column="54" />
+        <mark key="^" line="34" column="54" />
+        <mark key="." line="34" column="54" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" timestamp="1509956066213">
         <mark key="'" line="47" column="30" />
         <mark key="[" line="47" column="2" />
@@ -245,8 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="9" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" />
-      <jump line="5" column="6" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersMerger.kt" />
       <jump line="6" column="47" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersMerger.kt" />
       <jump line="7" column="8" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersMerger.kt" />
       <jump line="42" column="53" filename="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/RestTickerService.kt" />
@@ -344,56 +348,61 @@
       <jump line="84" column="70" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TickerListenerTest.kt" />
       <jump line="28" column="16" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
       <jump line="407" column="20" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
-      <jump line="408" column="57" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
+      <jump line="389" column="37" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
+      <jump line="408" column="28" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
+      <jump line="108" column="49" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>tradingParameters.getInitialOrders()</text>
+        <text>&quot;Added initial entry order ${order.exchangeId} to trading record at index $index&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>ini</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CiAgICBAVGVzdAogICAgZnVuIHNob3VsZExvYWRGaWxsZWRPcmRlcnNGcm9tUHJldmlvdXNUcmFkZVdoZW5GaXJzdEdldFRpY2soKSB7CiAgICAgICAgLy8gd2hlbgogICAgICAgIHRpY2tlckxpc3RlbmVyLmdldFRpY2tlckZyb21FeGNoYW5nZSgpCiAgICAgICAgLy8gdGhlbgogICAgICAgIHZlcmlmeShvcmRlcnNGcm9tTGFzdFRyYWRlKS5maW5kQ2xvc2VkQnlDdXJyZW5jeVBhaXJBbmRTdHJhdGVneU5hbWUoY3VycmVuY3lQYWlyLCBzdHJhdGVneU5hbWUpCiAgICAgICAgdmVyaWZ5KHN0cmF0ZWd5RXhlY3V0b3IpLmxvYWRDbG9zZWRPcmRlcnMoYW55TGlzdDxMb2NhbE9yZGVyPigpKQogICAgfQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBsb2NhbE9yZGVyU2VydmljZTogTG9jYWxPcmRlclNlcnZpY2UK</text>
+      <register name="1" type="4">
+        <text encoding="base64">KQogICAgICAgIGlmIChpbmRleCA8IHRpbWVTZXJpZXMudGlja0NvdW50KSB7CiAgICAgICAgICAgIC8vIFRPRE8gT25seSB0cmFkZXMgc3RhcnRpbmcgd2l0aCBCVVkgYXJlIGhhbmRsZWQgdGhpcyB3YXksIHJldmVyc2UgbWlnaHQgYmUgbmVlZGVkIGluIGZ1dHVyZQogICAgICAgICAgICBpZiAob3JkZXIuaXNCdXkpIHsKICAgICAgICAgICAgICAgIHRyYWRpbmdSZWNvcmQuZW50ZXIoaW5kZXgsIG9yZGVyLnByaWNlLnRvVGE0akRlY2ltYWwoKSwgb3JkZXIuYW1vdW50LnRvVGE0akRlY2ltYWwoKSkKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJBZGRlZCBpbml0aWFsIGVudHJ5IG9yZGVyICR7b3JkZXIuZXhjaGFuZ2VJZH0gdG8gdHJhZGluZyByZWNvcmQgYXQgaW5kZXggJGluZGV4IikKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJBZGRlZCBpbml0aWFsIGV4aXQgb3JkZXIgJHtvcmRlci5leGNoYW5nZUlkfSB0byB0cmFkaW5nIHJlY29yZCBhdCBpbmRleCAkaW5kZXgiKQogICAgICAgICAgICAgICAgdHJhZGluZ1JlY29yZC5leGl0KGluZGV4LCBvcmRlci5wcmljZS50b1RhNGpEZWNpbWFsKCksIG9yZGVyLmFtb3VudC50b1RhNGpEZWNpbWFsKCkpCiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgbG9nZ2VyLndhcm4oIkNvdWxkIG5vdCBhZGQgJG9yZGVyLCBpbmRleCBleGNlZWRzIHRpY2tzIGNvdW50IikKICAgIH0=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBsb2NhbE9yZGVyU2VydmljZTogTG9jYWxPcmRlclNlcnZpY2UK</text>
+      <register name="2" type="4">
+        <text encoding="base64">KQogICAgICAgIGlmIChpbmRleCA8IHRpbWVTZXJpZXMudGlja0NvdW50KSB7CiAgICAgICAgICAgIC8vIFRPRE8gT25seSB0cmFkZXMgc3RhcnRpbmcgd2l0aCBCVVkgYXJlIGhhbmRsZWQgdGhpcyB3YXksIHJldmVyc2UgbWlnaHQgYmUgbmVlZGVkIGluIGZ1dHVyZQogICAgICAgICAgICBpZiAob3JkZXIuaXNCdXkpIHsKICAgICAgICAgICAgICAgIHRyYWRpbmdSZWNvcmQuZW50ZXIoaW5kZXgsIG9yZGVyLnByaWNlLnRvVGE0akRlY2ltYWwoKSwgb3JkZXIuYW1vdW50LnRvVGE0akRlY2ltYWwoKSkKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJBZGRlZCBpbml0aWFsIGVudHJ5IG9yZGVyICR7b3JkZXIuZXhjaGFuZ2VJZH0gdG8gdHJhZGluZyByZWNvcmQgYXQgaW5kZXggJGluZGV4IikKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJBZGRlZCBpbml0aWFsIGV4aXQgb3JkZXIgJHtvcmRlci5leGNoYW5nZUlkfSB0byB0cmFkaW5nIHJlY29yZCBhdCBpbmRleCAkaW5kZXgiKQogICAgICAgICAgICAgICAgdHJhZGluZ1JlY29yZC5leGl0KGluZGV4LCBvcmRlci5wcmljZS50b1RhNGpEZWNpbWFsKCksIG9yZGVyLmFtb3VudC50b1RhNGpEZWNpbWFsKCkpCiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgbG9nZ2VyLndhcm4oIkNvdWxkIG5vdCBhZGQgJG9yZGVyLCBpbmRleCBleGNlZWRzIHRpY2tzIGNvdW50IikKICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgcHJpdmF0ZSB2YWwgbG9jYWxPcmRlclNlcnZpY2U6IExvY2FsT3JkZXJTZXJ2aWNlLAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGNhbGN1bGF0ZVJ1bGVzQmVmb3JlRnJlc2hUaWNrcygpIHsgLy8gaW4gY2FzZSBydWxlcyBuZWVkIHByZXZpb3VzIGNhbGN1bGF0aW9ucyB3aGVuIGZyZXNoIHRpY2tlciBmcm9tIGV4Y2hhbmdlIGNvbWVzCiAgICAgICAgc3RyYXRlZ3kuc2hvdWxkRW50ZXIodGltZVNlcmllcy5lbmRJbmRleCwgdHJhZGluZ1JlY29yZCkKICAgICAgICBzdHJhdGVneS5zaG91bGRFeGl0KHRpbWVTZXJpZXMuZW5kSW5kZXgsIHRyYWRpbmdSZWNvcmQpCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0KfQo=</text>
+        <text encoding="base64">cHJpdmF0ZSBmdW4gY2FsY3VsYXRlUnVsZXNCZWZvcmVGcmVzaFRpY2tzKCkgeyAvLyBpbiBjYXNlIHJ1bGVzIG5lZWQgcHJldmlvdXMgY2FsY3VsYXRpb25zIHdoZW4gZnJlc2ggdGlja2VyIGZyb20gZXhjaGFuZ2UgY29tZXMKICAgICAgICBzdHJhdGVneS5zaG91bGRFbnRlcih0aW1lU2VyaWVzLmVuZEluZGV4LCB0cmFkaW5nUmVjb3JkKQogICAgICAgIHN0cmF0ZWd5LnNob3VsZEV4aXQodGltZVNlcmllcy5lbmRJbmRleCwgdHJhZGluZ1JlY29yZCkKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGNhbGN1bGF0ZVJ1bGVzQmVmb3JlRnJlc2hUaWNrcygpIHsgLy8gaW4gY2FzZSBydWxlcyBuZWVkIHByZXZpb3VzIGNhbGN1bGF0aW9ucyB3aGVuIGZyZXNoIHRpY2tlciBmcm9tIGV4Y2hhbmdlIGNvbWVzCiAgICAgICAgc3RyYXRlZ3kuc2hvdWxkRW50ZXIodGltZVNlcmllcy5lbmRJbmRleCwgdHJhZGluZ1JlY29yZCkKICAgICAgICBzdHJhdGVneS5zaG91bGRFeGl0KHRpbWVTZXJpZXMuZW5kSW5kZXgsIHRyYWRpbmdSZWNvcmQpCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpdmF0ZSBmdW4gY2FsY3VsYXRlUnVsZXNCZWZvcmVGcmVzaFRpY2tzKCkgeyAvLyBpbiBjYXNlIHJ1bGVzIG5lZWQgcHJldmlvdXMgY2FsY3VsYXRpb25zIHdoZW4gZnJlc2ggdGlja2VyIGZyb20gZXhjaGFuZ2UgY29tZXMKICAgICAgICBzdHJhdGVneS5zaG91bGRFbnRlcih0aW1lU2VyaWVzLmVuZEluZGV4LCB0cmFkaW5nUmVjb3JkKQogICAgICAgIHN0cmF0ZWd5LnNob3VsZEV4aXQodGltZVNlcmllcy5lbmRJbmRleCwgdHJhZGluZ1JlY29yZCkKICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text>= initialOrder!![&quot;buyAmount&quot;]!!</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGNhbGN1bGF0ZVJ1bGVzQmVmb3JlRnJlc2hUaWNrcygpIHsgLy8gaW4gY2FzZSBydWxlcyBuZWVkIHByZXZpb3VzIGNhbGN1bGF0aW9ucyB3aGVuIGZyZXNoIHRpY2tlciBmcm9tIGV4Y2hhbmdlIGNvbWVzCiAgICAgICAgc3RyYXRlZ3kuc2hvdWxkRW50ZXIodGltZVNlcmllcy5lbmRJbmRleCwgdHJhZGluZ1JlY29yZCkKICAgICAgICBzdHJhdGVneS5zaG91bGRFeGl0KHRpbWVTZXJpZXMuZW5kSW5kZXgsIHRyYWRpbmdSZWNvcmQpCiAgICB9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>private fun calculateRulesBeforeFreshTicks() { // in case rules need previous calculations when fresh ticker from exchange comes
+        strategy.shouldEnter(timeSeries.endIndex, tradingRecord)
+        strategy.shouldExit(timeSeries.endIndex, tradingRecord)
+    }</text>
       </register>
-      <register name="9" type="4">
-        <text>.08.2017</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHZhbCBsb2NhbE9yZGVyU2VydmljZTogTG9jYWxPcmRlclNlcnZpY2UK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/s[1]//g</text>
+        <text encoding="base64">aW1hcCBraiA8RXNjPg==</text>
       </register>
     </registers>
     <search>
-      <last-search>)</last-search>
+      <last-search>ini</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>ini</last-pattern>
       <last-replace />
       <last-substitute>s[1]</last-substitute>
       <last-dir>1</last-dir>
@@ -401,8 +410,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Ore</entry>
-        <entry>para</entry>
         <entry>S</entry>
         <entry>pr</entry>
         <entry>a</entry>
@@ -421,6 +428,8 @@
         <entry>M6</entry>
         <entry>(</entry>
         <entry>)</entry>
+        <entry>Adding ini</entry>
+        <entry>ini</entry>
       </history-search>
       <history-cmd>
         <entry>tr</entry>
@@ -433,6 +442,9 @@
         <entry>set relativenumber</entry>
         <entry>q</entry>
         <entry>%s/s[1]//g</entry>
+        <entry>h text-objects</entry>
+        <entry encoding="base64">aW1hcCBqaiA8RXNjPg==</entry>
+        <entry encoding="base64">aW1hcCBraiA8RXNjPg==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -468,7 +480,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
