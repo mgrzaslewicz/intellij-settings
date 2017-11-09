@@ -145,12 +145,12 @@
         <mark key="^" line="47" column="60" />
         <mark key="." line="47" column="16" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" timestamp="1510214194277">
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" timestamp="1510258361498">
         <mark key="'" line="51" column="34" />
-        <mark key="[" line="51" column="51" />
-        <mark key="]" line="51" column="60" />
-        <mark key="." line="51" column="60" />
-        <mark key="^" line="51" column="60" />
+        <mark key="[" line="86" column="5" />
+        <mark key="]" line="84" column="10" />
+        <mark key="." line="84" column="10" />
+        <mark key="^" line="84" column="10" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyParametersMergerTest.kt" timestamp="1510090462673">
         <mark key="'" line="16" column="55" />
@@ -365,7 +365,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>HaveNoIndexInHistoricalTickers</text>
       </register>
       <register name="/" type="4">
         <text>sho</text>
