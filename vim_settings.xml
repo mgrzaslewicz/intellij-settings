@@ -108,8 +108,8 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" timestamp="1510179547365">
-        <mark key="'" line="158" column="56" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" timestamp="1510217859199">
+        <mark key="'" line="47" column="8" />
         <mark key="[" line="153" column="36" />
         <mark key="]" line="161" column="86" />
         <mark key="." line="410" column="73" />
@@ -259,9 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="450" column="4" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
-      <jump line="216" column="8" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" />
-      <jump line="38" column="43" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" />
       <jump line="96" column="8" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" />
       <jump line="97" column="8" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" />
       <jump line="17" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/AutoCoinTradeService.kt" />
@@ -359,6 +356,9 @@
       <jump line="248" column="62" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="255" column="62" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="120" column="0" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/EnterWhenDroppingExitWithTrailingStopStrategyTest.kt" />
+      <jump line="534" column="62" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
+      <jump line="47" column="8" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -368,7 +368,7 @@
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>id</text>
+        <text>addIni</text>
       </register>
       <register name="0" type="4">
         <text>exchangeId: String, strategyName: String</text>
@@ -405,9 +405,9 @@
       </register>
     </registers>
     <search>
-      <last-search>id</last-search>
+      <last-search>addIni</last-search>
       <last-offset />
-      <last-pattern>id</last-pattern>
+      <last-pattern>addIni</last-pattern>
       <last-replace>Order!!.</last-replace>
       <last-substitute>Order.</last-substitute>
       <last-dir>1</last-dir>
@@ -427,7 +427,6 @@
         <entry encoding="base64">PA==</entry>
         <entry>No</entry>
         <entry>s</entry>
-        <entry>addIni</entry>
         <entry>St</entry>
         <entry>L</entry>
         <entry>en</entry>
@@ -435,6 +434,7 @@
         <entry>An</entry>
         <entry>th</entry>
         <entry>id</entry>
+        <entry>addIni</entry>
       </history-search>
       <history-cmd>
         <entry>tr</entry>
