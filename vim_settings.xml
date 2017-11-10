@@ -108,12 +108,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" timestamp="1510217859199">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" timestamp="1510305858683">
         <mark key="'" line="47" column="8" />
-        <mark key="[" line="153" column="36" />
-        <mark key="]" line="161" column="86" />
-        <mark key="." line="410" column="73" />
-        <mark key="^" line="410" column="73" />
+        <mark key="[" line="413" column="354" />
+        <mark key="]" line="413" column="56" />
+        <mark key="." line="413" column="56" />
+        <mark key="^" line="413" column="56" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorProfitTest.kt" timestamp="1509956751781">
         <mark key="'" line="151" column="124" />
@@ -145,12 +145,12 @@
         <mark key="^" line="47" column="60" />
         <mark key="." line="47" column="16" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" timestamp="1510258361498">
-        <mark key="'" line="52" column="34" />
-        <mark key="[" line="93" column="5" />
-        <mark key="]" line="85" column="10" />
-        <mark key="." line="85" column="10" />
-        <mark key="^" line="85" column="10" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" timestamp="1510304516518">
+        <mark key="'" line="56" column="34" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="7" />
+        <mark key="." line="90" column="7" />
+        <mark key="^" line="90" column="7" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyParametersMergerTest.kt" timestamp="1510090462673">
         <mark key="'" line="16" column="55" />
@@ -365,13 +365,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>HaveNoIndexInHistoricalTickers</text>
+        <text>close</text>
       </register>
       <register name="/" type="4">
         <text>sho</text>
       </register>
       <register name="0" type="4">
-        <text>exchangeId: String, strategyName: String</text>
+        <text>initialOrder.price)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5rbm93bS54Y2hhbmdlLmR0by5PcmRlcgo=</text>
