@@ -170,12 +170,12 @@
         <mark key="^" line="46" column="325" />
         <mark key="." line="46" column="325" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/InitialStrategyExecutorStateLoaderTest.kt" timestamp="1510319709158">
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/InitialStrategyExecutorStateLoaderTest.kt" timestamp="1510320381898">
         <mark key="'" line="104" column="23" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
-        <mark key="^" line="131" column="43" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="126" column="81" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TickAggregatorTest.kt" timestamp="1509956710681">
         <mark key="[" line="22" column="0" />
@@ -237,7 +237,7 @@
         <mark key="^" line="287" column="33" />
         <mark key="." line="265" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510317021674">
+      <file name="/Dummy.txt" timestamp="1510320440905">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-exit-with-trailing-stop.yml" timestamp="1509919617987">
@@ -427,7 +427,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>historicalTickers.size + 1</text>
+        <text>timeBeforeFirstHistoricalTicker</text>
       </register>
       <register name="/" type="4">
         <text>.</text>
@@ -436,31 +436,31 @@
         <text>firstOrder.price</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgdGltZUJlZm9yZUZpcnN0SGlzdG9yaWNhbFRpY2tlciA9IGN1cnJlbnRUaW1lLm1pbnVzRGF5cygyKQogICAgICAgIHZhbCBhbW91bnQgPSA1LjAudG9CaWdEZWNpbWFsOCgpCiAgICAgICAgdmFsIHByaWNlID0gMC4wMDMudG9CaWdEZWNpbWFsOCgpCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IGFzc2VydFRoYXQoZmlyc3RWYWx1ZVswXS5jdXJyZW5jeVBhaXIpLmlzRXF1YWxUbyhjdXJyZW5jeVBhaXIpCiAgICAgICAgICAgIGFzc2VydFRoYXQoZmlyc3RWYWx1ZVswXS5hc2spLmlzRXF1YWxUbyhwcmljZSkKICAgICAgICAgICAgYXNzZXJ0VGhhdChmaXJzdFZhbHVlWzBdLmJpZCkuaXNFcXVhbFRvKHByaWNlKQogICAgICAgICAgICBhc3NlcnRUaGF0KGZpcnN0VmFsdWVbMF0ubG93KS5pc0VxdWFsVG8ocHJpY2UpCiAgICAgICAgICAgIGFzc2VydFRoYXQoZmlyc3RWYWx1ZVswXS5oaWdoKS5pc0VxdWFsVG8ocHJpY2UpCiAgICAgICAgICAgIGFzc2VydFRoYXQoZmlyc3RWYWx1ZVswXS50aW1lc3RhbXApLmlzRXF1YWxUbyh0aW1lQmVmb3JlRmlyc3RIaXN0b3JpY2FsVGlja2VyLnRvRGF0ZSgpKQogICAgICAgICAgICBhc3NlcnRUaGF0KGZpcnN0VmFsdWVbMF0udm9sdW1lKS5pc051bGwoKQogICAgICAgICAgICBhc3NlcnRUaGF0KGZpcnN0VmFsdWVbMF0udndhcCkuaXNOdWxsKCk=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudndhcChEZWNpbWFsLk5hTikK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudm9sdW1lKERlY2ltYWwuTmFOKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB2YWwgdGlja2VyVG9BZGQgPSBUaWNrZXIuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgICAuYXNrKGZpcnN0T3JkZXIucHJpY2UpCiAgICAgICAgICAgICAgICAgICAgICAuYmlkKGZpcnN0T3JkZXIucHJpY2UpCiAgICAgICAgICAgICAgICAgICAgICAuY3VycmVuY3lQYWlyKGZpcnN0T3JkZXIuY3VycmVuY3lQYWlyKCkpCiAgICAgICAgICAgICAgICAgICAgICAubG93KGZpcnN0T3JkZXIucHJpY2UpCiAgICAgICAgICAgICAgICAgICAgICAuaGlnaChmaXJzdE9yZGVyLnByaWNlKQogICAgICAgICAgICAgICAgICAgICAgLnRpbWVzdGFtcChmaXJzdE9yZGVyLm9wZW5UaW1lLnRvRGF0ZSgpKQogICAgICAgICAgICAgICAgICAgICAgLnZvbHVtZShEZWNpbWFsLk5hTikKICAgICAgICAgICAgICAgICAgICAgIC52d2FwKERlY2ltYWwuTmFOKQogICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC5iaWQoKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gICAgQENhcHRvcgovLyAgICBsYXRlaW5pdCBwcml2YXRlIHZhciBoaXN0b3JpY2FsVGlja2Vyc1VzZWQ6IEFyZ3VtZW50Q2FwdG9yPExpc3Q8VGlja2VyPj4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnVuIExvY2FsRGF0ZVRpbWUudG9EYXRlKCkgPSBEYXRlLmZyb20odGhpcy50b0luc3RhbnQoKSkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoTGlzdDxUaWNrZXI+OjpjbGFzcy5qYXZhKQo=</text>
+        <text encoding="base64">ZnVuIExvY2FsRGF0ZVRpbWUudG9EYXRlKCkgPSBEYXRlLmZyb20odGhpcy50b0luc3RhbnQoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/historicalTickersUsed/firstValue/g</text>
