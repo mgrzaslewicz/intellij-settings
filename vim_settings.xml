@@ -94,13 +94,13 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/MarketListeners.kt" timestamp="1510608065975">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="32" column="78" />
-        <mark key="." line="32" column="78" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/MarketListeners.kt" timestamp="1510613893208">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
         <mark key="^" line="32" column="78" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/status/StartedListeningCurrencyPairNotifier.kt" timestamp="1510611751584">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/status/StartedListeningCurrencyPairNotifier.kt" timestamp="1510613770871">
         <mark key="'" line="12" column="29" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -141,6 +141,11 @@
         <mark key="^" line="41" column="35" />
         <mark key="." line="41" column="35" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-initial-order-in-parameters.yml" timestamp="1510323981317">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" timestamp="1510525746010">
         <mark key="[" line="46" column="326" />
         <mark key="]" line="46" column="346" />
@@ -174,6 +179,11 @@
         <mark key="]" line="43" column="20" />
         <mark key="." line="43" column="20" />
         <mark key="^" line="43" column="20" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" timestamp="1509955647374">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" timestamp="1509833553057">
         <mark key="[" line="85" column="2" />
@@ -217,8 +227,10 @@
         <mark key="^" line="11" column="37" />
         <mark key="." line="11" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510609280474">
+      <file name="/Dummy.txt" timestamp="1510613959515">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-exit-with-trailing-stop.yml" timestamp="1509919617987">
         <mark key="'" line="7" column="0" />
@@ -266,6 +278,11 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/resources/logback.xml" timestamp="1510518798205">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="/logback-spring.xml" timestamp="1510519356187" />
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ExchangeKeys.kt" timestamp="1510525029509">
         <mark key="[" line="6" column="44" />
@@ -286,11 +303,11 @@
         <mark key="." line="69" column="47" />
         <mark key="^" line="69" column="47" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/status/StatusController.kt" timestamp="1510609208319">
-        <mark key="[" line="14" column="28" />
-        <mark key="]" line="15" column="37" />
-        <mark key="^" line="15" column="37" />
-        <mark key="." line="15" column="37" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/status/StatusController.kt" timestamp="1510613907740">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="28" column="35" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1510526680240">
         <mark key="[" line="0" column="0" />
@@ -403,7 +420,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>lo</text>
@@ -411,32 +428,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBOb3RFbXB0eQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBEZXNrdG9wLmdldERlc2t0b3AoKS5icm93c2UoVVJJKHVybCkpCiAgICAgICAgaWYgKERlc2t0b3AuaXNEZXNrdG9wU3VwcG9ydGVkKCkpIHsKLy8gICAgICAgICAgICBpZiAoRGVza3RvcC5nZXREZXNrdG9wKCkuaXNTdXBwb3J0ZWQoRGVza3RvcC5BY3Rpb24uQlJPV1NFKSkgewogICAgICAgICAgICB2YWwgZGVza3RvcCA9IERlc2t0b3AuZ2V0RGVza3RvcCgpCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBkZXNrdG9wLmJyb3dzZShVUkkodXJsKSk=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Tm90aWZ5IHdoZW4gc3RhcnRlZCBsaXN0ZW5pbmcgZm9yIGN1cnJlbmN5IHBhaXJzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoRGVza3RvcC5nZXREZXNrdG9wKCkuaXNTdXBwb3J0ZWQoRGVza3RvcC5BY3Rpb24uQlJPV1NFKSkgewo=</text>
+        <text encoding="base64">aW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi5zdGF0dXMuU3RhcnRlZExpc3RlbmluZ0N1cnJlbmN5UGFpcnNFdmVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkK</text>
+        <text encoding="base64">aW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi5zdGF0dXMuU3RhcnRlZExpc3RlbmluZ0N1cnJlbmN5UGFpcnNFdmVudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIkF1dG9jb2luIHJ1bm5pbmcuIExpc3RlbmluZyBmb3IgY3VycmVuY3kgcGFpcnM6ICIgKyB0cmFkaW5nUGFyYW1ldGVyc0xpc3QubWFwIHsgIiR7aXQuY3VycmVuY3lQYWlyfSIgfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZmlyc3RUaW1lKSB7CiAgICAgICAgICAgIGZpcnN0Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBEZXNrdG9wLmdldERlc2t0b3AoKS5icm93c2UoVVJJKHVybCkpCiAgICAgICAgaWYgKERlc2t0b3AuaXNEZXNrdG9wU3VwcG9ydGVkKCkpIHsKLy8gICAgICAgICAgICBpZiAoRGVza3RvcC5nZXREZXNrdG9wKCkuaXNTdXBwb3J0ZWQoRGVza3RvcC5BY3Rpb24uQlJPV1NFKSkgewogICAgICAgICAgICB2YWwgZGVza3RvcCA9IERlc2t0b3AuZ2V0RGVza3RvcCgpCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBkZXNrdG9wLmJyb3dzZShVUkkodXJsKSk=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoZTogVVJJU3ludGF4RXhjZXB0aW9uKSB7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoRGVza3RvcC5nZXREZXNrdG9wKCkuaXNTdXBwb3J0ZWQoRGVza3RvcC5BY3Rpb24uQlJPV1NFKSkgewo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gQXV0by1nZW5lcmF0ZWQgY2F0Y2ggYmxvY2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
