@@ -30,12 +30,12 @@
         <mark key="." line="90" column="71" />
         <mark key="^" line="90" column="71" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" timestamp="1510526660690">
-        <mark key="'" line="45" column="74" />
-        <mark key="[" line="45" column="73" />
-        <mark key="]" line="45" column="74" />
-        <mark key="." line="45" column="74" />
-        <mark key="^" line="45" column="74" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" timestamp="1510561467380">
+        <mark key="'" line="38" column="41" />
+        <mark key="[" line="38" column="42" />
+        <mark key="]" line="38" column="51" />
+        <mark key="." line="38" column="51" />
+        <mark key="^" line="38" column="51" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersMerger.kt" timestamp="1510088508828">
         <mark key="[" line="7" column="37" />
@@ -189,11 +189,11 @@
         <mark key="." line="5" column="55" />
         <mark key="^" line="5" column="55" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangeKeys.kt" timestamp="1510527268572">
-        <mark key="[" line="6" column="45" />
-        <mark key="]" line="6" column="45" />
-        <mark key="^" line="6" column="74" />
-        <mark key="." line="6" column="45" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangeKeys.kt" timestamp="1510562085530">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="33" />
+        <mark key="^" line="11" column="33" />
+        <mark key="." line="11" column="33" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.0.M6/spring-boot-2.0.0.M6.jar!/org/springframework/boot/logging/logback/defaults.xml" timestamp="1510521258445" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.0.M6/spring-boot-2.0.0.M6.jar!/org/springframework/boot/logging/log4j2/log4j2.xml" timestamp="1510521167777" />
@@ -205,7 +205,7 @@
         <mark key="." line="265" column="49" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.0.M6/spring-boot-2.0.0.M6.jar!/org/springframework/boot/logging/logback/file-appender.xml" timestamp="1510520011213" />
-      <file name="/Dummy.txt" timestamp="1510527008852">
+      <file name="/Dummy.txt" timestamp="1510561899444">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-exit-with-trailing-stop.yml" timestamp="1509919617987">
@@ -242,11 +242,11 @@
         <mark key="." line="70" column="36" />
         <mark key="^" line="70" column="36" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1510527283894">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="39" />
-        <mark key="." line="3" column="0" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1510559592114">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="30" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/resources/logback.xml" timestamp="1510518798205">
         <mark key="[" line="11" column="0" />
@@ -272,7 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="149" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/TradingParameters.kt" />
       <jump line="522" column="16" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
       <jump line="40" column="57" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyParametersMergerTest.kt" />
       <jump line="45" column="42" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyParametersMergerTest.kt" />
@@ -372,55 +371,56 @@
       <jump line="40" column="34" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
       <jump line="43" column="71" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
       <jump line="45" column="74" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
+      <jump line="38" column="41" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text encoding="base64">ID09IG51bGw=</text>
       </register>
       <register name="/" type="4">
-        <text>tradingPa</text>
+        <text>api</text>
       </register>
-      <register name="0" type="4">
-        <text>ExchangeKeys::class</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBOb3RFbXB0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiaXR0cmV4LmFwaTogc2FtcGxlCiAgYml0dHJleC5zZWNyZXQ6IHNhbXBsZQo=</text>
+        <text encoding="base64">ICAgIEBOb3RFbXB0eQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhjaGFuZ2Uua2V5Ogo=</text>
+        <text encoding="base64">ICAgIEBOb3RFbXB0eQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">ICBiaXR0cmV4LmFwaTogc2FtcGxlCiAgYml0dHJleC5zZWNyZXQ6IHNhbXBsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFByb3BlCg==</text>
+        <text encoding="base64">ZXhjaGFuZ2Uua2V5Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJDT05TT0xFX0xPR19QQVRURVJOIiB2YWx1ZT0iJHtDT05TT0xFX0xPR19QQVRURVJOOi0lY2xyKCVkeyR7TE9HX0RBVEVGT1JNQVRfUEFUVEVSTjoteXl5eS1NTS1kZCBISDptbTpzcy5TU1N9fSl7ZmFpbnR9ICVjbHIoJHtMT0dfTEVWRUxfUEFUVEVSTjotJTVwfSkgJWNscigke1BJRDotIH0pe21hZ2VudGF9ICVjbHIoLS0tKXtmYWludH0gJWNscihbJTE1LjE1dF0pe2ZhaW50fSAlY2xyKCUtNDAuNDBsb2dnZXJ7Mzl9KXtjeWFufSAlY2xyKDope2ZhaW50fSAlbSVuJHtMT0dfRVhDRVBUSU9OX0NPTlZFUlNJT05fV09SRDotJXdFeH19Ii8+Cg==</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJMT0dfRVhDRVBUSU9OX0NPTlZFUlNJT05fV09SRCI+JXh3RXg8L3Byb3BlcnR5Pgo=</text>
+        <text encoding="base64">QFByb3BlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxlbmNvZGVyPgogICAgICAgIDxwYXR0ZXJuPiVkYXRle0lTTzg2MDF9ICQtNHJlbGF0aXZlIFsldGhyZWFkXSBXSUQ6JVh7V0lEfSAlLTVsZXZlbCAlbG9nZ2VyezM1fSAtJW1zZyAlbjwvcGF0dGVybj4KICAgIDwvZW5jb2Rlcj4K</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJDT05TT0xFX0xPR19QQVRURVJOIiB2YWx1ZT0iJHtDT05TT0xFX0xPR19QQVRURVJOOi0lY2xyKCVkeyR7TE9HX0RBVEVGT1JNQVRfUEFUVEVSTjoteXl5eS1NTS1kZCBISDptbTpzcy5TU1N9fSl7ZmFpbnR9ICVjbHIoJHtMT0dfTEVWRUxfUEFUVEVSTjotJTVwfSkgJWNscigke1BJRDotIH0pe21hZ2VudGF9ICVjbHIoLS0tKXtmYWludH0gJWNscihbJTE1LjE1dF0pe2ZhaW50fSAlY2xyKCUtNDAuNDBsb2dnZXJ7Mzl9KXtjeWFufSAlY2xyKDope2ZhaW50fSAlbSVuJHtMT0dfRVhDRVBUSU9OX0NPTlZFUlNJT05fV09SRDotJXdFeH19Ii8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxlbmNvZGVyPgogICAgICAgIDxwYXR0ZXJuPiVkYXRle0lTTzg2MDF9ICQtNHJlbGF0aXZlIFsldGhyZWFkXSBXSUQ6JVh7V0lEfSAlLTVsZXZlbCAlbG9nZ2VyezM1fSAtJW1zZyAlbjwvcGF0dGVybj4K</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJMT0dfRVhDRVBUSU9OX0NPTlZFUlNJT05fV09SRCI+JXh3RXg8L3Byb3BlcnR5Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC90aW1lQmFzZWRGaWxlTmFtaW5nQW5kVHJpZ2dlclBvbGljeT4K</text>
+        <text encoding="base64">ICAgIDxlbmNvZGVyPgogICAgICAgIDxwYXR0ZXJuPiVkYXRle0lTTzg2MDF9ICQtNHJlbGF0aXZlIFsldGhyZWFkXSBXSUQ6JVh7V0lEfSAlLTVsZXZlbCAlbG9nZ2VyezM1fSAtJW1zZyAlbjwvcGF0dGVybj4KICAgIDwvZW5jb2Rlcj4K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>tradingPa</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern>tradingPa</last-pattern>
+      <last-pattern>api</last-pattern>
       <last-replace>firstValue</last-replace>
       <last-substitute>historicalTickersUsed</last-substitute>
       <last-dir>1</last-dir>
@@ -446,8 +446,8 @@
         <entry>.</entry>
         <entry>wEx</entry>
         <entry>property</entry>
-        <entry>api</entry>
         <entry>tradingPa</entry>
+        <entry>api</entry>
       </history-search>
       <history-cmd>
         <entry>tr</entry>
