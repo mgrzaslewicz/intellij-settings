@@ -100,12 +100,12 @@
         <mark key="." line="32" column="78" />
         <mark key="^" line="32" column="78" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/status/StartedListeningCurrencyPairNotifier.kt" timestamp="1510610476693">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/status/StartedListeningCurrencyPairNotifier.kt" timestamp="1510611751584">
         <mark key="'" line="12" column="29" />
-        <mark key="[" line="19" column="43" />
-        <mark key="]" line="19" column="43" />
-        <mark key="^" line="19" column="43" />
-        <mark key="." line="19" column="43" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" timestamp="1510606775509">
         <mark key="'" line="410" column="4" />
@@ -411,32 +411,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBOb3RFbXB0eQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICBEZXNrdG9wLmdldERlc2t0b3AoKS5icm93c2UoVVJJKHVybCkpCiAgICAgICAgaWYgKERlc2t0b3AuaXNEZXNrdG9wU3VwcG9ydGVkKCkpIHsKLy8gICAgICAgICAgICBpZiAoRGVza3RvcC5nZXREZXNrdG9wKCkuaXNTdXBwb3J0ZWQoRGVza3RvcC5BY3Rpb24uQlJPV1NFKSkgewogICAgICAgICAgICB2YWwgZGVza3RvcCA9IERlc2t0b3AuZ2V0RGVza3RvcCgpCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBkZXNrdG9wLmJyb3dzZShVUkkodXJsKSk=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoRGVza3RvcC5nZXREZXNrdG9wKCkuaXNTdXBwb3J0ZWQoRGVza3RvcC5BY3Rpb24uQlJPV1NFKSkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZmlyc3RUaW1lKSB7CiAgICAgICAgICAgIGZpcnN0Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoZTogVVJJU3ludGF4RXhjZXB0aW9uKSB7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gQXV0by1nZW5lcmF0ZWQgY2F0Y2ggYmxvY2sK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICB2YWwgcnVudGltZSA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBydW50aW1lLmV4ZWMoInhkZy1vcGVuICIgKyB1cmwpCiAgICAgICAgICAgIH0gY2F0Y2ggKGU6IElPRXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICAvLyBUT0RPIEF1dG8tZ2VuZXJhdGVkIGNhdGNoIGJsb2NrCiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCiAgICAgICAgICAgIH0KCiAgICAgICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZmlyc3RUaW1lKSB7CiAgICAgICAgICAgIGZpcnN0Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoZTogVVJJU3ludGF4RXhjZXB0aW9uKSB7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gQXV0by1nZW5lcmF0ZWQgY2F0Y2ggYmxvY2sK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
