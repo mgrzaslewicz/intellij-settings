@@ -9,6 +9,13 @@
         <mark key="^" line="15" column="30" />
         <mark key="." line="15" column="30" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/script/1-add-exchange-keys.bat" timestamp="1510692854104">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/EnterWhenDroppingExitWithTrailingStopStrategyTest.kt" timestamp="1510525693806">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="47" column="199" />
@@ -61,6 +68,13 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/script/1-add-exchange-keys.sh" timestamp="1510693117338">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+        <mark key="^" line="1" column="23" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/InvestStrategy.kt" timestamp="1510324410671">
         <mark key="'" line="204" column="63" />
@@ -193,7 +207,7 @@
         <mark key="." line="45" column="44" />
         <mark key="^" line="45" column="44" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/script/start-strategy-executor.sh" timestamp="1510690222480">
+      <file name="E:/prj/autocoin-strategy-executor/script/start-strategy-executor.sh" timestamp="1510692746625">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="39" />
         <mark key="^" line="1" column="15" />
@@ -360,11 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="42" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyParametersMergerTest.kt" />
-      <jump line="16" column="55" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyParametersMergerTest.kt" />
-      <jump line="34" column="0" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TradingParametersInitialOrdersTest.kt" />
-      <jump line="43" column="20" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/TradingParameters.kt" />
-      <jump line="69" column="86" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/TradingParameters.kt" />
       <jump line="26" column="13" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
       <jump line="100" column="61" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/MarketListeners.kt" />
       <jump line="106" column="96" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
@@ -460,46 +469,51 @@
       <jump line="38" column="41" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
       <jump line="36" column="42" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
       <jump line="12" column="29" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/status/StartedListeningCurrencyPairNotifier.kt" />
+      <jump line="1" column="0" filename="E:/prj/autocoin-strategy-executor/script/1-add-exchange-keys.bat" />
+      <jump line="7" column="0" filename="E:/prj/autocoin-strategy-executor/script/1-add-exchange-keys.bat" />
+      <jump line="2" column="8" filename="E:/prj/autocoin-strategy-executor/script/1-add-exchange-keys.bat" />
+      <jump line="5" column="0" filename="E:/prj/autocoin-strategy-executor/script/1-add-exchange-keys.bat" />
+      <jump line="7" column="0" filename="E:/prj/autocoin-strategy-executor/script/1-add-exchange-keys.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>lo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">amF2YSAtamFyIGF1dG9jb2luLXN0cmF0ZWd5LWV4ZWN1dG9yLmphcgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">byBleGNoYW5nZS5rZXkuYml0dHJleEFwaT0qID4gJUg=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">amF2YSAtamFyIGF1dG9pbi1zdHJhdGVneS1leGVjdXRvci5qYXIK</text>
+        <text encoding="base64">QGVjaG8gb2ZmCnNldCBLRVlGSUxFPSVIT01FJVxleGNoYW5nZS1rZXlzMi5wcm9wZXJ0aWVzCmlmIG5vdCBleGlzdCAlSE9NRSVcZXhjaGFuZ2Uta2V5cy5wcm9wZXJ0aWVzMiAoCiAgICBlY2hvIGV4Y2hhbmdlLmtleS5iaXR0cmV4QXBpPSogPiAlS0VZRklMRSUKICAgIGVjaG8gZXhjaGFuZ2Uua2V5LmJpdHRyZXhTZWNyZXQ9KiA+PiAlS0VZRklMRSUKKQpub3RlcGFkICVLRVlGSUxFJQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Tm90aWZ5IHdoZW4gc3RhcnRlZCBsaXN0ZW5pbmcgZm9yIGN1cnJlbmN5IHBhaXJzCg==</text>
+        <text encoding="base64">dGltZW91dCAxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi5zdGF0dXMuU3RhcnRlZExpc3RlbmluZ0N1cnJlbmN5UGFpcnNFdmVudAo=</text>
+        <text encoding="base64">ICAgIGVjaG8oID4+ICVIT01FJVxleGNoYW5nZS1rZXlzMi5wcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi5zdGF0dXMuU3RhcnRlZExpc3RlbmluZ0N1cnJlbmN5UGFpcnNFdmVudAo=</text>
+        <text encoding="base64">aWYgbm90IGV4aXN0ICVIT01FJVxleGNoYW5nZS1rZXlzLnByb3BlcnRpZXMyIGVjaG8gImV4Y2hhbmdlLmtleS5iaXR0cmV4QXBpPT9leGNoYW5nZS5rZXkuYml0dHJleFNlY3JldD0iID4gJUhPTUUlXGV4Y2hhbmdlLWtleXMyLnByb3BlcnRpZXMKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
+        <text encoding="base64">bm90ZXBhZCAlSE9NRSVcZXhjaGFuZ2Uta2V5cy5wcm9wZXJ0aWVzMgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIkF1dG9jb2luIHJ1bm5pbmcuIExpc3RlbmluZyBmb3IgY3VycmVuY3kgcGFpcnM6ICIgKyB0cmFkaW5nUGFyYW1ldGVyc0xpc3QubWFwIHsgIiR7aXQuY3VycmVuY3lQYWlyfSIgfQo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBEZXNrdG9wLmdldERlc2t0b3AoKS5icm93c2UoVVJJKHVybCkpCiAgICAgICAgaWYgKERlc2t0b3AuaXNEZXNrdG9wU3VwcG9ydGVkKCkpIHsKLy8gICAgICAgICAgICBpZiAoRGVza3RvcC5nZXREZXNrdG9wKCkuaXNTdXBwb3J0ZWQoRGVza3RvcC5BY3Rpb24uQlJPV1NFKSkgewogICAgICAgICAgICB2YWwgZGVza3RvcCA9IERlc2t0b3AuZ2V0RGVza3RvcCgpCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBkZXNrdG9wLmJyb3dzZShVUkkodXJsKSk=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG1rZGlyICIlVVNFUlBST0ZJTEUlXC5xZ2lzLWN1c3RvbSIgMj5udWwKICAgIGlmIG5vdCBlcnJvcmxldmVsIDEgKAogICAgICAgIHhjb3B5ICIlT1NHRU80V19ST09UJVxxZ2lzY29uZmlnIiAiJVVTRVJQUk9GSUxFJVwucWdpcy1jdXN0b20iIC9zIC92IC9lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoRGVza3RvcC5nZXREZXNrdG9wKCkuaXNTdXBwb3J0ZWQoRGVza3RvcC5BY3Rpb24uQlJPV1NFKSkgewo=</text>
+        <text encoding="base64">amF2YSAtamFyIGF1dG9pbi1zdHJhdGVneS1leGVjdXRvci5qYXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkK</text>
+        <text encoding="base64">Tm90aWZ5IHdoZW4gc3RhcnRlZCBsaXN0ZW5pbmcgZm9yIGN1cnJlbmN5IHBhaXJzCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -602,6 +616,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
