@@ -30,18 +30,18 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="37" column="17" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/SubscriptionServiceTest.kt" timestamp="1510775044604">
+        <mark key="[" line="66" column="39" />
+        <mark key="]" line="66" column="39" />
+        <mark key="." line="66" column="39" />
+        <mark key="^" line="64" column="19" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TestConfig.kt" timestamp="1510323771445">
         <mark key="'" line="88" column="4" />
         <mark key="[" line="90" column="45" />
         <mark key="]" line="90" column="71" />
         <mark key="." line="90" column="71" />
         <mark key="^" line="90" column="71" />
-      </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" timestamp="1510608045938">
-        <mark key="'" line="39" column="42" />
-        <mark key="]" line="41" column="51" />
-        <mark key="." line="41" column="51" />
-        <mark key="^" line="41" column="51" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersMerger.kt" timestamp="1510088508828">
         <mark key="[" line="7" column="37" />
@@ -229,6 +229,12 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="85" column="0" />
         <mark key="^" line="85" column="0" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/subscription/SubscriptionService.kt" timestamp="1510774792759">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="9" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-core/4.2.2/xchange-core-4.2.2-sources.jar!/org/knowm/xchange/dto/marketdata/Ticker.java" timestamp="1510318871674" />
       <file name="E:/prj/autocoin-strategy-executor/script/start-strategy-executor.bat" timestamp="1510690230271">
@@ -480,40 +486,41 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>Arrays.asList</text>
+        <text>&quot;sample key&quot;</text>
       </register>
       <register name="/" type="4">
         <text>lo</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">byBleGNoYW5nZS5rZXkuYml0dHJleEFwaT0qID4gJUg=</text>
+        <text>t = MessageDigest.getInstance(&quot;SHA-256&quot;)
+        val b</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGVjaG8gb2ZmCnNldCBLRVlGSUxFPSVIT01FJVxleGNoYW5nZS1rZXlzMi5wcm9wZXJ0aWVzCmlmIG5vdCBleGlzdCAlSE9NRSVcZXhjaGFuZ2Uta2V5cy5wcm9wZXJ0aWVzMiAoCiAgICBlY2hvIGV4Y2hhbmdlLmtleS5iaXR0cmV4QXBpPSogPiAlS0VZRklMRSUKICAgIGVjaG8gZXhjaGFuZ2Uua2V5LmJpdHRyZXhTZWNyZXQ9KiA+PiAlS0VZRklMRSUKKQpub3RlcGFkICVLRVlGSUxFJQo=</text>
+        <text encoding="base64">ICAgICAgICBub0luaXRpYWxPcmRlcnMoKQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dGltZW91dCAxCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBub0luaXRpYWxPcmRlcnMoKSB7CiAgICAgICAgd2hlbmV2ZXIodHJhZGluZ1BhcmFtZXRlcnMuZ2V0SW5pdGlhbE9yZGVyKCkpLnRoZW5SZXR1cm4obnVsbCkKICAgIH0KCiAgICBAVGVzdAogICAgZnVuIHNob3VsZEludm9rZUxvY2FsT3JkZXJTZXJ2aWNlV2hlbkhhc0luaXRpYWxPcmRlcigpIHsKICAgICAgICAvLyBnaXZlbgogICAgICAgIHRyYWRpbmdQYXJhbWV0ZXJzV2l0aEluaXRpYWxPcmRlcigpCiAgICAgICAgLy8gd2hlbgogICAgICAgIHN0cmF0ZWd5RXhlY3V0b3IuYWRkSW5pdGlhbE9yZGVyTm90Q3JlYXRlZEJ5U3RyYXRlZ3koKQogICAgICAgIC8vIHRoZW4KICAgICAgICB2ZXJpZnkobG9jYWxPcmRlclNlcnZpY2UpLnNhdmVPcmRlck5vdENyZWF0ZWRCeVN0cmF0ZWd5KGFueSgpLCBhbnkoKSwgYW55KCkpCiAgICB9CgogICAgcHJpdmF0ZSBmdW4gdHJhZGluZ1BhcmFtZXRlcnNXaXRoSW5pdGlhbE9yZGVyKCkgewogICAgICAgIHdoZW5ldmVyKHRyYWRpbmdQYXJhbWV0ZXJzLmdldEluaXRpYWxPcmRlcigpKS50aGVuUmV0dXJuKExvY2FsT3JkZXIoKSkKICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVjaG8oID4+ICVIT01FJVxleGNoYW5nZS1rZXlzMi5wcm9wZXJ0aWVzCg==</text>
+        <text encoding="base64">QGVjaG8gb2ZmCnNldCBLRVlGSUxFPSVIT01FJVxleGNoYW5nZS1rZXlzMi5wcm9wZXJ0aWVzCmlmIG5vdCBleGlzdCAlSE9NRSVcZXhjaGFuZ2Uta2V5cy5wcm9wZXJ0aWVzMiAoCiAgICBlY2hvIGV4Y2hhbmdlLmtleS5iaXR0cmV4QXBpPSogPiAlS0VZRklMRSUKICAgIGVjaG8gZXhjaGFuZ2Uua2V5LmJpdHRyZXhTZWNyZXQ9KiA+PiAlS0VZRklMRSUKKQpub3RlcGFkICVLRVlGSUxFJQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgbm90IGV4aXN0ICVIT01FJVxleGNoYW5nZS1rZXlzLnByb3BlcnRpZXMyIGVjaG8gImV4Y2hhbmdlLmtleS5iaXR0cmV4QXBpPT9leGNoYW5nZS5rZXkuYml0dHJleFNlY3JldD0iID4gJUhPTUUlXGV4Y2hhbmdlLWtleXMyLnByb3BlcnRpZXMKCg==</text>
+        <text encoding="base64">dGltZW91dCAxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bm90ZXBhZCAlSE9NRSVcZXhjaGFuZ2Uta2V5cy5wcm9wZXJ0aWVzMgo=</text>
+        <text encoding="base64">ICAgIGVjaG8oID4+ICVIT01FJVxleGNoYW5nZS1rZXlzMi5wcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">aWYgbm90IGV4aXN0ICVIT01FJVxleGNoYW5nZS1rZXlzLnByb3BlcnRpZXMyIGVjaG8gImV4Y2hhbmdlLmtleS5iaXR0cmV4QXBpPT9leGNoYW5nZS5rZXkuYml0dHJleFNlY3JldD0iID4gJUhPTUUlXGV4Y2hhbmdlLWtleXMyLnByb3BlcnRpZXMKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1rZGlyICIlVVNFUlBST0ZJTEUlXC5xZ2lzLWN1c3RvbSIgMj5udWwKICAgIGlmIG5vdCBlcnJvcmxldmVsIDEgKAogICAgICAgIHhjb3B5ICIlT1NHRU80V19ST09UJVxxZ2lzY29uZmlnIiAiJVVTRVJQUk9GSUxFJVwucWdpcy1jdXN0b20iIC9zIC92IC9lCg==</text>
+        <text encoding="base64">bm90ZXBhZCAlSE9NRSVcZXhjaGFuZ2Uta2V5cy5wcm9wZXJ0aWVzMgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">amF2YSAtamFyIGF1dG9pbi1zdHJhdGVneS1leGVjdXRvci5qYXIK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Tm90aWZ5IHdoZW4gc3RhcnRlZCBsaXN0ZW5pbmcgZm9yIGN1cnJlbmN5IHBhaXJzCg==</text>
+        <text encoding="base64">ICAgIG1rZGlyICIlVVNFUlBST0ZJTEUlXC5xZ2lzLWN1c3RvbSIgMj5udWwKICAgIGlmIG5vdCBlcnJvcmxldmVsIDEgKAogICAgICAgIHhjb3B5ICIlT1NHRU80V19ST09UJVxxZ2lzY29uZmlnIiAiJVVTRVJQUk9GSUxFJVwucWdpcy1jdXN0b20iIC9zIC92IC9lCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
