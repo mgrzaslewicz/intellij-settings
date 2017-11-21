@@ -29,11 +29,11 @@
         <mark key="." line="8" column="25" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutor_ExitWithTrailingStopTest.kt" timestamp="1511292511640">
-        <mark key="[" line="66" column="7" />
-        <mark key="]" line="66" column="7" />
-        <mark key="." line="66" column="7" />
-        <mark key="^" line="66" column="7" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutor_ExitWithTrailingStopTest.kt" timestamp="1511296852931">
+        <mark key="[" line="76" column="119" />
+        <mark key="]" line="78" column="7" />
+        <mark key="." line="78" column="7" />
+        <mark key="^" line="78" column="7" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" timestamp="1510779373979">
         <mark key="'" line="39" column="42" />
@@ -444,7 +444,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>jk</text>
+        <text>AutocoinTick()</text>
       </register>
       <register name="/" type="4">
         <text>sub</text>
@@ -454,31 +454,31 @@
         val b</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGN1cnJlbmN5UGFpciA9IEN1cnJlbmN5UGFpcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmljZXMuZm9yRWFjaCB7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgZnVuIHNob3VsZE5vdEludm9rZUxvY2FsT3JkZXJTZXJ2aWNlV2hlbk5vSW5pdGlhbE9yZGVyKCkgewogICAgICAgIC8vIGdpdmVuCiAgICAgICAgbm9Jbml0aWFsT3JkZXJzKCkKICAgICAgICAvLyB3aGVuCiAgICAgICAgc3RyYXRlZ3lFeGVjdXRvci5hZGRJbml0aWFsT3JkZXJOb3RDcmVhdGVkQnlTdHJhdGVneSgpCiAgICAgICAgLy8gdGhlbgogICAgICAgIHZlcmlmeVplcm9JbnRlcmFjdGlvbnMobG9jYWxPcmRlclNlcnZpY2UpCiAgICB9CgogICAgcHJpdmF0ZSBmdW4gbm9Jbml0aWFsT3JkZXJzKCkgewogICAgICAgIHdoZW5ldmVyKHRyYWRpbmdQYXJhbWV0ZXJzLmdldEluaXRpYWxPcmRlcigpKS50aGVuUmV0dXJuKG51bGwpCiAgICB9CgogICAgQFRlc3QKICAgIGZ1biBzaG91bGRJbnZva2VMb2NhbE9yZGVyU2VydmljZVdoZW5IYXNJbml0aWFsT3JkZXIoKSB7CiAgICAgICAgLy8gZ2l2ZW4KICAgICAgICB0cmFkaW5nUGFyYW1ldGVyc1dpdGhJbml0aWFsT3JkZXIoKQogICAgICAgIC8vIHdoZW4KICAgICAgICBzdHJhdGVneUV4ZWN1dG9yLmFkZEluaXRpYWxPcmRlck5vdENyZWF0ZWRCeVN0cmF0ZWd5KCkKICAgICAgICAvLyB0aGVuCiAgICAgICAgdmVyaWZ5KGxvY2FsT3JkZXJTZXJ2aWNlKS5zYXZlT3JkZXJOb3RDcmVhdGVkQnlTdHJhdGVneShhbnkoKSwgYW55KCksIGFueSgpKQogICAgfQoKICAgIHByaXZhdGUgZnVuIHRyYWRpbmdQYXJhbWV0ZXJzV2l0aEluaXRpYWxPcmRlcigpIHsKICAgICAgICB3aGVuZXZlcih0cmFkaW5nUGFyYW1ldGVycy5nZXRJbml0aWFsT3JkZXIoKSkudGhlblJldHVybihMb2NhbE9yZGVyKCkpCiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyYXRlZ3lFeGVjdXRvci5uZXh0VGljayhBdXRvY29pblRpY2soKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3Qgewo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcHJpY2VMaXN0ID0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIDxUPiBhc0xpc3QodmFyYXJnIHRzOiBUKTogTGlzdDxUPiB7CiAgICAgICAgdmFsIHJlc3VsdCA9IEFycmF5TGlzdDxUPigpCiAgICAgICAgcmVzdWx0ICs9IHRzCiAgICAgICAgcmV0dXJuIHJlc3VsdAogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGN1cnJlbmN5UGFpciA9IEN1cnJlbmN5UGFpcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
