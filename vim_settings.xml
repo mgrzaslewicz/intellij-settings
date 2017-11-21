@@ -29,12 +29,12 @@
         <mark key="." line="8" column="25" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutor_ExitWithTrailingStopTest.kt" timestamp="1511299306848">
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutor_ExitWithTrailingStopTest.kt" timestamp="1511304132249">
         <mark key="'" line="79" column="30" />
-        <mark key="[" line="74" column="90" />
-        <mark key="]" line="75" column="40" />
-        <mark key="." line="75" column="40" />
-        <mark key="^" line="75" column="40" />
+        <mark key="[" line="65" column="65" />
+        <mark key="]" line="66" column="172" />
+        <mark key="." line="66" column="172" />
+        <mark key="^" line="66" column="172" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" timestamp="1510779373979">
         <mark key="'" line="39" column="42" />
@@ -158,10 +158,6 @@
         <mark key="." line="15" column="28" />
         <mark key="^" line="15" column="28" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/github/microutils/kotlin-logging/1.4.6/kotlin-logging-1.4.6-sources.jar!/mu/KLogging.kt" timestamp="1510779231390">
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="32" />
-      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" timestamp="1510525719157">
         <mark key="'" line="48" column="30" />
         <mark key="[" line="45" column="414" />
@@ -220,13 +216,13 @@
         <mark key="." line="167" column="20" />
         <mark key="^" line="131" column="4" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/TradingParameters.kt" timestamp="1510786864172">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/TradingParameters.kt" timestamp="1511304016176">
         <mark key="'" line="128" column="8" />
         <mark key="i" line="99" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="47" column="232" />
+        <mark key="[" line="44" column="82" />
+        <mark key="]" line="44" column="82" />
+        <mark key="." line="44" column="82" />
+        <mark key="^" line="41" column="46" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" timestamp="1510255159261">
         <mark key="'" line="303" column="15" />
@@ -253,7 +249,7 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/subscription/ApplicationKiller.kt" timestamp="1510778539470">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-initial-order-in-parameters.yml" timestamp="1510323981317">
+      <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-initial-order-in-parameters.yml" timestamp="1511304126289">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -433,7 +429,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>priceList</text>
+        <text>LocalOrder(</text>
       </register>
       <register name="/" type="4">
         <text>nS</text>
@@ -442,31 +438,31 @@
         <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzW1RyYWlsaW5nU3RvcFN0cmF0ZWd5UGFyYW1ldGVycy5UUkFJTElOR19TVE9QX0dBSU5fUEVSQ0VOVF9TVEFSVF0gPSB0cmFpbGluZ1N0b3BHYWluUGVyY2VudFN0YXJ0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuZXZlcih0cmFkaW5nUGFyYW1ldGVycy5nZXRJbml0aWFsT3JkZXIoKSkudGhlblJldHVybihMb2NhbE9yZGVyKGV4Y2hhbmdlSWQgPSAiMS0yLTMiLCBzdGF0dXMpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnZlcmRlbGhhbi50YTRqLlN0cmF0ZWd5Cg==</text>
+        <text encoding="base64">ICAgIEBNb2NrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uaGFhcm1hbi5tb2NraXRvX2tvdGxpbi5hbnkK</text>
+        <text encoding="base64">aW1wb3J0IGV1LnZlcmRlbGhhbi50YTRqLlN0cmF0ZWd5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmljZXMuZm9yRWFjaCB7IHByaWNlTGlzdC5hZGQoaXQudG9CaWdEZWNpbWFsOCgpKSB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5uaGFhcm1hbi5tb2NraXRvX2tvdGxpbi5hbnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcHJpY2VMaXN0ID0gQXJyYXlMaXN0PEJpZ0RlY2ltYWw+KCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmljZXMuZm9yRWFjaCB7IHByaWNlTGlzdC5hZGQoaXQudG9CaWdEZWNpbWFsOCgpKSB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFkaW5nUGEK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcHJpY2VMaXN0ID0gQXJyYXlMaXN0PEJpZ0RlY2ltYWw+KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJhdGVneUV4ZWN1dG9yID0gRXhjaGFuZ2VTdHJhdGVneUV4ZWN1dG9yKHN0cmF0ZWd5UHJvdmlkZXIsIHRyYWRpbmdQYXJhbWV0ZXJzLCB0cmFkZVNlcnZpY2UsIGF2YWlsYWJsZUN1cnJlbmN5U2VydmljZSwgZmVhdHVyZVRvZ2dsZSwgdGlja0FnZ3JlZ2F0b3IsIGV2ZW50UHVibGlzaGVyLCBsb2NhbE9yZGVyU2VydmljZSwgZW50ZXJUcmFkZVdpdGhCdXlPcmRlcikK</text>
+        <text encoding="base64">ICAgICAgICB0cmFkaW5nUGEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuZXZlcih0cmFkaW5nUGFyYW1ldGVycy5nZXRTdHJhdGVneVByb3ZpZGVyUGFyYW1ldGVycygpKS50aGVuUmV0dXJuKGVtcHR5TWFwKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdHJhdGVneUV4ZWN1dG9yID0gRXhjaGFuZ2VTdHJhdGVneUV4ZWN1dG9yKHN0cmF0ZWd5UHJvdmlkZXIsIHRyYWRpbmdQYXJhbWV0ZXJzLCB0cmFkZVNlcnZpY2UsIGF2YWlsYWJsZUN1cnJlbmN5U2VydmljZSwgZmVhdHVyZVRvZ2dsZSwgdGlja0FnZ3JlZ2F0b3IsIGV2ZW50UHVibGlzaGVyLCBsb2NhbE9yZGVyU2VydmljZSwgZW50ZXJUcmFkZVdpdGhCdXlPcmRlcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIGxhdGVpbml0IHZhciBzdHJhdGVneTogU3RyYXRlZ3kK</text>
+        <text encoding="base64">ICAgICAgICB3aGVuZXZlcih0cmFkaW5nUGFyYW1ldGVycy5nZXRTdHJhdGVneVByb3ZpZGVyUGFyYW1ldGVycygpKS50aGVuUmV0dXJuKGVtcHR5TWFwKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
