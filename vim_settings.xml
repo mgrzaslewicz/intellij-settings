@@ -29,12 +29,11 @@
         <mark key="." line="8" column="25" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutor_ExitWithTrailingStopTest.kt" timestamp="1511631866127">
-        <mark key="'" line="113" column="33" />
-        <mark key="[" line="108" column="160" />
-        <mark key="]" line="108" column="215" />
-        <mark key="." line="108" column="222" />
-        <mark key="^" line="108" column="215" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutor_ExitWithTrailingStopTest.kt" timestamp="1511649746063">
+        <mark key="[" line="82" column="23" />
+        <mark key="]" line="82" column="24" />
+        <mark key="." line="82" column="24" />
+        <mark key="^" line="82" column="23" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TestConfig.kt" timestamp="1511510022997">
         <mark key="'" line="88" column="4" />
@@ -265,7 +264,7 @@
         <mark key="." line="15" column="28" />
         <mark key="^" line="15" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511634505209">
+      <file name="/Dummy.txt" timestamp="1511649814821">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -358,7 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="81" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="290" column="5" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" />
       <jump line="297" column="12" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" />
       <jump line="306" column="67" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" />
@@ -458,13 +456,14 @@
       <jump line="113" column="33" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutor_ExitWithTrailingStopTest.kt" />
       <jump line="65" column="11" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" />
       <jump line="91" column="86" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" />
+      <jump line="85" column="45" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutor_ExitWithTrailingStopTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+        <text>slightly below 20% loss of gain</text>
       </register>
       <register name="/" type="4">
         <text>cu</text>
@@ -473,31 +472,31 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRyYWlsaW5nU3RvcFJ1bGUuaXNTYXRpc2ZpZWQodGltZVNlcmllc1dpdGhHcm93aW5nUHJpY2VzLmVuZEluZGV4LCB0cmFkaW5nUmVjb3JkKSkuaXNUcnVlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgZnVuIHNob3VsZEdyb3dpbmdTdG9wR2FpblN0b3BTZWxsaW5nV2hlblByaWNlRHJvcHNUb29NdWNoKCkgewogICAgICAgIHZhbCB0cmFkaW5nUmVjb3JkID0gQmFzZVRyYWRpbmdSZWNvcmQoKQogICAgICAgIHRyYWRpbmdSZWNvcmQuZW50ZXIoMCwgdGltZVNlcmllc1dpdGhHcm93aW5nUHJpY2VzLmdldFRpY2soMCkuY2xvc2VQcmljZSwgRGVjaW1hbC52YWx1ZU9mKDEpKQogICAgICAgIGFzc2VydFRoYXQodHJhaWxpbmdTdG9wUnVsZS5pc1NhdGlzZmllZCgwLCB0cmFkaW5nUmVjb3JkKSkuaXNGYWxzZSgpCiAgICAgICAgYXNzZXJ0VGhhdCh0cmFpbGluZ1N0b3BSdWxlLmlzU2F0aXNmaWVkKDEsIHRyYWRpbmdSZWNvcmQpKS5pc0ZhbHNlKCkKICAgICAgICBhc3NlcnRUaGF0KHRyYWlsaW5nU3RvcFJ1bGUuaXNTYXRpc2ZpZWQoMiwgdHJhZGluZ1JlY29yZCkpLmlzRmFsc2UoKQogICAgICAgIGFzc2VydFRoYXQodHJhaWxpbmdTdG9wUnVsZS5pc1NhdGlzZmllZCgzLCB0cmFkaW5nUmVjb3JkKSkuaXNGYWxzZSgpCiAgICAgICAgYXNzZXJ0VGhhdCh0cmFpbGluZ1N0b3BSdWxlLmlzU2F0aXNmaWVkKDQsIHRyYWRpbmdSZWNvcmQpKS5pc0ZhbHNlKCkKICAgICAgICBhc3NlcnRUaGF0KHRyYWlsaW5nU3RvcFJ1bGUuaXNTYXRpc2ZpZWQodGltZVNlcmllc1dpdGhHcm93aW5nUHJpY2VzLmVuZEluZGV4LCB0cmFkaW5nUmVjb3JkKSkuaXNGYWxzZSgpCiAgICAgICAgYWRkTmV3VGljayhEZWNpbWFsLnZhbHVlT2YoOC4wKSkgLy8gbGFzdCB0aWNrIGlzIDEwICgxMDAwJSBnYWluIGZyb20gNSB0byAxMCkuIE5vdyBsb3NlIG1vcmUgdGhhbiAyMCUgb2YgZ2FpbiAtIGRyb3AgZnJvbSAxMCB0byA4IGFuZCBzYXRpc2Z5IHRoZSBydWxlCiAgICAgICAgYXNzZXJ0VGhhdCh0cmFpbGluZ1N0b3BSdWxlLmlzU2F0aXNmaWVkKHRpbWVTZXJpZXNXaXRoR3Jvd2luZ1ByaWNlcy5lbmRJbmRleCwgdHJhZGluZ1JlY29yZCkpLmlzVHJ1ZSgpCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdG9wU2VsbGluZ0xvc2U6IERlY2ltYWwgPSBzdGFydFNlbGxpbmdQZXJjZW50QmVsb3dHYWluLmRpdmlkZWRCeShEZWNpbWFsLkhVTkRSRUQpCg==</text>
+        <text encoding="base64">ICAgICAgICBhcmd1bWVudENhcHRvcjxCaWdEZWNpbWFsPigpLmFwcGx5IHsKICAgICAgICAgICAgdmVyaWZ5KHRyYWRlU2VydmljZSkucGxhY2VTZWxsT3JkZXIoZXEodHJhZGluZ1BhcmFtZXRlcnMuY3VycmVuY3lQYWlyISEpLCBjYXB0dXJlKCksIGVxKDAuNS50b0JpZ0RlY2ltYWw4KCkpKQogICAgICAgICAgICBhc3NlcnRUaGF0KGZpcnN0VmFsdWUpLmlzQ2xvc2VUbygxMzguODYxLnRvQmlnRGVjaW1hbDgoKSwgUGVyY2VudGFnZS53aXRoUGVyY2VudGFnZSh0cmFkaW5nUGFyYW1ldGVycy5zZWxsV2l0aExvc3NGcmFjdGlvbikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBmdW4gc2hvdWxkU3RvcFNlbGxpbmdXaGVuUHJpY2VEcm9wcGVkQmVsb3dTdG9wVGhyZXNob2xkKCkgewogICAgICAgIC8vIGdpdmVuCiAgICAgICAgZXhpdFdpdGhUcmFpbGluZ1N0b3BTdHJhdGVneSgxMDAuMCwgMjAuMCkKICAgICAgICBpbml0aWFsQnV5T3JkZXIoMTAwLjAsIDEuNSkKICAgICAgICB0aWNrcyhsaXN0T2YoMTAwLjAsIDExMC4wLCAxMzAuMCwgMTgwLjAsIDE5MC4wKSkKICAgICAgICAvLyB3aGVuCiAgICAgICAgdGlja3MobGlzdE9mKDEzOS4wLCAxMzkuMCkpIC8vIHNsaWdodGx5IGJlbG93IDIwJSBsb3NzIG9mIGdhaW4KICAgICAgICAvLyB0aGVuCiAgICAgICAgYXJndW1lbnRDYXB0b3I8QmlnRGVjaW1hbD4oKS5hcHBseSB7CiAgICAgICAgICAgIHZlcmlmeSh0cmFkZVNlcnZpY2UpLnBsYWNlU2VsbE9yZGVyKGVxKHRyYWRpbmdQYXJhbWV0ZXJzLmN1cnJlbmN5UGFpciEhKSwgY2FwdHVyZSgpLCBlcSgwLjUudG9CaWdEZWNpbWFsOCgpKSkKICAgICAgICAgICAgYXNzZXJ0VGhhdChmaXJzdFZhbHVlKS5pc0Nsb3NlVG8oMTM4Ljg2MS50b0JpZ0RlY2ltYWw4KCksIFBlcmNlbnRhZ2Uud2l0aFBlcmNlbnRhZ2UodHJhZGluZ1BhcmFtZXRlcnMuc2VsbFdpdGhMb3NzRnJhY3Rpb24pKQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJhdGVneUV4ZWN1dG9yLgo=</text>
+        <text encoding="base64">CiAgICBAVGVzdAogICAgZnVuIHNob3VsZEdyb3dpbmdTdG9wR2FpblN0b3BTZWxsaW5nV2hlblByaWNlRHJvcHNUb29NdWNoKCkgewogICAgICAgIHZhbCB0cmFkaW5nUmVjb3JkID0gQmFzZVRyYWRpbmdSZWNvcmQoKQogICAgICAgIHRyYWRpbmdSZWNvcmQuZW50ZXIoMCwgdGltZVNlcmllc1dpdGhHcm93aW5nUHJpY2VzLmdldFRpY2soMCkuY2xvc2VQcmljZSwgRGVjaW1hbC52YWx1ZU9mKDEpKQogICAgICAgIGFzc2VydFRoYXQodHJhaWxpbmdTdG9wUnVsZS5pc1NhdGlzZmllZCgwLCB0cmFkaW5nUmVjb3JkKSkuaXNGYWxzZSgpCiAgICAgICAgYXNzZXJ0VGhhdCh0cmFpbGluZ1N0b3BSdWxlLmlzU2F0aXNmaWVkKDEsIHRyYWRpbmdSZWNvcmQpKS5pc0ZhbHNlKCkKICAgICAgICBhc3NlcnRUaGF0KHRyYWlsaW5nU3RvcFJ1bGUuaXNTYXRpc2ZpZWQoMiwgdHJhZGluZ1JlY29yZCkpLmlzRmFsc2UoKQogICAgICAgIGFzc2VydFRoYXQodHJhaWxpbmdTdG9wUnVsZS5pc1NhdGlzZmllZCgzLCB0cmFkaW5nUmVjb3JkKSkuaXNGYWxzZSgpCiAgICAgICAgYXNzZXJ0VGhhdCh0cmFpbGluZ1N0b3BSdWxlLmlzU2F0aXNmaWVkKDQsIHRyYWRpbmdSZWNvcmQpKS5pc0ZhbHNlKCkKICAgICAgICBhc3NlcnRUaGF0KHRyYWlsaW5nU3RvcFJ1bGUuaXNTYXRpc2ZpZWQodGltZVNlcmllc1dpdGhHcm93aW5nUHJpY2VzLmVuZEluZGV4LCB0cmFkaW5nUmVjb3JkKSkuaXNGYWxzZSgpCiAgICAgICAgYWRkTmV3VGljayhEZWNpbWFsLnZhbHVlT2YoOC4wKSkgLy8gbGFzdCB0aWNrIGlzIDEwICgxMDAwJSBnYWluIGZyb20gNSB0byAxMCkuIE5vdyBsb3NlIG1vcmUgdGhhbiAyMCUgb2YgZ2FpbiAtIGRyb3AgZnJvbSAxMCB0byA4IGFuZCBzYXRpc2Z5IHRoZSBydWxlCiAgICAgICAgYXNzZXJ0VGhhdCh0cmFpbGluZ1N0b3BSdWxlLmlzU2F0aXNmaWVkKHRpbWVTZXJpZXNXaXRoR3Jvd2luZ1ByaWNlcy5lbmRJbmRleCwgdHJhZGluZ1JlY29yZCkpLmlzVHJ1ZSgpCiAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuIFpvbmVkRGF0ZVRpbWUudG9FcG9jaFNlY29uZHMoKSA9IHRoaXMudG9JbnN0YW50KCkudG9FcG9jaE1pbGxpKCkgLyAxMDAwTAo=</text>
+        <text encoding="base64">ICAgIHZhbCBzdG9wU2VsbGluZ0xvc2U6IERlY2ltYWwgPSBzdGFydFNlbGxpbmdQZXJjZW50QmVsb3dHYWluLmRpdmlkZWRCeShEZWNpbWFsLkhVTkRSRUQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRpY2tBZ2dyZWdhdG9yLmFnZ3JlZ2F0ZSh0aW1lU2VyaWVzLCB0aWNrMl80bWludXRlc0xhdGVyKSkuaXNGYWxzZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRpY2tBZ2dyZWdhdG9yLmFnZ3JlZ2F0ZSh0aW1lU2VyaWVzLCB0aWNrMSkpLmlzRmFsc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdHJhdGVneUV4ZWN1dG9yLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGljazEgPSBnZXRUaWNrUGx1c1NlY29uZHMoMCkKICAgICAgICB2YWwgdGljazJfNG1pbnV0ZXNMYXRlciA9IGdldFRpY2tQbHVzU2Vjb25kcyg2MCAqIDQpCiAgICAgICAgdmFsIHRpY2szXzVtaW51dGVzTGF0ZXIgPSBnZXRUaWNrUGx1c1NlY29uZHMoNjAgKiA1KQo=</text>
+        <text encoding="base64">ZnVuIFpvbmVkRGF0ZVRpbWUudG9FcG9jaFNlY29uZHMoKSA9IHRoaXMudG9JbnN0YW50KCkudG9FcG9jaE1pbGxpKCkgLyAxMDAwTAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpY2tlclRvQWRkICsgdGlja2Vycwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRpY2tBZ2dyZWdhdG9yLmFnZ3JlZ2F0ZSh0aW1lU2VyaWVzLCB0aWNrMl80bWludXRlc0xhdGVyKSkuaXNGYWxzZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
