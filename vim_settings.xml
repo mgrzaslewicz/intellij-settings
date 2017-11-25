@@ -29,12 +29,12 @@
         <mark key="." line="8" column="25" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutor_ExitWithTrailingStopTest.kt" timestamp="1511617900539">
-        <mark key="'" line="61" column="8" />
-        <mark key="[" line="98" column="103" />
-        <mark key="]" line="98" column="114" />
-        <mark key="." line="98" column="114" />
-        <mark key="^" line="98" column="114" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutor_ExitWithTrailingStopTest.kt" timestamp="1511621278659">
+        <mark key="'" line="60" column="8" />
+        <mark key="[" line="70" column="121" />
+        <mark key="]" line="71" column="121" />
+        <mark key="." line="71" column="121" />
+        <mark key="^" line="71" column="121" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TestConfig.kt" timestamp="1511510022997">
         <mark key="'" line="88" column="4" />
@@ -166,8 +166,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/InitialStrategyExecutorStateLoaderTest.kt" timestamp="1510322968592">
-        <mark key="'" line="104" column="23" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/InitialStrategyExecutorStateLoaderTest.kt" timestamp="1511621077465">
+        <mark key="'" line="4" column="43" />
         <mark key="[" line="111" column="45" />
         <mark key="]" line="111" column="51" />
         <mark key="." line="111" column="51" />
@@ -184,6 +184,9 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.11.0/mockito-core-2.11.0-sources.jar!/org/mockito/AdditionalMatchers.java" timestamp="1511620703269">
+        <mark key="'" line="1037" column="6" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" timestamp="1509922829720">
         <mark key="'" line="47" column="1" />
@@ -254,7 +257,7 @@
         <mark key="." line="15" column="28" />
         <mark key="^" line="15" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511509200420">
+      <file name="/Dummy.txt" timestamp="1511621312862">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -347,8 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="8" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
-      <jump line="110" column="8" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="94" column="0" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="124" column="7" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="245" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
@@ -447,16 +448,18 @@
       <jump line="67" column="40" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutor_ExitWithTrailingStopTest.kt" />
       <jump line="140" column="172" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/RulesTest.kt" />
       <jump line="61" column="8" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutor_ExitWithTrailingStopTest.kt" />
+      <jump line="1037" column="6" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.11.0/mockito-core-2.11.0-sources.jar!/org/mockito/AdditionalMatchers.java" />
+      <jump line="4" column="43" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/InitialStrategyExecutorStateLoaderTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>availableCurrencyService</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>available</text>
+        <text>Captor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0cmFkaW5nUmVjb3JkLmVudGVyKDQsIHRpbWVTZXJpZXNXaXRoR3Jvd2luZ1ByaWNlcy5nZXRUaWNrKDQpLmNsb3NlUHJpY2UsIERlY2ltYWwudmFsdWVPZigxKSkK</text>
@@ -493,9 +496,9 @@
       </register>
     </registers>
     <search>
-      <last-search>available</last-search>
+      <last-search>Captor</last-search>
       <last-offset />
-      <last-pattern>available</last-pattern>
+      <last-pattern>Captor</last-pattern>
       <last-replace>firstValue</last-replace>
       <last-substitute>historicalTickersUsed</last-substitute>
       <last-dir>1</last-dir>
@@ -503,9 +506,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.</entry>
-        <entry>wEx</entry>
-        <entry>property</entry>
         <entry>tradingPa</entry>
         <entry>api</entry>
         <entry>serv</entry>
@@ -523,6 +523,9 @@
         <entry>li</entry>
         <entry>Fal</entry>
         <entry>available</entry>
+        <entry>BigDecimal</entry>
+        <entry>captor</entry>
+        <entry>Captor</entry>
       </history-search>
       <history-cmd>
         <entry>tr</entry>
