@@ -148,11 +148,18 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/subscription/ApplicationKiller.kt" timestamp="1510778539470">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1511611024874">
-        <mark key="[" line="78" column="83" />
-        <mark key="]" line="78" column="83" />
-        <mark key="^" line="78" column="83" />
-        <mark key="." line="78" column="83" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/RulesTest.kt" timestamp="1511612484703">
+        <mark key="'" line="140" column="172" />
+        <mark key="[" line="140" column="138" />
+        <mark key="]" line="140" column="140" />
+        <mark key="^" line="140" column="140" />
+        <mark key="." line="140" column="140" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1511612729717">
+        <mark key="[" line="55" column="42" />
+        <mark key="]" line="55" column="50" />
+        <mark key="^" line="55" column="50" />
+        <mark key="." line="55" column="50" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-initial-order-in-parameters.yml" timestamp="1511304126289">
         <mark key="[" line="2" column="0" />
@@ -340,7 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="49" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="95" column="0" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="128" column="8" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="110" column="8" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
@@ -440,19 +446,20 @@
       <jump line="67" column="0" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" />
       <jump line="73" column="31" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TickAggregatorTest.kt" />
       <jump line="67" column="40" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutor_ExitWithTrailingStopTest.kt" />
+      <jump line="140" column="172" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/RulesTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>, 139.0</text>
+        <text encoding="base64">IGxvc2UgYW5k</text>
       </register>
       <register name="/" type="4">
-        <text>li</text>
+        <text>Fal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuIFpvbmVkRGF0ZVRpbWUudG9EYXRlKCkgPSBEYXRlLmZyb20odGhpcy50b0luc3RhbnQoKSkK</text>
+        <text encoding="base64">ICAgICAgICB0cmFkaW5nUmVjb3JkLmVudGVyKDQsIHRpbWVTZXJpZXNXaXRoR3Jvd2luZ1ByaWNlcy5nZXRUaWNrKDQpLmNsb3NlUHJpY2UsIERlY2ltYWwudmFsdWVPZigxKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzdHJhdGVneUV4ZWN1dG9yLgo=</text>
@@ -486,17 +493,16 @@
       </register>
     </registers>
     <search>
-      <last-search>li</last-search>
+      <last-search>Fal</last-search>
       <last-offset />
-      <last-pattern>li</last-pattern>
+      <last-pattern>Fal</last-pattern>
       <last-replace>firstValue</last-replace>
       <last-substitute>historicalTickersUsed</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>List</entry>
         <entry>historicalTickersUsed</entry>
         <entry>.</entry>
         <entry>wEx</entry>
@@ -516,6 +522,7 @@
         <entry>ad</entry>
         <entry>E</entry>
         <entry>li</entry>
+        <entry>Fal</entry>
       </history-search>
       <history-cmd>
         <entry>tr</entry>
