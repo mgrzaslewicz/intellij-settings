@@ -17,8 +17,11 @@
         <mark key="." line="47" column="219" />
         <mark key="^" line="47" column="219" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1511727354858">
-        <mark key="[" line="38" column="21" />
+      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1511818432452">
+        <mark key="[" line="27" column="27" />
+        <mark key="]" line="27" column="29" />
+        <mark key="^" line="27" column="29" />
+        <mark key="." line="27" column="29" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutor_ExitWithTrailingStopTest.kt" timestamp="1511649746063">
         <mark key="[" line="82" column="23" />
@@ -177,12 +180,12 @@
         <mark key="^" line="75" column="54" />
         <mark key="." line="75" column="54" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" timestamp="1511816825539">
-        <mark key="'" line="22" column="15" />
-        <mark key="[" line="28" column="90" />
-        <mark key="]" line="29" column="23" />
-        <mark key="^" line="29" column="23" />
-        <mark key="." line="29" column="23" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" timestamp="1511817971483">
+        <mark key="'" line="68" column="4" />
+        <mark key="[" line="76" column="40" />
+        <mark key="]" line="77" column="11" />
+        <mark key="^" line="77" column="11" />
+        <mark key="." line="77" column="11" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" timestamp="1509955647374">
         <mark key="[" line="0" column="0" />
@@ -221,7 +224,7 @@
         <mark key="^" line="287" column="33" />
         <mark key="." line="265" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511816840950">
+      <file name="/Dummy.txt" timestamp="1511818490395">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -279,7 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="13" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" />
       <jump line="299" column="59" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" />
       <jump line="307" column="63" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" />
       <jump line="127" column="8" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/TradingParameters.kt" />
@@ -379,16 +381,17 @@
       <jump line="69" column="39" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangeHealthTest.kt" />
       <jump line="77" column="32" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangeHealthTest.kt" />
       <jump line="22" column="15" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" />
+      <jump line="68" column="4" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>1000 * 60 * 10</text>
+        <text>e.message?.contains(&quot;&quot;) == true</text>
       </register>
       <register name="/" type="4">
-        <text>API</text>
+        <text>Un</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgOiBLTG9nZ2luZygpCg==</text>
@@ -425,9 +428,9 @@
       </register>
     </registers>
     <search>
-      <last-search>API</last-search>
+      <last-search>Un</last-search>
       <last-offset />
-      <last-pattern>API</last-pattern>
+      <last-pattern>Un</last-pattern>
       <last-replace>firstValue</last-replace>
       <last-substitute>historicalTickersUsed</last-substitute>
       <last-dir>1</last-dir>
@@ -435,7 +438,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Flu</entry>
         <entry>ad</entry>
         <entry>E</entry>
         <entry>li</entry>
@@ -455,6 +457,7 @@
         <entry encoding="base64">Jg==</entry>
         <entry>UP</entry>
         <entry>API</entry>
+        <entry>Un</entry>
       </history-search>
       <history-cmd>
         <entry>tr</entry>
