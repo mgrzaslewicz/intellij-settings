@@ -46,12 +46,12 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/InvestStrategy.kt" timestamp="1511633244747">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/InvestStrategy.kt" timestamp="1511807484091">
         <mark key="'" line="208" column="63" />
-        <mark key="[" line="216" column="234" />
-        <mark key="]" line="160" column="87" />
-        <mark key="." line="160" column="87" />
-        <mark key="^" line="160" column="87" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="4" />
+        <mark key="." line="132" column="4" />
+        <mark key="^" line="132" column="4" />
       </file>
       <file name="/fragment.kt" timestamp="1511510594641">
         <mark key="[" line="0" column="0" />
@@ -177,12 +177,12 @@
         <mark key="^" line="75" column="54" />
         <mark key="." line="75" column="54" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" timestamp="1511804067868">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" timestamp="1511806534508">
         <mark key="'" line="27" column="9" />
-        <mark key="[" line="38" column="11" />
-        <mark key="]" line="36" column="12" />
-        <mark key="^" line="36" column="12" />
-        <mark key="." line="36" column="12" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="42" column="32" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" timestamp="1509955647374">
         <mark key="[" line="0" column="0" />
@@ -226,11 +226,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangeHealthTest.kt" timestamp="1511770989084">
-        <mark key="[" line="64" column="27" />
-        <mark key="]" line="72" column="54" />
-        <mark key="." line="72" column="54" />
-        <mark key="^" line="72" column="54" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangeHealthTest.kt" timestamp="1511806860334">
+        <mark key="'" line="77" column="32" />
+        <mark key="[" line="83" column="51" />
+        <mark key="]" line="83" column="51" />
+        <mark key="." line="83" column="51" />
+        <mark key="^" line="79" column="114" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" timestamp="1510525719157">
         <mark key="'" line="48" column="30" />
@@ -278,8 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="8" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" />
-      <jump line="148" column="51" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" />
       <jump line="30" column="13" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" />
       <jump line="299" column="59" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" />
@@ -378,55 +377,57 @@
       <jump line="28" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" />
       <jump line="24" column="27" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" />
       <jump line="27" column="9" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" />
+      <jump line="69" column="39" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangeHealthTest.kt" />
+      <jump line="77" column="32" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangeHealthTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>Health</text>
+        <text>DOWN</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>API</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyB7ICJUcnlpbmcgdG8gcmVhZCBhY2NvdW50IGluZm8iIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIkNvdWxkIG5vdCBwbGFjZSBoZWFsdGggY2hlY2sgc2VsbCBvcmRlciIsIGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGVhbHRoLnVwKCkuYnVpbGQoKQogICAgICAgIH0gZWxzZSBIZWFsdGguZG93bigpLmJ1aWxkKCkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBnaXZlbgogICAgICAgIHdoZW5ldmVyKGFjY291bnRCYWxhbmNlU2VydmljZS5hY2NvdW50SW5mbykudGhlblJldHVybihhY2NvdW50SW5mbykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICB3aGVuZXZlcigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgdHJhZGVTZXJ2aWNlLnBsYWNlU2VsbE9yZGVyKEN1cnJlbmN5UGFpci5FVEhfQlRDLCBvbmVTYXRvc2hpLCBvbmVTYXRvc2hpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhY2NvdW50U2VydmljZS5hY2NvdW50SW5mbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGVhbHRoLnVwKCkuYnVpbGQoKQogICAgICAgIH0gZWxzZSBIZWFsdGguZG93bigpLmJ1aWxkKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkoYWNjb3VudEJhbGFuY2VTZXJ2aWNlKS5hY2NvdW50SW5mbwo=</text>
+        <text encoding="base64">CiAgICAgICAgdHJhZGVTZXJ2aWNlLnBsYWNlU2VsbE9yZGVyKEN1cnJlbmN5UGFpci5FVEhfQlRDLCBvbmVTYXRvc2hpLCBvbmVTYXRvc2hpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGF2YWlsYWJsZUV4aXRDdXJyZW5jeSA9IEJpZ0RlY2ltYWwoNS41KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmYWtlRXhjaGFuZ2UucmVzZXQoKSAvLyBUT0RPIGNvbnNpZGVyIGFkZGluZyBARGlydGllc0NvbnRleHQgb3IgZmluZCB3YXkgdG8gbWFrZSBmYWtlRXhjaGFuZ2Ugc3RhdGVsZXNzCiAgICAgICAgY2xlYW5EYigpCiAgICAgICAgdHJhZGluZ1BhcmFtZXRlcnMubWluRW50cnlDdXJyZW5jeUFtb3VudFRvSG9sZCA9IDAuMAogICAgICAgIG5vblplcm9FeGl0Q3VycmVuY2llc0JhbGFuY2UoKQogICAgICAgIG5vblplcm9FbnRyeUN1cnJlbmNpZXNCYWxhbmNlKCkKCiAgICAgICAgaW5pdFRpY2tlcnMoKQogICAgICAgIGluaXRTZXJ2ZXIoKQogICAgICAgIGluaXRPcmRlcnMoKQo=</text>
+        <text encoding="base64">ICAgICAgICBhY2NvdW50U2VydmljZS5hY2NvdW50SW5mbwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Jg==</last-search>
+      <last-search>API</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Jg==</last-pattern>
+      <last-pattern>API</last-pattern>
       <last-replace>firstValue</last-replace>
       <last-substitute>historicalTickersUsed</last-substitute>
       <last-dir>1</last-dir>
@@ -434,8 +435,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nS</entry>
-        <entry>create</entry>
         <entry>Flu</entry>
         <entry>ad</entry>
         <entry>E</entry>
@@ -454,6 +453,8 @@
         <entry>re</entry>
         <entry>He</entry>
         <entry encoding="base64">Jg==</entry>
+        <entry>UP</entry>
+        <entry>API</entry>
       </history-search>
       <history-cmd>
         <entry>tr</entry>
