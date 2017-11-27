@@ -48,10 +48,11 @@
         <mark key="." line="90" column="130" />
         <mark key="^" line="90" column="130" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" timestamp="1511819114971">
-        <mark key="[" line="53" column="73" />
-        <mark key="]" line="53" column="73" />
-        <mark key="." line="53" column="73" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" timestamp="1511820824232">
+        <mark key="[" line="49" column="59" />
+        <mark key="]" line="53" column="78" />
+        <mark key="." line="53" column="78" />
+        <mark key="^" line="53" column="78" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/Extensions.kt" timestamp="1511509845750">
         <mark key="[" line="19" column="0" />
@@ -239,7 +240,7 @@
         <mark key="^" line="287" column="33" />
         <mark key="." line="265" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511819547028">
+      <file name="/Dummy.txt" timestamp="1511820843709">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -403,7 +404,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>ltradable</text>
+        <text>bittrexApi</text>
       </register>
       <register name="/" type="4">
         <text>Un</text>
@@ -412,31 +413,31 @@
         <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgOiBLTG9nZ2luZygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgdmFsIHRlbk1pbnV0ZXMgPSAxMDAwICogNjAgKiAxMEwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlVzaW5nIGJpdHRyZXggc2VjcmV0IGtleTogJHtleGNoYW5nZUtleXMuYml0dHJleFNlY3JldC5zdWJzdHJpbmcoMCwgMil9KioqIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgdmFsIHRlbk1pbnV0ZXMgPSAxMDAwICogNjAgKiAxMEwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBnaXZlbgogICAgICAgIHdoZW5ldmVyKGFjY291bnRCYWxhbmNlU2VydmljZS5hY2NvdW50SW5mbykudGhlblJldHVybihhY2NvdW50SW5mbykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuZXZlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBnaXZlbgogICAgICAgIHdoZW5ldmVyKGFjY291bnRCYWxhbmNlU2VydmljZS5hY2NvdW50SW5mbykudGhlblJldHVybihhY2NvdW50SW5mbykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuZXZlcigpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGVhbHRoLnVwKCkuYnVpbGQoKQogICAgICAgIH0gZWxzZSBIZWFsdGguZG93bigpLmJ1aWxkKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGVhbHRoLnVwKCkuYnVpbGQoKQogICAgICAgIH0gZWxzZSBIZWFsdGguZG93bigpLmJ1aWxkKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgdHJhZGVTZXJ2aWNlLnBsYWNlU2VsbE9yZGVyKEN1cnJlbmN5UGFpci5FVEhfQlRDLCBvbmVTYXRvc2hpLCBvbmVTYXRvc2hpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
