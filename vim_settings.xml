@@ -48,11 +48,12 @@
         <mark key="." line="90" column="130" />
         <mark key="^" line="90" column="130" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" timestamp="1511893358108">
-        <mark key="[" line="41" column="81" />
-        <mark key="]" line="41" column="88" />
-        <mark key="." line="41" column="88" />
-        <mark key="^" line="41" column="88" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" timestamp="1511990558903">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="46" column="8" />
+        <mark key="]" line="46" column="12" />
+        <mark key="." line="46" column="12" />
+        <mark key="^" line="46" column="12" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/Extensions.kt" timestamp="1511509845750">
         <mark key="[" line="19" column="0" />
@@ -76,12 +77,12 @@
       <file name="/fragment.kt" timestamp="1511510594641">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" timestamp="1511819368917">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" timestamp="1511990821687">
         <mark key="'" line="303" column="15" />
-        <mark key="[" line="257" column="35" />
-        <mark key="]" line="257" column="42" />
-        <mark key="^" line="257" column="42" />
-        <mark key="." line="257" column="42" />
+        <mark key="[" line="204" column="4" />
+        <mark key="]" line="204" column="8" />
+        <mark key="^" line="204" column="8" />
+        <mark key="." line="204" column="8" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application.yml" timestamp="1510780890446">
         <mark key="'" line="15" column="31" />
@@ -193,12 +194,15 @@
         <mark key="^" line="75" column="54" />
         <mark key="." line="75" column="54" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" timestamp="1511911200625">
-        <mark key="'" line="68" column="4" />
-        <mark key="[" line="76" column="40" />
-        <mark key="]" line="77" column="11" />
-        <mark key="^" line="77" column="11" />
-        <mark key="." line="77" column="11" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" timestamp="1511991748573">
+        <mark key="'" line="70" column="4" />
+        <mark key="[" line="64" column="23" />
+        <mark key="]" line="64" column="26" />
+        <mark key="^" line="64" column="26" />
+        <mark key="." line="64" column="26" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor.log" timestamp="1511991950676">
+        <mark key="'" line="1032" column="66" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" timestamp="1509955647374">
         <mark key="[" line="0" column="0" />
@@ -237,7 +241,7 @@
         <mark key="^" line="287" column="33" />
         <mark key="." line="265" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511910735343">
+      <file name="/Dummy.txt" timestamp="1511991758209">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -268,6 +272,9 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1511990632310">
+        <mark key="[" line="11" column="0" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/resources/logback.xml" timestamp="1510518798205">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -295,14 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="59" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" />
-      <jump line="307" column="63" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" />
-      <jump line="127" column="8" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/TradingParameters.kt" />
-      <jump line="408" column="36" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
-      <jump line="31" column="46" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TradingParametersInitialOrdersTest.kt" />
-      <jump line="33" column="30" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TradingParametersInitialOrdersTest.kt" />
-      <jump line="37" column="8" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TradingParametersInitialOrdersTest.kt" />
-      <jump line="72" column="14" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TickerListenerTest.kt" />
       <jump line="150" column="30" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" />
       <jump line="154" column="16" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" />
       <jump line="146" column="44" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" />
@@ -395,13 +394,21 @@
       <jump line="77" column="32" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangeHealthTest.kt" />
       <jump line="22" column="15" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" />
       <jump line="68" column="4" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" />
+      <jump line="516" column="249" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor.log" />
+      <jump line="694" column="446" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor.log" />
+      <jump line="763" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor.log" />
+      <jump line="35" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
+      <jump line="759" column="162" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor.log" />
+      <jump line="904" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor.log" />
+      <jump line="935" column="74" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor.log" />
+      <jump line="1032" column="66" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>beta</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text>Un</text>
@@ -410,34 +417,34 @@
         <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgOiBLTG9nZ2luZygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlVzaW5nIGJpdHRyZXggc2VjcmV0IGtleTogJHtleGNoYW5nZUtleXMuYml0dHJleFNlY3JldC5zdWJzdHJpbmcoMCwgMil9KioqIikK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiQ2hlY2tpbmcgZXhjaGFuZ2UgaGVhbHRoIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgdmFsIHRlbk1pbnV0ZXMgPSAxMDAwICogNjAgKiAxMEwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlVzaW5nIGJpdHRyZXggc2VjcmV0IGtleTogJHtleGNoYW5nZUtleXMuYml0dHJleFNlY3JldC5zdWJzdHJpbmcoMCwgMil9KioqIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgdmFsIHRlbk1pbnV0ZXMgPSAxMDAwICogNjAgKiAxMEwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBnaXZlbgogICAgICAgIHdoZW5ldmVyKGFjY291bnRCYWxhbmNlU2VydmljZS5hY2NvdW50SW5mbykudGhlblJldHVybihhY2NvdW50SW5mbykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuZXZlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBnaXZlbgogICAgICAgIHdoZW5ldmVyKGFjY291bnRCYWxhbmNlU2VydmljZS5hY2NvdW50SW5mbykudGhlblJldHVybihhY2NvdW50SW5mbykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuZXZlcigpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGVhbHRoLnVwKCkuYnVpbGQoKQogICAgICAgIH0gZWxzZSBIZWFsdGguZG93bigpLmJ1aWxkKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGVhbHRoLnVwKCkuYnVpbGQoKQogICAgICAgIH0gZWxzZSBIZWFsdGguZG93bigpLmJ1aWxkKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
@@ -491,6 +498,7 @@
         <entry>s/currentTime/timeBeforeFirstHistoricalTicker/g</entry>
         <entry>%s/historicalTickersUsed/firstValue/g</entry>
         <entry>q</entry>
+        <entry>e</entry>
       </history-cmd>
       <history-expr />
       <history-input />
