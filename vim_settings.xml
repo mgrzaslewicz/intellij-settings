@@ -23,11 +23,11 @@
         <mark key="." line="224" column="128" />
         <mark key="^" line="211" column="130" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1511908200485">
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="25" column="34" />
+      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1512390268276">
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="29" />
         <mark key="^" line="25" column="34" />
-        <mark key="." line="25" column="34" />
+        <mark key="." line="25" column="29" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutor_ExitWithTrailingStopTest.kt" timestamp="1511649746063">
         <mark key="[" line="82" column="23" />
@@ -54,6 +54,9 @@
         <mark key="]" line="46" column="12" />
         <mark key="." line="46" column="12" />
         <mark key="^" line="46" column="12" />
+      </file>
+      <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-engine/pom.xml" timestamp="1512390237148">
+        <mark key="'" line="171" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/Extensions.kt" timestamp="1511509845750">
         <mark key="[" line="19" column="0" />
@@ -277,6 +280,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="E:/prj/autocoin-ticker-service/pom.xml" timestamp="1512390244770" />
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/config/PropertyFeatureToggleTest.kt" timestamp="1509956569170">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -299,8 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="30" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" />
-      <jump line="154" column="16" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" />
       <jump line="146" column="44" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" />
       <jump line="158" column="56" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
       <jump line="49" column="8" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" />
@@ -399,13 +401,15 @@
       <jump line="904" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor.log" />
       <jump line="935" column="74" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor.log" />
       <jump line="1032" column="66" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor.log" />
+      <jump line="155" column="32" filename="E:/prj/autocoin-ticker-service/autocoin-ticker-engine/pom.xml" />
+      <jump line="171" column="0" filename="E:/prj/autocoin-ticker-service/autocoin-ticker-engine/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q291bGQgbm90IHBsYWNlIGhlYWx0aCBjaGVjayBzZWxsIG9yZGVyIA==</text>
+        <text>-rc-84</text>
       </register>
       <register name="/" type="4">
         <text>Un</text>
