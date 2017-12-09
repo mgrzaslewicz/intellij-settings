@@ -23,11 +23,11 @@
         <mark key="." line="224" column="128" />
         <mark key="^" line="211" column="130" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1512390268276">
-        <mark key="[" line="25" column="29" />
-        <mark key="]" line="25" column="29" />
+      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1512820392409">
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
         <mark key="^" line="25" column="34" />
-        <mark key="." line="25" column="29" />
+        <mark key="." line="184" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutor_ExitWithTrailingStopTest.kt" timestamp="1511649746063">
         <mark key="[" line="82" column="23" />
@@ -222,7 +222,7 @@
         <mark key="^" line="287" column="33" />
         <mark key="." line="265" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512818377002">
+      <file name="/Dummy.txt" timestamp="1512820612189">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -398,31 +398,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmFkaW5nUmVjb3JkLmV4aXQoaW5kZXgsIG9yZGVyLnByaWNlLnRvVGE0akRlY2ltYWwoKSwgb3JkZXIuYW1vdW50LnRvVGE0akRlY2ltYWwoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWRpbmdSZWNvcmQuZW50ZXIoaW5kZXgsIG9yZGVyLnByaWNlLnRvVGE0akRlY2ltYWwoKSwgb3JkZXIuYW1vdW50LnRvVGE0akRlY2ltYWwoKSkKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKHJlbW90ZSwgIkFkZGVkIGluaXRpYWwgYnV5IGVudHJ5IG9yZGVyICR7b3JkZXIuZXhjaGFuZ2VJZH0gdG8gdHJhZGluZyByZWNvcmQgYXQgaW5kZXggJGluZGV4IikK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">CQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLWZhaWxzYWZlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJCTx2ZXJzaW9uPjIuMjAuMTwvdmVyc2lvbj4KCQkJCTxleGVjdXRpb25zPgoJCQkJCTxleGVjdXRpb24+CgkJCQkJCTxnb2Fscz4KCQkJCQkJCTxnb2FsPmludGVncmF0aW9uLXRlc3Q8L2dvYWw+CgkJCQkJCQk8Z29hbD52ZXJpZnk8L2dvYWw+CgkJCQkJCTwvZ29hbHM+CgkJCQkJPC9leGVjdXRpb24+CgkJCQk8L2V4ZWN1dGlvbnM+CgkJCTwvcGx1Z2luPg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWRpbmdSZWNvcmQuZW50ZXIoaW5kZXgsIG9yZGVyLnByaWNlLnRvVGE0akRlY2ltYWwoKSwgb3JkZXIuYW1vdW50LnRvVGE0akRlY2ltYWwoKSkKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKHJlbW90ZSwgIkFkZGVkIGluaXRpYWwgYnV5IGVudHJ5IG9yZGVyICR7b3JkZXIuZXhjaGFuZ2VJZH0gdG8gdHJhZGluZyByZWNvcmQgYXQgaW5kZXggJGluZGV4IikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKHJlbW90ZSwgIkFkZGVkIGluaXRpYWwgc2VsbCBlbnRyeSBvcmRlciAke29yZGVyLmV4Y2hhbmdlSWR9IHRvIHRyYWRpbmcgcmVjb3JkIGF0IGluZGV4ICRpbmRleCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKHJlbW90ZSwgIkFkZGVkIGluaXRpYWwgc2VsbCBlbnRyeSBvcmRlciAke29yZGVyLmV4Y2hhbmdlSWR9IHRvIHRyYWRpbmcgcmVjb3JkIGF0IGluZGV4ICRpbmRleCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmFkaW5nUmVjb3JkLmVudGVyKGluZGV4LCBvcmRlci5wcmljZS50b1RhNGpEZWNpbWFsKCksIG9yZGVyLmFtb3VudC50b1RhNGpEZWNpbWFsKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWRpbmdSZWNvcmQuZW50ZXIoaW5kZXgsIG9yZGVyLnByaWNlLnRvVGE0akRlY2ltYWwoKSwgb3JkZXIuYW1vdW50LnRvVGE0akRlY2ltYWwoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
