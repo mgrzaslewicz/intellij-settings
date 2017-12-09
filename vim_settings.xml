@@ -94,12 +94,12 @@
         <mark key="]" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" timestamp="1512815235937">
-        <mark key="'" line="417" column="4" />
-        <mark key="[" line="449" column="16" />
-        <mark key="]" line="444" column="86" />
-        <mark key="." line="444" column="86" />
-        <mark key="^" line="444" column="86" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" timestamp="1512816292154">
+        <mark key="'" line="467" column="0" />
+        <mark key="[" line="461" column="48" />
+        <mark key="]" line="461" column="48" />
+        <mark key="." line="461" column="48" />
+        <mark key="^" line="461" column="48" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorProfitTest.kt" timestamp="1511623221391">
         <mark key="'" line="170" column="8" />
@@ -287,7 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="270" column="30" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="239" column="46" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="248" column="62" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="255" column="62" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
@@ -387,63 +386,63 @@
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/src/test/resources/application.yml" />
       <jump line="40" column="20" filename="E:/prj/ta4k-autocoin/ta4k/src/main/kotlin/eu/verdelhan/ta4j/BaseTradingRecord.kt" />
       <jump line="54" column="48" filename="E:/prj/ta4k-autocoin/ta4k/src/main/kotlin/eu/verdelhan/ta4j/BaseTradingRecord.kt" />
+      <jump line="455" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3BlbiA=</text>
+        <text encoding="base64">ISEuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>cannot be</text>
+        <text>ent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25Qcm9wZXJ0eShuYW1lID0gWyJ0aWNrZXItc2VydmljZS5kaXNhYmxlZCJdLCBoYXZpbmdWYWx1ZSA9ICJmYWxzZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJhZGluZ1JlY29yZC5lbnRlcihpbmRleCwgb3JkZXIucHJpY2UudG9UYTRqRGVjaW1hbCgpLCBvcmRlci5hbW91bnQudG9UYTRqRGVjaW1hbCgpKQogICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhyZW1vdGUsICJBZGRlZCBpbml0aWFsIGJ1eSBlbnRyeSBvcmRlciAke29yZGVyLmV4Y2hhbmdlSWR9IHRvIHRyYWRpbmcgcmVjb3JkIGF0IGluZGV4ICRpbmRleCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlbmFibGVkOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGlja2VyLXNlcnZpY2U6CiAgaG9zdDogaHR0cDovL2xvY2FsaG9zdDo4MDgxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmFkaW5nUmVjb3JkLmVudGVyKGluZGV4LCBvcmRlci5wcmljZS50b1RhNGpEZWNpbWFsKCksIG9yZGVyLmFtb3VudC50b1RhNGpEZWNpbWFsKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFByb2ZpbGUoUHJvZmlsZXMuUFJPRCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWRpbmdSZWNvcmQuZW50ZXIoaW5kZXgsIG9yZGVyLnByaWNlLnRvVGE0akRlY2ltYWwoKSwgb3JkZXIuYW1vdW50LnRvVGE0akRlY2ltYWwoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFByb2ZpbGUoUHJvZmlsZXMuUFJPRCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmFibGVkOiB0cnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBAQmVhbgogICAgICAgIEBQcm9maWxlKFByb2ZpbGVzLlBST0QpCiAgICAgICAgb3BlbiBmdW4gdGlja2VyU2VydmljZShyZXN0VGVtcGxhdGU6IFJlc3RUZW1wbGF0ZSk6IFRpY2tlclNlcnZpY2UgPSBSZXN0VGlja2VyU2VydmljZShyZXN0VGVtcGxhdGUpCg==</text>
+        <text encoding="base64">dGlja2VyLXNlcnZpY2U6CiAgaG9zdDogaHR0cDovL2xvY2FsaG9zdDo4MDgxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGlja2VyLXNlcnZpY2UtaG9zdDogCg==</text>
+        <text encoding="base64">QFByb2ZpbGUoUHJvZmlsZXMuUFJPRCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFByb2ZpbGUoUHJvZmlsZXMuUFJPRCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set norelativenumber</text>
+        <text>set relativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search>cannot be</last-search>
+      <last-search>ent</last-search>
       <last-offset />
-      <last-pattern>cannot be</last-pattern>
+      <last-pattern>ent</last-pattern>
       <last-replace>firstValue</last-replace>
       <last-substitute>historicalTickersUsed</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>BigDecimal</entry>
         <entry>captor</entry>
         <entry>Captor</entry>
         <entry>L</entry>
@@ -463,6 +462,7 @@
         <entry>tr</entry>
         <entry>disa</entry>
         <entry>cannot be</entry>
+        <entry>ent</entry>
       </history-search>
       <history-cmd>
         <entry>tr</entry>
@@ -472,7 +472,6 @@
         <entry>x</entry>
         <entry>w</entry>
         <entry>%s/LOG/logger/g</entry>
-        <entry>set relativenumber</entry>
         <entry>%s/s[1]//g</entry>
         <entry>h text-objects</entry>
         <entry encoding="base64">aW1hcCBqaiA8RXNjPg==</entry>
@@ -485,6 +484,7 @@
         <entry>q</entry>
         <entry>e</entry>
         <entry>set norelativenumber</entry>
+        <entry>set relativenumber</entry>
       </history-cmd>
       <history-expr />
       <history-input />
