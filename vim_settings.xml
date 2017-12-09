@@ -48,6 +48,9 @@
         <mark key="." line="90" column="130" />
         <mark key="^" line="90" column="130" />
       </file>
+      <file name="E:/prj/ta4k-autocoin/ta4k/src/main/kotlin/eu/verdelhan/ta4j/BaseTradingRecord.kt" timestamp="1512813694549">
+        <mark key="'" line="54" column="48" />
+      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-engine/pom.xml" timestamp="1512390237148">
         <mark key="'" line="154" column="0" />
       </file>
@@ -91,9 +94,9 @@
         <mark key="]" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" timestamp="1511819520588">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" timestamp="1512814559957">
         <mark key="'" line="417" column="4" />
-        <mark key="[" line="377" column="114" />
+        <mark key="[" line="448" column="16" />
         <mark key="]" line="377" column="114" />
         <mark key="." line="377" column="121" />
         <mark key="^" line="61" column="8" />
@@ -144,7 +147,7 @@
         <mark key="." line="111" column="51" />
         <mark key="^" line="111" column="51" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" timestamp="1511819419751">
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" timestamp="1512814301969">
         <mark key="[" line="94" column="158" />
         <mark key="]" line="94" column="165" />
         <mark key="." line="94" column="165" />
@@ -284,8 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="19" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" />
-      <jump line="52" column="34" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" />
       <jump line="270" column="30" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="239" column="46" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="248" column="62" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
@@ -384,6 +385,8 @@
       <jump line="39" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/RestTickerService.kt" />
       <jump line="32" column="53" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/RestTickerService.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/src/test/resources/application.yml" />
+      <jump line="40" column="20" filename="E:/prj/ta4k-autocoin/ta4k/src/main/kotlin/eu/verdelhan/ta4j/BaseTradingRecord.kt" />
+      <jump line="54" column="48" filename="E:/prj/ta4k-autocoin/ta4k/src/main/kotlin/eu/verdelhan/ta4j/BaseTradingRecord.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -393,7 +396,7 @@
         <text encoding="base64">b3BlbiA=</text>
       </register>
       <register name="/" type="4">
-        <text>disa</text>
+        <text>cannot be</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QENvbmRpdGlvbmFsT25Qcm9wZXJ0eShuYW1lID0gWyJ0aWNrZXItc2VydmljZS5kaXNhYmxlZCJdLCBoYXZpbmdWYWx1ZSA9ICJmYWxzZSIpCg==</text>
@@ -430,9 +433,9 @@
       </register>
     </registers>
     <search>
-      <last-search>disa</last-search>
+      <last-search>cannot be</last-search>
       <last-offset />
-      <last-pattern>disa</last-pattern>
+      <last-pattern>cannot be</last-pattern>
       <last-replace>firstValue</last-replace>
       <last-substitute>historicalTickersUsed</last-substitute>
       <last-dir>1</last-dir>
@@ -440,7 +443,6 @@
     </search>
     <history>
       <history-search>
-        <entry>available</entry>
         <entry>BigDecimal</entry>
         <entry>captor</entry>
         <entry>Captor</entry>
@@ -460,6 +462,7 @@
         <entry>false</entry>
         <entry>tr</entry>
         <entry>disa</entry>
+        <entry>cannot be</entry>
       </history-search>
       <history-cmd>
         <entry>tr</entry>
