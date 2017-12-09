@@ -49,6 +49,12 @@
         <mark key="." line="90" column="130" />
         <mark key="^" line="90" column="130" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" timestamp="1512831562703">
+        <mark key="[" line="40" column="24" />
+        <mark key="]" line="40" column="31" />
+        <mark key="^" line="40" column="31" />
+        <mark key="." line="40" column="31" />
+      </file>
       <file name="E:/prj/ta4k-autocoin/ta4k/src/main/kotlin/eu/verdelhan/ta4j/BaseTradingRecord.kt" timestamp="1512813694549">
         <mark key="'" line="54" column="48" />
       </file>
@@ -66,6 +72,12 @@
         <mark key="]" line="1" column="23" />
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/TradingParameters.kt" timestamp="1512831356876">
+        <mark key="[" line="39" column="92" />
+        <mark key="]" line="40" column="3" />
+        <mark key="^" line="40" column="3" />
+        <mark key="." line="40" column="3" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" timestamp="1511990821687">
         <mark key="'" line="303" column="15" />
@@ -98,7 +110,8 @@
         <mark key="]" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" timestamp="1512817344724">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" timestamp="1512831458297">
+        <mark key="'" line="411" column="52" />
         <mark key="[" line="455" column="0" />
         <mark key="]" line="455" column="0" />
         <mark key="^" line="444" column="55" />
@@ -187,12 +200,12 @@
         <mark key="^" line="75" column="54" />
         <mark key="." line="75" column="54" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" timestamp="1512830287666">
-        <mark key="'" line="70" column="4" />
-        <mark key="[" line="83" column="61" />
-        <mark key="]" line="83" column="73" />
-        <mark key="^" line="83" column="73" />
-        <mark key="." line="83" column="73" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" timestamp="1512830993259">
+        <mark key="'" line="28" column="26" />
+        <mark key="[" line="77" column="38" />
+        <mark key="]" line="78" column="54" />
+        <mark key="^" line="78" column="54" />
+        <mark key="." line="78" column="54" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor.log" timestamp="1511991950676">
         <mark key="'" line="1032" column="66" />
@@ -228,7 +241,7 @@
         <mark key="^" line="287" column="33" />
         <mark key="." line="265" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512830317370">
+      <file name="/Dummy.txt" timestamp="1512831718458">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -290,7 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="62" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="255" column="62" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="120" column="0" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/EnterWhenDroppingExitWithTrailingStopStrategyTest.kt" />
       <jump line="534" column="62" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
@@ -366,7 +378,6 @@
       <jump line="85" column="45" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutor_ExitWithTrailingStopTest.kt" />
       <jump line="28" column="32" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangeHealthTest.kt" />
       <jump line="36" column="69" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" />
-      <jump line="28" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" />
       <jump line="24" column="27" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" />
       <jump line="27" column="9" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" />
       <jump line="69" column="39" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangeHealthTest.kt" />
@@ -390,16 +401,18 @@
       <jump line="54" column="48" filename="E:/prj/ta4k-autocoin/ta4k/src/main/kotlin/eu/verdelhan/ta4j/BaseTradingRecord.kt" />
       <jump line="455" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
       <jump line="468" column="20" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
+      <jump line="28" column="26" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" />
+      <jump line="411" column="52" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/StrategyExecutor.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>, e</text>
       </register>
       <register name="/" type="4">
-        <text>exit</text>
+        <text>No initial order in strategy configuration</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYWRkS2V5SGFzaFZhbGlkVG8oIjE1N2UzODZjOWM4YjNmM2UyYWE3ZjcyNTVjYTZlNWQ5YTNiOTI0OTQ5NzUyYzViNjAwMWQ1MmQ3MTIzMTNjMjMiLCBab25lZERhdGVUaW1lLm5vdygpLnBsdXNZZWFycygxMCkpCg==</text>
@@ -436,9 +449,9 @@
       </register>
     </registers>
     <search>
-      <last-search>exit</last-search>
+      <last-search>No initial order in strategy configuration</last-search>
       <last-offset />
-      <last-pattern>exit</last-pattern>
+      <last-pattern>No initial order in strategy configuration</last-pattern>
       <last-replace>firstValue</last-replace>
       <last-substitute>historicalTickersUsed</last-substitute>
       <last-dir>1</last-dir>
@@ -446,9 +459,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Captor</entry>
-        <entry>L</entry>
-        <entry>LT</entry>
         <entry>tra</entry>
         <entry>O</entry>
         <entry>cu</entry>
@@ -466,6 +476,9 @@
         <entry>cannot be</entry>
         <entry>ent</entry>
         <entry>exit</entry>
+        <entry>checking</entry>
+        <entry>Checking</entry>
+        <entry>No initial order in strategy configuration</entry>
       </history-search>
       <history-cmd>
         <entry>tr</entry>
