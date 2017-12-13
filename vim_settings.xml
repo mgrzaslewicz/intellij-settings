@@ -114,11 +114,11 @@
         <mark key="^" line="156" column="15" />
         <mark key="." line="158" column="76" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application.yml" timestamp="1512398797320">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/remotelog/RemoteLogService.kt" timestamp="1513188542702">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="81" column="14" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/status/StartedListeningCurrencyPairNotifier.kt" timestamp="1510613770871">
         <mark key="'" line="12" column="29" />
@@ -272,7 +272,7 @@
         <mark key="^" line="287" column="33" />
         <mark key="." line="265" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513015789219">
+      <file name="/Dummy.txt" timestamp="1513188589526">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -283,6 +283,12 @@
         <mark key="]" line="77" column="29" />
         <mark key="." line="77" column="29" />
         <mark key="^" line="77" column="66" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/remotelog/RestRemoteLogServiceTest.kt" timestamp="1513188323349">
+        <mark key="[" line="53" column="27" />
+        <mark key="]" line="53" column="27" />
+        <mark key="." line="53" column="27" />
+        <mark key="^" line="53" column="27" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" timestamp="1510525719157">
         <mark key="'" line="48" column="30" />
@@ -446,40 +452,40 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3BlbiA=</text>
+        <text encoding="base64">dmFsIGVudGl0eSA9IA==</text>
       </register>
       <register name="/" type="4">
         <text>disa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25Qcm9wZXJ0eShuYW1lID0gWyJ0aWNrZXItc2VydmljZS5kaXNhYmxlZCJdLCBoYXZpbmdWYWx1ZSA9ICJmYWxzZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRFeHBlY3QoaGVhZGVyKCJjb250ZW50IiwgInNhbXBsZSBpbmZvIikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlbmFibGVkOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZW50aXR5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGlja2VyLXNlcnZpY2U6CiAgaG9zdDogaHR0cDovL2xvY2FsaG9zdDo4MDgxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFByb2ZpbGUoUHJvZmlsZXMuUFJPRCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRFeHBlY3QoYm9keQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFByb2ZpbGUoUHJvZmlsZXMuUFJPRCkK</text>
+        <text encoding="base64">ICAgICAgICBlbnRpdHkuYgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXJzLnNldCgiY29udGVudCIsIGNvbnRlbnQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBAQmVhbgogICAgICAgIEBQcm9maWxlKFByb2ZpbGVzLlBST0QpCiAgICAgICAgb3BlbiBmdW4gdGlja2VyU2VydmljZShyZXN0VGVtcGxhdGU6IFJlc3RUZW1wbGF0ZSk6IFRpY2tlclNlcnZpY2UgPSBSZXN0VGlja2VyU2VydmljZShyZXN0VGVtcGxhdGUpCg==</text>
+        <text encoding="base64">ICBlbmFibGVkOiB0cnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGlja2VyLXNlcnZpY2UtaG9zdDogCg==</text>
+        <text encoding="base64">dGlja2VyLXNlcnZpY2U6CiAgaG9zdDogaHR0cDovL2xvY2FsaG9zdDo4MDgxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFByb2ZpbGUoUHJvZmlsZXMuUFJPRCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFByb2ZpbGUoUHJvZmlsZXMuUFJPRCkK</text>
       </register>
       <register name=":" type="4">
         <text>set norelativenumber</text>
