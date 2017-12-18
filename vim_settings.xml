@@ -256,6 +256,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/TradingParametersController.kt" timestamp="1513621813548" />
       <file name="E:/prj/autocoin-strategy-executor/src/main/resources/logback.xml" timestamp="1510521892194">
         <mark key="'" line="4" column="5" />
         <mark key="[" line="2" column="43" />
@@ -322,6 +323,12 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/target/contoller.json" timestamp="1513621324355">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="22" column="19" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/subscription/SubscriptionWatcherTest.kt" timestamp="1510778714969">
         <mark key="'" line="33" column="54" />
@@ -438,7 +445,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>content</text>
+        <text encoding="base64">Qm9keSA9IA==</text>
       </register>
       <register name="/" type="4">
         <text>disa</text>
@@ -447,31 +454,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRFeHBlY3QoaGVhZGVyKCJjb250ZW50IiwgInNhbXBsZSBpbmZvIikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Rm9yd2FyZGVkIFVSTCA9IG51bGwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGF0YSBjbGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGltZXN0YW1wID0gTG9jYWxEYXRlVGltZS5ub3coKS50b0luc3RhbnQoWm9uZU9mZnNldC5zeXN0ZW1EZWZhdWx0KCkpLnRvRXBvY2hNaWxsaSgpCg==</text>
+        <text encoding="base64">ZGF0YSBjbGFzcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmV4aXQoMSkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdGltZXN0YW1wID0gTG9jYWxEYXRlVGltZS5ub3coKS50b0luc3RhbnQoWm9uZU9mZnNldC5zeXN0ZW1EZWZhdWx0KCkpLnRvRXBvY2hNaWxsaSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZW50aXR5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmV4aXQoMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZW50aXR5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRFeHBlY3QoYm9keQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHkuYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRFeHBlY3QoYm9keQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJzLnNldCgiY29udGVudCIsIGNvbnRlbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbnRpdHkuYgo=</text>
       </register>
       <register name=":" type="4">
         <text>set norelativenumber</text>
