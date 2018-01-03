@@ -23,6 +23,9 @@
         <mark key="." line="224" column="128" />
         <mark key="^" line="211" column="130" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/target/test.json" timestamp="1515018457263">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1512557188272">
         <mark key="'" line="45" column="54" />
         <mark key="[" line="16" column="24" />
@@ -80,8 +83,12 @@
         <mark key="." line="132" column="4" />
         <mark key="^" line="132" column="4" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" timestamp="1511990821687">
-        <mark key="'" line="324" column="15" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/LocalOrderService.kt" timestamp="1515018279107">
+        <mark key="'" line="336" column="15" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="73" column="29" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application.yml" timestamp="1512398797320">
         <mark key="'" line="0" column="0" />
@@ -113,6 +120,12 @@
         <mark key="]" line="34" column="174" />
         <mark key="." line="34" column="174" />
         <mark key="^" line="34" column="174" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/api/UserControllerTest.kt" timestamp="1515019295147">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="45" column="21" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TradingParametersTest.kt" timestamp="1509955688485">
         <mark key="'" line="25" column="0" />
@@ -257,6 +270,9 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/UserController.kt" timestamp="1515018828383">
+        <mark key="[" line="14" column="82" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/config/PropertyFeatureToggleTest.kt" timestamp="1509956569170">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -382,43 +398,74 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3BlbiA=</text>
+        <text>Repository: UserRepository</text>
       </register>
       <register name="/" type="4">
         <text>disa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25Qcm9wZXJ0eShuYW1lID0gWyJ0aWNrZXItc2VydmljZS5kaXNhYmxlZCJdLCBoYXZpbmdWYWx1ZSA9ICJmYWxzZSIpCg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIGxhdGVpbml0IHZhciB1c2VyUmVwb3NpdG9yeTogVXNlclJlcG9zaXRvcnkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlbmFibGVkOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIGxhdGVpbml0IHZhciBlbnRpdHlNYW5hZ2VyOiBFbnRpdHlNYW5hZ2VyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGlja2VyLXNlcnZpY2U6CiAgaG9zdDogaHR0cDovL2xvY2FsaG9zdDo4MDgxCg==</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFByb2ZpbGUoUHJvZmlsZXMuUFJPRCkK</text>
+        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLmZsdXNoKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFByb2ZpbGUoUHJvZmlsZXMuUFJPRCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBAQmVhbgogICAgICAgIEBQcm9maWxlKFByb2ZpbGVzLlBST0QpCiAgICAgICAgb3BlbiBmdW4gdGlja2VyU2VydmljZShyZXN0VGVtcGxhdGU6IFJlc3RUZW1wbGF0ZSk6IFRpY2tlclNlcnZpY2UgPSBSZXN0VGlja2VyU2VydmljZShyZXN0VGVtcGxhdGUpCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgIA==</text>
+      </register>
+      <register name="6" type="4">
+        <text>&quot;[
+                {
+                    &quot;userName&quot;: &quot;default&quot;,
+                    &quot;subscriptionKey&quot;: &quot;key-1&quot;,
+                    &quot;exchangeKeys&quot;: [
+                    {
+                        &quot;exchangeName&quot;: &quot;bitbay&quot;,
+                        &quot;secretKey&quot;: &quot;sample-secret-key-2&quot;,
+                        &quot;publicKey&quot;: &quot;sample-public-key-2&quot;
+                    },
+                    {
+                        &quot;exchangeName&quot;: &quot;bittrex&quot;,
+                        &quot;secretKey&quot;: &quot;sample-secret-key-1&quot;,
+                        &quot;publicKey&quot;: &quot;sample-public-key-1&quot;
+                    }
+                    ],
+                    &quot;children&quot;: [
+                    {
+                        &quot;userName&quot;: &quot;default&quot;,
+                        &quot;subscriptionKey&quot;: &quot;key-2&quot;,
+                        &quot;exchangeKeys&quot;: [
+                        {
+                            &quot;exchangeName&quot;: &quot;bittrex&quot;,
+                            &quot;secretKey&quot;: &quot;sample-secret-key-3&quot;,
+                            &quot;publicKey&quot;: &quot;sample-public-key-3&quot;
+                        }
+                        ],
+                        &quot;children&quot;: []
+                    }
+                    ]
+                }
+        ])</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGlja2VyLXNlcnZpY2UtaG9zdDogCg==</text>
+        <text encoding="base64">ICAgIGZ1biB1c2VyTmFtZSgpOiBTdHJpbmcgPSB1c2VyLm5hbWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHVzZXJSZXBvc2l0b3J5LmZsdXNoKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmFibGVkOiB0cnVlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>set norelativenumber</text>
+        <text>set relativenumber</text>
       </register>
     </registers>
     <search>
@@ -461,7 +508,6 @@
         <entry>x</entry>
         <entry>w</entry>
         <entry>%s/LOG/logger/g</entry>
-        <entry>set relativenumber</entry>
         <entry>%s/s[1]//g</entry>
         <entry>h text-objects</entry>
         <entry encoding="base64">aW1hcCBqaiA8RXNjPg==</entry>
@@ -474,6 +520,7 @@
         <entry>q</entry>
         <entry>e</entry>
         <entry>set norelativenumber</entry>
+        <entry>set relativenumber</entry>
       </history-cmd>
       <history-expr />
       <history-input />
