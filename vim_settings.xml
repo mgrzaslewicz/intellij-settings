@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/UserRepository.kt" timestamp="1515246616687">
+        <mark key="[" line="11" column="60" />
+        <mark key="]" line="11" column="61" />
+        <mark key="." line="11" column="61" />
+        <mark key="^" line="11" column="52" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" timestamp="1511819508883">
         <mark key="[" line="224" column="121" />
         <mark key="]" line="224" column="121" />
@@ -18,12 +24,22 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="5" column="55" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1515245068455">
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/User.kt" timestamp="1515246705771">
+        <mark key="[" line="24" column="14" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1515249090417">
         <mark key="'" line="45" column="54" />
         <mark key="[" line="16" column="24" />
         <mark key="]" line="16" column="25" />
         <mark key="^" line="25" column="34" />
         <mark key="." line="16" column="25" />
+      </file>
+      <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchangesFactory.kt" timestamp="1515249814327">
+        <mark key="'" line="61" column="9" />
+        <mark key="[" line="36" column="52" />
+        <mark key="]" line="36" column="71" />
+        <mark key="^" line="36" column="71" />
+        <mark key="." line="36" column="71" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/AutoCoinTradeService.kt" timestamp="1511819435545">
         <mark key="[" line="90" column="123" />
@@ -31,11 +47,11 @@
         <mark key="." line="90" column="130" />
         <mark key="^" line="90" column="130" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" timestamp="1515244032634">
-        <mark key="[" line="43" column="7" />
-        <mark key="]" line="42" column="22" />
-        <mark key="." line="42" column="22" />
-        <mark key="^" line="42" column="22" />
+      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" timestamp="1515246346717">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="37" column="13" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/Extensions.kt" timestamp="1515243001862">
         <mark key="[" line="19" column="0" />
@@ -51,6 +67,12 @@
         <mark key="^" line="30" column="62" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/tradeservice/TradeServiceFactory.kt" timestamp="1515249335850">
+        <mark key="[" line="21" column="7" />
+        <mark key="]" line="8" column="30" />
+        <mark key="^" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3baa1f22-6603-448b-a5d0-35fbee98abd7/console.sql" timestamp="1515103696773">
         <mark key="[" line="18" column="0" />
       </file>
@@ -65,13 +87,17 @@
         <mark key="." line="34" column="174" />
         <mark key="^" line="34" column="174" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/api/UserControllerTest.kt" timestamp="1515247106224" />
       <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-initial-order-in-parameters.yml" timestamp="1511304126289">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" timestamp="1515180539939">
-        <mark key="[" line="8" column="37" />
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" timestamp="1515248648969">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="9" column="98" />
+        <mark key="^" line="9" column="98" />
+        <mark key="." line="9" column="98" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" timestamp="1511819419751">
         <mark key="[" line="94" column="158" />
@@ -90,6 +116,9 @@
         <mark key="^" line="46" column="22" />
         <mark key="." line="46" column="22" />
       </file>
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1515249319316">
+        <mark key="[" line="7" column="23" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" timestamp="1512400596494">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -100,6 +129,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1515249312191" />
+      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-ticker-engine/0.1-SNAPSHOT/autocoin-ticker-engine-0.1-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/AutocoinExchangesFactory.kt" timestamp="1515249177311" />
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" timestamp="1515242831269">
         <mark key="'" line="255" column="62" />
         <mark key="[" line="265" column="49" />
@@ -110,7 +141,7 @@
       <file name="/dummy.sql" timestamp="1515103485104">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515243194889">
+      <file name="/Dummy.txt" timestamp="1515249845785">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -140,6 +171,9 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/UserController.kt" timestamp="1515109510428">
         <mark key="[" line="30" column="25" />
       </file>
+      <file name="E:/prj/autocoin-order-service/pom.xml" timestamp="1515249099728">
+        <mark key="[" line="64" column="21" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/config/PropertyFeatureToggleTest.kt" timestamp="1509956569170">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -155,7 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="270" column="30" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="239" column="46" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="248" column="62" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
       <jump line="255" column="62" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/LocalOrderServiceTest.kt" />
@@ -255,78 +288,56 @@
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/src/test/resources/application.yml" />
       <jump line="45" column="54" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
       <jump line="111" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
+      <jump line="62" column="9" filename="E:/prj/autocoin-ticker-service/autocoin-ticker-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchangesFactory.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>Users</text>
+        <text>exchangeKeys</text>
       </register>
       <register name="/" type="4">
-        <text>disa</text>
+        <text>ex</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIGxhdGVpbml0IHZhciB1c2VyUmVwb3NpdG9yeTogVXNlclJlcG9zaXRvcnkK</text>
+      <register name="0" type="4">
+        <text>e fun assignKeys(supportedExchange: SupportedExchange, e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXhjaGFuZ2VLZXlzICE9IG51bGwpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwga2V5ID0gZXhjaGFuZ2VLZXlzLm1hcFtzdXBwb3J0ZWRFeGNoYW5nZS5leGNoYW5nZU5hbWVdISEua2V5CiAgICAgICAgdmFsIHNlY3JldCA9IGV4Y2hhbmdlS2V5cy5tYXBbc3VwcG9ydGVkRXhjaGFuZ2UuZXhjaGFuZ2VOYW1lXSEhLnNlY3JldAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>CREATE TABLE IF NOT EXISTS LOCAL_TRADE (
-  id            BIGINT IDENTITY PRIMARY KEY,
-  exchange_name VARCHAR(50)  NOT NULL,
-  strategy_name VARCHAR(256) NOT NULL,
-  currency_pair VARCHAR(16)  NOT NULL,
-  ins_time      TIMESTAMP    NOT NULL
-);
-
-CREATE TABLE IF NOT EXISTS LOCAL_ORDER (
-  id                  BIGINT IDENTITY PRIMARY KEY,
-  exchange_id         VARCHAR(128)   NOT NULL,
-  status              VARCHAR(32)    NOT NULL,
-  is_buy              BOOLEAN        NOT NULL,
-  is_made_by_strategy BOOLEAN        NOT NULL,
-  price               NUMERIC(32, 8) NOT NULL,
-  amount              NUMERIC(32, 8) NOT NULL,
-  ins_time            TIMESTAMP      NOT NULL,
-  open_time           TIMESTAMP      NOT NULL,
-  close_time          TIMESTAMP,
-  local_trade_id      BIGINT         NOT NULL,
-  CONSTRAINT uq_local_order_exchange_id_local_trade UNIQUE (exchange_id, local_trade_id),
-  CONSTRAINT fk_lo_lt FOREIGN KEY (local_trade_id) REFERENCES LOCAL_TRADE (id)
-    ON DELETE CASCADE
-);</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoIWV4Y2hhbmdlS2V5cy5tYXAuY29udGFpbnNLZXkoc3VwcG9ydGVkRXhjaGFuZ2UuZXhjaGFuZ2VOYW1lKSkgewogICAgICAgICAgICB0aHJvdyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIktleXMgZm9yIGV4Y2hhbmdlICRzdXBwb3J0ZWRFeGNoYW5nZSBub3QgYXZhaWxhYmxlIikKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGUK</text>
+        <text encoding="base64">ICAgIEBRdWVyeSgiU0VMRUNUIHUgRlJPTSBVc2VyIHUgV0hFUkUgdS5wYXJlbnQgPSBudWxsIikK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHNhbXBsZU9yZGVycygpOiBMaXN0PE9yZGVyPiB7CiAgICAgICAgcmV0dXJuIGxpc3RPZigKICAgICAgICAgICAgICAgIExpbWl0T3JkZXIoT3JkZXIuT3JkZXJUeXBlLkJJRCwgMC4yMy50b0JpZ0RlY2ltYWwoKSwgQ3VycmVuY3lQYWlyLlNUUl9CVEMsICJhIiwgWm9uZWREYXRlVGltZS5vZihMb2NhbERhdGVUaW1lLm9mKDIwMTcsIDUsIDUsIDE4LCA0NCwgOCksIFpvbmVJZC5zeXN0ZW1EZWZhdWx0KCkpLnRvRGF0ZSgpLCAxLjEzLnRvQmlnRGVjaW1hbCgpLCAxLjEyLnRvQmlnRGVjaW1hbCgpLCAwLjIyOS50b0JpZ0RlY2ltYWwoKSwgT3JkZXIuT3JkZXJTdGF0dXMuUEFSVElBTExZX0ZJTExFRCkKICAgICAgICApCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrTXZjLnBlcmZvcm0oZ2V0KCIvb3Blbi1vcmRlcnMva2V5LTEiKSkKICAgICAgICAgICAgICAgIC5hbmRFeHBlY3Qoc3RhdHVzKCkuaXNPaykKICAgICAgICAgICAgICAgIC5hbmRFeHBlY3QoY29udGVudCgpLmNvbnRlbnRUeXBlKEFQUExJQ0FUSU9OX0pTT05fVVRGOCkpCiAgICAgICAgICAgICAgICAuYW5kRXhwZWN0KGNvbnRlbnQoKS5qc29uKCIiIgpbCiAgewogICAgImV4Y2hhbmdlSWQiOiAiYSIsCiAgICAiZW50cnlDdXJyZW5jeUNvZGUiOiAiU1RSIiwKICAgICJleGl0Q3VycmVuY3lDb2RlIjogIkJUQyIsCiAgICAib3JkZXJUeXBlIjogIkJJRCIsCiAgICAib3JkZXJTdGF0dXMiOiAiUEFSVElBTExZX0ZJTExFRCIsCiAgICAib3JkZXJlZEFtb3VudCI6IDAuMjMsCiAgICAiZmlsbGVkQW1vdW50IjogMC4yMjksCiAgICAicHJpY2UiOiAxLjEyLAogICAgInRpbWVzdGFtcCI6IDE0OTQwMDI2NDgwMDAKICB9Cl0KICAgICAgICAgICAgIiIiLnRyaW1JbmRlbnQoKSkKICAgICAgICAgICAgICAgICkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIEBCZWZvcmUKICAgIGZ1biBwcmVwYXJlU2FtcGxlT3Blbk9yZGVycygpIHsKICAgICAgICB3aGVuZXZlcihvcmRlclNlcnZpY2UuZ2V0T3Blbk9yZGVycygia2V5LTEiKSkudGhlblJldHVybihzYW1wbGVPcmRlcnMoKSkKICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCiAgICBsYXRlaW5pdCBwcml2YXRlIHZhciBtb2NrTXZjOiBNb2NrTXZjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1biBab25lZERhdGVUaW1lLnRvRGF0ZSgpID0gRGF0ZS5mcm9tKHRoaXMudG9JbnN0YW50KCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search>disa</last-search>
+      <last-search>ex</last-search>
       <last-offset />
-      <last-pattern>disa</last-pattern>
+      <last-pattern>ex</last-pattern>
       <last-replace>firstValue</last-replace>
       <last-substitute>historicalTickersUsed</last-substitute>
       <last-dir>1</last-dir>
@@ -334,7 +345,6 @@ CREATE TABLE IF NOT EXISTS LOCAL_ORDER (
     </search>
     <history>
       <history-search>
-        <entry>available</entry>
         <entry>BigDecimal</entry>
         <entry>captor</entry>
         <entry>Captor</entry>
@@ -354,6 +364,7 @@ CREATE TABLE IF NOT EXISTS LOCAL_ORDER (
         <entry>false</entry>
         <entry>tr</entry>
         <entry>disa</entry>
+        <entry>ex</entry>
       </history-search>
       <history-cmd>
         <entry>tr</entry>
