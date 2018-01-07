@@ -47,12 +47,12 @@
         <mark key="." line="90" column="130" />
         <mark key="^" line="90" column="130" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" timestamp="1515356308587">
+      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" timestamp="1515362073524">
         <mark key="'" line="125" column="80" />
-        <mark key="[" line="135" column="69" />
-        <mark key="]" line="135" column="79" />
-        <mark key="." line="135" column="79" />
-        <mark key="^" line="135" column="79" />
+        <mark key="[" line="135" column="80" />
+        <mark key="]" line="135" column="92" />
+        <mark key="." line="135" column="92" />
+        <mark key="^" line="135" column="92" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/resources/logback-spring.xml" timestamp="1515264263007">
         <mark key="[" line="37" column="0" />
@@ -75,7 +75,7 @@
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/InvestStrategy.kt" timestamp="1515268271898" />
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/TradingParameters.kt" timestamp="1515268217470" />
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderController.kt" timestamp="1515359668443">
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderController.kt" timestamp="1515361851650">
         <mark key="[" line="45" column="74" />
         <mark key="]" line="44" column="74" />
         <mark key="^" line="44" column="74" />
@@ -109,11 +109,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" timestamp="1515354127717">
-        <mark key="[" line="18" column="50" />
-        <mark key="]" line="29" column="160" />
-        <mark key="." line="29" column="160" />
-        <mark key="^" line="29" column="160" />
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" timestamp="1515362016990">
+        <mark key="[" line="33" column="63" />
+        <mark key="]" line="21" column="86" />
+        <mark key="." line="21" column="86" />
+        <mark key="^" line="21" column="86" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" timestamp="1511819419751">
         <mark key="[" line="94" column="158" />
@@ -126,11 +126,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderControllerTest.kt" timestamp="1515359750459">
-        <mark key="[" line="45" column="48" />
-        <mark key="]" line="58" column="9" />
-        <mark key="." line="58" column="9" />
-        <mark key="^" line="58" column="9" />
+      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderControllerTest.kt" timestamp="1515362036629">
+        <mark key="[" line="40" column="83" />
+        <mark key="]" line="40" column="83" />
+        <mark key="." line="40" column="83" />
+        <mark key="^" line="40" column="83" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/main/resources/application-hsql.yml" timestamp="1515267010837" />
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeKeyRepository.kt" timestamp="1515261882902">
@@ -155,7 +155,7 @@
         <mark key="^" line="287" column="33" />
         <mark key="." line="265" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515357285477">
+      <file name="/Dummy.txt" timestamp="1515361703199">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -302,7 +302,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>exchange</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>id-</text>
