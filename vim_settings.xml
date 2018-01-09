@@ -62,6 +62,7 @@
       <file name="E:/prj/autocoin-order-service/target/test.json" timestamp="1515243135522">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-bitbay/4.3.1/xchange-bitbay-4.3.1.jar!/org/knowm/xchange/bitbay/service/BitbayTradeService.class" timestamp="1515522877877" />
       <file name="E:/prj/autocoin-order-service/log/autocoin-order-service.log" timestamp="1515369243016">
         <mark key="'" line="1001" column="6" />
       </file>
@@ -104,12 +105,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" timestamp="1515365355611">
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" timestamp="1515522598895">
         <mark key="a" line="55" column="56" />
-        <mark key="[" line="34" column="109" />
-        <mark key="]" line="56" column="89" />
-        <mark key="." line="56" column="89" />
-        <mark key="^" line="56" column="89" />
+        <mark key="[" line="26" column="130" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="27" column="118" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" timestamp="1511819419751">
         <mark key="[" line="94" column="158" />
@@ -309,7 +310,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>it</text>
       </register>
       <register name="/" type="4">
         <text>id-</text>
@@ -318,31 +319,31 @@
         <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBwYXJlbnRVc2VySWQ6IFN0cmluZwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gZXhjaGFuZ2Vfa2V5IHZhbHVlcygxLCAndXNlci0xJywgJ2JpbmFuY2UnLCAnN2UyOG4wY0JMVE1NMEswRXZYUm56TTVzejZsTHlsMDJFRFFWTk93bTFOVndYRG5QR2xQNXNPcldsWHhmSjhSMicsICc5RzNFZlRiT1BrNWlRTmNDQ1VSaHpYRzBKcnJDam5lendkOW1hY2hNU1ptU3QwcjF3bE9KNnAxRGJrT2cxaVg5Jyk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW5zZXJ0IGkzZGRudG8gdXNlciB2YWx1ZXMoJ3VzZXItMScsICd0ZXN0JywgbnVsbCk7Cmluc2VydCBpbnRvIGV4Y2hhbmdlX2tleSB2YWx1ZXMoMCwgJ3VzZXItMScsICdiaXR0cmV4JywgJzc3M2ExODczZjg1MjRkZjE4ZDMyNTEyZmFmMDAwYmExJywgJzdkMmMyYTA2OWFmNjRkNzE4Y2YxYjUzNDU2MjUyMTU1Jyk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC53ZWIuc2VydmxldC5yZXF1ZXN0Lk1vY2tNdmNSZXF1ZXN0QnVpbGRlcnMuZ2V0Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXNlcnMgPSB1c2VyUmVwb3NpdG9yeS5maW5kQnlJZCgiaWQtMSIpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBDT05TVFJBSU5UIHVxX3Vfc3Vic2NyaXB0aW9uX2tleSBVTklRVUUgKHN1YnNjcmlwdGlvbl9rZXkpLAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRyYWRlU2VydmljZSA9IHRyYWRlU2VydmljZUZhY3RvcnkuZ2V0KGNhbmNlbE9yZGVyLmV4Y2hhbmdlTmFtZSwgdXNlci5FeGl0LnB1YmxpY0tleSwgaXQuc2VjcmV0S2V5KQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgdHJhZGVTZXJ2aWNlID0gdHJhZGVTZXJ2aWNlRmFjdG9yeS5nZXQoY2FuY2VsT3JkZXIuZXhjaGFuZ2VOYW1lLCBjYW5jZWxPcmRlci4gaXQucHVibGljS2V5LCBpdC5zZWNyZXRLZXkpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW5zZXJ0IGludG8gZXhjaGFuZ2Vfa2V5IHZhbHVlcygxLCAndXNlci0xJywgJ2JpbmFuY2UnLCAnN2UyOG4wY0JMVE1NMEswRXZYUm56TTVzejZsTHlsMDJFRFFWTk93bTFOVndYRG5QR2xQNXNPcldsWHhmSjhSMicsICc5RzNFZlRiT1BrNWlRTmNDQ1VSaHpYRzBKcnJDam5lendkOW1hY2hNU1ptU3QwcjF3bE9KNnAxRGJrT2cxaVg5Jyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW5zZXJ0IGkzZGRudG8gdXNlciB2YWx1ZXMoJ3VzZXItMScsICd0ZXN0JywgbnVsbCk7Cmluc2VydCBpbnRvIGV4Y2hhbmdlX2tleSB2YWx1ZXMoMCwgJ3VzZXItMScsICdiaXR0cmV4JywgJzc3M2ExODczZjg1MjRkZjE4ZDMyNTEyZmFmMDAwYmExJywgJzdkMmMyYTA2OWFmNjRkNzE4Y2YxYjUzNDU2MjUyMTU1Jyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC53ZWIuc2VydmxldC5yZXF1ZXN0Lk1vY2tNdmNSZXF1ZXN0QnVpbGRlcnMuZ2V0Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAQ29sdW1uKG5hbWUgPSAic3Vic2NyaXB0aW9uX2tleSIsIGNvbHVtbkRlZmluaXRpb24gPSAiVkFSQ0hBUigxMjgpIiwgbnVsbGFibGUgPSBmYWxzZSkKICAgICAgICB2YXIgc3Vic2NyaXB0aW9uS2V5OiBTdHJpbmcgPSAiIiwK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdXNlcnMgPSB1c2VyUmVwb3NpdG9yeS5maW5kQnlJZCgiaWQtMSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAR2VuZXJhdGVkVmFsdWUoc3RyYXRlZ3kgPSBHZW5lcmF0aW9uVHlwZS5JREVOVElUWSkKCg==</text>
+        <text encoding="base64">ICBDT05TVFJBSU5UIHVxX3Vfc3Vic2NyaXB0aW9uX2tleSBVTklRVUUgKHN1YnNjcmlwdGlvbl9rZXkpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAR2VuZXJpY0dlbmVyYXRvcihuYW1lID0gInV1aWQiLCBzdHJhdGVneSA9ICJ1dWlkMiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
