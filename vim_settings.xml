@@ -68,11 +68,11 @@
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/InvestStrategy.kt" timestamp="1515268271898" />
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/TradingParameters.kt" timestamp="1515268217470" />
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderController.kt" timestamp="1515445010128">
-        <mark key="[" line="45" column="74" />
-        <mark key="]" line="44" column="74" />
-        <mark key="^" line="44" column="74" />
-        <mark key="." line="44" column="74" />
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderController.kt" timestamp="1515535621716">
+        <mark key="[" line="70" column="28" />
+        <mark key="]" line="70" column="28" />
+        <mark key="^" line="68" column="72" />
+        <mark key="." line="70" column="28" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/tradeservice/TradeServiceFactory.kt" timestamp="1515264039622">
         <mark key="[" line="24" column="96" />
@@ -123,11 +123,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderControllerTest.kt" timestamp="1515533906275">
-        <mark key="[" line="55" column="21" />
-        <mark key="]" line="55" column="21" />
-        <mark key="." line="55" column="21" />
-        <mark key="^" line="44" column="173" />
+      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderControllerTest.kt" timestamp="1515535638268">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="66" column="48" />
+        <mark key="." line="66" column="48" />
+        <mark key="^" line="66" column="46" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1515249319316">
         <mark key="[" line="7" column="23" />
@@ -310,7 +310,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>bittrex</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>id-</text>
@@ -319,31 +319,31 @@
         <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBwYXJlbnRVc2VySWQ6IFN0cmluZwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRyYWRlU2VydmljZSA9IHRyYWRlU2VydmljZUZhY3RvcnkuZ2V0KGNhbmNlbE9yZGVyLmV4Y2hhbmdlTmFtZSwgdXNlci5FeGl0LnB1YmxpY0tleSwgaXQuc2VjcmV0S2V5KQo=</text>
+        <text encoding="base64">WwogIHsKICAgICJ1c2VySWQiOiAiaWQtMSIsCiAgICAiZXhjaGFuZ2VOYW1lIjogImJpdHRyZXgiLAogICAgIm9yZGVySWQiOiAiYSIsCiAgICAiZW50cnlDdXJyZW5jeUNvZGUiOiAiU1RSIiwKICAgICJleGl0Q3VycmVuY3lDb2RlIjogIkJUQyIsCiAgICAib3JkZXJUeXBlIjogIkJJRCIsCiAgICAib3JkZXJTdGF0dXMiOiAiUEFSVElBTExZX0ZJTExFRCIsCiAgICAib3JkZXJlZEFtb3VudCI6IDAuMjMsCiAgICAiZmlsbGVkQW1vdW50IjogMC4yMjksCiAgICAicHJpY2UiOiAxLjEyLAogICAgInRpbWVzdGFtcCI6IDE0OTQwMDI2NDgwMDAKICB9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdHJhZGVTZXJ2aWNlID0gdHJhZGVTZXJ2aWNlRmFjdG9yeS5nZXQoY2FuY2VsT3JkZXIuZXhjaGFuZ2VOYW1lLCBjYW5jZWxPcmRlci4gaXQucHVibGljS2V5LCBpdC5zZWNyZXRLZXkpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Z2V0T3Blbk9yZGVyc0luY2x1ZGluZ1VzZXJDaGlsZHJlbih1c2VySWQsIGNhbmNlbE9yZGVyUmVxdWVzdER0by5jdXJyZW5jeVBhaXJzKQogICAgICAgICAgICAgICAgLmZsYXRNYXAgeyBzdWJzY3JpcHRpb25LZXlXaXRoT3JkZXJzIC0+IHN1YnNjcmlwdGlvbktleVdpdGhPcmRlcnMudmFsdWUubWFwIHsgaXQudG9PcmRlckR0byhzdWJzY3JpcHRpb25LZXlXaXRoT3JkZXJzLmtleSwgaXQuZXhjaGFuZ2VOYW1lKSB9IH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gZXhjaGFuZ2Vfa2V5IHZhbHVlcygxLCAndXNlci0xJywgJ2JpbmFuY2UnLCAnN2UyOG4wY0JMVE1NMEswRXZYUm56TTVzejZsTHlsMDJFRFFWTk93bTFOVndYRG5QR2xQNXNPcldsWHhmSjhSMicsICc5RzNFZlRiT1BrNWlRTmNDQ1VSaHpYRzBKcnJDam5lendkOW1hY2hNU1ptU3QwcjF3bE9KNnAxRGJrT2cxaVg5Jyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5zZXJ0IGkzZGRudG8gdXNlciB2YWx1ZXMoJ3VzZXItMScsICd0ZXN0JywgbnVsbCk7Cmluc2VydCBpbnRvIGV4Y2hhbmdlX2tleSB2YWx1ZXMoMCwgJ3VzZXItMScsICdiaXR0cmV4JywgJzc3M2ExODczZjg1MjRkZjE4ZDMyNTEyZmFmMDAwYmExJywgJzdkMmMyYTA2OWFmNjRkNzE4Y2YxYjUzNDU2MjUyMTU1Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRyYWRlU2VydmljZSA9IHRyYWRlU2VydmljZUZhY3RvcnkuZ2V0KGNhbmNlbE9yZGVyLmV4Y2hhbmdlTmFtZSwgdXNlci5FeGl0LnB1YmxpY0tleSwgaXQuc2VjcmV0S2V5KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC53ZWIuc2VydmxldC5yZXF1ZXN0Lk1vY2tNdmNSZXF1ZXN0QnVpbGRlcnMuZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdHJhZGVTZXJ2aWNlID0gdHJhZGVTZXJ2aWNlRmFjdG9yeS5nZXQoY2FuY2VsT3JkZXIuZXhjaGFuZ2VOYW1lLCBjYW5jZWxPcmRlci4gaXQucHVibGljS2V5LCBpdC5zZWNyZXRLZXkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXNlcnMgPSB1c2VyUmVwb3NpdG9yeS5maW5kQnlJZCgiaWQtMSIpCg==</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gZXhjaGFuZ2Vfa2V5IHZhbHVlcygxLCAndXNlci0xJywgJ2JpbmFuY2UnLCAnN2UyOG4wY0JMVE1NMEswRXZYUm56TTVzejZsTHlsMDJFRFFWTk93bTFOVndYRG5QR2xQNXNPcldsWHhmSjhSMicsICc5RzNFZlRiT1BrNWlRTmNDQ1VSaHpYRzBKcnJDam5lendkOW1hY2hNU1ptU3QwcjF3bE9KNnAxRGJrT2cxaVg5Jyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBDT05TVFJBSU5UIHVxX3Vfc3Vic2NyaXB0aW9uX2tleSBVTklRVUUgKHN1YnNjcmlwdGlvbl9rZXkpLAo=</text>
+        <text encoding="base64">aW5zZXJ0IGkzZGRudG8gdXNlciB2YWx1ZXMoJ3VzZXItMScsICd0ZXN0JywgbnVsbCk7Cmluc2VydCBpbnRvIGV4Y2hhbmdlX2tleSB2YWx1ZXMoMCwgJ3VzZXItMScsICdiaXR0cmV4JywgJzc3M2ExODczZjg1MjRkZjE4ZDMyNTEyZmFmMDAwYmExJywgJzdkMmMyYTA2OWFmNjRkNzE4Y2YxYjUzNDU2MjUyMTU1Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC53ZWIuc2VydmxldC5yZXF1ZXN0Lk1vY2tNdmNSZXF1ZXN0QnVpbGRlcnMuZ2V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
