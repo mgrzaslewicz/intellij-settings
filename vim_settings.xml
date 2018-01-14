@@ -62,7 +62,6 @@
         <mark key="'" line="1001" column="6" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/InvestStrategy.kt" timestamp="1515268271898" />
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/TradingParameters.kt" timestamp="1515268217470" />
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderController.kt" timestamp="1515535621716">
         <mark key="[" line="70" column="28" />
         <mark key="]" line="70" column="28" />
@@ -159,7 +158,6 @@
         <mark key="^" line="46" column="25" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1515268770007">
-        <mark key="[" line="29" column="0" />
         <mark key="]" line="10" column="1" />
         <mark key="." line="10" column="1" />
         <mark key="^" line="10" column="1" />
@@ -169,7 +167,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/UserController.kt" timestamp="1515656867666">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1515932863534">
+        <mark key="[" line="49" column="32" />
+        <mark key="]" line="49" column="32" />
+        <mark key="." line="49" column="33" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/UserController.kt" timestamp="1515932625252">
         <mark key="[" line="20" column="12" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -298,8 +301,8 @@
       <register name="/" type="4">
         <text>id-</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBwYXJlbnRVc2VySWQ6IFN0cmluZwo=</text>
+      <register name="0" type="4">
+        <text>z</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KG9yZGVyc1sicHVibGljLWtleS0zIl0pLmlzTm90RW1wdHkK</text>
