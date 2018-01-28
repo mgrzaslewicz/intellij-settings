@@ -46,19 +46,20 @@
         <mark key="^" line="3" column="63" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1517158787183">
-        <mark key="'" line="62" column="42" />
-        <mark key="[" line="62" column="32" />
-        <mark key="]" line="62" column="34" />
-        <mark key="^" line="62" column="34" />
-        <mark key="." line="62" column="34" />
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1517159661567">
+        <mark key="'" line="59" column="42" />
+        <mark key="[" line="56" column="37" />
+        <mark key="]" line="57" column="37" />
+        <mark key="^" line="57" column="37" />
+        <mark key="." line="57" column="37" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/test/resources/application-test.yml" timestamp="1515260877068">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="E:/prj/autocoin-order-service/src/test/resources/application-test.yml" timestamp="1517159764899">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="13" column="34" />
+        <mark key="." line="13" column="34" />
+        <mark key="^" line="13" column="34" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/resources/application-prd.yml" timestamp="1517158583820">
+      <file name="E:/prj/autocoin-order-service/src/main/resources/application-prd.yml" timestamp="1517159836369">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="67" />
         <mark key="^" line="5" column="67" />
@@ -319,7 +320,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>openid&quot;, &quot;email&quot;</text>
+        <text encoding="base64">dmFsIGRldGFpbHMg</text>
       </register>
       <register name="/" type="4">
         <text>pen</text>
@@ -328,31 +329,31 @@
         <text encoding="base64">ICAgIHVzZXJBdXRob3JpemF0aW9uVXJpOiBodHRwczovL3VzZXJzLWFwaS5hdXRvY29pbi10cmFkZXIuY29tL2lkcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBvYXV0aDI6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGV0YWlscwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEVuYWJsZU9BdXRoMkNsaWVudAo=</text>
+        <text encoding="base64">ICBvYXV0aDI6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIFJFU09VUkNFX0lEID0gIm9yZGVyLXNlcnZpY2UiCiAgICB9Cg==</text>
+        <text encoding="base64">QEVuYWJsZU9BdXRoMkNsaWVudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIFJFU09VUkNFX0lEID0gIm9yZGVyLXNlcnZpY2UiCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3ByaW5nOgogIHNlY3VyaXR5OgogICAgb2F1dGgyOgogICAgICBjbGllbnQ6CgogICAgICAgIHByb3ZpZGVyOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgZW5hYmxlZDogZmFsc2UK</text>
+        <text encoding="base64">c3ByaW5nOgogIHNlY3VyaXR5OgogICAgb2F1dGgyOgogICAgICBjbGllbnQ6CgogICAgICAgIHByb3ZpZGVyOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAogICAgZW5hYmxlZDogZmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3ByaW5nOgogIGpwYToKICAgIGhpYmVybmF0ZS5kZGwtYXV0bzogdXBkYXRlCiAgZGF0YXNvdXJjZToKICAgIHVybDogamRiYzpoc3FsZGI6bWVtOlBVQkxJQztzcWwuc3ludGF4X215cz10cnVlCiAgICB1c2VybmFtZTogc2EK</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNhbmNlbGVkLnN1Y2Nlc3MpLmlzVHJ1ZSgpCiAgICAgICAgYXNzZXJ0VGhhdChjYW5jZWxlZC5vcmRlcklkKS5pc0VxdWFsVG8oImEiKQo=</text>
+        <text encoding="base64">c3ByaW5nOgogIGpwYToKICAgIGhpYmVybmF0ZS5kZGwtYXV0bzogdXBkYXRlCiAgZGF0YXNvdXJjZToKICAgIHVybDogamRiYzpoc3FsZGI6bWVtOlBVQkxJQztzcWwuc3ludGF4X215cz10cnVlCiAgICB1c2VybmFtZTogc2EK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
