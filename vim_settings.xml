@@ -46,19 +46,19 @@
         <mark key="^" line="3" column="63" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1517158307125">
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1517158787183">
         <mark key="'" line="62" column="42" />
-        <mark key="[" line="38" column="33" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="62" column="32" />
+        <mark key="]" line="62" column="34" />
+        <mark key="^" line="62" column="34" />
+        <mark key="." line="62" column="34" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/test/resources/application-test.yml" timestamp="1515260877068">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/resources/application-prd.yml" timestamp="1517157813426">
+      <file name="E:/prj/autocoin-order-service/src/main/resources/application-prd.yml" timestamp="1517158583820">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="67" />
         <mark key="^" line="5" column="67" />
@@ -319,7 +319,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>eRESOURCE_ID</text>
+        <text>openid&quot;, &quot;email&quot;</text>
       </register>
       <register name="/" type="4">
         <text>pen</text>
