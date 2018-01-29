@@ -119,13 +119,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" timestamp="1516906957141">
-        <mark key="a" line="55" column="56" />
-        <mark key="[" line="43" column="35" />
-        <mark key="]" line="43" column="33" />
-        <mark key="." line="43" column="33" />
-        <mark key="^" line="43" column="33" />
-      </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/Application.kt" timestamp="1517157676346">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -176,7 +169,7 @@
       <file name="/dummy.sql" timestamp="1515103485104">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517164656279">
+      <file name="/Dummy.txt" timestamp="1517257986006">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -227,9 +220,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1517257235730">
+        <mark key="[" line="33" column="34" />
+      </file>
       <file name="/fragment.java" timestamp="1515243646246">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/OAuth2RestTemplate.java" timestamp="1517258205610" />
     </filemarks>
     <jumps>
       <jump line="35" column="75" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/InitialStrategyExecutorStateLoaderTest.kt" />
@@ -347,31 +344,31 @@
         <text encoding="base64">ICAgIHVzZXJBdXRob3JpemF0aW9uVXJpOiBodHRwczovL3VzZXJzLWFwaS5hdXRvY29pbi10cmFkZXIuY29tL2lkcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuYWNjZXNzLlNlY3VyaXR5Q29uZmlnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnJlcXVlc3RNYXRjaGVycygpLmFudE1hdGNoZXJzKCIvKioiKQovLyAgICAgICAgICAgICAgICAuYW5kKCkuYXV0aG9yaXplUmVxdWVzdHMoKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGV0YWlscwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBvYXV0aDI6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">QEVuYWJsZU9BdXRoMkNsaWVudAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIFJFU09VUkNFX0lEID0gIm9yZGVyLXNlcnZpY2UiCiAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnJlcXVlc3RNYXRjaGVycygpLmFudE1hdGNoZXJzKCIvKioiKQovLyAgICAgICAgICAgICAgICAuYW5kKCkuYXV0aG9yaXplUmVxdWVzdHMoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGV0YWlscwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBvYXV0aDI6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QEVuYWJsZU9BdXRoMkNsaWVudAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIFJFU09VUkNFX0lEID0gIm9yZGVyLXNlcnZpY2UiCiAgICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">c3ByaW5nOgogIHNlY3VyaXR5OgogICAgb2F1dGgyOgogICAgICBjbGllbnQ6CgogICAgICAgIHByb3ZpZGVyOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgZW5hYmxlZDogZmFsc2UK</text>
+        <text encoding="base64">c3ByaW5nOgogIHNlY3VyaXR5OgogICAgb2F1dGgyOgogICAgICBjbGllbnQ6CgogICAgICAgIHByb3ZpZGVyOgo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
