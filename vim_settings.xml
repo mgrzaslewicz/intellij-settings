@@ -49,9 +49,9 @@
         <mark key="^" line="3" column="63" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1517253553071">
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1517346762077">
         <mark key="'" line="60" column="42" />
-        <mark key="[" line="30" column="0" />
+        <mark key="[" line="26" column="29" />
         <mark key="]" line="30" column="0" />
         <mark key="^" line="54" column="28" />
         <mark key="." line="30" column="0" />
@@ -84,6 +84,7 @@
         <mark key="." line="81" column="37" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.0.M6/spring-boot-autoconfigure-2.0.0.M6-sources.jar!/org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2ClientProperties.java" timestamp="1517151358306" />
+      <file name="/EmployeController.kt" timestamp="1517346575070" />
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/tradeservice/TradeServiceFactory.kt" timestamp="1515264039622">
         <mark key="[" line="24" column="96" />
         <mark key="]" line="24" column="95" />
@@ -204,9 +205,9 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/pom.xml" timestamp="1517152426218">
-        <mark key="'" line="66" column="35" />
-        <mark key="[" line="25" column="28" />
+      <file name="E:/prj/autocoin-order-service/pom.xml" timestamp="1517346631132">
+        <mark key="'" line="96" column="44" />
+        <mark key="[" line="98" column="21" />
         <mark key="]" line="25" column="29" />
         <mark key="^" line="25" column="29" />
         <mark key="." line="25" column="29" />
@@ -221,17 +222,16 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1517257235730">
+      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1517346825809">
         <mark key="[" line="33" column="34" />
       </file>
+      <file name="/pom.xml" timestamp="1517346545134" />
       <file name="/fragment.java" timestamp="1515243646246">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/OAuth2RestTemplate.java" timestamp="1517258205610" />
     </filemarks>
     <jumps>
-      <jump line="35" column="75" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/InitialStrategyExecutorStateLoaderTest.kt" />
-      <jump line="99" column="18" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/InitialStrategyExecutorStateLoaderTest.kt" />
       <jump line="105" column="3" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/InitialStrategyExecutorStateLoaderTest.kt" />
       <jump line="104" column="23" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/InitialStrategyExecutorStateLoaderTest.kt" />
       <jump line="29" column="22" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/InitialStrategyExecutorStateLoader.kt" />
@@ -330,6 +330,8 @@
       <jump line="66" column="35" filename="E:/prj/autocoin-order-service/pom.xml" />
       <jump line="68" column="8" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" />
       <jump line="61" column="42" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" />
+      <jump line="25" column="29" filename="E:/prj/autocoin-order-service/pom.xml" />
+      <jump line="96" column="44" filename="E:/prj/autocoin-order-service/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -339,7 +341,7 @@
         <text encoding="base64">dmFsIGRldGFpbHMg</text>
       </register>
       <register name="/" type="4">
-        <text>pen</text>
+        <text encoding="base64">dGVzdDw=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVzZXJBdXRob3JpemF0aW9uVXJpOiBodHRwczovL3VzZXJzLWFwaS5hdXRvY29pbi10cmFkZXIuY29tL2lkcwo=</text>
@@ -376,17 +378,16 @@
       </register>
     </registers>
     <search>
-      <last-search>pen</last-search>
+      <last-search encoding="base64">dGVzdDw=</last-search>
       <last-offset />
-      <last-pattern>pen</last-pattern>
+      <last-pattern encoding="base64">dGVzdDw=</last-pattern>
       <last-replace>firstValue</last-replace>
       <last-substitute>historicalTickersUsed</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ha</entry>
         <entry>false</entry>
         <entry>tr</entry>
         <entry>disa</entry>
@@ -406,6 +407,7 @@
         <entry>user</entry>
         <entry>USER</entry>
         <entry>pen</entry>
+        <entry encoding="base64">dGVzdDw=</entry>
       </history-search>
       <history-cmd>
         <entry>tr</entry>
