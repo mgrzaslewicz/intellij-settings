@@ -7,7 +7,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/config/OAuthServerConfig.kt" timestamp="1517349011326" />
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1517346762077">
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1517353421949">
         <mark key="'" line="60" column="42" />
         <mark key="[" line="26" column="29" />
         <mark key="]" line="30" column="0" />
@@ -103,6 +103,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="/OAuthMvcTest.kt" timestamp="1517347973221" />
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ClientService.kt" timestamp="1517353476070">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/OAuthServerConfig.kt" timestamp="1517348854079" />
       <file name="/dummy.sql" timestamp="1515103485104">
         <mark key="[" line="0" column="0" />
@@ -128,6 +133,9 @@
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
+      </file>
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeKeyService.kt" timestamp="1517353483819">
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/config/PropertyFeatureToggleTest.kt" timestamp="1509956569170">
         <mark key="[" line="20" column="0" />
@@ -263,32 +271,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVzZXJBdXRob3JpemF0aW9uVXJpOiBodHRwczovL3VzZXJzLWFwaS5hdXRvY29pbi10cmFkZXIuY29tL2lkcwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQk8IS0tREItLT4KCQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmhzcWxkYjwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+aHNxbGRiPC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">QFJlcG9zaXRvcnkKaW50ZXJmYWNlIENsaWVudFNlcnZpY2UgOiBKcGFSZXBvc2l0b3J5PENsaWVudCwgTG9uZz4gewogICAgZnVuIGZpbmRCeUlkKGlkOiBTdHJpbmcpOiBDbGllbnQ/Cn0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWRhdGEtanBhPC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">CQk8IS0tREItLT4KCQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmhzcWxkYjwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+aHNxbGRiPC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrTXZjLnBlcmZvcm0oTW9ja012Y1JlcXVlc3RCdWlsZGVycy5nZXQoIi9lbXBsb3llZSIpCiAgICAgICAgICAgICAgICAuaGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJlYXJlciAiICsgYWNjZXNzVG9rZW4pCg==</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWRhdGEtanBhPC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYXV0aFRva2VuID0gbW9ja012Yy5vYnRhaW5BY2Nlc3NUb2tlbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrTXZjLnBlcmZvcm0oTW9ja012Y1JlcXVlc3RCdWlsZGVycy5nZXQoIi9lbXBsb3llZSIpCiAgICAgICAgICAgICAgICAuaGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJlYXJlciAiICsgYWNjZXNzVG9rZW4pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuYWNjZXNzLlNlY3VyaXR5Q29uZmlnCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYXV0aFRva2VuID0gbW9ja012Yy5vYnRhaW5BY2Nlc3NUb2tlbigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuYWNjZXNzLlNlY3VyaXR5Q29uZmlnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnJlcXVlc3RNYXRjaGVycygpLmFudE1hdGNoZXJzKCIvKioiKQovLyAgICAgICAgICAgICAgICAuYW5kKCkuYXV0aG9yaXplUmVxdWVzdHMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGV0YWlscwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnJlcXVlc3RNYXRjaGVycygpLmFudE1hdGNoZXJzKCIvKioiKQovLyAgICAgICAgICAgICAgICAuYW5kKCkuYXV0aG9yaXplUmVxdWVzdHMoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvYXV0aDI6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGV0YWlscwo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
