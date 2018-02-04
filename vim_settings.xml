@@ -93,9 +93,12 @@
         <mark key="." line="23" column="8" />
         <mark key="^" line="23" column="7" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/test/resources/application-test.yml" timestamp="1517745096808">
+      <file name="E:/prj/autocoin-order-service/src/test/resources/application-test.yml" timestamp="1517754459289">
         <mark key="'" line="12" column="12" />
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="18" />
         <mark key="^" line="6" column="34" />
+        <mark key="." line="14" column="18" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/resources/application-prd.yml" timestamp="1517437505739">
         <mark key="[" line="0" column="0" />
@@ -325,7 +328,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>ClientService.OAUTH_CLIENT_ID</text>
+        <text>https://sample-users-api.autocoin-trader.com/ids/connect/token</text>
       </register>
       <register name="/" type="4">
         <text>Paramet</text>
