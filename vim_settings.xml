@@ -14,11 +14,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderControllerTest.kt" timestamp="1517468971431">
+      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderControllerTest.kt" timestamp="1517831014656">
         <mark key="'" line="48" column="130" />
-        <mark key="[" line="46" column="89" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+        <mark key="[" line="41" column="68" />
+        <mark key="]" line="41" column="68" />
+        <mark key="." line="41" column="68" />
         <mark key="^" line="78" column="68" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeKeyRepository.kt" timestamp="1515261882902">
@@ -60,12 +60,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" timestamp="1517829349609">
-        <mark key="'" line="99" column="12" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="100" column="135" />
-        <mark key="." line="50" column="0" />
+      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" timestamp="1517830921920">
+        <mark key="'" line="98" column="12" />
+        <mark key="[" line="105" column="24" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="99" column="135" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/resources/logback-spring.xml" timestamp="1515264263007">
         <mark key="[" line="37" column="0" />
@@ -109,7 +109,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517821490146">
+      <file name="/Dummy.txt" timestamp="1517831077415">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -120,11 +120,11 @@
         <mark key="." line="46" column="27" />
         <mark key="^" line="46" column="25" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderController.kt" timestamp="1517436478177">
-        <mark key="[" line="25" column="21" />
-        <mark key="]" line="11" column="23" />
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderController.kt" timestamp="1517830993321">
+        <mark key="[" line="70" column="66" />
+        <mark key="]" line="70" column="66" />
         <mark key="^" line="11" column="23" />
-        <mark key="." line="11" column="23" />
+        <mark key="." line="70" column="66" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/tradeservice/TradeServiceFactory.kt" timestamp="1515264039622">
         <mark key="[" line="24" column="96" />
@@ -186,12 +186,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" timestamp="1517824337286">
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" timestamp="1517830621883">
         <mark key="a" line="53" column="56" />
-        <mark key="[" line="83" column="41" />
-        <mark key="]" line="83" column="44" />
-        <mark key="." line="83" column="44" />
-        <mark key="^" line="83" column="44" />
+        <mark key="'" line="42" column="8" />
+        <mark key="[" line="42" column="46" />
+        <mark key="]" line="42" column="49" />
+        <mark key="." line="42" column="49" />
+        <mark key="^" line="42" column="49" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/Application.kt" timestamp="1517157676346">
         <mark key="[" line="10" column="0" />
@@ -206,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/InitialStrategyExecutorStateLoader.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/resources/logback.xml" />
       <jump line="5" column="55" filename="E:/prj/autocoin-strategy-executor/src/main/resources/logback.xml" />
       <jump line="10" column="5" filename="E:/prj/autocoin-strategy-executor/src/main/resources/logback.xml" />
@@ -306,16 +306,17 @@
       <jump line="32" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.1.RELEASE/spring-webmvc-5.0.1.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/AbstractMessageConverterMethodProcessor.java" />
       <jump line="19" column="12" filename="E:/prj/autocoin-order-service/src/test/resources/application-test.yml" />
       <jump line="101" column="12" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" />
+      <jump line="42" column="8" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text encoding="base64">ImlkLTEiLCA=</text>
       </register>
       <register name="/" type="4">
-        <text>bina</text>
+        <text>user</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgZXhjaGFuZ2VJZDogU3RyaW5nLAo=</text>
@@ -352,9 +353,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bina</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>bina</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace>firstValue</last-replace>
       <last-substitute>historicalTickersUsed</last-substitute>
       <last-dir>1</last-dir>
@@ -376,12 +377,12 @@
         <entry>cancel</entry>
         <entry>er</entry>
         <entry>oauth</entry>
-        <entry>user</entry>
         <entry>USER</entry>
         <entry>pen</entry>
         <entry encoding="base64">dGVzdDw=</entry>
         <entry>Paramet</entry>
         <entry>bina</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry>tr</entry>
