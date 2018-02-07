@@ -39,18 +39,25 @@
         <mark key="." line="90" column="130" />
         <mark key="^" line="90" column="130" />
       </file>
+      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" timestamp="1518027111426">
+        <mark key="'" line="98" column="12" />
+        <mark key="[" line="95" column="43" />
+        <mark key="]" line="95" column="43" />
+        <mark key="^" line="99" column="135" />
+        <mark key="." line="95" column="43" />
+      </file>
       <file name="E:/prj/autocoin-order-service/src/main/resources/logback-spring.xml" timestamp="1515264263007">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="^" line="3" column="63" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1518025136712">
-        <mark key="'" line="84" column="42" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="76" column="26" />
-        <mark key="." line="76" column="26" />
-        <mark key="^" line="76" column="26" />
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1518027661089">
+        <mark key="'" line="83" column="42" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="75" column="26" />
+        <mark key="." line="75" column="26" />
+        <mark key="^" line="75" column="26" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/resources/application-prd.yml" timestamp="1517779839278">
         <mark key="[" line="0" column="0" />
@@ -70,9 +77,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/log/autocoin-order-service.log" timestamp="1518025340377">
-        <mark key="'" line="1444" column="176" />
-        <mark key="[" line="3498" column="232" />
+      <file name="E:/prj/autocoin-order-service/log/autocoin-order-service.log" timestamp="1518027637164">
+        <mark key="'" line="1851" column="49" />
+        <mark key="[" line="3729" column="232" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderController.kt" timestamp="1517958619105">
         <mark key="[" line="77" column="30" />
@@ -186,11 +193,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeKeyService.kt" timestamp="1518023437644">
-        <mark key="[" line="18" column="10" />
-        <mark key="]" line="12" column="23" />
-        <mark key="^" line="12" column="23" />
-        <mark key="." line="12" column="23" />
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeKeyService.kt" timestamp="1518027044702">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="13" column="23" />
+        <mark key="^" line="13" column="23" />
+        <mark key="." line="13" column="23" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/config/Oauth2TestConfig.kt" timestamp="1517863297723">
         <mark key="[" line="44" column="30" />
@@ -222,7 +229,6 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/OAuth2RestTemplate.java" timestamp="1517949272759" />
     </filemarks>
     <jumps>
-      <jump line="5" column="55" filename="E:/prj/autocoin-strategy-executor/src/main/resources/logback.xml" />
       <jump line="10" column="5" filename="E:/prj/autocoin-strategy-executor/src/main/resources/logback.xml" />
       <jump line="2" column="5" filename="E:/prj/autocoin-strategy-executor/src/main/resources/logback.xml" />
       <jump line="3" column="5" filename="E:/prj/autocoin-strategy-executor/src/main/resources/logback.xml" />
@@ -322,13 +328,14 @@
       <jump line="101" column="12" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" />
       <jump line="42" column="8" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" />
       <jump line="996" column="176" filename="E:/prj/autocoin-order-service/log/autocoin-order-service.log" />
+      <jump line="1851" column="49" filename="E:/prj/autocoin-order-service/log/autocoin-order-service.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>order</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
