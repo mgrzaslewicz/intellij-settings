@@ -62,6 +62,11 @@
       <file name="E:/prj/autocoin-strategy-executor/dockerfile" timestamp="1517841662863">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/prj/autocoin-order-service/local-env.properties.template" timestamp="1518129379795">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
       <file name="E:/prj/autocoin-order-service/src/main/resources/application-prd.yml" timestamp="1517779839278">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="67" />
@@ -81,7 +86,7 @@
         <mark key="." line="19" column="0" />
       </file>
       <file name="E:/prj/autocoin-order-service/log/autocoin-order-service.log" timestamp="1518029692664">
-        <mark key="[" line="1786" column="232" />
+        <mark key="[" line="1984" column="232" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderController.kt" timestamp="1517958619105">
         <mark key="[" line="77" column="30" />
@@ -157,6 +162,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/token/grant/password/ResourceOwnerPasswordAccessTokenProvider.java" timestamp="1517947350974" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/token/AccessTokenProviderChain.java" timestamp="1517949100187" />
+      <file name="E:/prj/autocoin-order-service/build-and-run.sh" timestamp="1518128366595">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" timestamp="1512400596494">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -224,7 +232,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/README.md" timestamp="1517844608999">
+      <file name="E:/prj/autocoin-order-service/README.md" timestamp="1518128176724">
         <mark key="[" line="9" column="2" />
         <mark key="]" line="9" column="2" />
         <mark key="." line="9" column="2" />
@@ -239,7 +247,6 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/OAuth2RestTemplate.java" timestamp="1517949272759" />
     </filemarks>
     <jumps>
-      <jump line="3" column="5" filename="E:/prj/autocoin-strategy-executor/src/main/resources/logback.xml" />
       <jump line="4" column="5" filename="E:/prj/autocoin-strategy-executor/src/main/resources/logback.xml" />
       <jump line="40" column="34" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
       <jump line="43" column="71" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
@@ -339,6 +346,7 @@
       <jump line="1851" column="49" filename="E:/prj/autocoin-order-service/log/autocoin-order-service.log" />
       <jump line="2325" column="74" filename="E:/prj/autocoin-order-service/log/autocoin-order-service.log" />
       <jump line="0" column="0" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" />
+      <jump line="30" column="3" filename="E:/prj/autocoin-order-service/build-and-run.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -348,7 +356,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>ke</text>
+        <text>client-service</text>
       </register>
       <register name="0" type="4">
         <text>val exchangeKeyService: ExchangeKeyService,</text>
@@ -381,21 +389,20 @@
         <text encoding="base64">ICAgICAgICB2YWwgY2xpZW50ID0gY2xpZW50U2VydmljZS5nZXRDbGllbnRCeUlkKGNhbmNlbE9yZGVyUmVxdWVzdC5jbGllbnRJZCkK</text>
       </register>
       <register name=":" type="4">
-        <text>set relativenumber</text>
+        <text>s/client-service/order-service/g</text>
       </register>
     </registers>
     <search>
-      <last-search>ke</last-search>
+      <last-search>client-service</last-search>
       <last-offset />
-      <last-pattern>ke</last-pattern>
-      <last-replace>firstValue</last-replace>
-      <last-substitute>historicalTickersUsed</last-substitute>
+      <last-pattern>client-service</last-pattern>
+      <last-replace>order-service</last-replace>
+      <last-substitute>client-service</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>disa</entry>
         <entry>ex</entry>
         <entry>Bitt</entry>
         <entry>BIT</entry>
@@ -415,9 +422,9 @@
         <entry>bina</entry>
         <entry>user</entry>
         <entry>ke</entry>
+        <entry>client-service</entry>
       </history-search>
       <history-cmd>
-        <entry>tr</entry>
         <entry>set clipboard+=unnamed</entry>
         <entry>set nonu</entry>
         <entry>set nu</entry>
@@ -437,6 +444,7 @@
         <entry>e</entry>
         <entry>set norelativenumber</entry>
         <entry>set relativenumber</entry>
+        <entry>s/client-service/order-service/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
