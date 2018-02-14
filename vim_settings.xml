@@ -39,25 +39,11 @@
         <mark key="." line="90" column="130" />
         <mark key="^" line="90" column="130" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" timestamp="1518032647619">
-        <mark key="'" line="102" column="12" />
-        <mark key="[" line="93" column="103" />
-        <mark key="]" line="103" column="110" />
-        <mark key="^" line="103" column="135" />
-        <mark key="." line="103" column="110" />
-      </file>
       <file name="E:/prj/autocoin-order-service/src/main/resources/logback-spring.xml" timestamp="1515264263007">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="^" line="3" column="63" />
         <mark key="." line="37" column="0" />
-      </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1518027661089">
-        <mark key="'" line="83" column="42" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="75" column="26" />
-        <mark key="." line="75" column="26" />
-        <mark key="^" line="75" column="26" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/dockerfile" timestamp="1517841662863">
         <mark key="[" line="0" column="0" />
@@ -78,6 +64,12 @@
         <mark key="]" line="51" column="27" />
         <mark key="^" line="56" column="33" />
         <mark key="." line="51" column="27" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/components/header/header.component.html" timestamp="1518593414182">
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="9" column="47" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="9" column="47" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/config/annotation/web/configuration/OAuth2ClientConfiguration.java" timestamp="1517947789191" />
       <file name="E:/prj/autocoin-trader-frontend/Dockerfile" timestamp="1518550335237">
@@ -121,6 +113,7 @@
         <mark key="." line="34" column="174" />
         <mark key="^" line="34" column="174" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/models/currency-pair.ts" timestamp="1518591870456" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/authentication/OAuth2AuthenticationProcessingFilter.java" timestamp="1517942639920" />
       <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-initial-order-in-parameters.yml" timestamp="1511304126289">
         <mark key="[" line="2" column="0" />
@@ -151,13 +144,10 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderControllerTest.kt" timestamp="1518032535611">
-        <mark key="'" line="48" column="130" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="78" column="68" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/models/order.ts" timestamp="1518591843525">
+        <mark key="[" line="28" column="3" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/auth.service.ts" timestamp="1518592584149" />
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeKeyRepository.kt" timestamp="1515261882902">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -165,6 +155,17 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/token/grant/password/ResourceOwnerPasswordAccessTokenProvider.java" timestamp="1517947350974" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/token/AccessTokenProviderChain.java" timestamp="1517949100187" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.html" timestamp="1518591895733">
+        <mark key="[" line="38" column="39" />
+        <mark key="]" line="38" column="40" />
+        <mark key="." line="38" column="40" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/components/header/header.component.ts" timestamp="1518593475801">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="5" />
+      </file>
       <file name="E:/prj/autocoin-order-service/build-and-run.sh" timestamp="1518128366595">
         <mark key="[" line="1" column="0" />
       </file>
@@ -179,11 +180,16 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.ts" timestamp="1518590922000">
-        <mark key="[" line="25" column="40" />
-        <mark key="." line="25" column="39" />
+        <mark key="[" line="24" column="40" />
+        <mark key="." line="24" column="39" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/DefaultOAuth2ClientContext.java" timestamp="1518023461010" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/filter/OAuth2ClientContextFilter.java" timestamp="1517958137952" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/orders.service.ts" timestamp="1518592821551">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="6" />
+        <mark key="." line="14" column="6" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-kotlin/2.9.2/jackson-module-kotlin-2.9.2-sources.jar!/com/fasterxml/jackson/module/kotlin/Exceptions.kt" timestamp="1518029138479" />
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1518033326997">
         <mark key="'" line="0" column="0" />
@@ -191,7 +197,7 @@
         <mark key="]" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518505925799">
+      <file name="/Dummy.txt" timestamp="1518593518313">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -364,7 +370,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Łukasrz</text>
       </register>
       <register name="/" type="4">
         <text>client-service</text>
@@ -373,31 +379,31 @@
         <text>val exchangeKeyService: ExchangeKeyService,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIG9yZGVyU2VydmljZTogT3JkZXJTZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIDxzcGFuIGNsYXNzPSJuYXZiYXItdG9nZ2xlci1pY29uIj48L3NwYW4+IC0tPgo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIG9yZGVyU2VydmljZTogT3JkZXJTZXJ2aWNlCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIGxhdGVpbml0IHZhciBleGNoYW5nZUtleVNlcnZpY2U6IEV4Y2hhbmdlS2V5U2VydmljZQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">c3ByaW5nOgogIGpwYToKICAgIGhpYmVybmF0ZS5kZGwtYXV0bzogdXBkYXRlCiAgZGF0YXNvdXJjZToKICAgIHVybDogamRiYzpoc3FsZGI6bWVtOlBVQkxJQztzcWwuc3ludGF4X215cz10cnVlCiAgICB1c2VybmFtZTogc2EK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">c3ByaW5nOgogIGRhdGFzb3VyY2U6CiAgICB1cmw6IGpkYmM6aHNxbGRiOm1lbTpkYi9hdXRvY29pbmRiCnNwcmluZy5zZWN1cml0eToKICBiYXNpYy5lbmFibGVkOiBmYWxzZQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGVsc2UgewogICAgICAgICAgICBsb2dnZXIud2FybiB7ICJDbGllbnQgd2l0aCBpZCAnJHtjYW5jZWxPcmRlclJlcXVlc3QuY2xpZW50SWR9JyBub3QgZm91bmQiIH0KICAgICAgICB9</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2xpZW50ICE9IG51bGwpIHsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY2xpZW50ID0gY2xpZW50U2VydmljZS5nZXRDbGllbnRCeUlkKGNhbmNlbE9yZGVyUmVxdWVzdC5jbGllbnRJZCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2xpZW50ICE9IG51bGwpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>s/client-service/order-service/g</text>
