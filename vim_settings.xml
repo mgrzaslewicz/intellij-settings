@@ -83,6 +83,11 @@
       <file name="E:/prj/autocoin-order-service/log/autocoin-order-service.log" timestamp="1518505256079">
         <mark key="[" line="2352" column="232" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/clients/clients.service.ts" timestamp="1518890066627">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="36" />
+        <mark key="." line="15" column="36" />
+      </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderController.kt" timestamp="1518771569472" />
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/tradeservice/TradeServiceFactory.kt" timestamp="1518033249752">
         <mark key="[" line="24" column="96" />
@@ -91,6 +96,11 @@
         <mark key="." line="24" column="95" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.1.RELEASE/spring-web-5.0.1.RELEASE-sources.jar!/org/springframework/web/client/HttpMessageConverterExtractor.java" timestamp="1518029850691" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/api.service.ts" timestamp="1518889674318">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+      </file>
       <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/Profiles.kt" timestamp="1509792159367">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="14" />
@@ -166,26 +176,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.ts" timestamp="1518590922000">
-        <mark key="[" line="26" column="40" />
-        <mark key="." line="26" column="39" />
-      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.ts" timestamp="1518590922000" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/DefaultOAuth2ClientContext.java" timestamp="1518023461010" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/filter/OAuth2ClientContextFilter.java" timestamp="1517958137952" />
-      <file name="E:/prj/autocoin-trader-frontend/src/app/services/orders.service.ts" timestamp="1518884417970">
-        <mark key="[" line="34" column="18" />
-        <mark key="]" line="21" column="43" />
-        <mark key="." line="21" column="43" />
-        <mark key="^" line="21" column="43" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/orders.service.ts" timestamp="1518889347397">
+        <mark key="[" line="25" column="16" />
+        <mark key="k" line="23" column="50" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="16" />
+        <mark key="^" line="25" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-kotlin/2.9.2/jackson-module-kotlin-2.9.2-sources.jar!/com/fasterxml/jackson/module/kotlin/Exceptions.kt" timestamp="1518029138479" />
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1518033326997">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="0" column="33" />
-        <mark key="." line="0" column="33" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1518637526522">
+      <file name="/Dummy.txt" timestamp="1518888881318">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -353,7 +355,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>client-service</text>
