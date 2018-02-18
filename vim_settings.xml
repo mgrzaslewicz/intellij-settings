@@ -46,6 +46,13 @@
         <mark key="." line="37" column="0" />
       </file>
       <file name="E:/prj/bitline/src/tsconfig.json" timestamp="1518960135125" />
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1518969793602">
+        <mark key="'" line="92" column="43" />
+        <mark key="[" line="81" column="55" />
+        <mark key="]" line="98" column="43" />
+        <mark key="." line="98" column="43" />
+        <mark key="^" line="98" column="43" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/dockerfile" timestamp="1517841662863">
         <mark key="[" line="0" column="0" />
       </file>
@@ -81,6 +88,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.1.RELEASE/spring-web-5.0.1.RELEASE-sources.jar!/org/springframework/web/bind/annotation/CrossOrigin.java" timestamp="1518969304958" />
       <file name="E:/prj/autocoin-order-service/log/autocoin-order-service.log" timestamp="1518505256079">
         <mark key="[" line="2352" column="232" />
       </file>
@@ -88,6 +96,9 @@
         <mark key="[" line="34" column="31" />
         <mark key="]" line="15" column="36" />
         <mark key="." line="15" column="36" />
+      </file>
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderController.kt" timestamp="1518969313480">
+        <mark key="[" line="50" column="15" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/tradeservice/TradeServiceFactory.kt" timestamp="1518033249752">
         <mark key="[" line="24" column="96" />
@@ -140,6 +151,9 @@
         <mark key="]" line="6" column="14" />
         <mark key="^" line="3" column="15" />
         <mark key="." line="6" column="14" />
+      </file>
+      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderControllerTest.kt" timestamp="1518968886063">
+        <mark key="[" line="59" column="5" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/auth.service.ts" timestamp="1518592584149" />
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeKeyRepository.kt" timestamp="1515261882902">
@@ -251,7 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="5" filename="E:/prj/autocoin-strategy-executor/src/main/resources/logback.xml" />
       <jump line="40" column="34" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
       <jump line="43" column="71" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
       <jump line="45" column="74" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
@@ -351,16 +364,17 @@
       <jump line="2325" column="74" filename="E:/prj/autocoin-order-service/log/autocoin-order-service.log" />
       <jump line="0" column="0" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" />
       <jump line="30" column="3" filename="E:/prj/autocoin-order-service/build-and-run.sh" />
+      <jump line="88" column="43" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>client-service</text>
+        <text>o</text>
       </register>
       <register name="0" type="4">
         <text>val exchangeKeyService: ExchangeKeyService,</text>
@@ -397,9 +411,9 @@
       </register>
     </registers>
     <search>
-      <last-search>client-service</last-search>
+      <last-search>o</last-search>
       <last-offset />
-      <last-pattern>client-service</last-pattern>
+      <last-pattern>o</last-pattern>
       <last-replace>order-service</last-replace>
       <last-substitute>client-service</last-substitute>
       <last-dir>1</last-dir>
@@ -407,7 +421,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ex</entry>
         <entry>Bitt</entry>
         <entry>BIT</entry>
         <entry>trad</entry>
@@ -427,6 +440,7 @@
         <entry>user</entry>
         <entry>ke</entry>
         <entry>client-service</entry>
+        <entry>o</entry>
       </history-search>
       <history-cmd>
         <entry>set clipboard+=unnamed</entry>
