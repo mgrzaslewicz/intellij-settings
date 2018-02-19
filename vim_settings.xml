@@ -131,7 +131,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" timestamp="1519049089385">
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" timestamp="1519051411798">
         <mark key="a" line="56" column="56" />
         <mark key="'" line="45" column="8" />
         <mark key="[" line="35" column="56" />
@@ -165,6 +165,11 @@
         <mark key="[" line="59" column="5" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/auth.service.ts" timestamp="1518592584149" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/clients/client-edit/client-edit.component.html" timestamp="1519051035264">
+        <mark key="[" line="30" column="45" />
+        <mark key="]" line="30" column="45" />
+        <mark key="." line="30" column="45" />
+      </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeKeyRepository.kt" timestamp="1515261882902">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -197,7 +202,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/watch-currency-pairs.service.ts" timestamp="1519047929800" />
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.ts" timestamp="1519048035118">
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.ts" timestamp="1519051570771">
         <mark key="[" line="26" column="66" />
         <mark key="]" line="26" column="66" />
         <mark key="^" line="33" column="34" />
@@ -213,7 +218,7 @@
         <mark key="^" line="37" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-kotlin/2.9.2/jackson-module-kotlin-2.9.2-sources.jar!/com/fasterxml/jackson/module/kotlin/Exceptions.kt" timestamp="1518029138479" />
-      <file name="/Dummy.txt" timestamp="1519047901638">
+      <file name="/Dummy.txt" timestamp="1519051013641">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -381,7 +386,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>currencyPairs</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>body: any</text>
