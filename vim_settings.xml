@@ -46,13 +46,10 @@
         <mark key="." line="37" column="0" />
       </file>
       <file name="E:/prj/bitline/src/tsconfig.json" timestamp="1518960135125" />
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1518969793602">
-        <mark key="'" line="92" column="43" />
-        <mark key="[" line="81" column="55" />
-        <mark key="]" line="98" column="43" />
-        <mark key="." line="98" column="43" />
-        <mark key="^" line="98" column="43" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.0.RC1/spring-security-config-5.0.0.RC1-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java" timestamp="1519016772780">
+        <mark key="'" line="97" column="83" />
       </file>
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1519017173070" />
       <file name="E:/prj/autocoin-strategy-executor/dockerfile" timestamp="1517841662863">
         <mark key="[" line="0" column="0" />
       </file>
@@ -203,7 +200,7 @@
         <mark key="^" line="25" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-kotlin/2.9.2/jackson-module-kotlin-2.9.2-sources.jar!/com/fasterxml/jackson/module/kotlin/Exceptions.kt" timestamp="1518029138479" />
-      <file name="/Dummy.txt" timestamp="1518958163330">
+      <file name="/Dummy.txt" timestamp="1519017616840">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -265,16 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="34" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
-      <jump line="43" column="71" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
-      <jump line="45" column="74" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
-      <jump line="38" column="41" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
-      <jump line="36" column="42" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" />
-      <jump line="12" column="29" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/status/StartedListeningCurrencyPairNotifier.kt" />
-      <jump line="1" column="0" filename="E:/prj/autocoin-strategy-executor/script/1-add-exchange-keys.bat" />
-      <jump line="7" column="0" filename="E:/prj/autocoin-strategy-executor/script/1-add-exchange-keys.bat" />
-      <jump line="2" column="8" filename="E:/prj/autocoin-strategy-executor/script/1-add-exchange-keys.bat" />
-      <jump line="5" column="0" filename="E:/prj/autocoin-strategy-executor/script/1-add-exchange-keys.bat" />
       <jump line="7" column="0" filename="E:/prj/autocoin-strategy-executor/script/1-add-exchange-keys.sh" />
       <jump line="15" column="31" filename="E:/prj/autocoin-strategy-executor/src/test/resources/application.yml" />
       <jump line="18" column="43" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/subscription/SubscriptionService.kt" />
@@ -365,6 +352,16 @@
       <jump line="0" column="0" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" />
       <jump line="30" column="3" filename="E:/prj/autocoin-order-service/build-and-run.sh" />
       <jump line="88" column="43" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" />
+      <jump line="62" column="6" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.0.RC1/spring-security-config-5.0.0.RC1-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java" />
+      <jump line="65" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.0.RC1/spring-security-config-5.0.0.RC1-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java" />
+      <jump line="66" column="10" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.0.RC1/spring-security-config-5.0.0.RC1-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java" />
+      <jump line="67" column="10" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.0.RC1/spring-security-config-5.0.0.RC1-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java" />
+      <jump line="70" column="14" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.0.RC1/spring-security-config-5.0.0.RC1-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java" />
+      <jump line="71" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.0.RC1/spring-security-config-5.0.0.RC1-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java" />
+      <jump line="76" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.0.RC1/spring-security-config-5.0.0.RC1-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java" />
+      <jump line="77" column="50" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.0.RC1/spring-security-config-5.0.0.RC1-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java" />
+      <jump line="95" column="97" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.0.RC1/spring-security-config-5.0.0.RC1-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java" />
+      <jump line="97" column="83" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.0.RC1/spring-security-config-5.0.0.RC1-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -374,7 +371,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>o</text>
+        <text>WebSecurity web</text>
       </register>
       <register name="0" type="4">
         <text>val exchangeKeyService: ExchangeKeyService,</text>
@@ -411,9 +408,9 @@
       </register>
     </registers>
     <search>
-      <last-search>o</last-search>
+      <last-search>WebSecurity web</last-search>
       <last-offset />
-      <last-pattern>o</last-pattern>
+      <last-pattern>WebSecurity web</last-pattern>
       <last-replace>order-service</last-replace>
       <last-substitute>client-service</last-substitute>
       <last-dir>1</last-dir>
@@ -421,8 +418,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Bitt</entry>
-        <entry>BIT</entry>
         <entry>trad</entry>
         <entry>mo</entry>
         <entry>acc</entry>
@@ -441,6 +436,8 @@
         <entry>ke</entry>
         <entry>client-service</entry>
         <entry>o</entry>
+        <entry>WebSecurity</entry>
+        <entry>WebSecurity web</entry>
       </history-search>
       <history-cmd>
         <entry>set clipboard+=unnamed</entry>
