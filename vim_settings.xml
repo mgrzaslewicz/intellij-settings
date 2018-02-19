@@ -3,26 +3,80 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/UserRepository.kt" timestamp="1517062334556">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="7" column="52" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/login/login.component.ts" timestamp="1519066648647">
+        <mark key="[" line="31" column="42" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/common/DefaultOAuth2AccessToken.java" timestamp="1517949340914" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" timestamp="1511819508883">
+        <mark key="[" line="224" column="121" />
+        <mark key="]" line="224" column="121" />
+        <mark key="." line="224" column="128" />
+        <mark key="^" line="211" column="130" />
+      </file>
+      <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/main/resources/application-mysql.yml" timestamp="1515103948827">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="5" column="55" />
+      </file>
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/User.kt" timestamp="1517062279293">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="26" />
+      </file>
       <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/config/OAuthHelper.java" timestamp="1517667336161">
         <mark key="[" line="21" column="66" />
         <mark key="]" line="21" column="66" />
         <mark key="." line="21" column="66" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/AutoCoinTradeService.kt" timestamp="1515253862809">
+        <mark key="[" line="90" column="123" />
+        <mark key="]" line="90" column="130" />
+        <mark key="." line="90" column="130" />
+        <mark key="^" line="90" column="130" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" timestamp="1519058834706">
         <mark key="[" line="130" column="44" />
         <mark key="]" line="140" column="94" />
         <mark key="." line="140" column="94" />
       </file>
+      <file name="E:/prj/autocoin-order-service/src/main/resources/logback-spring.xml" timestamp="1515264263007">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="3" column="63" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="E:/prj/bitline/src/tsconfig.json" timestamp="1518960135125" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.0.RC1/spring-security-config-5.0.0.RC1-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java" timestamp="1519016772780">
         <mark key="'" line="97" column="83" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1519017173070" />
+      <file name="E:/prj/autocoin-strategy-executor/dockerfile" timestamp="1517841662863">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/prj/autocoin-order-service/local-env.properties.template" timestamp="1518129379795">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
+      </file>
+      <file name="E:/prj/autocoin-order-service/src/main/resources/application-prd.yml" timestamp="1517779839278">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="67" />
+        <mark key="^" line="6" column="67" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OAuthMvcTest.kt" timestamp="1517525620062">
+        <mark key="[" line="51" column="27" />
+        <mark key="]" line="51" column="27" />
+        <mark key="^" line="56" column="33" />
+        <mark key="." line="51" column="27" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/components/header/header.component.html" timestamp="1518593414182">
         <mark key="[" line="9" column="47" />
@@ -31,18 +85,24 @@
         <mark key="." line="9" column="47" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/config/annotation/web/configuration/OAuth2ClientConfiguration.java" timestamp="1517947789191" />
+      <file name="E:/prj/autocoin-trader-frontend/Dockerfile" timestamp="1518550335237">
+        <mark key="[" line="13" column="0" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/Extensions.kt" timestamp="1515243001862">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.1.RELEASE/spring-web-5.0.1.RELEASE-sources.jar!/org/springframework/web/bind/annotation/CrossOrigin.java" timestamp="1518969304958" />
+      <file name="E:/prj/autocoin-order-service/log/autocoin-order-service.log" timestamp="1518505256079">
+        <mark key="[" line="2352" column="232" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/clients/clients.service.ts" timestamp="1518951214742">
         <mark key="[" line="34" column="31" />
         <mark key="]" line="15" column="36" />
         <mark key="." line="15" column="36" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderController.kt" timestamp="1519048893352">
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderController.kt" timestamp="1519065842616">
         <mark key="[" line="91" column="6" />
         <mark key="]" line="91" column="6" />
         <mark key="^" line="91" column="8" />
@@ -55,15 +115,23 @@
         <mark key="." line="24" column="95" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.1.RELEASE/spring-web-5.0.1.RELEASE-sources.jar!/org/springframework/web/client/HttpMessageConverterExtractor.java" timestamp="1518029850691" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/markets.service.spec.ts" timestamp="1519067042238" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/api.service.ts" timestamp="1518889674318">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/Extensions.kt" timestamp="1519065772827" />
       <file name="E:/Dropbox/marketing/Mikołaj Grząślewicz/Services/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/Profiles.kt" timestamp="1509792159367">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="14" />
         <mark key="." line="3" column="14" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/AutoCoinTradeServiceTest.kt" timestamp="1511819543893">
+        <mark key="[" line="34" column="174" />
+        <mark key="]" line="34" column="174" />
+        <mark key="." line="34" column="174" />
+        <mark key="^" line="34" column="174" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/models/currency-pair.ts" timestamp="1518591870456" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/authentication/OAuth2AuthenticationProcessingFilter.java" timestamp="1517942639920" />
@@ -84,6 +152,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" timestamp="1511819419751">
+        <mark key="[" line="94" column="158" />
+        <mark key="]" line="94" column="165" />
+        <mark key="." line="94" column="165" />
+        <mark key="^" line="94" column="165" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/tickerrepository/CsvTickerRepositoryTest.kt" timestamp="1509956252175">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -102,7 +176,9 @@
         <mark key="^" line="35" column="12" />
         <mark key="." line="35" column="12" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/services/auth.service.ts" timestamp="1518592584149" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/auth.service.ts" timestamp="1519066777930">
+        <mark key="[" line="7" column="0" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/clients/client-edit/client-edit.component.html" timestamp="1519051035264">
         <mark key="[" line="30" column="45" />
         <mark key="]" line="30" column="45" />
@@ -115,10 +191,25 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/token/grant/password/ResourceOwnerPasswordAccessTokenProvider.java" timestamp="1517947350974" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/token/AccessTokenProviderChain.java" timestamp="1517949100187" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/auth.service.spec.ts" timestamp="1519067091762">
+        <mark key="[" line="16" column="62" />
+        <mark key="]" line="16" column="88" />
+        <mark key="^" line="16" column="88" />
+        <mark key="." line="16" column="88" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.html" timestamp="1519018345480">
         <mark key="[" line="22" column="37" />
         <mark key="]" line="38" column="40" />
         <mark key="." line="38" column="40" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/components/header/header.component.ts" timestamp="1519066534122">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+        <mark key="^" line="11" column="17" />
+      </file>
+      <file name="E:/prj/autocoin-order-service/build-and-run.sh" timestamp="1518128366595">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" timestamp="1512400596494">
         <mark key="[" line="0" column="0" />
@@ -148,12 +239,18 @@
         <mark key="^" line="37" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-kotlin/2.9.2/jackson-module-kotlin-2.9.2-sources.jar!/com/fasterxml/jackson/module/kotlin/Exceptions.kt" timestamp="1518029138479" />
-      <file name="/Dummy.txt" timestamp="1519059841361">
+      <file name="/Dummy.txt" timestamp="1519066472780">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/Dockerfile" timestamp="1518637514134" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ticker/RestTickerServiceTest.kt" timestamp="1512398715478">
+        <mark key="[" line="46" column="12" />
+        <mark key="]" line="46" column="27" />
+        <mark key="." line="46" column="27" />
+        <mark key="^" line="46" column="25" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/node_modules/@angular/common/http/src/client.d.ts" timestamp="1519036469160">
         <mark key="'" line="1517" column="23" />
       </file>
@@ -166,6 +263,12 @@
         <mark key="[" line="49" column="32" />
         <mark key="]" line="49" column="32" />
         <mark key="." line="49" column="33" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/UserController.kt" timestamp="1515932625252">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeKeyService.kt" timestamp="1518032377847">
         <mark key="[" line="0" column="33" />
@@ -196,9 +299,11 @@
         <mark key="." line="6" column="36" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/OAuth2RestTemplate.java" timestamp="1517949272759" />
+      <file name="/fragment.java" timestamp="1518340811134">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/RestTickerService.kt" />
       <jump line="32" column="53" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/RestTickerService.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/src/test/resources/application.yml" />
       <jump line="45" column="54" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
@@ -298,16 +403,17 @@
       <jump line="1517" column="23" filename="E:/prj/autocoin-trader-frontend/node_modules/@angular/common/http/src/client.d.ts" />
       <jump line="166" column="0" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderControllerTest.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderControllerTest.kt" />
+      <jump line="15" column="2" filename="E:/prj/autocoin-trader-frontend/src/app/services/markets.service.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>ArrayList()</text>
+        <text>should be created</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;a&quot;</text>
+        <text>shou</text>
       </register>
       <register name="0" type="4">
         <text>val exchangeKeyService: ExchangeKeyService,</text>
@@ -344,9 +450,9 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;a&quot;</last-search>
+      <last-search>shou</last-search>
       <last-offset />
-      <last-pattern>&quot;a&quot;</last-pattern>
+      <last-pattern>shou</last-pattern>
       <last-replace>order-service</last-replace>
       <last-substitute>client-service</last-substitute>
       <last-dir>1</last-dir>
@@ -354,7 +460,6 @@
     </search>
     <history>
       <history-search>
-        <entry>id-</entry>
         <entry>LS</entry>
         <entry>cancel</entry>
         <entry>er</entry>
@@ -374,6 +479,7 @@
         <entry>body: nay</entry>
         <entry>body: any</entry>
         <entry>&quot;a&quot;</entry>
+        <entry>shou</entry>
       </history-search>
       <history-cmd>
         <entry>set clipboard+=unnamed</entry>
