@@ -96,7 +96,7 @@
         <mark key="]" line="15" column="36" />
         <mark key="." line="15" column="36" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderController.kt" timestamp="1519065842616">
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderController.kt" timestamp="1519204036162">
         <mark key="[" line="91" column="6" />
         <mark key="]" line="91" column="6" />
         <mark key="^" line="91" column="8" />
@@ -162,11 +162,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/models/order.ts" timestamp="1519047186055">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="14" />
-        <mark key="^" line="3" column="15" />
-        <mark key="." line="5" column="14" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/models/order.ts" timestamp="1519204246071">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="13" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="14" column="13" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderControllerTest.kt" timestamp="1519059685970">
         <mark key="'" line="0" column="0" />
@@ -199,11 +199,11 @@
         <mark key="^" line="24" column="88" />
         <mark key="." line="24" column="88" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.html" timestamp="1519121277492">
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.html" timestamp="1519204822498">
         <mark key="'" line="6" column="18" />
-        <mark key="[" line="22" column="37" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="6" column="18" />
+        <mark key="[" line="39" column="32" />
+        <mark key="]" line="39" column="32" />
+        <mark key="." line="39" column="32" />
         <mark key="^" line="6" column="18" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/components/header/header.component.ts" timestamp="1519121445452">
@@ -232,15 +232,15 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/DefaultOAuth2ClientContext.java" timestamp="1518023461010" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/filter/OAuth2ClientContextFilter.java" timestamp="1517958137952" />
-      <file name="E:/prj/autocoin-trader-frontend/src/app/services/orders.service.ts" timestamp="1519047965396">
-        <mark key="[" line="37" column="4" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/orders.service.ts" timestamp="1519204646410">
+        <mark key="[" line="35" column="88" />
         <mark key="k" line="25" column="50" />
-        <mark key="]" line="37" column="16" />
-        <mark key="." line="37" column="16" />
-        <mark key="^" line="37" column="16" />
+        <mark key="]" line="35" column="89" />
+        <mark key="." line="35" column="89" />
+        <mark key="^" line="35" column="89" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-kotlin/2.9.2/jackson-module-kotlin-2.9.2-sources.jar!/com/fasterxml/jackson/module/kotlin/Exceptions.kt" timestamp="1518029138479" />
-      <file name="/Dummy.txt" timestamp="1519121892476">
+      <file name="/Dummy.txt" timestamp="1519203523589">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -408,40 +408,40 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RvcmVBY2Nlc3NUb2tlbihhY2Nlc3NUb2tlbikgewogICAgICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCd0b2tlbicsIGFjY2Vzc1Rva2VuKTsKICAgIH0K</text>
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBDYW5jZWxPcmRlcnNSZXNwb25zZUR0byB7CiAgICBvcmRlcnM6IENhbmNlbE9yZGVyUmVzcG9uc2VEdG87Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGV4Y2hhbmdlTmFtZSA9IGV4Y2hhbmdlU2VydmljZS5nZXRFeGNoYW5nZU5hbWVCeUlkKGV4Y2hhbmdlSWQpCg==</text>
+        <text encoding="base64">ICAgIGV4Y2hhbmdlSWQ6IFN0cmluZzsKICAgIG9yZGVySWQ6IFN0cmluZzsKICAgIGN1cnJlbmN5UGFpcjogQ3VycmVuY3lQYWlyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIDxzcGFuIGNsYXNzPSJuYXZiYXItdG9nZ2xlci1pY29uIj48L3NwYW4+IC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGV4Y2hhbmdlTmFtZSA9IGV4Y2hhbmdlU2VydmljZS5nZXRFeGNoYW5nZU5hbWVCeUlkKGV4Y2hhbmdlSWQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIG9yZGVyU2VydmljZTogT3JkZXJTZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIDxzcGFuIGNsYXNzPSJuYXZiYXItdG9nZ2xlci1pY29uIj48L3NwYW4+IC0tPgo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIG9yZGVyU2VydmljZTogT3JkZXJTZXJ2aWNlCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIGxhdGVpbml0IHZhciBleGNoYW5nZUtleVNlcnZpY2U6IEV4Y2hhbmdlS2V5U2VydmljZQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">c3ByaW5nOgogIGpwYToKICAgIGhpYmVybmF0ZS5kZGwtYXV0bzogdXBkYXRlCiAgZGF0YXNvdXJjZToKICAgIHVybDogamRiYzpoc3FsZGI6bWVtOlBVQkxJQztzcWwuc3ludGF4X215cz10cnVlCiAgICB1c2VybmFtZTogc2EK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">c3ByaW5nOgogIGRhdGFzb3VyY2U6CiAgICB1cmw6IGpkYmM6aHNxbGRiOm1lbTpkYi9hdXRvY29pbmRiCnNwcmluZy5zZWN1cml0eToKICBiYXNpYy5lbmFibGVkOiBmYWxzZQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICBsb2dnZXIud2FybiB7ICJDbGllbnQgd2l0aCBpZCAnJHtjYW5jZWxPcmRlclJlcXVlc3QuY2xpZW50SWR9JyBub3QgZm91bmQiIH0KICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>s/client-service/order-service/g</text>
