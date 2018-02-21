@@ -96,7 +96,7 @@
         <mark key="]" line="15" column="36" />
         <mark key="." line="15" column="36" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderController.kt" timestamp="1519204036162">
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderController.kt" timestamp="1519207136538">
         <mark key="[" line="91" column="6" />
         <mark key="]" line="91" column="6" />
         <mark key="^" line="91" column="8" />
@@ -110,6 +110,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.1.RELEASE/spring-web-5.0.1.RELEASE-sources.jar!/org/springframework/web/client/HttpMessageConverterExtractor.java" timestamp="1518029850691" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/markets.service.spec.ts" timestamp="1519067042238" />
+      <file name="E:/prj/autocoin-trader-frontend/src/environments/versions.ts" timestamp="1519206776751">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/api.service.ts" timestamp="1518889674318">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="12" column="16" />
@@ -246,6 +251,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="/Dockerfile" timestamp="1518637514134" />
+      <file name="E:/prj/autocoin-trader-frontend/package.json" timestamp="1519207062339" />
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ticker/RestTickerServiceTest.kt" timestamp="1512398715478">
         <mark key="[" line="46" column="12" />
         <mark key="]" line="46" column="27" />
@@ -408,7 +414,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
