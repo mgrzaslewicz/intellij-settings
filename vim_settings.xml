@@ -36,6 +36,7 @@
         <mark key="]" line="21" column="66" />
         <mark key="." line="21" column="66" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-core/4.3.3/xchange-core-4.3.3-sources.jar!/org/knowm/xchange/dto/trade/LimitOrder.java" timestamp="1519256143321" />
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/AutoCoinTradeService.kt" timestamp="1515253862809">
         <mark key="[" line="90" column="123" />
         <mark key="]" line="90" column="130" />
@@ -43,9 +44,9 @@
         <mark key="^" line="90" column="130" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" timestamp="1519058834706">
-        <mark key="[" line="130" column="44" />
-        <mark key="]" line="140" column="94" />
-        <mark key="." line="140" column="94" />
+        <mark key="[" line="131" column="44" />
+        <mark key="]" line="141" column="94" />
+        <mark key="." line="141" column="94" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-engine/src/main/kotlin/automate/profit/autocoin/exchange/SupportedExchange.kt" timestamp="1519248259810">
         <mark key="[" line="20" column="25" />
@@ -115,7 +116,7 @@
         <mark key="]" line="15" column="36" />
         <mark key="." line="15" column="36" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderController.kt" timestamp="1519207136538">
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderController.kt" timestamp="1519256254837">
         <mark key="[" line="91" column="6" />
         <mark key="]" line="91" column="6" />
         <mark key="^" line="91" column="8" />
@@ -158,6 +159,14 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" timestamp="1519255703397">
+        <mark key="a" line="57" column="56" />
+        <mark key="'" line="42" column="118" />
+        <mark key="[" line="34" column="54" />
+        <mark key="]" line="35" column="12" />
+        <mark key="." line="35" column="12" />
+        <mark key="^" line="38" column="27" />
+      </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/Application.kt" timestamp="1517157676346">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -182,12 +191,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderControllerTest.kt" timestamp="1519059685970">
+      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderControllerTest.kt" timestamp="1519256490323">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="189" column="146" />
-        <mark key="]" line="35" column="12" />
-        <mark key="^" line="35" column="12" />
-        <mark key="." line="35" column="12" />
+        <mark key="[" line="47" column="161" />
+        <mark key="]" line="47" column="176" />
+        <mark key="^" line="47" column="176" />
+        <mark key="." line="47" column="176" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/auth.service.ts" timestamp="1519119413655">
         <mark key="[" line="41" column="5" />
@@ -241,6 +250,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/watch-currency-pairs.service.ts" timestamp="1519047929800" />
+      <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-core/4.3.3/xchange-core-4.3.3-sources.jar!/org/knowm/xchange/service/trade/TradeService.java" timestamp="1519255480619" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.ts" timestamp="1519073436191">
         <mark key="[" line="50" column="61" />
         <mark key="]" line="49" column="44" />
@@ -370,7 +380,6 @@
       <jump line="32" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.1.RELEASE/spring-webmvc-5.0.1.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/AbstractMessageConverterMethodProcessor.java" />
       <jump line="19" column="12" filename="E:/prj/autocoin-order-service/src/test/resources/application-test.yml" />
       <jump line="101" column="12" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" />
-      <jump line="42" column="8" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" />
       <jump line="996" column="176" filename="E:/prj/autocoin-order-service/log/autocoin-order-service.log" />
       <jump line="1851" column="49" filename="E:/prj/autocoin-order-service/log/autocoin-order-service.log" />
       <jump line="2325" column="74" filename="E:/prj/autocoin-order-service/log/autocoin-order-service.log" />
@@ -438,19 +447,20 @@
       <jump line="0" column="0" filename="E:/prj/autocoin-ticker-service/pom.xml" />
       <jump line="1" column="80" filename="E:/prj/autocoin-ticker-service/pom.xml" />
       <jump line="13" column="17" filename="E:/prj/autocoin-ticker-service/pom.xml" />
+      <jump line="42" column="118" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>ASK</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBDYW5jZWxPcmRlcnNSZXNwb25zZUR0byB7CiAgICBvcmRlcnM6IENhbmNlbE9yZGVyUmVzcG9uc2VEdG87Cn0K</text>
+      <register name="0" type="4">
+        <text>orderType = &quot;ASK&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGV4Y2hhbmdlSWQ6IFN0cmluZzsKICAgIG9yZGVySWQ6IFN0cmluZzsKICAgIGN1cnJlbmN5UGFpcjogQ3VycmVuY3lQYWlyOwo=</text>
