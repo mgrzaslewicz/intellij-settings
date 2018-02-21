@@ -75,6 +75,9 @@
         <mark key="^" line="56" column="33" />
         <mark key="." line="51" column="27" />
       </file>
+      <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/pom.xml" timestamp="1519210711586">
+        <mark key="[" line="98" column="21" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/components/header/header.component.html" timestamp="1518593414182">
         <mark key="[" line="9" column="47" />
         <mark key="]" line="9" column="47" />
@@ -138,13 +141,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" timestamp="1519062356854">
-        <mark key="a" line="57" column="56" />
-        <mark key="'" line="45" column="8" />
-        <mark key="[" line="69" column="65" />
-        <mark key="]" line="69" column="65" />
-        <mark key="." line="69" column="65" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/Application.kt" timestamp="1517157676346">
         <mark key="[" line="10" column="0" />
@@ -274,7 +270,16 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="E:/prj/autocoin-order-service/pom.xml" timestamp="1518506560198" />
+      <file name="E:/prj/autocoin-order-service/pom.xml" timestamp="1519210396014">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="27" column="30" />
+      </file>
+      <file name="E:/prj/autocoin-ticker-service/pom.xml" timestamp="1519210707029">
+        <mark key="[" line="82" column="36" />
+        <mark key="]" line="82" column="36" />
+        <mark key="." line="82" column="36" />
+      </file>
       <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/config/Oauth2TestConfig.kt" timestamp="1517863297723">
         <mark key="[" line="44" column="30" />
         <mark key="]" line="44" column="30" />
@@ -408,7 +413,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>binance</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
