@@ -110,6 +110,7 @@
       </file>
       <file name="/Dockerfile" timestamp="1518637514134" />
       <file name="E:/prj/autocoin-trader-frontend/package.json" timestamp="1519207062339" />
+      <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-bitstamp/4.3.3/xchange-bitstamp-4.3.3-sources.jar!/org/knowm/xchange/bitstamp/service/BitstampTradeServiceRaw.java" timestamp="1519323271384" />
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/UserController.kt" timestamp="1515932625252">
         <mark key="[" line="20" column="12" />
         <mark key="]" line="18" column="0" />
@@ -203,7 +204,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-kucoin/4.3.3/xchange-kucoin-4.3.3-sources.jar!/org/knowm/xchange/kucoin/service/KucoinTradeService.java" timestamp="1519251093744" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/authentication/OAuth2AuthenticationProcessingFilter.java" timestamp="1517942639920" />
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" timestamp="1519308368118">
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" timestamp="1519323170674">
         <mark key="a" line="57" column="56" />
         <mark key="'" line="42" column="118" />
         <mark key="[" line="94" column="141" />
@@ -230,19 +231,13 @@
         <mark key="[" line="1" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-binance/4.3.1/xchange-binance-4.3.1-sources.jar!/org/knowm/xchange/binance/service/BinanceTradeService.java" timestamp="1519062756941" />
+      <file name="$MAVEN_REPOSITORY$/com/github/mmazi/rescu/2.0.1/rescu-2.0.1-sources.jar!/si/mazi/rescu/RestInvocationHandler.java" timestamp="1519323268364" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/watch-currency-pairs.service.ts" timestamp="1519047929800" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.ts" timestamp="1519073436191">
         <mark key="[" line="50" column="61" />
         <mark key="]" line="49" column="44" />
         <mark key="^" line="49" column="44" />
         <mark key="." line="49" column="44" />
-      </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/services/orders.service.ts" timestamp="1519204646410">
-        <mark key="[" line="35" column="88" />
-        <mark key="k" line="25" column="50" />
-        <mark key="]" line="35" column="89" />
-        <mark key="." line="35" column="89" />
-        <mark key="^" line="35" column="89" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-kotlin/2.9.2/jackson-module-kotlin-2.9.2-sources.jar!/com/fasterxml/jackson/module/kotlin/Exceptions.kt" timestamp="1518029138479" />
       <file name="/Dummy.txt" timestamp="1519308417621">
