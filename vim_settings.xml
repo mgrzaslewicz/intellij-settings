@@ -52,11 +52,11 @@
         <mark key="[" line="13" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.1.RELEASE/spring-web-5.0.1.RELEASE-sources.jar!/org/springframework/web/bind/annotation/CrossOrigin.java" timestamp="1518969304958" />
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderController.kt" timestamp="1519256254837">
-        <mark key="[" line="91" column="6" />
-        <mark key="]" line="91" column="6" />
-        <mark key="^" line="91" column="8" />
-        <mark key="." line="91" column="6" />
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderController.kt" timestamp="1519296082988">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="90" column="8" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.1.RELEASE/spring-web-5.0.1.RELEASE-sources.jar!/org/springframework/web/client/HttpMessageConverterExtractor.java" timestamp="1518029850691" />
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/Extensions.kt" timestamp="1519065772827" />
@@ -203,7 +203,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-kucoin/4.3.3/xchange-kucoin-4.3.3-sources.jar!/org/knowm/xchange/kucoin/service/KucoinTradeService.java" timestamp="1519251093744" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/authentication/OAuth2AuthenticationProcessingFilter.java" timestamp="1517942639920" />
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" timestamp="1519292610591">
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" timestamp="1519294496454">
         <mark key="a" line="57" column="56" />
         <mark key="'" line="42" column="118" />
         <mark key="[" line="34" column="54" />
@@ -211,12 +211,12 @@
         <mark key="." line="35" column="12" />
         <mark key="^" line="38" column="27" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderControllerTest.kt" timestamp="1519256490323">
+      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderControllerTest.kt" timestamp="1519295242161">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="47" column="161" />
-        <mark key="]" line="47" column="176" />
-        <mark key="^" line="47" column="176" />
-        <mark key="." line="47" column="176" />
+        <mark key="[" line="194" column="354" />
+        <mark key="]" line="195" column="362" />
+        <mark key="^" line="194" column="324" />
+        <mark key="." line="195" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/token/AccessTokenProviderChain.java" timestamp="1517949100187" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.html" timestamp="1519204822498">
@@ -245,7 +245,7 @@
         <mark key="^" line="35" column="89" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-kotlin/2.9.2/jackson-module-kotlin-2.9.2-sources.jar!/com/fasterxml/jackson/module/kotlin/Exceptions.kt" timestamp="1518029138479" />
-      <file name="/Dummy.txt" timestamp="1519292862714">
+      <file name="/Dummy.txt" timestamp="1519296064427">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ticker/RestTickerServiceTest.kt" timestamp="1512398715478">
@@ -378,35 +378,35 @@
       <register name="/" type="4">
         <text encoding="base64">c3VkbyA=</text>
       </register>
-      <register name="0" type="4">
-        <text>orderType = &quot;ASK&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9yZGVyV2l0aEV4Y2hhbmdlKCJjbGllbnQtMSIsICJiaXQtMS0yLTMiLCAiYml0dHJleCIsIExpbWl0T3JkZXIoT3JkZXIuT3JkZXJUeXBlLkJJRCwgMC4yMy50b0JpZ0RlY2ltYWwoKSwgQ3VycmVuY3lQYWlyLlNUUl9CVEMsICJvcmRlci1hIiwgWm9uZWREYXRlVGltZS5vZihMb2NhbERhdGVUaW1lLm9mKDIwMTcsIDUsIDUsIDE4LCA0NCwgOCksIFpvbmVJZC5zeXN0ZW1EZWZhdWx0KCkpLnRvRGF0ZSgpLCAxLjEzLnRvQmlnRGVjaW1hbCgpLCAxLjEyLnRvQmlnRGVjaW1hbCgpLCAwLjIyOS50b0JpZ0RlY2ltYWwoKSwgWkVSTywgT3JkZXIuT3JkZXJTdGF0dXMuUEFSVElBTExZX0ZJTExFRCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4Y2hhbmdlSWQ6IFN0cmluZzsKICAgIG9yZGVySWQ6IFN0cmluZzsKICAgIGN1cnJlbmN5UGFpcjogQ3VycmVuY3lQYWlyOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5rbm93bS54Y2hhbmdlLmR0by5PcmRlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGV4Y2hhbmdlTmFtZSA9IGV4Y2hhbmdlU2VydmljZS5nZXRFeGNoYW5nZU5hbWVCeUlkKGV4Y2hhbmdlSWQpCg==</text>
+        <text encoding="base64">ICAgIGV4Y2hhbmdlSWQ6IFN0cmluZzsKICAgIG9yZGVySWQ6IFN0cmluZzsKICAgIGN1cnJlbmN5UGFpcjogQ3VycmVuY3lQYWlyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIDxzcGFuIGNsYXNzPSJuYXZiYXItdG9nZ2xlci1pY29uIj48L3NwYW4+IC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGV4Y2hhbmdlTmFtZSA9IGV4Y2hhbmdlU2VydmljZS5nZXRFeGNoYW5nZU5hbWVCeUlkKGV4Y2hhbmdlSWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIG9yZGVyU2VydmljZTogT3JkZXJTZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIDxzcGFuIGNsYXNzPSJuYXZiYXItdG9nZ2xlci1pY29uIj48L3NwYW4+IC0tPgo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIG9yZGVyU2VydmljZTogT3JkZXJTZXJ2aWNlCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIGxhdGVpbml0IHZhciBleGNoYW5nZUtleVNlcnZpY2U6IEV4Y2hhbmdlS2V5U2VydmljZQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">c3ByaW5nOgogIGpwYToKICAgIGhpYmVybmF0ZS5kZGwtYXV0bzogdXBkYXRlCiAgZGF0YXNvdXJjZToKICAgIHVybDogamRiYzpoc3FsZGI6bWVtOlBVQkxJQztzcWwuc3ludGF4X215cz10cnVlCiAgICB1c2VybmFtZTogc2EK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">c3ByaW5nOgogIGRhdGFzb3VyY2U6CiAgICB1cmw6IGpkYmM6aHNxbGRiOm1lbTpkYi9hdXRvY29pbmRiCnNwcmluZy5zZWN1cml0eToKICBiYXNpYy5lbmFibGVkOiBmYWxzZQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">c3ByaW5nOgogIGRhdGFzb3VyY2U6CiAgICB1cmw6IGpkYmM6aHNxbGRiOm1lbTpkYi9hdXRvY29pbmRiCnNwcmluZy5zZWN1cml0eToKICBiYXNpYy5lbmFibGVkOiBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/sudo //g</text>
