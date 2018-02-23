@@ -89,11 +89,11 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchangesFactory.kt" timestamp="1519370366155">
         <mark key="[" line="63" column="58" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" timestamp="1519380102958">
-        <mark key="[" line="56" column="54" />
-        <mark key="]" line="58" column="46" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="57" column="0" />
+      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" timestamp="1519382435147">
+        <mark key="[" line="75" column="8" />
+        <mark key="]" line="48" column="13" />
+        <mark key="." line="48" column="13" />
+        <mark key="^" line="48" column="13" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/dockerfile" timestamp="1517841662863">
         <mark key="[" line="0" column="0" />
@@ -117,11 +117,11 @@
         <mark key="]" line="15" column="36" />
         <mark key="." line="15" column="36" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/tradeservice/TradeServiceFactory.kt" timestamp="1519370096632">
-        <mark key="[" line="24" column="96" />
-        <mark key="]" line="24" column="95" />
-        <mark key="^" line="24" column="95" />
-        <mark key="." line="24" column="95" />
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/tradeservice/TradeServiceFactory.kt" timestamp="1519382411402">
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="26" column="95" />
+        <mark key="^" line="26" column="95" />
+        <mark key="." line="26" column="95" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/build-and-run.sh" timestamp="1519292145143" />
       <file name="E:/prj/autocoin-trader-frontend/src/environments/versions.ts" timestamp="1519206776751">
@@ -136,13 +136,13 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-kucoin/4.3.3/xchange-kucoin-4.3.3-sources.jar!/org/knowm/xchange/kucoin/service/KucoinTradeService.java" timestamp="1519251093744" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/authentication/OAuth2AuthenticationProcessingFilter.java" timestamp="1517942639920" />
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" timestamp="1519378999757">
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" timestamp="1519383434375">
         <mark key="a" line="57" column="56" />
-        <mark key="'" line="42" column="118" />
-        <mark key="[" line="40" column="56" />
-        <mark key="]" line="40" column="56" />
-        <mark key="." line="40" column="56" />
-        <mark key="^" line="46" column="11" />
+        <mark key="'" line="30" column="49" />
+        <mark key="[" line="87" column="74" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="35" />
+        <mark key="^" line="13" column="35" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderControllerTest.kt" timestamp="1519295242161">
         <mark key="'" line="0" column="0" />
@@ -173,7 +173,7 @@
         <mark key="." line="49" column="44" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-kotlin/2.9.2/jackson-module-kotlin-2.9.2-sources.jar!/com/fasterxml/jackson/module/kotlin/Exceptions.kt" timestamp="1518029138479" />
-      <file name="/Dummy.txt" timestamp="1519377391882">
+      <file name="/Dummy.txt" timestamp="1519382597901">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/mmazi/rescu/2.0.1/rescu-2.0.1-sources.jar!/si/mazi/rescu/RestInvocation.java" timestamp="1519369497671" />
@@ -190,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="43" filename="E:/prj/autocoin-order-service/src/main/resources/schema.sql" />
       <jump line="236" column="63" filename="E:/prj/autocoin-order-service/log/autocoin-order-service.log" />
       <jump line="200" column="32" filename="E:/prj/autocoin-order-service/log/autocoin-order-service.log" />
       <jump line="441" column="0" filename="E:/prj/autocoin-order-service/log/autocoin-order-service.log" />
@@ -290,6 +289,7 @@
       <jump line="3" column="0" filename="E:/prj/autocoin-trader-frontend/production-deploy.sh" />
       <jump line="14" column="5" filename="E:/prj/autocoin-trader-frontend/production-deploy.sh" />
       <jump line="35" column="0" filename="E:/prj/autocoin-order-service/log/autocoin-order-service.log" />
+      <jump line="30" column="49" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -299,7 +299,7 @@
         <text encoding="base64">YW55PEJpbmFuY2VDYW5jZWxPcmRlclBhcmFtcz4oKSk=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">c3VkbyA=</text>
+        <text>KRAKEN</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE9yZGVyV2l0aEV4Y2hhbmdlKCJjbGllbnQtMSIsICJiaXQtMS0yLTMiLCAiYml0dHJleCIsIExpbWl0T3JkZXIoT3JkZXIuT3JkZXJUeXBlLkJJRCwgMC4yMy50b0JpZ0RlY2ltYWwoKSwgQ3VycmVuY3lQYWlyLlNUUl9CVEMsICJvcmRlci1hIiwgWm9uZWREYXRlVGltZS5vZihMb2NhbERhdGVUaW1lLm9mKDIwMTcsIDUsIDUsIDE4LCA0NCwgOCksIFpvbmVJZC5zeXN0ZW1EZWZhdWx0KCkpLnRvRGF0ZSgpLCAxLjEzLnRvQmlnRGVjaW1hbCgpLCAxLjEyLnRvQmlnRGVjaW1hbCgpLCAwLjIyOS50b0JpZ0RlY2ltYWwoKSwgWkVSTywgT3JkZXIuT3JkZXJTdGF0dXMuUEFSVElBTExZX0ZJTExFRCkpCg==</text>
@@ -336,9 +336,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">c3VkbyA=</last-search>
+      <last-search>KRAKEN</last-search>
       <last-offset />
-      <last-pattern encoding="base64">c3VkbyA=</last-pattern>
+      <last-pattern>KRAKEN</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c3VkbyA=</last-substitute>
       <last-dir>1</last-dir>
@@ -346,8 +346,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">dGVzdDw=</entry>
-        <entry>Paramet</entry>
         <entry>bina</entry>
         <entry>user</entry>
         <entry>ke</entry>
@@ -366,6 +364,8 @@
         <entry>2</entry>
         <entry>sudo</entry>
         <entry encoding="base64">c3VkbyA=</entry>
+        <entry>Requesting</entry>
+        <entry>KRAKEN</entry>
       </history-search>
       <history-cmd>
         <entry>set nu</entry>
