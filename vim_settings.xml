@@ -5,6 +5,9 @@
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-core/4.3.3/xchange-core-4.3.3-sources.jar!/org/knowm/xchange/dto/trade/LimitOrder.java" timestamp="1519256143321" />
       <file name="E:/prj/bitline/src/tsconfig.json" timestamp="1518960135125" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.0.RC1/spring-security-config-5.0.0.RC1-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java" timestamp="1519016772780">
+        <mark key="'" line="97" column="83" />
+      </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1519017173070" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/components/header/header.component.html" timestamp="1518593414182">
         <mark key="[" line="9" column="47" />
@@ -62,6 +65,9 @@
       </file>
       <file name="/Dockerfile" timestamp="1518637514134" />
       <file name="E:/prj/autocoin-trader-frontend/package.json" timestamp="1519207062339" />
+      <file name="E:/prj/autocoin-trader-frontend/node_modules/@angular/common/http/src/client.d.ts" timestamp="1519036469160">
+        <mark key="'" line="1517" column="23" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-bitstamp/4.3.3/xchange-bitstamp-4.3.3-sources.jar!/org/knowm/xchange/bitstamp/service/BitstampTradeServiceRaw.java" timestamp="1519323271384" />
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeKeyService.kt" timestamp="1518032377847">
         <mark key="[" line="0" column="33" />
@@ -102,6 +108,9 @@
         <mark key="^" line="82" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/config/annotation/web/configuration/OAuth2ClientConfiguration.java" timestamp="1517947789191" />
+      <file name="E:/prj/autocoin-order-service/log/autocoin-order-service.log" timestamp="1519377188569">
+        <mark key="'" line="35" column="0" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/clients/clients.service.ts" timestamp="1518951214742">
         <mark key="[" line="34" column="31" />
         <mark key="]" line="15" column="36" />
@@ -163,6 +172,9 @@
         <mark key="." line="49" column="44" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-kotlin/2.9.2/jackson-module-kotlin-2.9.2-sources.jar!/com/fasterxml/jackson/module/kotlin/Exceptions.kt" timestamp="1518029138479" />
+      <file name="/Dummy.txt" timestamp="1519377391882">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/github/mmazi/rescu/2.0.1/rescu-2.0.1-sources.jar!/si/mazi/rescu/RestInvocation.java" timestamp="1519369497671" />
       <file name="E:/prj/autocoin-ticker-service/pom.xml" timestamp="1519250643227">
         <mark key="'" line="13" column="17" />
@@ -177,7 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="15" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" />
       <jump line="10" column="43" filename="E:/prj/autocoin-order-service/src/main/resources/schema.sql" />
       <jump line="236" column="63" filename="E:/prj/autocoin-order-service/log/autocoin-order-service.log" />
       <jump line="200" column="32" filename="E:/prj/autocoin-order-service/log/autocoin-order-service.log" />
@@ -277,6 +288,7 @@
       <jump line="42" column="118" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" />
       <jump line="3" column="0" filename="E:/prj/autocoin-trader-frontend/production-deploy.sh" />
       <jump line="14" column="5" filename="E:/prj/autocoin-trader-frontend/production-deploy.sh" />
+      <jump line="35" column="0" filename="E:/prj/autocoin-order-service/log/autocoin-order-service.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
