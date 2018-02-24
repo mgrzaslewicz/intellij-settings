@@ -74,11 +74,12 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchangesFactory.kt" timestamp="1519489187971">
         <mark key="[" line="56" column="69" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" timestamp="1519382435147">
-        <mark key="[" line="75" column="8" />
-        <mark key="]" line="48" column="13" />
-        <mark key="." line="48" column="13" />
-        <mark key="^" line="48" column="13" />
+      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" timestamp="1519491415457">
+        <mark key="'" line="167" column="24" />
+        <mark key="[" line="130" column="193" />
+        <mark key="]" line="167" column="24" />
+        <mark key="." line="167" column="24" />
+        <mark key="^" line="167" column="24" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/dockerfile" timestamp="1517841662863">
         <mark key="[" line="0" column="0" />
@@ -175,8 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="63" filename="E:/prj/autocoin-order-service/log/autocoin-order-service.log" />
-      <jump line="200" column="32" filename="E:/prj/autocoin-order-service/log/autocoin-order-service.log" />
       <jump line="441" column="0" filename="E:/prj/autocoin-order-service/log/autocoin-order-service.log" />
       <jump line="652" column="60" filename="E:/prj/autocoin-order-service/log/autocoin-order-service.log" />
       <jump line="125" column="80" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" />
@@ -275,6 +274,8 @@
       <jump line="14" column="5" filename="E:/prj/autocoin-trader-frontend/production-deploy.sh" />
       <jump line="35" column="0" filename="E:/prj/autocoin-order-service/log/autocoin-order-service.log" />
       <jump line="30" column="49" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" />
+      <jump line="121" column="37" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" />
+      <jump line="167" column="24" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -284,7 +285,7 @@
         <text encoding="base64">YW55PEJpbmFuY2VDYW5jZWxPcmRlclBhcmFtcz4oKSk=</text>
       </register>
       <register name="/" type="4">
-        <text>KRAKEN</text>
+        <text>bin-1-2-3</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE9yZGVyV2l0aEV4Y2hhbmdlKCJjbGllbnQtMSIsICJiaXQtMS0yLTMiLCAiYml0dHJleCIsIExpbWl0T3JkZXIoT3JkZXIuT3JkZXJUeXBlLkJJRCwgMC4yMy50b0JpZ0RlY2ltYWwoKSwgQ3VycmVuY3lQYWlyLlNUUl9CVEMsICJvcmRlci1hIiwgWm9uZWREYXRlVGltZS5vZihMb2NhbERhdGVUaW1lLm9mKDIwMTcsIDUsIDUsIDE4LCA0NCwgOCksIFpvbmVJZC5zeXN0ZW1EZWZhdWx0KCkpLnRvRGF0ZSgpLCAxLjEzLnRvQmlnRGVjaW1hbCgpLCAxLjEyLnRvQmlnRGVjaW1hbCgpLCAwLjIyOS50b0JpZ0RlY2ltYWwoKSwgWkVSTywgT3JkZXIuT3JkZXJTdGF0dXMuUEFSVElBTExZX0ZJTExFRCkpCg==</text>
@@ -317,22 +318,20 @@
         <text encoding="base64">c3ByaW5nOgogIGpwYToKICAgIGhpYmVybmF0ZS5kZGwtYXV0bzogdXBkYXRlCiAgZGF0YXNvdXJjZToKICAgIHVybDogamRiYzpoc3FsZGI6bWVtOlBVQkxJQztzcWwuc3ludGF4X215cz10cnVlCiAgICB1c2VybmFtZTogc2EK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/sudo //g</text>
+        <text>%s/bin-1-2-3/binance-1-2-3/g</text>
       </register>
     </registers>
     <search>
-      <last-search>KRAKEN</last-search>
+      <last-search>bin-1-2-3</last-search>
       <last-offset />
-      <last-pattern>KRAKEN</last-pattern>
-      <last-replace />
-      <last-substitute encoding="base64">c3VkbyA=</last-substitute>
+      <last-pattern>bin-1-2-3</last-pattern>
+      <last-replace>binance-1-2-3</last-replace>
+      <last-substitute>bin-1-2-3</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>bina</entry>
-        <entry>user</entry>
         <entry>ke</entry>
         <entry>client-service</entry>
         <entry>o</entry>
@@ -351,10 +350,10 @@
         <entry encoding="base64">c3VkbyA=</entry>
         <entry>Requesting</entry>
         <entry>KRAKEN</entry>
+        <entry>bit-1-2-3</entry>
+        <entry>bin-1-2-3</entry>
       </history-search>
       <history-cmd>
-        <entry>set nu</entry>
-        <entry>x</entry>
         <entry>w</entry>
         <entry>%s/LOG/logger/g</entry>
         <entry>%s/s[1]//g</entry>
@@ -373,6 +372,8 @@
         <entry>s/client-service/order-service/g</entry>
         <entry>%s/sudo//g</entry>
         <entry>%s/sudo //g</entry>
+        <entry>%s/bit-1-2-3/bittrex-1-2-3/g</entry>
+        <entry>%s/bin-1-2-3/binance-1-2-3/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
