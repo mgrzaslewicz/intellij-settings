@@ -9,12 +9,12 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchangesFactory.kt" timestamp="1519489187971">
         <mark key="[" line="56" column="69" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" timestamp="1519563477248">
-        <mark key="'" line="135" column="98" />
-        <mark key="[" line="153" column="40" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="79" column="0" />
+      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" timestamp="1519565653366">
+        <mark key="'" line="131" column="98" />
+        <mark key="[" line="163" column="35" />
+        <mark key="]" line="163" column="35" />
+        <mark key="^" line="163" column="35" />
+        <mark key="." line="163" column="35" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/dockerfile" timestamp="1517841662863">
         <mark key="[" line="0" column="0" />
@@ -68,7 +68,7 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-engine/src/test/kotlin/automate/profit/autocoin/exchange/AutocoinExchangesFactoryTest.kt" timestamp="1519488368742">
         <mark key="[" line="37" column="114" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" timestamp="1519561894634">
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/OrderService.kt" timestamp="1519565480267">
         <mark key="a" line="57" column="56" />
         <mark key="'" line="30" column="49" />
         <mark key="[" line="119" column="18" />
@@ -128,7 +128,7 @@
         <mark key="^" line="49" column="44" />
         <mark key="." line="49" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519561567929">
+      <file name="/Dummy.txt" timestamp="1519565713177">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeKeyService.kt" timestamp="1519561640898">
@@ -256,7 +256,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIFRPRE8gYml0c3RhbXAgcmVxdWlyZXMgc2V0dGluZyB1c2VyTmFtZSwgdGhhdCBwYXJhbWV0ZXIgbmVlZHMgdG8gYmUgYWRkZWQgdG8gY29uZmln</text>
+        <text>numberOfOpenOrders</text>
       </register>
       <register name="/" type="4">
         <text>last</text>
