@@ -47,6 +47,9 @@
         <mark key="^" line="56" column="48" />
         <mark key="." line="56" column="48" />
       </file>
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1519842892772">
+        <mark key="[" line="10" column="54" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/clients/client-edit/client-edit.component.html" timestamp="1519051035264">
         <mark key="[" line="30" column="45" />
         <mark key="]" line="30" column="45" />
@@ -117,6 +120,11 @@
         <mark key="[" line="9" column="92" />
         <mark key="]" line="9" column="92" />
         <mark key="." line="9" column="92" />
+      </file>
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/AutocoinExchangeTest.kt" timestamp="1520083643320">
+        <mark key="[" line="51" column="21" />
+        <mark key="]" line="51" column="21" />
+        <mark key="." line="51" column="21" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/main/kotlin/automate/profit/autocoin/ticker/TickerListenerScheduler.kt" timestamp="1520022647813">
         <mark key="[" line="41" column="24" />
@@ -200,6 +208,9 @@
         <mark key="]" line="195" column="362" />
         <mark key="^" line="194" column="324" />
         <mark key="." line="195" column="0" />
+      </file>
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchange.kt" timestamp="1520082797603">
+        <mark key="[" line="25" column="19" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.html" timestamp="1519204822498">
         <mark key="'" line="6" column="18" />
@@ -362,7 +373,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>kotlin to 1.2.30</text>
+        <text>EachRegisteredTickerListenerOnFetch</text>
       </register>
       <register name="/" type="4">
         <text>10</text>
