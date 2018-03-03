@@ -81,8 +81,8 @@
         <mark key="]" line="32" column="96" />
         <mark key="." line="32" column="96" />
       </file>
-      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/AutocoinExchangesTest.kt" timestamp="1520086604890">
-        <mark key="[" line="21" column="12" />
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/AutocoinExchangesTest.kt" timestamp="1520088147018">
+        <mark key="[" line="23" column="12" />
         <mark key="]" line="28" column="3" />
         <mark key="^" line="28" column="3" />
         <mark key="." line="28" column="3" />
@@ -208,8 +208,8 @@
         <mark key="^" line="194" column="324" />
         <mark key="." line="195" column="0" />
       </file>
-      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchange.kt" timestamp="1520086057841">
-        <mark key="[" line="25" column="90" />
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchange.kt" timestamp="1520088374138">
+        <mark key="[" line="77" column="36" />
         <mark key="]" line="36" column="16" />
         <mark key="^" line="36" column="16" />
         <mark key="." line="36" column="16" />
@@ -239,11 +239,11 @@
         <mark key="." line="30" column="74" />
         <mark key="^" line="30" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520084898037">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="5" />
+      <file name="/Dummy.txt" timestamp="1520088428394">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="41" />
+        <mark key="^" line="0" column="40" />
+        <mark key="." line="0" column="41" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1520022080193">
         <mark key="[" line="43" column="57" />
@@ -375,7 +375,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>bittrex</text>
+        <text>per currencyPair</text>
       </register>
       <register name="/" type="4">
         <text>10</text>
