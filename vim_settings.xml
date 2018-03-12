@@ -370,11 +370,12 @@
         <mark key="." line="20" column="74" />
         <mark key="^" line="46" column="126" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyParametersServiceTest.kt" timestamp="1520892790028">
-        <mark key="[" line="32" column="33" />
-        <mark key="]" line="32" column="32" />
-        <mark key="." line="32" column="32" />
-        <mark key="^" line="32" column="32" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyParametersServiceTest.kt" timestamp="1520893917985">
+        <mark key="'" line="40" column="59" />
+        <mark key="[" line="52" column="23" />
+        <mark key="]" line="52" column="30" />
+        <mark key="." line="52" column="30" />
+        <mark key="^" line="52" column="30" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/ScheduledTickerListeners.kt" timestamp="1520022195444">
         <mark key="[" line="19" column="56" />
@@ -392,9 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.0.RC1/spring-security-config-5.0.0.RC1-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java" />
-      <jump line="66" column="10" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.0.RC1/spring-security-config-5.0.0.RC1-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java" />
-      <jump line="67" column="10" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.0.RC1/spring-security-config-5.0.0.RC1-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java" />
       <jump line="70" column="14" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.0.RC1/spring-security-config-5.0.0.RC1-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java" />
       <jump line="71" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.0.RC1/spring-security-config-5.0.0.RC1-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java" />
       <jump line="76" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.0.RC1/spring-security-config-5.0.0.RC1-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java" />
@@ -492,19 +490,22 @@
       <jump line="305" column="105" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
       <jump line="44" column="46" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" />
       <jump line="17" column="44" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersService.kt" />
+      <jump line="30" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyParametersServiceTest.kt" />
+      <jump line="35" column="38" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyParametersServiceTest.kt" />
+      <jump line="40" column="59" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyParametersServiceTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>Autowired</text>
+        <text>&quot;client-1-2-3&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>value</text>
+        <text>api</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHN0cmF0ZWd5UGFyYW1ldGVyc1NlcnZpY2U6IFN0cmF0ZWd5UGFyYW1ldGVyc1NlcnZpY2UK</text>
+      <register name="0" type="4">
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -540,9 +541,9 @@
       </register>
     </registers>
     <search>
-      <last-search>value</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern>value</last-pattern>
+      <last-pattern>api</last-pattern>
       <last-replace>strategyName!!</last-replace>
       <last-substitute>getStrategyProviderName()</last-substitute>
       <last-dir>1</last-dir>
@@ -550,8 +551,6 @@
     </search>
     <history>
       <history-search>
-        <entry>USER</entry>
-        <entry>subscriptionKey</entry>
         <entry>key-</entry>
         <entry>key-2</entry>
         <entry>key-1</entry>
@@ -566,10 +565,12 @@
         <entry>client</entry>
         <entry>bittrex</entry>
         <entry>is</entry>
-        <entry>ex</entry>
         <entry>exchangeName()</entry>
         <entry>getStrategyProviderName()</entry>
         <entry>value</entry>
+        <entry>ex</entry>
+        <entry>clien</entry>
+        <entry>api</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">aW1hcCBraiA8RXNjPg==</entry>
