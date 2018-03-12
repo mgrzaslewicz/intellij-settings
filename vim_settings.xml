@@ -183,7 +183,11 @@
         <mark key="." line="14" column="48" />
         <mark key="^" line="14" column="48" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyProvidersTest.kt" timestamp="1520889612866" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyProvidersTest.kt" timestamp="1520892538286">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="33" />
+        <mark key="." line="16" column="33" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/clients/client-edit/client-edit.component.html" timestamp="1519051035264">
         <mark key="[" line="30" column="45" />
         <mark key="]" line="30" column="45" />
@@ -366,11 +370,11 @@
         <mark key="." line="20" column="74" />
         <mark key="^" line="46" column="126" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyParametersServiceTest.kt" timestamp="1520890117974">
-        <mark key="[" line="42" column="116" />
-        <mark key="]" line="42" column="117" />
-        <mark key="^" line="42" column="117" />
-        <mark key="." line="42" column="117" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyParametersServiceTest.kt" timestamp="1520892790028">
+        <mark key="[" line="32" column="33" />
+        <mark key="]" line="32" column="32" />
+        <mark key="." line="32" column="32" />
+        <mark key="^" line="32" column="32" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/ScheduledTickerListeners.kt" timestamp="1520022195444">
         <mark key="[" line="19" column="56" />
@@ -494,40 +498,42 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>Autowired</text>
       </register>
       <register name="/" type="4">
         <text>value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGV4aXRDdXJyZW5jeUNvZGUgPSAiQlRDIgo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHN0cmF0ZWd5UGFyYW1ldGVyc1NlcnZpY2U6IFN0cmF0ZWd5UGFyYW1ldGVyc1NlcnZpY2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjbGllbnRfaWQgICAK</text>
+      <register name="2" type="4">
+        <text>@Autowired
+    private lateinit var autocoinExchanges: AutocoinExchanges
+    @</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgQ0xJRU5UICgKICBpZCBWQVJDSEFSKDEyOCkgUFJJTUFSWSBLRVkKKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBAT25lVG9NYW55KGNhc2NhZGUgPSBbQUxMXSwgbWFwcGVkQnkgPSAiY2xpZW50IikKICAgICAgICB2YXIgZXhjaGFuZ2VLZXlzOiBMaXN0PEV4Y2hhbmdlS2V5PiA9IGVtcHR5TGlzdCgpCg==</text>
+        <text encoding="base64">ICBjbGllbnRfaWQgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgQ0xJRU5UICgKICBpZCBWQVJDSEFSKDEyOCkgUFJJTUFSWSBLRVkKKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAT25lVG9NYW55KGNhc2NhZGUgPSBbQUxMXSwgbWFwcGVkQnkgPSAiY2xpZW50IikKICAgICAgICB2YXIgZXhjaGFuZ2VLZXlzOiBMaXN0PEV4Y2hhbmdlS2V5PiA9IGVtcHR5TGlzdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgRVhDSEFOR0VfS0VZICgKICBpZCAgICAgICAgICAgIEJJR0lOVCBJREVOVElUWSBQUklNQVJZIEtFWSwKICBjbGllbnRfaWQgICAgICAgVkFSQ0hBUiAoMTI4KSAgICAgIE5PVCBOVUxMLAogIGV4Y2hhbmdlX25hbWUgVkFSQ0hBUig1MCkgIE5PVCBOVUxMLAogIHB1YmxpY19rZXkgICAgVkFSQ0hBUig1MTIpIE5PVCBOVUxMLAogIHNlY3JldF9rZXkgICAgVkFSQ0hBUig1MTIpIE5PVCBOVUxMLAogIENPTlNUUkFJTlQgZmtfZWtfbGMgRk9SRUlHTiBLRVkgKGNsaWVudF9pZCkgUkVGRVJFTkNFUyBDTElFTlQgKGlkKSwKICBDT05TVFJBSU5UIHVxX2VrX3B1YmxpY19rZXkgVU5JUVVFIChwdWJsaWNfa2V5KSwKICBDT05TVFJBSU5UIHVxX2VrX3NlY3JldF9rZXkgVU5JUVVFIChzZWNyZXRfa2V5KSwKICBDT05TVFJBSU5UIHVxX2VrX2NsaWVudF9leGNoYW5nZV9uYW1lIFVOSVFVRSAoY2xpZW50X2lkLCBleGNoYW5nZV9uYW1lKQopOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9wZW4gZnVuIGNyZWF0ZShzdXBwb3J0ZWRFeGNoYW5nZTogU3RyaW5nLCBleGNoYW5nZUtleXM6IEV4Y2hhbmdlS2V5cz8pOiBBdXRvY29pbkV4Y2hhbmdlIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlJlbW92ZWQgdGlja2VyIGxpc3RlbmVyIGZvciAkc3VwcG9ydGVkRXhjaGFuZ2UtJGN1cnJlbmN5UGFpciIpCg==</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgRVhDSEFOR0VfS0VZICgKICBpZCAgICAgICAgICAgIEJJR0lOVCBJREVOVElUWSBQUklNQVJZIEtFWSwKICBjbGllbnRfaWQgICAgICAgVkFSQ0hBUiAoMTI4KSAgICAgIE5PVCBOVUxMLAogIGV4Y2hhbmdlX25hbWUgVkFSQ0hBUig1MCkgIE5PVCBOVUxMLAogIHB1YmxpY19rZXkgICAgVkFSQ0hBUig1MTIpIE5PVCBOVUxMLAogIHNlY3JldF9rZXkgICAgVkFSQ0hBUig1MTIpIE5PVCBOVUxMLAogIENPTlNUUkFJTlQgZmtfZWtfbGMgRk9SRUlHTiBLRVkgKGNsaWVudF9pZCkgUkVGRVJFTkNFUyBDTElFTlQgKGlkKSwKICBDT05TVFJBSU5UIHVxX2VrX3B1YmxpY19rZXkgVU5JUVVFIChwdWJsaWNfa2V5KSwKICBDT05TVFJBSU5UIHVxX2VrX3NlY3JldF9rZXkgVU5JUVVFIChzZWNyZXRfa2V5KSwKICBDT05TVFJBSU5UIHVxX2VrX2NsaWVudF9leGNoYW5nZV9uYW1lIFVOSVFVRSAoY2xpZW50X2lkLCBleGNoYW5nZV9uYW1lKQopOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/getStrategyProviderName()/strategyName!!/g</text>
