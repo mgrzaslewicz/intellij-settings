@@ -11,11 +11,12 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="9" column="47" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" timestamp="1520980810903">
-        <mark key="'" line="198" column="73" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" timestamp="1521283352029">
+        <mark key="'" line="202" column="73" />
+        <mark key="[" line="102" column="17" />
+        <mark key="]" line="202" column="92" />
+        <mark key="." line="202" column="92" />
+        <mark key="^" line="202" column="92" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/localorder/RealLocalOrderService.kt" timestamp="1520370822946">
         <mark key="[" line="72" column="140" />
@@ -468,13 +469,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>objectMapper: ObjectMapper</text>
       </register>
       <register name="/" type="4">
         <text>exchangeName</text>
       </register>
-      <register name="0" type="4">
-        <text>lateinit var s</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIGxhdGVpbml0IHZhciBvYmplY3RNYXBwZXI6IE9iamVjdE1hcHBlcgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
