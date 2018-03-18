@@ -11,11 +11,11 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="9" column="47" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/active/TestAutocoinExchangesConfig.kt" timestamp="1521390734809">
-        <mark key="[" line="35" column="54" />
-        <mark key="]" line="34" column="69" />
-        <mark key="^" line="34" column="69" />
-        <mark key="." line="34" column="69" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/active/TestAutocoinExchangesConfig.kt" timestamp="1521392949299">
+        <mark key="[" line="49" column="105" />
+        <mark key="]" line="49" column="105" />
+        <mark key="^" line="49" column="122" />
+        <mark key="." line="49" column="105" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" timestamp="1521378181561">
         <mark key="'" line="122" column="8" />
@@ -177,6 +177,7 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyParametersServicerTest.kt" timestamp="1520889265860">
         <mark key="[" line="8" column="32" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/exchange/TestAutocoinTradeService.kt" timestamp="1521392805453" />
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/initializer/StrategyInitializer.kt" timestamp="1520965229471">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="7" />
@@ -473,13 +474,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>Simple</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>Be</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAQmVhbgo=</text>
+      <register name="0" type="4">
+        <text>marketDataService</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBAUHJpbWFyeQo=</text>
