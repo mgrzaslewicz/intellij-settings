@@ -66,7 +66,7 @@
         <mark key="^" line="131" column="105" />
         <mark key="." line="51" column="39" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersService.kt" timestamp="1522268130402">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersService.kt" timestamp="1522269852243">
         <mark key="'" line="60" column="120" />
         <mark key="[" line="34" column="94" />
         <mark key="]" line="34" column="112" />
@@ -214,12 +214,12 @@
         <mark key="^" line="182" column="73" />
       </file>
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/0.1-SNAPSHOT/autocoin-exchange-engine-0.1-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/AutocoinTradeService.kt" timestamp="1522263873275" />
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyParametersServiceTest.kt" timestamp="1522267346964">
-        <mark key="'" line="55" column="7" />
-        <mark key="[" line="37" column="36" />
-        <mark key="]" line="37" column="36" />
-        <mark key="." line="37" column="36" />
-        <mark key="^" line="69" column="97" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyParametersServiceTest.kt" timestamp="1522269787566">
+        <mark key="'" line="60" column="7" />
+        <mark key="[" line="55" column="1" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="52" column="38" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/main/kotlin/automate/profit/autocoin/ticker/TickerListenerScheduler.kt" timestamp="1520022647813">
         <mark key="[" line="41" column="24" />
@@ -297,6 +297,7 @@
         <mark key="." line="6" column="25" />
         <mark key="^" line="82" column="0" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/AutocoinApplication.kt" timestamp="1522269671607" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/clients/clients.service.ts" timestamp="1518951214742">
         <mark key="[" line="34" column="31" />
         <mark key="]" line="15" column="36" />
@@ -427,7 +428,7 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1522267849732">
         <mark key="[" line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522268666885">
+      <file name="/Dummy.txt" timestamp="1522269668106">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="21" />
@@ -600,32 +601,32 @@
       <register name="0" type="4">
         <text encoding="base64">ZXhjaGFuZ2VzQ291bnQg</text>
       </register>
-      <register name="1" type="4">
-        <text>supportedExchanges.values.flatMap { it.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVuZXZlcigiIi4pCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi50ZXN0LmNvbmZpZy5leGNoYW5nZS5UZXN0RmFrZUV4Y2hhbmdlCg==</text>
+      <register name="2" type="4">
+        <text>supportedExchanges.values.flatMap { it.</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi50ZXN0LmNvbmZpZy5leGNoYW5nZS5UZXN0RmFrZUV4Y2hhbmdlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBmYWtlRXhjaGFuZ2U6IFRlc3RGYWtlRXhjaGFuZ2UK</text>
+        <text encoding="base64">aW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi50ZXN0LmNvbmZpZy5leGNoYW5nZS5UZXN0RmFrZUV4Y2hhbmdlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi50ZXN0LmNvbmZpZy5leGNoYW5nZS5UZXN0RmFrZUV4Y2hhbmdlCg==</text>
+        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBmYWtlRXhjaGFuZ2U6IFRlc3RGYWtlRXhjaGFuZ2UK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi50ZXN0LmNvbmZpZy5leGNoYW5nZS5UZXN0RmFrZUV4Y2hhbmdlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgQFByaW1hcnkK</text>
+        <text encoding="base64">aW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi50ZXN0LmNvbmZpZy5leGNoYW5nZS5UZXN0RmFrZUV4Y2hhbmdlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkodGlja2VyTGlzdGVuZXIsIHRpbWVzKDEpKS5vblRpY2tlcihhbnkoKSkK</text>
+        <text encoding="base64">Ly8gICAgQFByaW1hcnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmZXRjaFRpY2tlcnNUd2ljZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkodGlja2VyTGlzdGVuZXIsIHRpbWVzKDEpKS5vblRpY2tlcihhbnkoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/getStrategyProviderName()/strategyName!!/g</text>
