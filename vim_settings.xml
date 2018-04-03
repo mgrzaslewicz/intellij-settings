@@ -68,10 +68,11 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="9" column="47" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" timestamp="1522273533838">
-        <mark key="[" line="207" column="46" />
-        <mark key="]" line="97" column="31" />
-        <mark key="." line="97" column="31" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" timestamp="1522759897406">
+        <mark key="[" line="77" column="63" />
+        <mark key="]" line="78" column="61" />
+        <mark key="." line="78" column="61" />
+        <mark key="^" line="78" column="61" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-engine/pom.xml" timestamp="1519842147981">
         <mark key="'" line="82" column="0" />
@@ -148,11 +149,12 @@
         <mark key="^" line="34" column="112" />
         <mark key="." line="34" column="112" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" timestamp="1522261579596">
-        <mark key="[" line="277" column="8" />
-        <mark key="]" line="277" column="8" />
-        <mark key="." line="277" column="8" />
-        <mark key="^" line="276" column="54" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" timestamp="1522759813936">
+        <mark key="'" line="293" column="73" />
+        <mark key="[" line="297" column="8" />
+        <mark key="]" line="297" column="8" />
+        <mark key="." line="297" column="8" />
+        <mark key="^" line="293" column="73" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/keys/Client.kt" timestamp="1520364888247">
         <mark key="[" line="9" column="34" />
@@ -403,9 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="98" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" />
-      <jump line="117" column="98" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderServiceTest.kt" />
-      <jump line="18" column="47" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeKeyService.kt" />
       <jump line="18" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinTradeService.kt" />
       <jump line="70" column="8" filename="E:/prj/autocoin-order-service/pom.xml" />
       <jump line="28" column="60" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/resources/schema.sql" />
@@ -503,16 +502,19 @@
       <jump line="14" column="0" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinTradeService.kt" />
       <jump line="38" column="25" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangeHealthTest.kt" />
       <jump line="59" column="12" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
+      <jump line="34" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" />
+      <jump line="289" column="54" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" />
+      <jump line="293" column="73" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3BlbiA=</text>
+        <text>TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>TO</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZXhjaGFuZ2VzQ291bnQg</text>
@@ -549,9 +551,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>TO</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>TO</last-pattern>
       <last-replace>strategyName!!</last-replace>
       <last-substitute>getStrategyProviderName()</last-substitute>
       <last-dir>1</last-dir>
@@ -559,7 +561,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shou</entry>
         <entry>giv</entry>
         <entry>give</entry>
         <entry>supp</entry>
@@ -579,6 +580,7 @@
         <entry>fak</entry>
         <entry>auto</entry>
         <entry>get</entry>
+        <entry>TO</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">aW1hcCBraiA8RXNjPg==</entry>
