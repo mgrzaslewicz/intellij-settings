@@ -93,12 +93,12 @@
         <mark key="^" line="93" column="194" />
         <mark key="." line="51" column="136" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1523109441940">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1523134497313">
         <mark key="'" line="302" column="52" />
-        <mark key="[" line="202" column="129" />
-        <mark key="]" line="202" column="129" />
-        <mark key="." line="202" column="129" />
-        <mark key="^" line="202" column="128" />
+        <mark key="[" line="318" column="10" />
+        <mark key="]" line="312" column="0" />
+        <mark key="." line="312" column="0" />
+        <mark key="^" line="312" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangeHealthTest.kt" timestamp="1522265121393">
         <mark key="'" line="38" column="25" />
@@ -239,8 +239,8 @@
         <mark key="." line="26" column="40" />
         <mark key="^" line="26" column="40" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" timestamp="1522266362339">
-        <mark key="[" line="160" column="0" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" timestamp="1523134493782">
+        <mark key="[" line="85" column="110" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchanges.kt" timestamp="1522264989493">
         <mark key="[" line="26" column="0" />
@@ -542,7 +542,7 @@
         <text>local_trade</text>
       </register>
       <register name="/" type="4">
-        <text>local</text>
+        <text>maxEntry</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdHJhdGVneVBhcmFtZXRlcnMuc3RyYXRlZ3lOYW1lID0gInNhbXBsZVN0cmF0ZWd5Igo=</text>
@@ -579,9 +579,9 @@
       </register>
     </registers>
     <search>
-      <last-search>local</last-search>
+      <last-search>maxEntry</last-search>
       <last-offset />
-      <last-pattern>local</last-pattern>
+      <last-pattern>maxEntry</last-pattern>
       <last-replace>strategyName!!</last-replace>
       <last-substitute>getStrategyProviderName()</last-substitute>
       <last-dir>1</last-dir>
@@ -589,7 +589,6 @@
     </search>
     <history>
       <history-search>
-        <entry>@</entry>
         <entry encoding="base64">XDxzdHJhdGVneUV4ZWN1dGlvbnNcPg==</entry>
         <entry>strategyExecut</entry>
         <entry encoding="base64">XDxzdHJhdGVneUV4ZWN1dGlvblw+</entry>
@@ -609,6 +608,7 @@
         <entry>clien</entry>
         <entry>trade</entry>
         <entry>local</entry>
+        <entry>maxEntry</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">aW1hcCBraiA8RXNjPg==</entry>
