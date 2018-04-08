@@ -219,12 +219,12 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/localorder/StrategyExecutionRepository.kt" timestamp="1523203581603">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoader.kt" timestamp="1523205907647">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoader.kt" timestamp="1523208833456">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="31" column="64" />
-        <mark key="]" line="31" column="62" />
-        <mark key="." line="31" column="62" />
-        <mark key="^" line="31" column="62" />
+        <mark key="[" line="33" column="44" />
+        <mark key="]" line="33" column="44" />
+        <mark key="." line="33" column="44" />
+        <mark key="^" line="33" column="43" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutor_ExitWithTrailingStopTest.kt" timestamp="1523207759421">
         <mark key="'" line="148" column="29" />
@@ -273,7 +273,7 @@
         <mark key="^" line="36" column="50" />
         <mark key="." line="36" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523206916898">
+      <file name="/Dummy.txt" timestamp="1523211478538">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="21" />
@@ -470,7 +470,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>ordersFromLastStrategyExecutionService: OrdersFromLastStrategyExecutionService</text>
+        <text>already exists</text>
       </register>
       <register name="/" type="4">
         <text>is</text>
