@@ -80,6 +80,9 @@
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-management-service/src/main/resources/public/index.html" timestamp="1523811943973">
+        <mark key="'" line="82" column="7" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersService.kt" timestamp="1522269852243">
         <mark key="'" line="60" column="120" />
         <mark key="[" line="34" column="94" />
@@ -515,7 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="12" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinTradeService.kt" />
       <jump line="45" column="0" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinTradeService.kt" />
       <jump line="35" column="0" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinTradeService.kt" />
       <jump line="28" column="0" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinTradeService.kt" />
@@ -615,6 +617,7 @@
       <jump line="154" column="24" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" />
       <jump line="157" column="16" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" />
       <jump line="159" column="55" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" />
+      <jump line="82" column="7" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-management-service/src/main/resources/public/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -624,7 +627,7 @@
         <text>no other test left anything in DB</text>
       </register>
       <register name="/" type="4">
-        <text>throw</text>
+        <text>login</text>
       </register>
       <register name="0" type="4">
         <text>strategyParametersList</text>
@@ -661,9 +664,9 @@
       </register>
     </registers>
     <search>
-      <last-search>throw</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>throw</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>LastExecution</last-replace>
       <last-substitute>LastTrade</last-substitute>
       <last-dir>1</last-dir>
@@ -671,7 +674,6 @@
     </search>
     <history>
       <history-search>
-        <entry>execution</entry>
         <entry>OrderService.</entry>
         <entry>accountService(</entry>
         <entry>ac</entry>
@@ -691,6 +693,7 @@
         <entry>is</entry>
         <entry>Not placing</entry>
         <entry>throw</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>%s/r./r!!.</entry>
