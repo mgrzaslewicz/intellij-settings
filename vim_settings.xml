@@ -15,12 +15,12 @@
         <mark key="^" line="8" column="113" />
         <mark key="." line="8" column="96" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorMaxExitCurrencyForBuyingIntegrationTest.kt" timestamp="1523784772715">
-        <mark key="'" line="100" column="122" />
-        <mark key="[" line="102" column="63" />
-        <mark key="]" line="102" column="62" />
-        <mark key="^" line="102" column="61" />
-        <mark key="." line="102" column="62" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorMaxExitCurrencyForBuyingIntegrationTest.kt" timestamp="1523792043247">
+        <mark key="'" line="102" column="122" />
+        <mark key="[" line="106" column="81" />
+        <mark key="]" line="106" column="79" />
+        <mark key="^" line="106" column="79" />
+        <mark key="." line="106" column="79" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/components/header/header.component.html" timestamp="1518593414182">
         <mark key="[" line="9" column="47" />
@@ -40,8 +40,11 @@
         <mark key="^" line="93" column="194" />
         <mark key="." line="51" column="136" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1523788565279">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1523791423863">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="234" column="59" />
+        <mark key="]" line="234" column="59" />
+        <mark key="." line="234" column="59" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangeHealthTest.kt" timestamp="1522265121393">
         <mark key="'" line="38" column="25" />
@@ -201,8 +204,8 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-max-exit-currency-percent-for-buying.yml" timestamp="1523787663563">
-        <mark key="[" line="10" column="39" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-max-exit-currency-percent-for-buying.yml" timestamp="1523792302570">
+        <mark key="[" line="8" column="39" />
         <mark key="]" line="10" column="40" />
         <mark key="." line="10" column="40" />
       </file>
@@ -245,9 +248,6 @@
         <mark key="]" line="183" column="0" />
         <mark key="." line="183" column="0" />
         <mark key="^" line="182" column="73" />
-      </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyParametersServiceTest.kt" timestamp="1522272986255">
-        <mark key="'" line="38" column="7" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/sample-max-exit-currency-percent-for-buying.yml" timestamp="1523712425943">
         <mark key="[" line="16" column="20" />
@@ -459,7 +459,7 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1522272595370">
         <mark key="[" line="17" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523479373661">
+      <file name="/Dummy.txt" timestamp="1523792306764">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="21" />
@@ -624,7 +624,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWYg</text>
+        <text encoding="base64">aWYgKGV4aXRDdXJyZW5jeUFscmVhZHlTcGVudCA+PSAp</text>
       </register>
       <register name="/" type="4">
         <text>throw</text>
