@@ -9,8 +9,8 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealth.kt" timestamp="1524313231765">
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1524400900374">
-        <mark key="[" line="61" column="28" />
+      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1524425278919">
+        <mark key="[" line="58" column="25" />
         <mark key="]" line="61" column="63" />
         <mark key="." line="57" column="38" />
         <mark key="^" line="45" column="54" />
@@ -156,8 +156,11 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" timestamp="1524161735379">
         <mark key="[" line="210" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/pom.xml" timestamp="1524255533206">
-        <mark key="[" line="44" column="21" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/pom.xml" timestamp="1524425289919">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="20" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/config/ExchangeKeysTest.kt" timestamp="1524309700857" />
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" timestamp="1524218258411">
@@ -355,31 +358,31 @@
         <text>spring-security-oauth2-autoconfigure</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJzLnNldCgic3Vic2NyaXB0aW9uLWtleSIsIHN1YnNjcmlwdGlvbktleSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4wLjEuUkVMRUFTRTwvdmVyc2lvbj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXJzLnNldCgic3Vic2NyaXB0aW9uLWtleSIsIHN1YnNjcmlwdGlvbktleSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGF1dG9jb2luRXhjaGFuZ2VzLnJlbW92ZVRpY2tlckxpc3RlbmVyKEJJVFRSRVgsIHN0cmF0ZWd5UGFyYW1ldGVycy5jdXJyZW5jeVBhaXIhISwgc3RyYXRlZ3lFeGVjdXRvcikpLmlzRmFsc2UoKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGF1dG9jb2luRXhjaGFuZ2VzLnJlbW92ZVRpY2tlckxpc3RlbmVyKEJJVFRSRVgsIHN0cmF0ZWd5UGFyYW1ldGVycy5jdXJyZW5jeVBhaXIhISwgc3RyYXRlZ3lFeGVjdXRvcikpLmlzRmFsc2UoKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIGxhdGVpbml0IHZhciBzdHJhdGVneVBhcmFtZXRlcnNMaXN0OiBTdHJhdGVneVBhcmFtZXRlcnNMaXN0CiAgICBAQXV0b3dpcmVkCiAgICBsYXRlaW5pdCB2YXIgc3RyYXRlZ3lFeGVjdXRvcnNTZXJ2aWNlOiBTdHJhdGVneUV4ZWN1dG9yc1NlcnZpY2UKCiAgICBAUG9zdENvbnN0cnVjdAogICAgZnVuIGFkZFJ1bm5pbmdTdHJhdGVneUV4ZWN1dG9yc0Zyb21TdHJhdGVneVBhcmFtZXRlcnNJbkNvbmZpZygpIHsKCiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC5hbm5vdGF0aW9uLkRpcnRpZXNDb250ZXh0Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIGxhdGVpbml0IHZhciBzdHJhdGVneVBhcmFtZXRlcnNMaXN0OiBTdHJhdGVneVBhcmFtZXRlcnNMaXN0CiAgICBAQXV0b3dpcmVkCiAgICBsYXRlaW5pdCB2YXIgc3RyYXRlZ3lFeGVjdXRvcnNTZXJ2aWNlOiBTdHJhdGVneUV4ZWN1dG9yc1NlcnZpY2UKCiAgICBAUG9zdENvbnN0cnVjdAogICAgZnVuIGFkZFJ1bm5pbmdTdHJhdGVneUV4ZWN1dG9yc0Zyb21TdHJhdGVneVBhcmFtZXRlcnNJbkNvbmZpZygpIHsKCiAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwbGFjZWRCdXlPcmRlcnMuY2xlYXIoKQogICAgICAgIHBsYWNlZFNlbGxPcmRlcnMuY2xlYXIoKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC5hbm5vdGF0aW9uLkRpcnRpZXNDb250ZXh0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJ1eU9yZGVyCiAgICAgICAgfSBjYXRjaCAoZTogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIHRocm93IGUKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbGFjZWRCdXlPcmRlcnMuY2xlYXIoKQogICAgICAgIHBsYWNlZFNlbGxPcmRlcnMuY2xlYXIoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxhY2VkQnV5T3JkZXJzICs9IGJ1eU9yZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJ1eU9yZGVyCiAgICAgICAgfSBjYXRjaCAoZTogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIHRocm93IGUKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/PreviousTrade/PreviousExecution</text>
