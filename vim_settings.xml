@@ -133,6 +133,7 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" timestamp="1524255438292">
         <mark key="[" line="22" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.2.RELEASE/spring-security-oauth2-2.3.2.RELEASE-sources.jar!/org/springframework/security/oauth2/client/filter/OAuth2ClientAuthenticationProcessingFilter.java" timestamp="1524507552468" />
       <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/OrderControllerTest.kt" timestamp="1524163825841">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="194" column="354" />
@@ -195,6 +196,13 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/api/test.json" timestamp="1524174443298">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1524507753211">
+        <mark key="'" line="67" column="34" />
+        <mark key="[" line="76" column="26" />
+        <mark key="]" line="67" column="34" />
+        <mark key="^" line="67" column="34" />
+        <mark key="." line="67" column="34" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1524164280688">
         <mark key="[" line="17" column="10" />
       </file>
@@ -243,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="4" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" />
       <jump line="70" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" />
       <jump line="80" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" />
       <jump line="97" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" />
@@ -343,63 +350,63 @@
       <jump line="95" column="18" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/api/StrategiesControllerTest.kt" />
       <jump line="94" column="12" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/api/StrategiesControllerTest.kt" />
       <jump line="50" column="36" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealth.kt" />
+      <jump line="67" column="34" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>2.2.1.RELEASE</text>
+        <text encoding="base64">QXV0aGVudGljYXRpb24g</text>
       </register>
       <register name="/" type="4">
-        <text>how</text>
+        <text>AuthorizationCodeResourceDetails</text>
       </register>
       <register name="0" type="4">
         <text>spring-security-oauth2-autoconfigure</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4wLjEuUkVMRUFTRTwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJzLnNldCgic3Vic2NyaXB0aW9uLWtleSIsIHN1YnNjcmlwdGlvbktleSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4wLjEuUkVMRUFTRTwvdmVyc2lvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXJzLnNldCgic3Vic2NyaXB0aW9uLWtleSIsIHN1YnNjcmlwdGlvbktleSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGF1dG9jb2luRXhjaGFuZ2VzLnJlbW92ZVRpY2tlckxpc3RlbmVyKEJJVFRSRVgsIHN0cmF0ZWd5UGFyYW1ldGVycy5jdXJyZW5jeVBhaXIhISwgc3RyYXRlZ3lFeGVjdXRvcikpLmlzRmFsc2UoKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGF1dG9jb2luRXhjaGFuZ2VzLnJlbW92ZVRpY2tlckxpc3RlbmVyKEJJVFRSRVgsIHN0cmF0ZWd5UGFyYW1ldGVycy5jdXJyZW5jeVBhaXIhISwgc3RyYXRlZ3lFeGVjdXRvcikpLmlzRmFsc2UoKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIGxhdGVpbml0IHZhciBzdHJhdGVneVBhcmFtZXRlcnNMaXN0OiBTdHJhdGVneVBhcmFtZXRlcnNMaXN0CiAgICBAQXV0b3dpcmVkCiAgICBsYXRlaW5pdCB2YXIgc3RyYXRlZ3lFeGVjdXRvcnNTZXJ2aWNlOiBTdHJhdGVneUV4ZWN1dG9yc1NlcnZpY2UKCiAgICBAUG9zdENvbnN0cnVjdAogICAgZnVuIGFkZFJ1bm5pbmdTdHJhdGVneUV4ZWN1dG9yc0Zyb21TdHJhdGVneVBhcmFtZXRlcnNJbkNvbmZpZygpIHsKCiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC5hbm5vdGF0aW9uLkRpcnRpZXNDb250ZXh0Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIGxhdGVpbml0IHZhciBzdHJhdGVneVBhcmFtZXRlcnNMaXN0OiBTdHJhdGVneVBhcmFtZXRlcnNMaXN0CiAgICBAQXV0b3dpcmVkCiAgICBsYXRlaW5pdCB2YXIgc3RyYXRlZ3lFeGVjdXRvcnNTZXJ2aWNlOiBTdHJhdGVneUV4ZWN1dG9yc1NlcnZpY2UKCiAgICBAUG9zdENvbnN0cnVjdAogICAgZnVuIGFkZFJ1bm5pbmdTdHJhdGVneUV4ZWN1dG9yc0Zyb21TdHJhdGVneVBhcmFtZXRlcnNJbkNvbmZpZygpIHsKCiAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwbGFjZWRCdXlPcmRlcnMuY2xlYXIoKQogICAgICAgIHBsYWNlZFNlbGxPcmRlcnMuY2xlYXIoKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC5hbm5vdGF0aW9uLkRpcnRpZXNDb250ZXh0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJ1eU9yZGVyCiAgICAgICAgfSBjYXRjaCAoZTogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIHRocm93IGUKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbGFjZWRCdXlPcmRlcnMuY2xlYXIoKQogICAgICAgIHBsYWNlZFNlbGxPcmRlcnMuY2xlYXIoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/PreviousTrade/PreviousExecution</text>
       </register>
     </registers>
     <search>
-      <last-search>how</last-search>
+      <last-search>AuthorizationCodeResourceDetails</last-search>
       <last-offset />
-      <last-pattern>how</last-pattern>
+      <last-pattern>AuthorizationCodeResourceDetails</last-pattern>
       <last-replace>PreviousExecution</last-replace>
       <last-substitute>PreviousTrade</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ad</entry>
         <entry>NOT</entry>
         <entry>local</entry>
         <entry>is</entry>
@@ -419,6 +426,7 @@
         <entry>va</entry>
         <entry>exe</entry>
         <entry>how</entry>
+        <entry>AuthorizationCodeResourceDetails</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Order./Order!!.</entry>
