@@ -53,9 +53,15 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1524510381890" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1524595008207">
+        <mark key="[" line="18" column="13" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.2.RELEASE/spring-security-oauth2-2.3.2.RELEASE-sources.jar!/org/springframework/security/oauth2/client/token/grant/implicit/ImplicitAccessTokenProvider.java" timestamp="1524519853839" />
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1524309508473" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1524594983775">
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="21" />
+        <mark key="." line="32" column="21" />
+      </file>
       <file name="E:/prj/autocoin-order-service/pom.xml" timestamp="1524429356636">
         <mark key="[" line="44" column="44" />
         <mark key="]" line="44" column="33" />
@@ -177,13 +183,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Creating autocoinExchange instances so ticker listeners can be registered</text>
       </register>
       <register name="/" type="4">
         <text>AuthorizationCodeResourceDetails</text>
       </register>
-      <register name="0" type="4">
-        <text>spring-security-oauth2-autoconfigure</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiQ3JlYXRpbmcgYXV0b2NvaW5FeGNoYW5nZSBpbnN0YW5jZXMgc28gdGlja2VyIGxpc3RlbmVycyBjYW4gYmUgcmVnaXN0ZXJlZCIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
