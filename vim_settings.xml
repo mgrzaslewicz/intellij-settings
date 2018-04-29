@@ -7,11 +7,6 @@
         <mark key="[" line="37" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/config/ServerSecurityConfig.kt" timestamp="1524690347384" />
-      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1524689745670">
-        <mark key="[" line="65" column="28" />
-        <mark key="." line="57" column="38" />
-        <mark key="^" line="45" column="54" />
-      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1523475623222">
         <mark key="[" line="137" column="0" />
         <mark key="]" line="143" column="0" />
@@ -150,7 +145,7 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1524164280688">
         <mark key="[" line="17" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524766349226">
+      <file name="/Dummy.txt" timestamp="1524996442486">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -162,16 +157,25 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/TickerListenerImpl.kt" timestamp="1524215406606">
         <mark key="[" line="7" column="6" />
       </file>
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/pom.xml" timestamp="1524996355694">
+        <mark key="[" line="21" column="39" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1524594983775">
         <mark key="[" line="32" column="21" />
         <mark key="]" line="32" column="21" />
         <mark key="." line="32" column="21" />
       </file>
-      <file name="E:/prj/autocoin-order-service/pom.xml" timestamp="1524687186736">
-        <mark key="[" line="44" column="44" />
-        <mark key="]" line="44" column="33" />
-        <mark key="." line="44" column="26" />
+      <file name="E:/prj/autocoin-order-service/pom.xml" timestamp="1524996145298">
+        <mark key="'" line="51" column="41" />
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="27" column="30" />
         <mark key="^" line="73" column="25" />
+      </file>
+      <file name="E:/prj/autocoin-ticker-service/pom.xml" timestamp="1524996397518">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/EnterWhenDroppingExitWithTrailingStopStrategyIT.kt" timestamp="1524215310707">
         <mark key="[" line="54" column="92" />
@@ -189,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" />
       <jump line="108" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" />
       <jump line="100" column="11" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" />
       <jump line="74" column="24" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/localorder/BaseOrderService.kt" />
@@ -289,6 +292,7 @@
       <jump line="161" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.2.RELEASE/spring-security-oauth2-2.3.2.RELEASE-sources.jar!/org/springframework/security/oauth2/config/annotation/builders/ClientDetailsServiceBuilder.java" />
       <jump line="32" column="12" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsService.kt" />
       <jump line="33" column="25" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsService.kt" />
+      <jump line="51" column="41" filename="E:/prj/autocoin-order-service/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -298,7 +302,7 @@
         <text>MAKE_REAL_ORDER</text>
       </register>
       <register name="/" type="4">
-        <text>NO</text>
+        <text>xcha</text>
       </register>
       <register name="0" type="4">
         <text>Starting strategies on boot</text>
@@ -335,17 +339,16 @@
       </register>
     </registers>
     <search>
-      <last-search>NO</last-search>
+      <last-search>xcha</last-search>
       <last-offset />
-      <last-pattern>NO</last-pattern>
+      <last-pattern>xcha</last-pattern>
       <last-replace>PreviousExecution</last-replace>
       <last-substitute>PreviousTrade</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Not placing</entry>
         <entry>throw</entry>
         <entry>login</entry>
         <entry>PreviousTrade</entry>
@@ -365,6 +368,7 @@
         <entry>password</entry>
         <entry>star</entry>
         <entry>NO</entry>
+        <entry>xcha</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Order./Order!!.</entry>
