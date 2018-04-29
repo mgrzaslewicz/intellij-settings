@@ -154,7 +154,7 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealthTest.kt" timestamp="1524313725082">
         <mark key="[" line="39" column="18" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/local-env.properties.template" timestamp="1525030553940">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/local-env.properties.template" timestamp="1525030608592">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
@@ -191,9 +191,9 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/pom.xml" timestamp="1524996355694">
         <mark key="[" line="21" column="39" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/build-and-run.sh" timestamp="1525011549207">
-        <mark key="'" line="8" column="17" />
-        <mark key="[" line="22" column="39" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/build-and-run.sh" timestamp="1525031014043">
+        <mark key="'" line="22" column="16" />
+        <mark key="[" line="37" column="102" />
         <mark key="]" line="22" column="39" />
         <mark key="." line="22" column="39" />
       </file>
@@ -230,8 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="366" column="22" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
-      <jump line="367" column="57" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
       <jump line="85" column="61" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
       <jump line="91" column="25" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
       <jump line="229" column="14" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/localorder/LocalOrderServiceTest.kt" />
@@ -330,6 +328,8 @@
       <jump line="21" column="8" filename="E:/prj/autocoin-order-service/build-and-run.sh" />
       <jump line="22" column="30" filename="E:/prj/autocoin-order-service/build-and-run.sh" />
       <jump line="25" column="48" filename="E:/prj/autocoin-order-service/build-and-run.sh" />
+      <jump line="9" column="3" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/build-and-run.sh" />
+      <jump line="22" column="16" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/build-and-run.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -339,7 +339,7 @@
         <text>ornder-</text>
       </register>
       <register name="/" type="4">
-        <text>autocoin-order-service</text>
+        <text>Docker</text>
       </register>
       <register name="0" type="4">
         <text>Starting strategies on boot</text>
@@ -376,9 +376,9 @@
       </register>
     </registers>
     <search>
-      <last-search>autocoin-order-service</last-search>
+      <last-search>Docker</last-search>
       <last-offset />
-      <last-pattern>autocoin-order-service</last-pattern>
+      <last-pattern>Docker</last-pattern>
       <last-replace>autocoin-strategy-executor</last-replace>
       <last-substitute>autocoin-order-service</last-substitute>
       <last-dir>1</last-dir>
@@ -386,7 +386,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PreviousTrade</entry>
         <entry>trade</entry>
         <entry>Parameters()</entry>
         <entry>add</entry>
@@ -406,6 +405,7 @@
         <entry>xcha</entry>
         <entry>ornd</entry>
         <entry>autocoin-order-service</entry>
+        <entry>Docker</entry>
       </history-search>
       <history-cmd>
         <entry>set incsearch</entry>
