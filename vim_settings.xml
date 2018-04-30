@@ -33,6 +33,10 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/test/kotlin/automate/profit/autocoin/DbTickerRepositoryTest.kt" timestamp="1524997180791">
         <mark key="[" line="21" column="33" />
       </file>
+      <file name="E:/prj/autocoin-order-service/local-env.properties.template" timestamp="1525083440813">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="10" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/localorder/LocalOrderService.kt" timestamp="1523899118742">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -114,11 +118,6 @@
         <mark key="^" line="151" column="64" />
         <mark key="." line="151" column="64" />
       </file>
-      <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/test/resources/application-test.yml" timestamp="1524998802524">
-        <mark key="]" line="15" column="1" />
-        <mark key="^" line="15" column="1" />
-        <mark key="." line="15" column="1" />
-      </file>
       <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/OrderServiceTest.kt" timestamp="1525076905059">
         <mark key="[" line="42" column="45" />
         <mark key="]" line="42" column="45" />
@@ -161,9 +160,9 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/build-and-run.sh" timestamp="1525011498065">
+      <file name="E:/prj/autocoin-order-service/build-and-run.sh" timestamp="1525083396591">
         <mark key="'" line="25" column="48" />
-        <mark key="[" line="22" column="41" />
+        <mark key="[" line="37" column="81" />
         <mark key="]" line="22" column="41" />
         <mark key="." line="22" column="41" />
       </file>
@@ -190,7 +189,7 @@
         <mark key="^" line="62" column="24" />
         <mark key="." line="63" column="5" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/local-env.properties.template" timestamp="1525030608592">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/local-env.properties.template" timestamp="1525083436067">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
@@ -212,7 +211,7 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1524164280688">
         <mark key="[" line="17" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525082744665">
+      <file name="/Dummy.txt" timestamp="1525083545646">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -233,7 +232,7 @@
         <mark key="^" line="29" column="195" />
         <mark key="." line="29" column="195" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/build-and-run.sh" timestamp="1525032996284">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/build-and-run.sh" timestamp="1525083534223">
         <mark key="'" line="22" column="16" />
         <mark key="[" line="40" column="102" />
         <mark key="]" line="22" column="39" />
@@ -279,7 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="38" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/localorder/LocalOrderServiceTest.kt" />
       <jump line="227" column="39" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/localorder/LocalOrderServiceTest.kt" />
       <jump line="275" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/localorder/LocalOrderServiceTest.kt" />
       <jump line="189" column="9" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/localorder/LocalOrderServiceTest.kt" />
@@ -379,6 +377,7 @@
       <jump line="1666" column="16" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/HashMap.java" />
       <jump line="33" column="12" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE-sources.jar!/org/springframework/http/HttpStatus.java" />
       <jump line="45" column="18" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/AccountControllerTest.kt" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-order-service/local-env.properties.template" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
