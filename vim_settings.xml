@@ -87,11 +87,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="74" column="49" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/order/OrderController.kt" timestamp="1525176958272">
-        <mark key="[" line="90" column="47" />
-        <mark key="]" line="80" column="40" />
-        <mark key="^" line="80" column="40" />
-        <mark key="." line="80" column="40" />
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/order/OrderController.kt" timestamp="1525177848484">
+        <mark key="[" line="43" column="12" />
+        <mark key="]" line="43" column="21" />
+        <mark key="^" line="42" column="25" />
+        <mark key="." line="42" column="25" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.scss" timestamp="1525104648444">
         <mark key="[" line="0" column="0" />
@@ -117,8 +117,8 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyProviders.kt" timestamp="1523475497031">
         <mark key="[" line="22" column="42" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/api.service.ts" timestamp="1525097888599">
-        <mark key="[" line="13" column="28" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/api.service.ts" timestamp="1525178153202">
+        <mark key="[" line="16" column="8" />
         <mark key="]" line="12" column="28" />
         <mark key="." line="12" column="28" />
         <mark key="^" line="12" column="28" />
@@ -145,7 +145,9 @@
         <mark key="^" line="32" column="27" />
         <mark key="." line="32" column="13" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/models/order.ts" timestamp="1525093107307" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/models/order.ts" timestamp="1525177969830">
+        <mark key="[" line="26" column="0" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/auth.service.ts" timestamp="1525092828940" />
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchange.kt" timestamp="1524766252830">
         <mark key="[" line="64" column="55" />
@@ -209,7 +211,9 @@
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.ts" timestamp="1525170921063" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.ts" timestamp="1525177776832">
+        <mark key="[" line="16" column="29" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/FeatureToggle.kt" timestamp="1524765473787">
         <mark key="[" line="9" column="8" />
         <mark key="]" line="9" column="8" />
@@ -224,10 +228,13 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/api/test.json" timestamp="1524174443298">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/orders.service.ts" timestamp="1525178181871">
+        <mark key="[" line="31" column="29" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1524164280688">
         <mark key="[" line="17" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525175009239">
+      <file name="/Dummy.txt" timestamp="1525177599563">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -413,8 +420,8 @@
       <register name="/" type="4">
         <text>ve</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucGVuZGluZyA9IGZhbHNlOwo=</text>
+      <register name="0" type="4">
+        <text>openOrders</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucGVuZGluZyA9IHRydWU7Cg==</text>
