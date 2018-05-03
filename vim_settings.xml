@@ -9,7 +9,7 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/main/resources/application-mysql.yml" timestamp="1524998806836">
         <mark key="[" line="0" column="7" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1525277639412">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1525336544922">
         <mark key="[" line="153" column="42" />
         <mark key="]" line="147" column="95" />
         <mark key="^" line="147" column="95" />
@@ -113,11 +113,12 @@
       <file name="E:/prj/autocoin-trader-frontend/src/environments/versions.ts" timestamp="1525098216085">
         <mark key="[" line="0" column="34" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/SellHigherAndHigherRuleTest.kt" timestamp="1525278568156">
-        <mark key="[" line="24" column="42" />
-        <mark key="]" line="47" column="97" />
-        <mark key="^" line="50" column="80" />
-        <mark key="." line="47" column="97" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/SellHigherAndHigherRuleTest.kt" timestamp="1525336872181">
+        <mark key="'" line="47" column="8" />
+        <mark key="[" line="48" column="90" />
+        <mark key="]" line="48" column="90" />
+        <mark key="^" line="47" column="107" />
+        <mark key="." line="48" column="90" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyProviders.kt" timestamp="1523475497031">
         <mark key="[" line="22" column="42" />
@@ -237,7 +238,7 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1524164280688">
         <mark key="[" line="17" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525274021585">
+      <file name="/Dummy.txt" timestamp="1525336694587">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -295,7 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="40" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" />
       <jump line="105" column="4" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" />
       <jump line="172" column="12" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" />
@@ -395,43 +395,44 @@
       <jump line="107" column="19" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" />
       <jump line="106" column="21" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" />
       <jump line="105" column="20" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" />
+      <jump line="47" column="8" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/SellHigherAndHigherRuleTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>downT</text>
+        <text encoding="base64">OTYuMDYg</text>
       </register>
       <register name="/" type="4">
-        <text>Fraction</text>
+        <text>Fa</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Z2FpblRvU2VsbE5leHRSZWxhdGl2ZSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBCSVRNRVgsIC8vIG5vdCBpbXBsZW1lbnRlZCBpbiB4Y2hhbmdlCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlbGxIaWdoZXJBbmRIaWdoZXJSdWxlLmlzU2F0aXNmaWVkKDUsIHRyYWRpbmdSZWNvcmQpKS5pc0ZhbHNlKCkgLy8gMTA1Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBCSVRNRVgsIC8vIG5vdCBpbXBsZW1lbnRlZCBpbiB4Y2hhbmdlCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucGVuZGluZyA9IHRydWU7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgIG5nT25EZXN0cm95KCkgewogICAgICAgIHRoaXMub3Blbk9yZGVyc1N1YnNjcmlwdGlvbi51bnN1YnNjcmliZSgpOwogICAgfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiY3VycmVuY3lDb2RlIjogIkFEQSIsCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF2YWlsYWJsZSA9IGl0LnZhbHVlCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1cnJlbmN5Q29kZSA9IGl0LmtleS5jdXJyZW5jeUNvZGUsCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRXhjaGFuZ2VCYWxhbmNlUmVzdWx0KCJBUlMiLCAyLjMpLAogICAgICAgICAgICAgICAgICAgICAgICBFeGNoYW5nZUJhbGFuY2VSZXN1bHQoIkJDSCIsIDEuMykK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRXhjaGFuZ2VCYWxhbmNlUmVzdWx0KCJBUlMiLCAyLjMpLAogICAgICAgICAgICAgICAgICAgICAgICBFeGNoYW5nZUJhbGFuY2VSZXN1bHQoIkJDSCIsIDEuMykK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -441,9 +442,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Fraction</last-search>
+      <last-search>Fa</last-search>
       <last-offset />
-      <last-pattern>Fraction</last-pattern>
+      <last-pattern>Fa</last-pattern>
       <last-replace>AccountService</last-replace>
       <last-substitute>TradeService</last-substitute>
       <last-dir>1</last-dir>
@@ -451,7 +452,6 @@
     </search>
     <history>
       <history-search>
-        <entry>@</entry>
         <entry>Open</entry>
         <entry>createTrade</entry>
         <entry>TradeService</entry>
@@ -471,6 +471,7 @@
         <entry>name</entry>
         <entry>bad</entry>
         <entry>Fraction</entry>
+        <entry>Fa</entry>
       </history-search>
       <history-cmd>
         <entry>%s/historicalTickersUsed/firstValue/g</entry>
