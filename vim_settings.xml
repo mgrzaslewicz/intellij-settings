@@ -182,12 +182,12 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/RSI2StrategyProvider.kt" timestamp="1525430569299">
         <mark key="[" line="27" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1525445369749">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="57" column="61" />
-        <mark key="]" line="57" column="61" />
-        <mark key="^" line="56" column="61" />
-        <mark key="." line="57" column="61" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1525446957687">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="72" column="35" />
+        <mark key="]" line="72" column="35" />
+        <mark key="^" line="72" column="34" />
+        <mark key="." line="72" column="35" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/strategy/TestStrategyProvider.kt" timestamp="1525430798069">
         <mark key="[" line="24" column="26" />
@@ -495,27 +495,30 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Decimal.ZERO // trailing stop</text>
       </register>
       <register name="/" type="4">
         <text>will</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm4oIkV4Y2hhbmdlIGtleSBmb3IgZXhjaGFuZ2UgJyR7Y2FuY2VsT3JkZXJSZXF1ZXN0LmV4Y2hhbmdlSWR9JyBub3QgZm91bmQgZm9yIGNsaWVudCAnJHtjYW5jZWxPcmRlclJlcXVlc3QuY2xpZW50SWR9JyIpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHBlcmNlbnRCaWdnZXIodmFsdWU6IERlY2ltYWwsIGNoYW5nZVBlcmNlbnQ6IERlY2ltYWwpID0gdmFsdWUubXVsdGlwbGllZEJ5KERlY2ltYWwuT05FLnBsdXMoY2hhbmdlUGVyY2VudC5kaXZpZGVkQnkoRGVjaW1hbC5IVU5EUkVEKSkpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHNldFN0b3BNYWtpbmdPcmRlcnNWYWx1ZShwcmljZTogRGVjaW1hbCkgewogICAgICAgIGlmIChzdG9wQnV5aW5nVmFsdWUgPT09IERlY2ltYWwuWkVSTykgewogICAgICAgICAgICBzdG9wQnV5aW5nVmFsdWUgPSBwcmljZQogICAgICAgICAgICBpZiAobG9nZ2VyLmlzSW5mb0VuYWJsZWQpIGxvZ2dlci5pbmZvKHJlbW90ZSwgIk5ldyBzdG9wQnV5aW5nVmFsdWU6ICRzdG9wQnV5aW5nVmFsdWUiKQogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIGZ1biBjYWxjdWxhdGVTdGFydEJ1eWluZ1ZhbHVlKGN1cnJlbnRWYWx1ZTogRGVjaW1hbCkgewogICAgICAgIHZhbCBkcm9wID0gbWF4QnV5VmFsdWUgLSBjdXJyZW50VmFsdWUKICAgICAgICB2YWwgbmV3U3RhcnRCdXlpbmdWYWx1ZSA9IGN1cnJlbnRWYWx1ZSArIGRyb3AubXVsdGlwbGllZEJ5KHN0YXJ0TWFraW5nT3JkZXJzRGlzdGFuY2VSYXRpbykKICAgICAgICBzdGFydE1ha2luZ09yZGVyc1ZhbHVlID0gaWYgKHN0YXJ0TWFraW5nT3JkZXJzVmFsdWUgPT09IERlY2ltYWwuWkVSTykgbmV3U3RhcnRCdXlpbmdWYWx1ZSBlbHNlIHN0YXJ0TWFraW5nT3JkZXJzVmFsdWUubWluKG5ld1N0YXJ0QnV5aW5nVmFsdWUpCiAgICAgICAgaWYgKGxvZ2dlci5pc0luZm9FbmFibGVkICYmIG5ld1N0YXJ0QnV5aW5nVmFsdWUgIT0gc3RhcnRNYWtpbmdPcmRlcnNWYWx1ZSkgbG9nZ2VyLmluZm8ocmVtb3RlLCAiTmV3IEJVWSBzdGFydE1ha2luZ09yZGVyc1ZhbHVlOiAkc3RhcnRNYWtpbmdPcmRlcnNWYWx1ZSIpCiAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b3BMb3NzUnVsZSwK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IG1hcE9mKAogICAgICAgICAgICBCdXlXaXRoVHJhaWxpbmdTdG9wU3RyYXRlZ3lQcm92aWRlci5OQU1FIHRvIGJ1eVdpdGhUcmFpbGluZ1N0b3BTdHJhdGVneVByb3ZpZGVyLAogICAgICAgICAgICBTZWxsV2l0aFRyYWlsaW5nU3RvcFN0cmF0ZWd5UHJvdmlkZXIuTkFNRSB0byBzZWxsV2l0aFRyYWlsaW5nU3RvcFN0cmF0ZWd5UHJvdmlkZXIKICAgICAgICAgICAgQnV5V2hlbkRyb3BwaW5nU2VsbFdpdGhUcmFpbGluZ1N0b3BTdHJhdGVneVByb3ZpZGVyLk5BTUUgdG8gYnV5V2hlbkRyb3BwaW5nU2VsbFdpdGhUcmFpbGluZ1N0b3BTdHJhdGVneVByb3ZpZGVyLAogICAgICAgICAgICByc2kyU3RyYXRlZ3lQcm92aWRlci5nZXROYW1lKCkgdG8gcnNpMlN0cmF0ZWd5UHJvdmlkZXIsCiAgICAgICAgICAgIEJ1eUxvd2VyQW5kTG93ZXJTdHJhdGVneVByb3ZpZGVyLk5BTUUgdG8gYnV5TG93ZXJBbmRMb3dlclN0cmF0ZWd5UHJvdmlkZXIsCiAgICAgICAgICAgIFNlbGxIaWdoZXJBbmRIaWdoZXJTdHJhdGVneVByb3ZpZGVyLk5BTUUgdG8gc2VsbEhpZ2hlckFuZEhpZ2hlclN0cmF0ZWd5UHJvdmlkZXIKICAgICk=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b3BMb3NzUnVsZSwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">IG1hcE9mKAogICAgICAgICAgICBCdXlXaXRoVHJhaWxpbmdTdG9wU3RyYXRlZ3lQcm92aWRlci5OQU1FIHRvIGJ1eVdpdGhUcmFpbGluZ1N0b3BTdHJhdGVneVByb3ZpZGVyLAogICAgICAgICAgICBTZWxsV2l0aFRyYWlsaW5nU3RvcFN0cmF0ZWd5UHJvdmlkZXIuTkFNRSB0byBzZWxsV2l0aFRyYWlsaW5nU3RvcFN0cmF0ZWd5UHJvdmlkZXIKICAgICAgICAgICAgQnV5V2hlbkRyb3BwaW5nU2VsbFdpdGhUcmFpbGluZ1N0b3BTdHJhdGVneVByb3ZpZGVyLk5BTUUgdG8gYnV5V2hlbkRyb3BwaW5nU2VsbFdpdGhUcmFpbGluZ1N0b3BTdHJhdGVneVByb3ZpZGVyLAogICAgICAgICAgICByc2kyU3RyYXRlZ3lQcm92aWRlci5nZXROYW1lKCkgdG8gcnNpMlN0cmF0ZWd5UHJvdmlkZXIsCiAgICAgICAgICAgIEJ1eUxvd2VyQW5kTG93ZXJTdHJhdGVneVByb3ZpZGVyLk5BTUUgdG8gYnV5TG93ZXJBbmRMb3dlclN0cmF0ZWd5UHJvdmlkZXIsCiAgICAgICAgICAgIFNlbGxIaWdoZXJBbmRIaWdoZXJTdHJhdGVneVByb3ZpZGVyLk5BTUUgdG8gc2VsbEhpZ2hlckFuZEhpZ2hlclN0cmF0ZWd5UHJvdmlkZXIKICAgICk=</text>
+      </register>
+      <register name="6" type="4">
         <text>buyWithTrailingStopStrategyProvider: BuyWithTrailingStopStrategyProvider,
                             sellWithTrailingStopStrategyProvider: SellWithTrailingStopStrategyProvider,
                             buyWhenDroppingSellWithTrailingStopStrategyProvider: BuyWhenDroppingSellWithTrailingStopStrategyProvider,
@@ -523,18 +526,15 @@
                             buyLowerAndLowerStrategyProvider: BuyLowerAndLowerStrategyProvider,
                             sellHigherAndHigherStrategyProvider: SellHigherAndHigherStrategyProvider</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0K</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmFkaW5nUmVjb3JkLmV4aXQoaW5kZXgsIG9yZGVyLnByaWNlLnRvVGE0akRlY2ltYWwoKSwgb3JkZXIuYW1vdW50LnRvVGE0akRlY2ltYWwoKSkKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhyZW1vdGUsICJBZGRlZCBpbml0aWFsIGJ1eSBleGl0IG9yZGVyICR7b3JkZXIuZXhjaGFuZ2VPcmRlcklkfSB0byB0cmFkaW5nIHJlY29yZCBhdCBpbmRleCAkaW5kZXgiKQ==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>,
                                     private var enterTradeWithBuyOrder: Boolean = true</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIFRPRE8K</text>
       </register>
       <register name=":" type="4">
         <text>%s/TradeService/AccountService/g</text>
