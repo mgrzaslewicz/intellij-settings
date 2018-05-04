@@ -68,11 +68,11 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TestProfiles.kt" timestamp="1525363044979">
         <mark key="[" line="6" column="19" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyWithTrailingStopStrategyProvider.kt" timestamp="1525439163360">
-        <mark key="[" line="44" column="45" />
-        <mark key="]" line="45" column="27" />
-        <mark key="^" line="45" column="27" />
-        <mark key="." line="45" column="27" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyWithTrailingStopStrategyProvider.kt" timestamp="1525441437114">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="35" column="27" />
+        <mark key="." line="32" column="23" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/services.module.ts" timestamp="1525098607715">
         <mark key="[" line="21" column="19" />
@@ -300,11 +300,11 @@
         <mark key="^" line="158" column="70" />
         <mark key="." line="158" column="70" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWithTrailingStopStrategyProvider.kt" timestamp="1525439172849">
-        <mark key="[" line="45" column="45" />
-        <mark key="]" line="46" column="28" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWithTrailingStopStrategyProvider.kt" timestamp="1525441440042">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
         <mark key="^" line="46" column="28" />
-        <mark key="." line="46" column="28" />
+        <mark key="." line="33" column="23" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/local-env.properties.template" timestamp="1525083436067">
         <mark key="[" line="1" column="10" />
@@ -494,7 +494,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>OrRule(</text>
       </register>
       <register name="/" type="4">
         <text>Loss</text>
@@ -502,10 +502,19 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm4oIkV4Y2hhbmdlIGtleSBmb3IgZXhjaGFuZ2UgJyR7Y2FuY2VsT3JkZXJSZXF1ZXN0LmV4Y2hhbmdlSWR9JyBub3QgZm91bmQgZm9yIGNsaWVudCAnJHtjYW5jZWxPcmRlclJlcXVlc3QuY2xpZW50SWR9JyIpCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b3BMb3NzUnVsZSwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">IG1hcE9mKAogICAgICAgICAgICBCdXlXaXRoVHJhaWxpbmdTdG9wU3RyYXRlZ3lQcm92aWRlci5OQU1FIHRvIGJ1eVdpdGhUcmFpbGluZ1N0b3BTdHJhdGVneVByb3ZpZGVyLAogICAgICAgICAgICBTZWxsV2l0aFRyYWlsaW5nU3RvcFN0cmF0ZWd5UHJvdmlkZXIuTkFNRSB0byBzZWxsV2l0aFRyYWlsaW5nU3RvcFN0cmF0ZWd5UHJvdmlkZXIKICAgICAgICAgICAgQnV5V2hlbkRyb3BwaW5nU2VsbFdpdGhUcmFpbGluZ1N0b3BTdHJhdGVneVByb3ZpZGVyLk5BTUUgdG8gYnV5V2hlbkRyb3BwaW5nU2VsbFdpdGhUcmFpbGluZ1N0b3BTdHJhdGVneVByb3ZpZGVyLAogICAgICAgICAgICByc2kyU3RyYXRlZ3lQcm92aWRlci5nZXROYW1lKCkgdG8gcnNpMlN0cmF0ZWd5UHJvdmlkZXIsCiAgICAgICAgICAgIEJ1eUxvd2VyQW5kTG93ZXJTdHJhdGVneVByb3ZpZGVyLk5BTUUgdG8gYnV5TG93ZXJBbmRMb3dlclN0cmF0ZWd5UHJvdmlkZXIsCiAgICAgICAgICAgIFNlbGxIaWdoZXJBbmRIaWdoZXJTdHJhdGVneVByb3ZpZGVyLk5BTUUgdG8gc2VsbEhpZ2hlckFuZEhpZ2hlclN0cmF0ZWd5UHJvdmlkZXIKICAgICk=</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>buyWithTrailingStopStrategyProvider: BuyWithTrailingStopStrategyProvider,
                             sellWithTrailingStopStrategyProvider: SellWithTrailingStopStrategyProvider,
                             buyWhenDroppingSellWithTrailingStopStrategyProvider: BuyWhenDroppingSellWithTrailingStopStrategyProvider,
@@ -513,27 +522,18 @@
                             buyLowerAndLowerStrategyProvider: BuyLowerAndLowerStrategyProvider,
                             sellHigherAndHigherStrategyProvider: SellHigherAndHigherStrategyProvider</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0K</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmFkaW5nUmVjb3JkLmV4aXQoaW5kZXgsIG9yZGVyLnByaWNlLnRvVGE0akRlY2ltYWwoKSwgb3JkZXIuYW1vdW50LnRvVGE0akRlY2ltYWwoKSkKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhyZW1vdGUsICJBZGRlZCBpbml0aWFsIGJ1eSBleGl0IG9yZGVyICR7b3JkZXIuZXhjaGFuZ2VPcmRlcklkfSB0byB0cmFkaW5nIHJlY29yZCBhdCBpbmRleCAkaW5kZXgiKQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>,
                                     private var enterTradeWithBuyOrder: Boolean = true</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIFRPRE8K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlbGxIaWdoZXJBbmRIaWdoZXJSdWxlLmlzU2F0aXNmaWVkKDUsIHRyYWRpbmdSZWNvcmQpKS5pc0ZhbHNlKCkgLy8gMTA1Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBCSVRNRVgsIC8vIG5vdCBpbXBsZW1lbnRlZCBpbiB4Y2hhbmdlCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucGVuZGluZyA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAqIFRPRE8K</text>
       </register>
       <register name=":" type="4">
         <text>%s/TradeService/AccountService/g</text>
