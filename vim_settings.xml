@@ -12,11 +12,11 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/test/kotlin/automate/profit/autocoin/DbTickerRepositoryTest.kt" timestamp="1524997180791">
         <mark key="[" line="21" column="33" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/TrailingStopStrategyProvider.kt" timestamp="1525430739862">
-        <mark key="[" line="132" column="29" />
-        <mark key="]" line="132" column="29" />
-        <mark key="^" line="36" column="32" />
-        <mark key="." line="132" column="29" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/TrailingStopStrategyProvider.kt" timestamp="1525435605577">
+        <mark key="[" line="208" column="55" />
+        <mark key="]" line="208" column="55" />
+        <mark key="^" line="198" column="67" />
+        <mark key="." line="208" column="55" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyProvidersConfig.kt" timestamp="1525433643719">
         <mark key="[" line="7" column="31" />
@@ -67,6 +67,9 @@
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TestProfiles.kt" timestamp="1525363044979">
         <mark key="[" line="6" column="19" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyWithTrailingStopStrategyProvider.kt" timestamp="1525436214241">
+        <mark key="[" line="43" column="103" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/services.module.ts" timestamp="1525098607715">
         <mark key="[" line="21" column="19" />
@@ -294,6 +297,12 @@
         <mark key="^" line="158" column="70" />
         <mark key="." line="158" column="70" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWithTrailingStopStrategyProvider.kt" timestamp="1525436241084">
+        <mark key="[" line="24" column="41" />
+        <mark key="]" line="44" column="43" />
+        <mark key="^" line="44" column="43" />
+        <mark key="." line="44" column="43" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/local-env.properties.template" timestamp="1525083436067">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="0" column="17" />
@@ -320,7 +329,7 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525429013643">
+      <file name="/Dummy.txt" timestamp="1525436271198">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -356,7 +365,7 @@
         <mark key="^" line="33" column="42" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/config/StrategyParametersTest.kt" timestamp="1525359105196" />
-      <file name="/fragment.java" timestamp="1525344615382">
+      <file name="/fragment.java" timestamp="1525435581168">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -467,10 +476,10 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>BaseStrategyProviders::class, StrategyParametersMerger::class, RSI2StrategyProvider::class, BuyWhenDroppingSellWithTrailingStopStrategyProvider::class, BuyWithTrailingStopStrategyProvider::class, BuyLowerAndLowerStrategyProvider::class, SellHigherAndHigherStrategyProvider::class</text>
+        <text>parameters[BuyWhenDroppingSellWithTrailingStopStrategParameters.TRAILING_STOP_PERCENT_BELOW_GAIN]!!</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>Loss</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm4oIkV4Y2hhbmdlIGtleSBmb3IgZXhjaGFuZ2UgJyR7Y2FuY2VsT3JkZXJSZXF1ZXN0LmV4Y2hhbmdlSWR9JyBub3QgZm91bmQgZm9yIGNsaWVudCAnJHtjYW5jZWxPcmRlclJlcXVlc3QuY2xpZW50SWR9JyIpCg==</text>
@@ -513,17 +522,16 @@
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>Loss</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>Loss</last-pattern>
       <last-replace>AccountService</last-replace>
       <last-substitute>TradeService</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Li</entry>
         <entry>Clie</entry>
         <entry>String</entry>
         <entry>button</entry>
@@ -543,6 +551,7 @@
         <entry>minEntryCurrencyAmountToHold</entry>
         <entry>minEntryCu</entry>
         <entry>,</entry>
+        <entry>Loss</entry>
       </history-search>
       <history-cmd>
         <entry>%s/historicalTickersUsed/firstValue/g</entry>
