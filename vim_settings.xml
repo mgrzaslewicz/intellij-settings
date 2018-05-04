@@ -182,11 +182,11 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/RSI2StrategyProvider.kt" timestamp="1525430569299">
         <mark key="[" line="27" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1525440220541">
-        <mark key="[" line="136" column="85" />
-        <mark key="]" line="61" column="53" />
-        <mark key="^" line="61" column="53" />
-        <mark key="." line="61" column="53" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1525444112959">
+        <mark key="[" line="118" column="85" />
+        <mark key="]" line="62" column="53" />
+        <mark key="^" line="62" column="53" />
+        <mark key="." line="62" column="53" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/strategy/TestStrategyProvider.kt" timestamp="1525430798069">
         <mark key="[" line="24" column="26" />
@@ -332,11 +332,11 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyWhenDroppingSellWithTrailingStopStrategyProvider.kt" timestamp="1525439147844">
-        <mark key="[" line="60" column="140" />
-        <mark key="]" line="61" column="27" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyWhenDroppingSellWithTrailingStopStrategyProvider.kt" timestamp="1525442442829">
+        <mark key="[" line="61" column="24" />
+        <mark key="]" line="61" column="24" />
         <mark key="^" line="61" column="27" />
-        <mark key="." line="61" column="27" />
+        <mark key="." line="61" column="24" />
       </file>
       <file name="/Dummy.txt" timestamp="1525436271198">
         <mark key="[" line="0" column="0" />
@@ -494,7 +494,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>OrRule(</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>Loss</text>
