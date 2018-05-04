@@ -68,8 +68,11 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TestProfiles.kt" timestamp="1525363044979">
         <mark key="[" line="6" column="19" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyWithTrailingStopStrategyProvider.kt" timestamp="1525436214241">
-        <mark key="[" line="43" column="103" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyWithTrailingStopStrategyProvider.kt" timestamp="1525439163360">
+        <mark key="[" line="44" column="45" />
+        <mark key="]" line="45" column="27" />
+        <mark key="^" line="45" column="27" />
+        <mark key="." line="45" column="27" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/services.module.ts" timestamp="1525098607715">
         <mark key="[" line="21" column="19" />
@@ -179,11 +182,11 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/RSI2StrategyProvider.kt" timestamp="1525430569299">
         <mark key="[" line="27" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1525338539719">
-        <mark key="[" line="147" column="94" />
-        <mark key="]" line="147" column="95" />
-        <mark key="^" line="147" column="95" />
-        <mark key="." line="147" column="95" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1525440220541">
+        <mark key="[" line="136" column="85" />
+        <mark key="]" line="61" column="53" />
+        <mark key="^" line="61" column="53" />
+        <mark key="." line="61" column="53" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/strategy/TestStrategyProvider.kt" timestamp="1525430798069">
         <mark key="[" line="24" column="26" />
@@ -297,11 +300,11 @@
         <mark key="^" line="158" column="70" />
         <mark key="." line="158" column="70" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWithTrailingStopStrategyProvider.kt" timestamp="1525436241084">
-        <mark key="[" line="24" column="41" />
-        <mark key="]" line="44" column="43" />
-        <mark key="^" line="44" column="43" />
-        <mark key="." line="44" column="43" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWithTrailingStopStrategyProvider.kt" timestamp="1525439172849">
+        <mark key="[" line="45" column="45" />
+        <mark key="]" line="46" column="28" />
+        <mark key="^" line="46" column="28" />
+        <mark key="." line="46" column="28" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/local-env.properties.template" timestamp="1525083436067">
         <mark key="[" line="1" column="10" />
@@ -329,6 +332,12 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyWhenDroppingSellWithTrailingStopStrategyProvider.kt" timestamp="1525439147844">
+        <mark key="[" line="60" column="140" />
+        <mark key="]" line="61" column="27" />
+        <mark key="^" line="61" column="27" />
+        <mark key="." line="61" column="27" />
+      </file>
       <file name="/Dummy.txt" timestamp="1525436271198">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -348,6 +357,15 @@
         <mark key="]" line="207" column="8" />
         <mark key="." line="207" column="8" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/TrailinStopRuleTest.kt" timestamp="1525438870767">
+        <mark key="[" line="14" column="14" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/TrailingStopRuleTest.kt" timestamp="1525439826753">
+        <mark key="[" line="25" column="98" />
+        <mark key="]" line="30" column="133" />
+        <mark key="^" line="30" column="133" />
+        <mark key="." line="30" column="133" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/EnterWhenDroppingExitWithTrailingStopStrategyIT.kt" timestamp="1525353834296">
         <mark key="[" line="55" column="15" />
       </file>
@@ -365,7 +383,7 @@
         <mark key="^" line="33" column="42" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/config/StrategyParametersTest.kt" timestamp="1525359105196" />
-      <file name="/fragment.java" timestamp="1525435581168">
+      <file name="/fragment.java" timestamp="1525438828554">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -476,7 +494,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>parameters[BuyWhenDroppingSellWithTrailingStopStrategParameters.TRAILING_STOP_PERCENT_BELOW_GAIN]!!</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>Loss</text>
