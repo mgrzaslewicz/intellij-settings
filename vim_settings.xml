@@ -18,6 +18,11 @@
         <mark key="^" line="198" column="67" />
         <mark key="." line="208" column="55" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/localorder/LocalOrderService.kt" timestamp="1525366498383">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyProvidersConfig.kt" timestamp="1525433643719">
         <mark key="[" line="7" column="31" />
       </file>
@@ -65,14 +70,20 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.scss" timestamp="1525104648444">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TestProfiles.kt" timestamp="1525363044979">
-        <mark key="[" line="6" column="19" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/localorder/LocalOrderServiceTest.kt" timestamp="1525366579286">
+        <mark key="[" line="349" column="52" />
+        <mark key="]" line="349" column="52" />
+        <mark key="." line="349" column="52" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyWithTrailingStopStrategyProvider.kt" timestamp="1525441437114">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="35" column="27" />
-        <mark key="." line="32" column="23" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TestProfiles.kt" timestamp="1525448087242">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyWithTrailingStopStrategyProvider.kt" timestamp="1525448231363">
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="30" column="23" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/services.module.ts" timestamp="1525098607715">
         <mark key="[" line="21" column="19" />
@@ -92,6 +103,11 @@
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/components/sidebar/sidebar.component.html" timestamp="1525187415132">
         <mark key="[" line="14" column="103" />
+      </file>
+      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/OrderServiceTest.kt" timestamp="1525076905059">
+        <mark key="[" line="42" column="45" />
+        <mark key="]" line="42" column="45" />
+        <mark key="." line="42" column="45" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/models/order.ts" timestamp="1525185176714">
         <mark key="[" line="26" column="0" />
@@ -167,6 +183,16 @@
         <mark key="^" line="45" column="37" />
         <mark key="." line="11" column="11" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/models/client.ts" timestamp="1525097525663">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/resources/schema.sql" timestamp="1525367553906">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/exchange-account.service.ts" timestamp="1525098699550">
         <mark key="[" line="10" column="71" />
         <mark key="]" line="16" column="27" />
@@ -196,6 +222,11 @@
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorProfitIT.kt" timestamp="1524215362432">
         <mark key="[" line="53" column="87" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/clients/clients.component.ts" timestamp="1525094808488">
+        <mark key="[" line="36" column="44" />
+        <mark key="]" line="36" column="44" />
+        <mark key="." line="36" column="44" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/remotelog/RemoteLogService.kt" timestamp="1524308928909">
         <mark key="[" line="69" column="105" />
@@ -229,6 +260,9 @@
       </file>
       <file name="/fragment.kt" timestamp="1524216023463">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/BuyWhenDroppingSellWithTrailingStopStrategyIT.kt" timestamp="1525448056358">
+        <mark key="[" line="55" column="23" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/api/StrategiesControllerTest.kt" timestamp="1525170305371">
         <mark key="[" line="123" column="16" />
@@ -301,8 +335,8 @@
         <mark key="^" line="158" column="70" />
         <mark key="." line="158" column="70" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWithTrailingStopStrategyProvider.kt" timestamp="1525441440042">
-        <mark key="[" line="41" column="0" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWithTrailingStopStrategyProvider.kt" timestamp="1525448192951">
+        <mark key="[" line="33" column="24" />
         <mark key="]" line="41" column="0" />
         <mark key="^" line="46" column="28" />
         <mark key="." line="33" column="23" />
@@ -314,6 +348,11 @@
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.ts" timestamp="1525177776832">
         <mark key="[" line="16" column="29" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/FeatureToggle.kt" timestamp="1524765473787">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="8" />
+        <mark key="." line="9" column="8" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/Dockerfile" timestamp="1525011200195">
         <mark key="[" line="2" column="37" />
@@ -334,10 +373,10 @@
         <mark key="." line="6" column="24" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyWhenDroppingSellWithTrailingStopStrategyProvider.kt" timestamp="1525442442829">
-        <mark key="[" line="61" column="24" />
-        <mark key="]" line="61" column="24" />
-        <mark key="^" line="61" column="27" />
-        <mark key="." line="61" column="24" />
+        <mark key="[" line="62" column="24" />
+        <mark key="]" line="62" column="24" />
+        <mark key="^" line="62" column="27" />
+        <mark key="." line="62" column="24" />
       </file>
       <file name="/Dummy.txt" timestamp="1525436271198">
         <mark key="[" line="0" column="0" />
@@ -358,14 +397,24 @@
         <mark key="]" line="207" column="8" />
         <mark key="." line="207" column="8" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/localorder/LocalOrderRepository.kt" timestamp="1525367824519">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/TrailinStopRuleTest.kt" timestamp="1525438870767">
         <mark key="[" line="14" column="14" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/TrailingStopRuleTest.kt" timestamp="1525439826753">
-        <mark key="[" line="25" column="98" />
-        <mark key="]" line="30" column="133" />
-        <mark key="^" line="30" column="133" />
-        <mark key="." line="30" column="133" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1524594983775">
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="21" />
+        <mark key="." line="32" column="21" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/TrailingStopRuleTest.kt" timestamp="1525451057064">
+        <mark key="[" line="38" column="106" />
+        <mark key="]" line="38" column="106" />
+        <mark key="^" line="41" column="61" />
+        <mark key="." line="38" column="106" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/EnterWhenDroppingExitWithTrailingStopStrategyIT.kt" timestamp="1525353834296">
         <mark key="[" line="55" column="15" />
@@ -495,7 +544,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>Decimal.ZERO // trailing stop</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text>will</text>
@@ -503,22 +552,25 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHBlcmNlbnRCaWdnZXIodmFsdWU6IERlY2ltYWwsIGNoYW5nZVBlcmNlbnQ6IERlY2ltYWwpID0gdmFsdWUubXVsdGlwbGllZEJ5KERlY2ltYWwuT05FLnBsdXMoY2hhbmdlUGVyY2VudC5kaXZpZGVkQnkoRGVjaW1hbC5IVU5EUkVEKSkpCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHZhbCBCVVlfV0hFTl9EUk9QUElOR19TRUxMX1dJVEhfVFJBSUxJTkdfU1RPUCA9ICJidXktd2hlbi1kcm9wcGluZy1zZWxsLXdpdGgtdHJhaWxpbmctc3RvcCIK</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHNldFN0b3BNYWtpbmdPcmRlcnNWYWx1ZShwcmljZTogRGVjaW1hbCkgewogICAgICAgIGlmIChzdG9wQnV5aW5nVmFsdWUgPT09IERlY2ltYWwuWkVSTykgewogICAgICAgICAgICBzdG9wQnV5aW5nVmFsdWUgPSBwcmljZQogICAgICAgICAgICBpZiAobG9nZ2VyLmlzSW5mb0VuYWJsZWQpIGxvZ2dlci5pbmZvKHJlbW90ZSwgIk5ldyBzdG9wQnV5aW5nVmFsdWU6ICRzdG9wQnV5aW5nVmFsdWUiKQogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIGZ1biBjYWxjdWxhdGVTdGFydEJ1eWluZ1ZhbHVlKGN1cnJlbnRWYWx1ZTogRGVjaW1hbCkgewogICAgICAgIHZhbCBkcm9wID0gbWF4QnV5VmFsdWUgLSBjdXJyZW50VmFsdWUKICAgICAgICB2YWwgbmV3U3RhcnRCdXlpbmdWYWx1ZSA9IGN1cnJlbnRWYWx1ZSArIGRyb3AubXVsdGlwbGllZEJ5KHN0YXJ0TWFraW5nT3JkZXJzRGlzdGFuY2VSYXRpbykKICAgICAgICBzdGFydE1ha2luZ09yZGVyc1ZhbHVlID0gaWYgKHN0YXJ0TWFraW5nT3JkZXJzVmFsdWUgPT09IERlY2ltYWwuWkVSTykgbmV3U3RhcnRCdXlpbmdWYWx1ZSBlbHNlIHN0YXJ0TWFraW5nT3JkZXJzVmFsdWUubWluKG5ld1N0YXJ0QnV5aW5nVmFsdWUpCiAgICAgICAgaWYgKGxvZ2dlci5pc0luZm9FbmFibGVkICYmIG5ld1N0YXJ0QnV5aW5nVmFsdWUgIT0gc3RhcnRNYWtpbmdPcmRlcnNWYWx1ZSkgbG9nZ2VyLmluZm8ocmVtb3RlLCAiTmV3IEJVWSBzdGFydE1ha2luZ09yZGVyc1ZhbHVlOiAkc3RhcnRNYWtpbmdPcmRlcnNWYWx1ZSIpCiAgICB9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b3BMb3NzUnVsZSwK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b3BMb3NzUnVsZSwK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IG1hcE9mKAogICAgICAgICAgICBCdXlXaXRoVHJhaWxpbmdTdG9wU3RyYXRlZ3lQcm92aWRlci5OQU1FIHRvIGJ1eVdpdGhUcmFpbGluZ1N0b3BTdHJhdGVneVByb3ZpZGVyLAogICAgICAgICAgICBTZWxsV2l0aFRyYWlsaW5nU3RvcFN0cmF0ZWd5UHJvdmlkZXIuTkFNRSB0byBzZWxsV2l0aFRyYWlsaW5nU3RvcFN0cmF0ZWd5UHJvdmlkZXIKICAgICAgICAgICAgQnV5V2hlbkRyb3BwaW5nU2VsbFdpdGhUcmFpbGluZ1N0b3BTdHJhdGVneVByb3ZpZGVyLk5BTUUgdG8gYnV5V2hlbkRyb3BwaW5nU2VsbFdpdGhUcmFpbGluZ1N0b3BTdHJhdGVneVByb3ZpZGVyLAogICAgICAgICAgICByc2kyU3RyYXRlZ3lQcm92aWRlci5nZXROYW1lKCkgdG8gcnNpMlN0cmF0ZWd5UHJvdmlkZXIsCiAgICAgICAgICAgIEJ1eUxvd2VyQW5kTG93ZXJTdHJhdGVneVByb3ZpZGVyLk5BTUUgdG8gYnV5TG93ZXJBbmRMb3dlclN0cmF0ZWd5UHJvdmlkZXIsCiAgICAgICAgICAgIFNlbGxIaWdoZXJBbmRIaWdoZXJTdHJhdGVneVByb3ZpZGVyLk5BTUUgdG8gc2VsbEhpZ2hlckFuZEhpZ2hlclN0cmF0ZWd5UHJvdmlkZXIKICAgICk=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>buyWithTrailingStopStrategyProvider: BuyWithTrailingStopStrategyProvider,
                             sellWithTrailingStopStrategyProvider: SellWithTrailingStopStrategyProvider,
                             buyWhenDroppingSellWithTrailingStopStrategyProvider: BuyWhenDroppingSellWithTrailingStopStrategyProvider,
@@ -526,15 +578,11 @@
                             buyLowerAndLowerStrategyProvider: BuyLowerAndLowerStrategyProvider,
                             sellHigherAndHigherStrategyProvider: SellHigherAndHigherStrategyProvider</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmFkaW5nUmVjb3JkLmV4aXQoaW5kZXgsIG9yZGVyLnByaWNlLnRvVGE0akRlY2ltYWwoKSwgb3JkZXIuYW1vdW50LnRvVGE0akRlY2ltYWwoKSkKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhyZW1vdGUsICJBZGRlZCBpbml0aWFsIGJ1eSBleGl0IG9yZGVyICR7b3JkZXIuZXhjaGFuZ2VPcmRlcklkfSB0byB0cmFkaW5nIHJlY29yZCBhdCBpbmRleCAkaW5kZXgiKQ==</text>
-      </register>
       <register name="9" type="4">
-        <text>,
-                                    private var enterTradeWithBuyOrder: Boolean = true</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmFkaW5nUmVjb3JkLmV4aXQoaW5kZXgsIG9yZGVyLnByaWNlLnRvVGE0akRlY2ltYWwoKSwgb3JkZXIuYW1vdW50LnRvVGE0akRlY2ltYWwoKSkKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhyZW1vdGUsICJBZGRlZCBpbml0aWFsIGJ1eSBleGl0IG9yZGVyICR7b3JkZXIuZXhjaGFuZ2VPcmRlcklkfSB0byB0cmFkaW5nIHJlY29yZCBhdCBpbmRleCAkaW5kZXgiKQ==</text>
       </register>
       <register name=":" type="4">
         <text>%s/TradeService/AccountService/g</text>
