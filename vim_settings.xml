@@ -182,11 +182,12 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/RSI2StrategyProvider.kt" timestamp="1525430569299">
         <mark key="[" line="27" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1525444112959">
-        <mark key="[" line="118" column="85" />
-        <mark key="]" line="62" column="53" />
-        <mark key="^" line="62" column="53" />
-        <mark key="." line="62" column="53" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1525445369749">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="57" column="61" />
+        <mark key="]" line="57" column="61" />
+        <mark key="^" line="56" column="61" />
+        <mark key="." line="57" column="61" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/strategy/TestStrategyProvider.kt" timestamp="1525430798069">
         <mark key="[" line="24" column="26" />
@@ -388,8 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="25" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" />
-      <jump line="71" column="61" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" />
       <jump line="81" column="95" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" />
       <jump line="92" column="91" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" />
       <jump line="37" column="16" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
@@ -488,16 +487,18 @@
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellHigherAndHigherStrategyProvider.kt" />
       <jump line="8" column="7" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellHigherAndHigherStrategyProvider.kt" />
       <jump line="120" column="4" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" />
+      <jump line="56" column="60" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" />
+      <jump line="57" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Loss</text>
+        <text>will</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm4oIkV4Y2hhbmdlIGtleSBmb3IgZXhjaGFuZ2UgJyR7Y2FuY2VsT3JkZXJSZXF1ZXN0LmV4Y2hhbmdlSWR9JyBub3QgZm91bmQgZm9yIGNsaWVudCAnJHtjYW5jZWxPcmRlclJlcXVlc3QuY2xpZW50SWR9JyIpCg==</text>
@@ -540,9 +541,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Loss</last-search>
+      <last-search>will</last-search>
       <last-offset />
-      <last-pattern>Loss</last-pattern>
+      <last-pattern>will</last-pattern>
       <last-replace>AccountService</last-replace>
       <last-substitute>TradeService</last-substitute>
       <last-dir>1</last-dir>
@@ -550,8 +551,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Clie</entry>
-        <entry>String</entry>
         <entry>button</entry>
         <entry>Last</entry>
         <entry>errorMe</entry>
@@ -570,6 +569,8 @@
         <entry>minEntryCu</entry>
         <entry>,</entry>
         <entry>Loss</entry>
+        <entry encoding="base64">IA==</entry>
+        <entry>will</entry>
       </history-search>
       <history-cmd>
         <entry>%s/historicalTickersUsed/firstValue/g</entry>
