@@ -12,7 +12,7 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/main/resources/application-mysql.yml" timestamp="1524998806836">
         <mark key="[" line="0" column="7" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1525536071847">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1525541408202">
         <mark key="'" line="84" column="90" />
         <mark key="[" line="72" column="66" />
         <mark key="]" line="62" column="78" />
@@ -324,12 +324,12 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" timestamp="1525539792646">
-        <mark key="'" line="143" column="15" />
-        <mark key="[" line="116" column="45" />
-        <mark key="]" line="120" column="71" />
-        <mark key="^" line="46" column="68" />
-        <mark key="." line="120" column="71" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" timestamp="1525541715367">
+        <mark key="'" line="65" column="58" />
+        <mark key="[" line="82" column="100" />
+        <mark key="]" line="79" column="46" />
+        <mark key="^" line="79" column="46" />
+        <mark key="." line="79" column="46" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyWhenDroppingSellWithTrailingStopStrategyProvider.kt" timestamp="1525442442829">
         <mark key="[" line="62" column="24" />
@@ -428,8 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="16" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsService.kt" />
-      <jump line="34" column="345" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/localorder/StrategyExecutionRepository.kt" />
       <jump line="31" column="35" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/localorder/StrategyExecutionRepository.kt" />
       <jump line="30" column="74" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/localorder/StrategyExecutionRepository.kt" />
       <jump line="53" column="59" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/localorder/BaseOrderService.kt" />
@@ -528,6 +526,8 @@
       <jump line="135" column="33" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" />
       <jump line="140" column="52" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" />
       <jump line="141" column="15" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" />
+      <jump line="139" column="33" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" />
+      <jump line="72" column="58" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -537,7 +537,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdHJhdGVneVByb3ZpZGVyXD4=</text>
+        <text>rule</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c3RyYXRlZ3lQYXJhbWV0ZXJzTWVyZ2VyIA==</text>
@@ -574,9 +574,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdHJhdGVneVByb3ZpZGVyXD4=</last-search>
+      <last-search>rule</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdHJhdGVneVByb3ZpZGVyXD4=</last-pattern>
+      <last-pattern>rule</last-pattern>
       <last-replace>AccountService</last-replace>
       <last-substitute>TradeService</last-substitute>
       <last-dir>1</last-dir>
@@ -584,7 +584,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fa</entry>
         <entry>ve</entry>
         <entry>name</entry>
         <entry>bad</entry>
@@ -604,6 +603,7 @@
         <entry>initial</entry>
         <entry>M</entry>
         <entry encoding="base64">XDxzdHJhdGVneVByb3ZpZGVyXD4=</entry>
+        <entry>rule</entry>
       </history-search>
       <history-cmd>
         <entry>%s/historicalTickersUsed/firstValue/g</entry>
