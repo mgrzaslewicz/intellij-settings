@@ -130,7 +130,7 @@
         <mark key="^" line="33" column="20" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchanges.kt" timestamp="1525605644779">
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchanges.kt" timestamp="1525608063821">
         <mark key="[" line="28" column="12" />
         <mark key="]" line="28" column="12" />
         <mark key="^" line="28" column="84" />
@@ -372,7 +372,7 @@
         <mark key="^" line="62" column="27" />
         <mark key="." line="62" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525603607352">
+      <file name="/Dummy.txt" timestamp="1525608075989">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -382,7 +382,9 @@
         <mark key="[" line="7" column="6" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/tickers/LTC-BTC-all.csv" timestamp="1525547910624" />
-      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/0.1-SNAPSHOT/autocoin-exchange-engine-0.1-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/AutocoinExchange.kt" timestamp="1525606689124" />
+      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/0.1-SNAPSHOT/autocoin-exchange-engine-0.1-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/AutocoinExchange.kt" timestamp="1525607850535">
+        <mark key="'" line="45" column="16" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/TrailinStopRuleTest.kt" timestamp="1525438870767">
         <mark key="[" line="14" column="14" />
       </file>
@@ -419,12 +421,11 @@
       <file name="/fragment.java" timestamp="1525597139923">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/ScheduledTickerListeners.kt" timestamp="1525604193639">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/ScheduledTickerListeners.kt" timestamp="1525607727170">
         <mark key="[" line="40" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="3" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/api/StrategiesControllerTest.kt" />
       <jump line="39" column="80" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/api/StrategiesControllerTest.kt" />
       <jump line="96" column="4" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsServiceTest.kt" />
       <jump line="63" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsServiceTest.kt" />
@@ -524,6 +525,7 @@
       <jump line="44" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrder.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrder.kt" />
       <jump line="32" column="30" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" />
+      <jump line="45" column="16" filename="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/0.1-SNAPSHOT/autocoin-exchange-engine-0.1-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/AutocoinExchange.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
