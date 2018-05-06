@@ -155,6 +155,12 @@
         <mark key="^" line="33" column="20" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchanges.kt" timestamp="1525605644779">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="12" />
+        <mark key="^" line="28" column="84" />
+        <mark key="." line="28" column="62" />
+      </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/account/AccountController.kt" timestamp="1525093261690">
         <mark key="'" line="29" column="27" />
         <mark key="[" line="37" column="79" />
@@ -179,8 +185,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/BuyWhenDroppingSellWithTrailingStopStrategyIT.kt" timestamp="1525545907451" />
-      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/AutocoinExchangesTest.kt" timestamp="1525603764621">
-        <mark key="[" line="72" column="5" />
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/AutocoinExchangesTest.kt" timestamp="1525605581442">
+        <mark key="[" line="63" column="16" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="78" column="47" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/account/AccountService.kt" timestamp="1525086374241">
         <mark key="'" line="25" column="59" />
@@ -585,7 +594,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b24g</text>
+        <text encoding="base64">dmFsIA==</text>
       </register>
       <register name="/" type="4">
         <text>on</text>
@@ -594,31 +603,31 @@
         <text encoding="base64">c3RyYXRlZ3lQYXJhbWV0ZXJzTWVyZ2VyIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHN0cmF0ZWd5UHJvdmlkZXI6IFN0cmF0ZWd5UHJvdmlkZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdGVuZXJzLmZsYXRNYXAgeyBpdCB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIGxhdGVpbml0IHZhciBzdHJhdGVneUV4ZWN1dGlvblJlcG9zaXRvcnk6IFN0cmF0ZWd5RXhlY3V0aW9uUmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkoYml0dHJleCkucmVnaXN0ZXJUaWNrZXJMaXN0ZW5lcihCVENfTFRDLCBsaXN0ZW5lcikKICAgICAgICB2ZXJpZnkoYml0YmF5LCB0aW1lcygwKSkucmVnaXN0ZXJUaWNrZXJMaXN0ZW5lcihCVENfTFRDLCBsaXN0ZW5lcikgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0aWFsU2VsbE9yZGVyKDEwMC4wLCAxLjUpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHN0cmF0ZWd5UHJvdmlkZXI6IFN0cmF0ZWd5UHJvdmlkZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0aWFsQnV5T3JkZXIoMTAwLjAsIDEuNSkK</text>
+        <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIGxhdGVpbml0IHZhciBzdHJhdGVneUV4ZWN1dGlvblJlcG9zaXRvcnk6IFN0cmF0ZWd5RXhlY3V0aW9uUmVwb3NpdG9yeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzW0J1eVdoZW5Ecm9wcGluZ1NlbGxXaXRoVHJhaWxpbmdTdG9wU3RyYXRlZ1BhcmFtZXRlcnMuVFJBSUxJTkdfU1RPUF9QRVJDRU5UX0JFTE9XX0dBSU5dID0gZHJvcFBlcmNlbnQK</text>
+        <text encoding="base64">ICAgICAgICBpbml0aWFsU2VsbE9yZGVyKDEwMC4wLCAxLjUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRyYWlsaW5nU3RvcFdpdGhHcm93aW5nUHJpY2VzLmlzU2F0aXNmaWVkKDEwKSkuaXNUcnVlKCkK</text>
+        <text encoding="base64">ICAgICAgICBpbml0aWFsQnV5T3JkZXIoMTAwLjAsIDEuNSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbCBCVVlfV0hFTl9EUk9QUElOR19TRUxMX1dJVEhfVFJBSUxJTkdfU1RPUCA9ICJidXktd2hlbi1kcm9wcGluZy1zZWxsLXdpdGgtdHJhaWxpbmctc3RvcCIK</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzW0J1eVdoZW5Ecm9wcGluZ1NlbGxXaXRoVHJhaWxpbmdTdG9wU3RyYXRlZ1BhcmFtZXRlcnMuVFJBSUxJTkdfU1RPUF9QRVJDRU5UX0JFTE9XX0dBSU5dID0gZHJvcFBlcmNlbnQK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHNldFN0b3BNYWtpbmdPcmRlcnNWYWx1ZShwcmljZTogRGVjaW1hbCkgewogICAgICAgIGlmIChzdG9wQnV5aW5nVmFsdWUgPT09IERlY2ltYWwuWkVSTykgewogICAgICAgICAgICBzdG9wQnV5aW5nVmFsdWUgPSBwcmljZQogICAgICAgICAgICBpZiAobG9nZ2VyLmlzSW5mb0VuYWJsZWQpIGxvZ2dlci5pbmZvKHJlbW90ZSwgIk5ldyBzdG9wQnV5aW5nVmFsdWU6ICRzdG9wQnV5aW5nVmFsdWUiKQogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIGZ1biBjYWxjdWxhdGVTdGFydEJ1eWluZ1ZhbHVlKGN1cnJlbnRWYWx1ZTogRGVjaW1hbCkgewogICAgICAgIHZhbCBkcm9wID0gbWF4QnV5VmFsdWUgLSBjdXJyZW50VmFsdWUKICAgICAgICB2YWwgbmV3U3RhcnRCdXlpbmdWYWx1ZSA9IGN1cnJlbnRWYWx1ZSArIGRyb3AubXVsdGlwbGllZEJ5KHN0YXJ0TWFraW5nT3JkZXJzRGlzdGFuY2VSYXRpbykKICAgICAgICBzdGFydE1ha2luZ09yZGVyc1ZhbHVlID0gaWYgKHN0YXJ0TWFraW5nT3JkZXJzVmFsdWUgPT09IERlY2ltYWwuWkVSTykgbmV3U3RhcnRCdXlpbmdWYWx1ZSBlbHNlIHN0YXJ0TWFraW5nT3JkZXJzVmFsdWUubWluKG5ld1N0YXJ0QnV5aW5nVmFsdWUpCiAgICAgICAgaWYgKGxvZ2dlci5pc0luZm9FbmFibGVkICYmIG5ld1N0YXJ0QnV5aW5nVmFsdWUgIT0gc3RhcnRNYWtpbmdPcmRlcnNWYWx1ZSkgbG9nZ2VyLmluZm8ocmVtb3RlLCAiTmV3IEJVWSBzdGFydE1ha2luZ09yZGVyc1ZhbHVlOiAkc3RhcnRNYWtpbmdPcmRlcnNWYWx1ZSIpCiAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRyYWlsaW5nU3RvcFdpdGhHcm93aW5nUHJpY2VzLmlzU2F0aXNmaWVkKDEwKSkuaXNUcnVlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZhbCBCVVlfV0hFTl9EUk9QUElOR19TRUxMX1dJVEhfVFJBSUxJTkdfU1RPUCA9ICJidXktd2hlbi1kcm9wcGluZy1zZWxsLXdpdGgtdHJhaWxpbmctc3RvcCIK</text>
       </register>
       <register name=":" type="4">
         <text>%s/TradeService/AccountService/g</text>
