@@ -6,7 +6,9 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/main/resources/application-mysql.yml" timestamp="1524998806836">
         <mark key="[" line="0" column="7" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealth.kt" timestamp="1525598630898" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealth.kt" timestamp="1525602532243">
+        <mark key="[" line="46" column="68" />
+      </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1524691181193">
         <mark key="[" line="56" column="9" />
       </file>
@@ -436,10 +438,12 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/TrailinStopRuleTest.kt" timestamp="1525438870767">
         <mark key="[" line="14" column="14" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1524594983775">
-        <mark key="[" line="32" column="21" />
-        <mark key="]" line="32" column="21" />
-        <mark key="." line="32" column="21" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1525602299918">
+        <mark key="'" line="32" column="30" />
+        <mark key="[" line="32" column="82" />
+        <mark key="]" line="32" column="82" />
+        <mark key="." line="32" column="82" />
+        <mark key="^" line="32" column="30" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/TrailingStopRuleTest.kt" timestamp="1525535933606">
         <mark key="[" line="42" column="20" />
@@ -469,7 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="8" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" />
       <jump line="47" column="3" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/api/StrategiesControllerTest.kt" />
       <jump line="39" column="80" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/api/StrategiesControllerTest.kt" />
       <jump line="96" column="4" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsServiceTest.kt" />
@@ -569,16 +572,17 @@
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/resources/schema.sql" />
       <jump line="44" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrder.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrder.kt" />
+      <jump line="32" column="30" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>local</text>
+        <text encoding="base64">b24g</text>
       </register>
       <register name="/" type="4">
-        <text>local</text>
+        <text>on</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c3RyYXRlZ3lQYXJhbWV0ZXJzTWVyZ2VyIA==</text>
@@ -615,9 +619,9 @@
       </register>
     </registers>
     <search>
-      <last-search>local</last-search>
+      <last-search>on</last-search>
       <last-offset />
-      <last-pattern>local</last-pattern>
+      <last-pattern>on</last-pattern>
       <last-replace>AccountService</last-replace>
       <last-substitute>TradeService</last-substitute>
       <last-dir>1</last-dir>
@@ -625,8 +629,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Fa</entry>
-        <entry>dro</entry>
         <entry>DRO</entry>
         <entry>Buy</entry>
         <entry>buy</entry>
@@ -645,6 +647,8 @@
         <entry>speci</entry>
         <entry>Specifi</entry>
         <entry>local</entry>
+        <entry>tu</entry>
+        <entry>on</entry>
       </history-search>
       <history-cmd>
         <entry>%s/historicalTickersUsed/firstValue/g</entry>
