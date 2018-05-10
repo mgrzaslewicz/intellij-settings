@@ -40,6 +40,12 @@
         <mark key="." line="85" column="55" />
         <mark key="^" line="167" column="193" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/price.service.ts" timestamp="1525978961798">
+        <mark key="[" line="30" column="99" />
+        <mark key="]" line="30" column="98" />
+        <mark key="^" line="30" column="97" />
+        <mark key="." line="30" column="98" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TickerListenerImplTest.kt" timestamp="1524215379550">
         <mark key="[" line="20" column="51" />
       </file>
@@ -405,8 +411,8 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="36" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/services/orders.service.ts" timestamp="1525893235128">
-        <mark key="[" line="27" column="53" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/orders.service.ts" timestamp="1525978946046">
+        <mark key="[" line="34" column="37" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1524164280688">
         <mark key="[" line="17" column="10" />
@@ -582,7 +588,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>, private currencyPairsService: WatchCurrencyPairsService</text>
+        <text>, openOrdersRequestDto</text>
       </register>
       <register name="/" type="4">
         <text>co</text>
