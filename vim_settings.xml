@@ -170,6 +170,9 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/account/AccountController.kt" timestamp="1526122253099">
+        <mark key="[" line="8" column="29" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/StrategiesController.kt" timestamp="1525725574502">
         <mark key="[" line="148" column="40" />
         <mark key="]" line="75" column="68" />
@@ -191,6 +194,12 @@
         <mark key="[" line="97" column="9" />
         <mark key="]" line="99" column="8" />
         <mark key="." line="99" column="8" />
+      </file>
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/account/AccountService.kt" timestamp="1526122413318">
+        <mark key="[" line="51" column="60" />
+        <mark key="]" line="51" column="48" />
+        <mark key="^" line="51" column="48" />
+        <mark key="." line="51" column="48" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/README.md" timestamp="1525359294657">
         <mark key="[" line="33" column="14" />
@@ -336,6 +345,12 @@
         <mark key="[" line="30" column="60" />
         <mark key="]" line="30" column="60" />
         <mark key="." line="30" column="60" />
+      </file>
+      <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/AccountServiceTest.kt" timestamp="1526122616894">
+        <mark key="[" line="84" column="86" />
+        <mark key="]" line="84" column="95" />
+        <mark key="^" line="84" column="95" />
+        <mark key="." line="84" column="95" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.scss" timestamp="1526058086284" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/clients/client-edit/client-edit.component.ts" timestamp="1525982284840">
@@ -597,13 +612,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>${targetCurrencyCode}</text>
+        <text>BigDecimal.valueOf(</text>
       </register>
       <register name="/" type="4">
         <text>Refresh</text>
       </register>
-      <register name="0" type="4">
-        <text>prices-refresh-time</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF2YWlsYWJsZSA9IGJhbGFuY2UuYXZhaWxhYmxlLnRvRG91YmxlKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -747,6 +762,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
