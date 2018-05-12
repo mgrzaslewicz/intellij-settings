@@ -81,8 +81,12 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/api/test.json" timestamp="1524174443298">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/package.json" timestamp="1526129827684">
-        <mark key="[" line="31" column="33" />
+      <file name="E:/prj/autocoin-trader-frontend/package.json" timestamp="1526135251700">
+        <mark key="'" line="7" column="52" />
+        <mark key="[" line="44" column="26" />
+        <mark key="]" line="62" column="27" />
+        <mark key="^" line="25" column="22" />
+        <mark key="." line="62" column="27" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/account/AccountService.kt" timestamp="1526122413318">
         <mark key="[" line="51" column="60" />
@@ -210,8 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="16" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/build-and-run.sh" />
-      <jump line="24" column="0" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/AccountController.kt" />
       <jump line="32" column="0" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/AccountController.kt" />
       <jump line="21" column="17" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/AccountController.kt" />
       <jump line="70" column="121" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/AccountServiceTest.kt" />
@@ -310,16 +312,18 @@
       <jump line="77" column="36" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
       <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
       <jump line="12" column="3" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="14" column="20" filename="E:/prj/autocoin-trader-frontend/package.json" />
+      <jump line="7" column="52" filename="E:/prj/autocoin-trader-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgYTogRGF0YXRhYmxlQ29tcG9uZW50ID0gbnVsbDs=</text>
+        <text>&quot;&quot;,</text>
       </register>
       <register name="/" type="4">
-        <text>.available</text>
+        <text>2.4</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF2YWlsYWJsZSA9IGJhbGFuY2UuYXZhaWxhYmxlLnRvRG91YmxlKCkK</text>
@@ -352,22 +356,20 @@
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC50ZXN0Lm1vY2subW9ja2l0by5TcHlCZWFuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/TradeService/AccountService/g</text>
+        <text>%s/5.0.1/6.0.1/g</text>
       </register>
     </registers>
     <search>
-      <last-search>.available</last-search>
+      <last-search>2.4</last-search>
       <last-offset />
-      <last-pattern>.available</last-pattern>
-      <last-replace>AccountService</last-replace>
-      <last-substitute>TradeService</last-substitute>
+      <last-pattern>2.4</last-pattern>
+      <last-replace>6.0.1</last-replace>
+      <last-substitute>5.0.1</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>local</entry>
-        <entry>tu</entry>
         <entry>on</entry>
         <entry>Requesting</entry>
         <entry>Reque</entry>
@@ -386,9 +388,10 @@
         <entry>refresh-</entry>
         <entry>Refresh</entry>
         <entry>.available</entry>
+        <entry>5.0.1</entry>
+        <entry>2.4</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/historicalTickersUsed/firstValue/g</entry>
         <entry>q</entry>
         <entry>e</entry>
         <entry>set norelativenumber</entry>
@@ -408,6 +411,7 @@
         <entry>%s/autocoin-order-service/autocoin-strategy-executor/g</entry>
         <entry>%s/createTrade/createAccount/g</entry>
         <entry>%s/TradeService/AccountService/g</entry>
+        <entry>%s/5.0.1/6.0.1/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
