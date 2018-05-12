@@ -364,12 +364,12 @@
         <mark key="]" line="46" column="2" />
         <mark key="." line="46" column="2" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" timestamp="1526063433849">
-        <mark key="'" line="60" column="63" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" timestamp="1526125568525">
+        <mark key="'" line="12" column="3" />
         <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="^" line="144" column="0" />
-        <mark key="." line="144" column="0" />
+        <mark key="]" line="77" column="36" />
+        <mark key="^" line="77" column="36" />
+        <mark key="." line="77" column="36" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyProvidersTest.kt" timestamp="1525433710141">
         <mark key="[" line="19" column="33" />
@@ -462,7 +462,7 @@
         <mark key="^" line="62" column="27" />
         <mark key="." line="62" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526124868723">
+      <file name="/Dummy.txt" timestamp="1526125877897">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1525627143806">
@@ -512,9 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="30" filename="E:/prj/autocoin-order-service/build-and-run.sh" />
-      <jump line="25" column="48" filename="E:/prj/autocoin-order-service/build-and-run.sh" />
-      <jump line="9" column="3" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/build-and-run.sh" />
       <jump line="22" column="16" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/build-and-run.sh" />
       <jump line="24" column="0" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/AccountController.kt" />
       <jump line="32" column="0" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/AccountController.kt" />
@@ -612,6 +609,9 @@
       <jump line="34" column="24" filename="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.html" />
       <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.html" />
       <jump line="7" column="75" filename="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.html" />
+      <jump line="77" column="36" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="12" column="3" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -621,7 +621,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Refresh</text>
+        <text>.available</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF2YWlsYWJsZSA9IGJhbGFuY2UuYXZhaWxhYmxlLnRvRG91YmxlKCkK</text>
@@ -658,9 +658,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Refresh</last-search>
+      <last-search>.available</last-search>
       <last-offset />
-      <last-pattern>Refresh</last-pattern>
+      <last-pattern>.available</last-pattern>
       <last-replace>AccountService</last-replace>
       <last-substitute>TradeService</last-substitute>
       <last-dir>1</last-dir>
@@ -668,7 +668,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Specifi</entry>
         <entry>local</entry>
         <entry>tu</entry>
         <entry>on</entry>
@@ -688,6 +687,7 @@
         <entry>error</entry>
         <entry>refresh-</entry>
         <entry>Refresh</entry>
+        <entry>.available</entry>
       </history-search>
       <history-cmd>
         <entry>%s/historicalTickersUsed/firstValue/g</entry>
