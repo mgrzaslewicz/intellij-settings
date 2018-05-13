@@ -153,12 +153,12 @@
         <mark key="]" line="46" column="2" />
         <mark key="." line="46" column="2" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" timestamp="1526137123529">
-        <mark key="'" line="12" column="3" />
-        <mark key="[" line="32" column="18" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" timestamp="1526203318209">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="158" column="8" />
+        <mark key="]" line="90" column="3" />
+        <mark key="^" line="90" column="3" />
+        <mark key="." line="90" column="3" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/localorder/BaseOrderService.kt" timestamp="1525367995027">
         <mark key="[" line="13" column="61" />
@@ -213,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/AccountController.kt" />
       <jump line="21" column="17" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/AccountController.kt" />
       <jump line="70" column="121" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/AccountServiceTest.kt" />
       <jump line="71" column="32" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/AccountServiceTest.kt" />
@@ -309,10 +308,11 @@
       <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.html" />
       <jump line="7" column="75" filename="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.html" />
       <jump line="77" column="36" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
-      <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
       <jump line="12" column="3" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
       <jump line="14" column="20" filename="E:/prj/autocoin-trader-frontend/package.json" />
       <jump line="7" column="52" filename="E:/prj/autocoin-trader-frontend/package.json" />
+      <jump line="78" column="41" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -322,7 +322,7 @@
         <text>&quot;&quot;,</text>
       </register>
       <register name="/" type="4">
-        <text>2.4</text>
+        <text>filter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF2YWlsYWJsZSA9IGJhbGFuY2UuYXZhaWxhYmxlLnRvRG91YmxlKCkK</text>
@@ -359,9 +359,9 @@
       </register>
     </registers>
     <search>
-      <last-search>2.4</last-search>
+      <last-search>filter</last-search>
       <last-offset />
-      <last-pattern>2.4</last-pattern>
+      <last-pattern>filter</last-pattern>
       <last-replace>6.0.1</last-replace>
       <last-substitute>5.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -369,7 +369,6 @@
     </search>
     <history>
       <history-search>
-        <entry>on</entry>
         <entry>Requesting</entry>
         <entry>Reque</entry>
         <entry>Seleted</entry>
@@ -389,6 +388,7 @@
         <entry>.available</entry>
         <entry>5.0.1</entry>
         <entry>2.4</entry>
+        <entry>filter</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
