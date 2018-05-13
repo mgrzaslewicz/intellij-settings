@@ -153,12 +153,12 @@
         <mark key="]" line="46" column="2" />
         <mark key="." line="46" column="2" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" timestamp="1526203318209">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="158" column="8" />
-        <mark key="]" line="90" column="3" />
-        <mark key="^" line="90" column="3" />
-        <mark key="." line="90" column="3" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" timestamp="1526206192851">
+        <mark key="'" line="252" column="8" />
+        <mark key="[" line="248" column="48" />
+        <mark key="]" line="248" column="48" />
+        <mark key="^" line="248" column="47" />
+        <mark key="." line="248" column="48" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/localorder/BaseOrderService.kt" timestamp="1525367995027">
         <mark key="[" line="13" column="61" />
@@ -185,7 +185,7 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1524164280688">
         <mark key="[" line="17" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526202515735">
+      <file name="/Dummy.txt" timestamp="1526206214853">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1526139334778">
@@ -213,14 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="17" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/AccountController.kt" />
-      <jump line="70" column="121" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/AccountServiceTest.kt" />
-      <jump line="71" column="32" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/AccountServiceTest.kt" />
-      <jump line="1008" column="61" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/HashMap.java" />
-      <jump line="0" column="0" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/HashMap.java" />
-      <jump line="1005" column="53" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/HashMap.java" />
-      <jump line="1012" column="19" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/HashMap.java" />
-      <jump line="1032" column="19" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/HashMap.java" />
       <jump line="1666" column="16" filename="C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/HashMap.java" />
       <jump line="33" column="12" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE-sources.jar!/org/springframework/http/HttpStatus.java" />
       <jump line="45" column="18" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/AccountControllerTest.kt" />
@@ -313,65 +305,70 @@
       <jump line="7" column="52" filename="E:/prj/autocoin-trader-frontend/package.json" />
       <jump line="78" column="41" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
       <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="198" column="36" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="203" column="21" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="207" column="25" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="250" column="13" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="251" column="13" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="48" column="12" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="41" column="32" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="252" column="8" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;,</text>
+        <text>`price-${this.btcUsd}`</text>
       </register>
       <register name="/" type="4">
-        <text>filter</text>
+        <text>'BTC-USD'</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF2YWlsYWJsZSA9IGJhbGFuY2UuYXZhaWxhYmxlLnRvRG91YmxlKCkK</text>
+      <register name="0" type="4">
+        <text>this.btcUsd</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB1c2RCdGNQYWlyID0gYEJUQy1VU0RgOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yID0+IHsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgXy5mbGF0dGVuKHRoaXMuY2xpZW50cy5tYXAoY2xpZW50IAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">PT4KICAgICAgICAgICAgICAgIHRoaXMuZXhjaGFuZ2VCYWxhbmNlc0ZvckNsaWVudChjbGllbnQpCiAgICAgICAgICAgICAgICAgICAgLm1hcChleGNoYW5nZUJhbGFuY2VEdG8gPT4gZXhjaGFuZ2VCYWxhbmNlRHRvLmN1cnJlbmN5QmFsYW5jZXMKICAgICAgICAgICAgICAgICAgICAgICAgLm1hcChleGNoYW5nZUN1cnJlbmN5QmFsYW5jZSA9PiBleGNoYW5nZUN1cnJlbmN5QmFsYW5jZS5jdXJyZW5jeUNvZGUpKQogICAgICAgICAgICApCiAgICAgICAgKTsKICAgICAgICA=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">OwogICAgICAgIGlmIChsYXN0UmVmcmVzaFRpbWUgIT0gbnVsbCkgewoKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CiAgICAgICAgY29uc3QgbGFzdFJlZnJlc2hUaW1lU3RyaW5nID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ3ByaWNlcy1yZWZyZXNoLXRpbWUnKQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgZXhjaGFuZ2VOYW1lID0gZXhjaGFuZ2VTZXJ2aWNlLmdldEV4Y2hhbmdlTmFtZUJ5SWQoZXhjaGFuZ2VJZCkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC50ZXN0Lm1vY2subW9ja2l0by5TcHlCZWFuCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>%s/5.0.1/6.0.1/g</text>
+        <text>%s/'BTC-USD'/this.btcUsd/g</text>
       </register>
     </registers>
     <search>
-      <last-search>filter</last-search>
+      <last-search>'BTC-USD'</last-search>
       <last-offset />
-      <last-pattern>filter</last-pattern>
-      <last-replace>6.0.1</last-replace>
-      <last-substitute>5.0.1</last-substitute>
+      <last-pattern>'BTC-USD'</last-pattern>
+      <last-replace>this.btcUsd</last-replace>
+      <last-substitute>'BTC-USD'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Requesting</entry>
-        <entry>Reque</entry>
-        <entry>Seleted</entry>
         <entry>ordersForClie</entry>
         <entry>Delete</entry>
         <entry>export</entry>
@@ -389,9 +386,11 @@
         <entry>5.0.1</entry>
         <entry>2.4</entry>
         <entry>filter</entry>
+        <entry encoding="base64">XDxzZXRcPg==</entry>
+        <entry encoding="base64">XDxjdXJyZW5jeVBhaXJQcmljZXNcPg==</entry>
+        <entry>'BTC-USD'</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>e</entry>
         <entry>set norelativenumber</entry>
         <entry>set relativenumber</entry>
@@ -411,6 +410,7 @@
         <entry>%s/createTrade/createAccount/g</entry>
         <entry>%s/TradeService/AccountService/g</entry>
         <entry>%s/5.0.1/6.0.1/g</entry>
+        <entry>%s/'BTC-USD'/this.btcUsd/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
