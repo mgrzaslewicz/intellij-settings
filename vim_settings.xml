@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.component.html" timestamp="1526731707657">
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.component.html" timestamp="1526826303224">
+        <mark key="'" line="33" column="18" />
         <mark key="[" line="17" column="16" />
         <mark key="]" line="17" column="15" />
         <mark key="." line="17" column="15" />
@@ -179,12 +180,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" timestamp="1526823644666">
-        <mark key="'" line="58" column="42" />
-        <mark key="[" line="57" column="114" />
-        <mark key="]" line="58" column="42" />
-        <mark key="." line="58" column="42" />
-        <mark key="^" line="58" column="42" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" timestamp="1526826943359">
+        <mark key="'" line="93" column="36" />
+        <mark key="[" line="95" column="51" />
+        <mark key="]" line="95" column="51" />
+        <mark key="." line="95" column="51" />
+        <mark key="^" line="96" column="14" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/visualisation/TradingRecordChart.kt" timestamp="1525596333967">
         <mark key="[" line="33" column="42" />
@@ -346,9 +347,6 @@
         <mark key="]" line="6" column="35" />
         <mark key="." line="6" column="120" />
         <mark key="^" line="6" column="35" />
-      </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" timestamp="1526822647340">
-        <mark key="[" line="55" column="68" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/BuyLowerAndLowerRuleTest.kt" timestamp="1523300494988">
         <mark key="[" line="50" column="84" />
@@ -529,7 +527,7 @@
         <mark key="^" line="62" column="27" />
         <mark key="." line="62" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526823281541">
+      <file name="/Dummy.txt" timestamp="1526826633036">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1526490222158">
@@ -583,11 +581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="13" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.html" />
-      <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" />
-      <jump line="96" column="90" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" />
-      <jump line="98" column="204" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" />
-      <jump line="99" column="26" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" />
       <jump line="136" column="28" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" />
       <jump line="110" column="45" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" />
       <jump line="109" column="48" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" />
@@ -683,16 +676,21 @@
       <jump line="414" column="12" filename="$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms2.rnc" />
       <jump line="450" column="22" filename="$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms2.rnc" />
       <jump line="486" column="19" filename="$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms2.rnc" />
+      <jump line="20" column="13" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.component.html" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.component.html" />
+      <jump line="31" column="17" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.component.html" />
+      <jump line="33" column="18" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.component.html" />
+      <jump line="93" column="36" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>danger</text>
       </register>
       <register name="/" type="4">
-        <text>input type</text>
+        <text>Dismiss</text>
       </register>
       <register name="0" type="4">
         <text>this.btcUsd</text>
@@ -729,9 +727,9 @@
       </register>
     </registers>
     <search>
-      <last-search>input type</last-search>
+      <last-search>Dismiss</last-search>
       <last-offset />
-      <last-pattern>input type</last-pattern>
+      <last-pattern>Dismiss</last-pattern>
       <last-replace>this.btcUsd</last-replace>
       <last-substitute>'BTC-USD'</last-substitute>
       <last-dir>1</last-dir>
@@ -739,8 +737,6 @@
     </search>
     <history>
       <history-search>
-        <entry>badge-</entry>
-        <entry>error</entry>
         <entry>refresh-</entry>
         <entry>Refresh</entry>
         <entry>.available</entry>
@@ -759,6 +755,8 @@
         <entry>decimal</entry>
         <entry>number</entry>
         <entry>input type</entry>
+        <entry>button</entry>
+        <entry>Dismiss</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
