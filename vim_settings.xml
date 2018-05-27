@@ -108,11 +108,11 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/clients/clients.component.scss" timestamp="1526212344748">
         <mark key="[" line="3" column="22" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/secure-folder/autocoin-strategy-executor/exchange-health-keys.yml" timestamp="1527344815648">
-        <mark key="[" line="5" column="47" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-        <mark key="^" line="3" column="22" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/secure-folder/autocoin-strategy-executor/exchange-health-keys.yml" timestamp="1527449687565">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-test.yml" timestamp="1527343401092">
         <mark key="[" line="23" column="0" />
@@ -362,7 +362,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>bittrex</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="/" type="4">
         <text>publicKey</text>
