@@ -36,6 +36,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1527539734053" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/services.module.ts" timestamp="1526822544415">
         <mark key="[" line="20" column="16" />
         <mark key="]" line="12" column="25" />
@@ -106,6 +107,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/0.1-SNAPSHOT/autocoin-exchange-engine-0.1-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/AutocoinTradeService.kt" timestamp="1527538932697" />
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-test.yml" timestamp="1527455627235">
         <mark key="[" line="23" column="31" />
         <mark key="]" line="23" column="31" />
@@ -245,6 +247,12 @@
         <mark key="." line="55" column="55" />
         <mark key="^" line="55" column="55" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" timestamp="1527539738855">
+        <mark key="[" line="30" column="36" />
+        <mark key="]" line="30" column="36" />
+        <mark key="." line="30" column="36" />
+        <mark key="^" line="29" column="54" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/TrailinStopRuleTest.kt" timestamp="1525438870767">
         <mark key="[" line="14" column="14" />
       </file>
@@ -368,7 +376,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>getTickers</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>publicKey</text>
