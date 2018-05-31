@@ -60,8 +60,11 @@
       <file name="/fragment.kt" timestamp="1525557696929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.html" timestamp="1527790330816">
-        <mark key="[" line="46" column="76" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.html" timestamp="1527795462305">
+        <mark key="[" line="44" column="45" />
+        <mark key="]" line="44" column="45" />
+        <mark key="^" line="43" column="46" />
+        <mark key="." line="44" column="35" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/BuyWhenDroppingSellWithTrailingStopStrategyIT.kt" timestamp="1525448056358">
         <mark key="[" line="55" column="23" />
@@ -201,7 +204,7 @@
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1526941256531">
         <mark key="[" line="29" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527793958304">
+      <file name="/Dummy.txt" timestamp="1527795487770">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1527454695044">
@@ -376,13 +379,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>Value</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>order-id</text>
       </register>
       <register name="0" type="4">
-        <text>key.exchangeName, key.apiKey, key.secretKey, key.userName</text>
+        <text>text-right</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbAo=</text>
