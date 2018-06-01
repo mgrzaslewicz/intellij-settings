@@ -97,12 +97,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1527862377935">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="199" column="84" />
-        <mark key="]" line="195" column="26" />
-        <mark key="." line="195" column="26" />
-        <mark key="^" line="195" column="26" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1527872101575">
+        <mark key="'" line="153" column="26" />
+        <mark key="[" line="183" column="80" />
+        <mark key="]" line="259" column="31" />
+        <mark key="." line="259" column="31" />
+        <mark key="^" line="259" column="31" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" timestamp="1524310136097">
         <mark key="[" line="45" column="30" />
@@ -221,7 +221,7 @@
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1526941256531">
         <mark key="[" line="29" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527867234605">
+      <file name="/Dummy.txt" timestamp="1527872164266">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1527454695044">
@@ -292,11 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/resources/schema.sql" />
-      <jump line="44" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrder.kt" />
-      <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrder.kt" />
-      <jump line="32" column="30" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" />
-      <jump line="45" column="16" filename="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/0.1-SNAPSHOT/autocoin-exchange-engine-0.1-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/AutocoinExchange.kt" />
       <jump line="86" column="57" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/order/OrderController.kt" />
       <jump line="33" column="24" filename="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.html" />
       <jump line="1536" column="77" filename="E:/prj/autocoin-trader-frontend/node_modules/underscore/underscore.js" />
@@ -392,16 +387,21 @@
       <jump line="110" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="124" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
+      <jump line="164" column="15" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
+      <jump line="259" column="31" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
+      <jump line="19" column="27" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
+      <jump line="147" column="34" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
+      <jump line="153" column="26" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text encoding="base64">QlRDIA==</text>
       </register>
       <register name="/" type="4">
-        <text>No BTC ava</text>
+        <text>Could not</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cHJpdmF0ZSA=</text>
@@ -438,9 +438,9 @@
       </register>
     </registers>
     <search>
-      <last-search>No BTC ava</last-search>
+      <last-search>Could not</last-search>
       <last-offset />
-      <last-pattern>No BTC ava</last-pattern>
+      <last-pattern>Could not</last-pattern>
       <last-replace>apiKey</last-replace>
       <last-substitute>publicKey</last-substitute>
       <last-dir>1</last-dir>
@@ -448,9 +448,6 @@
     </search>
     <history>
       <history-search>
-        <entry>button</entry>
-        <entry>Dismiss</entry>
-        <entry>onSpecificParameters</entry>
         <entry>specific</entry>
         <entry>pending</entry>
         <entry>console.log</entry>
@@ -468,6 +465,9 @@
         <entry encoding="base64">XDxjcmVhdGVTZWxsT3JkZXJXaXRoSHVnZVByaWNlXD4=</entry>
         <entry>Could not read</entry>
         <entry>No BTC ava</entry>
+        <entry>find</entry>
+        <entry>Coud not make</entry>
+        <entry>Could not</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber</entry>
