@@ -84,12 +84,12 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyExecutionRepository.kt" timestamp="1526216503099">
         <mark key="[" line="17" column="12" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1527845471583">
-        <mark key="'" line="190" column="16" />
-        <mark key="[" line="86" column="34" />
-        <mark key="]" line="86" column="32" />
-        <mark key="." line="86" column="32" />
-        <mark key="^" line="86" column="32" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1527846560138">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="180" column="101" />
+        <mark key="]" line="180" column="101" />
+        <mark key="." line="180" column="101" />
+        <mark key="^" line="180" column="101" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" timestamp="1524310136097">
         <mark key="[" line="45" column="30" />
@@ -274,8 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="22" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/SellHigherAndHigherStrategyIT.kt" />
-      <jump line="36" column="11" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/resources/schema.sql" />
       <jump line="44" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrder.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrder.kt" />
@@ -374,16 +372,18 @@
       <jump line="24" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" />
       <jump line="124" column="27" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="161" column="16" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
+      <jump line="110" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>order != null</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVTZWxsT3JkZXJXaXRoSHVnZVByaWNlXD4=</text>
+        <text>Could not read</text>
       </register>
       <register name="0" type="4">
         <text>: false</text>
@@ -420,9 +420,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVTZWxsT3JkZXJXaXRoSHVnZVByaWNlXD4=</last-search>
+      <last-search>Could not read</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVTZWxsT3JkZXJXaXRoSHVnZVByaWNlXD4=</last-pattern>
+      <last-pattern>Could not read</last-pattern>
       <last-replace>apiKey</last-replace>
       <last-substitute>publicKey</last-substitute>
       <last-dir>1</last-dir>
@@ -430,7 +430,6 @@
     </search>
     <history>
       <history-search>
-        <entry>number</entry>
         <entry>input type</entry>
         <entry>button</entry>
         <entry>Dismiss</entry>
@@ -450,6 +449,7 @@
         <entry>order-id</entry>
         <entry encoding="base64">XDxjYW5SZWFkV2FsbGV0XD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVTZWxsT3JkZXJXaXRoSHVnZVByaWNlXD4=</entry>
+        <entry>Could not read</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber</entry>
