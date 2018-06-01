@@ -84,12 +84,12 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyExecutionRepository.kt" timestamp="1526216503099">
         <mark key="[" line="17" column="12" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1527840008807">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1527844344661">
         <mark key="'" line="190" column="16" />
-        <mark key="[" line="130" column="48" />
-        <mark key="]" line="156" column="15" />
-        <mark key="." line="156" column="15" />
-        <mark key="^" line="156" column="15" />
+        <mark key="[" line="213" column="55" />
+        <mark key="]" line="213" column="54" />
+        <mark key="." line="213" column="54" />
+        <mark key="^" line="213" column="54" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" timestamp="1524310136097">
         <mark key="[" line="45" column="30" />
@@ -205,7 +205,7 @@
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1526941256531">
         <mark key="[" line="29" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527840272954">
+      <file name="/Dummy.txt" timestamp="1527843237296">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1527454695044">
@@ -229,12 +229,12 @@
         <mark key="." line="55" column="55" />
         <mark key="^" line="55" column="55" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" timestamp="1527542423400">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" timestamp="1527842659006">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="79" column="5" />
-        <mark key="]" line="74" column="128" />
-        <mark key="." line="74" column="128" />
-        <mark key="^" line="74" column="128" />
+        <mark key="[" line="106" column="101" />
+        <mark key="]" line="106" column="101" />
+        <mark key="." line="106" column="101" />
+        <mark key="^" line="78" column="158" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/account/AccountService.kt" timestamp="1527534460822">
         <mark key="[" line="36" column="14" />
@@ -380,40 +380,40 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>// not every exchange</text>
+        <text>order != null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVTZWxsT3JkZXJXaXRoSHVnZVByaWNlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>text-right</text>
+        <text>: false</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQgeWV0IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2hhbmdlSGVhbHRoLmNhbk1ha2VCdXlPcmRlciA9IG9yZGVyICE9IG51bGwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQgeWV0IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGV4Y2hhbmdlc0hlYWx0aDogRXhjaGFuZ2VzSGVhbHRoCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGV4Y2hhbmdlc0hlYWx0aDogRXhjaGFuZ2VzSGVhbHRoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgZnVuIHNob3VsZFJlcG9ydEhlYWx0aFVwKCkgewogICAgICAgIC8vIHdoZW4KICAgICAgICB2YWwgaGVhbHRoID0gc3RyYXRlZ3lFeGVjdXRvcnNIZWFsdGguaGVhbHRoKCkKICAgICAgICAvLyB0aGVuCiAgICAgICAgYXNzZXJ0VGhhdChoZWFsdGguc3RhdHVzKS5pc0VxdWFsVG8oU3RhdHVzLlVQKQogICAgfQoKICAgIEBUZXN0CiAgICBmdW4gc2hvdWxkUmVwb3J0SGVhbHRoRG93bigpIHsKICAgICAgICAvLyB3aGVuCiAgICAgICAgdW5oZWFsdGh5UmVzcG9uc2VGcm9tQWNjb3VudFNlcnZpY2UoKQogICAgICAgIC8vIHdoZW4KICAgICAgICB2YWwgaGVhbHRoID0gc3RyYXRlZ3lFeGVjdXRvcnNIZWFsdGguaGVhbHRoKCkKICAgICAgICAvLyB0aGVuCiAgICAgICAgYXNzZXJ0VGhhdChoZWFsdGguc3RhdHVzKS5pc0VxdWFsVG8oU3RhdHVzLkRPV04pCiAgICB9CgogICAgQFRlc3QKICAgIGZ1biBzaG91bGRSZXBvcnRIZWFsdGhVbmtub3duKCkgewogICAgICAgIC8vIGdpdmVuCiAgICAgICAgdW5leHBlY3RlZFJlc3BvbnNlRnJvbUFjY291bnRTZXJ2aWNlKCkKICAgICAgICAvLyB3aGVuCiAgICAgICAgdmFsIGhlYWx0aCA9IHN0cmF0ZWd5RXhlY3V0b3JzSGVhbHRoLmhlYWx0aCgpCiAgICAgICAgLy8gdGhlbgogICAgICAgIGFzc2VydFRoYXQoaGVhbHRoLnN0YXR1cykuaXNFcXVhbFRvKFN0YXR1cy5VTktOT1dOKQogICAgfQoKICAgIEBUZXN0CiAgICBmdW4gc2hvdWxkUmVwb3J0SGVhbHRoVXBXaGVuTm9TdHJhdGVneUV4ZWN1dG9yc1J1bm5pbmcoKSB7CiAgICAgICAgLy8gd2hlbgogICAgICAgIHZhbCBoZWFsdGggPSBzdHJhdGVneUV4ZWN1dG9yc0hlYWx0aC5oZWFsdGgoZW1wdHlMaXN0KCkpCiAgICAgICAgLy8gdGhlbgogICAgICAgIGFzc2VydFRoYXQoaGVhbHRoLnN0YXR1cykuaXNFcXVhbFRvKFN0YXR1cy5VUCkKICAgIH0KCiAgICBAVGVzdAogICAgZnVuIHNob3VsZFBsYWNlU2FtcGxlT3JkZXIoKSB7CiAgICAgICAgLy8gd2hlbgogICAgICAgIHN0cmF0ZWd5RXhlY3V0b3JzSGVhbHRoLmhlYWx0aCgpCiAgICAgICAgLy8gdGhlbgogICAgICAgIHZlcmlmeShmYWtlRXhjaGFuZ2UsIHRpbWVzKHJ1bm5pbmdTdHJhdGVneUV4ZWN1dG9yc0NvdW50KSkucGxhY2VTZWxsT3JkZXIoYW55KCksIGFueSgpLCBhbnkoKSkKICAgIH0KCiAgICBwcml2YXRlIGZ1biBoZWFsdGh5UmVzcG9uc2VGcm9tQWNjb3VudFNlcnZpY2UoKSB7CiAgICAgICAgd2hlbmV2ZXIoZmFrZUV4Y2hhbmdlLmFjY291bnRJbmZvKS50aGVuUmV0dXJuKEFjY291bnRJbmZvKGVtcHR5TGlzdCgpKSkKICAgIH0KCiAgICBwcml2YXRlIGZ1biB1bmhlYWx0aHlSZXNwb25zZUZyb21BY2NvdW50U2VydmljZSgpIHsKICAgICAgICB3aGVuZXZlcihmYWtlRXhjaGFuZ2UuYWNjb3VudEluZm8pLnRoZW5UaHJvdyhFeGNoYW5nZUV4Y2VwdGlvbigiQVBJS0VZX0lOVkFMSUQiKSkKICAgIH0KCiAgICBwcml2YXRlIGZ1biB1bmV4cGVjdGVkUmVzcG9uc2VGcm9tQWNjb3VudFNlcnZpY2UoKSB7CiAgICAgICAgd2hlbmV2ZXIoZmFrZUV4Y2hhbmdlLnBsYWNlU2VsbE9yZGVyKGFueSgpLCBhbnkoKSwgYW55KCkpKS50aGVuVGhyb3coRXhjaGFuZ2VFeGNlcHRpb24oInNvbWUgbm90IGhhbmRsZWQgZXhjZXB0aW9uIG1lc3NhZ2UiKSkKICAgIH0KCiAgICBwcml2YXRlIGZ1biBhbGxTdHJhdGVneUV4ZWN1dG9yc0hlYWx0aENoZWNrZWQoKSB7CiAgICAgICAgdmVyaWZ5KGZha2VFeGNoYW5nZSwgdGltZXMocnVubmluZ1N0cmF0ZWd5RXhlY3V0b3JzQ291bnQpKS5hY2NvdW50SW5mbwogICAgfQoKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJoZWFsdGhFeGNoYW5nZUtleXMiKQo=</text>
+        <text encoding="base64">CiAgICBAVGVzdAogICAgZnVuIHNob3VsZFJlcG9ydEhlYWx0aFVwKCkgewogICAgICAgIC8vIHdoZW4KICAgICAgICB2YWwgaGVhbHRoID0gc3RyYXRlZ3lFeGVjdXRvcnNIZWFsdGguaGVhbHRoKCkKICAgICAgICAvLyB0aGVuCiAgICAgICAgYXNzZXJ0VGhhdChoZWFsdGguc3RhdHVzKS5pc0VxdWFsVG8oU3RhdHVzLlVQKQogICAgfQoKICAgIEBUZXN0CiAgICBmdW4gc2hvdWxkUmVwb3J0SGVhbHRoRG93bigpIHsKICAgICAgICAvLyB3aGVuCiAgICAgICAgdW5oZWFsdGh5UmVzcG9uc2VGcm9tQWNjb3VudFNlcnZpY2UoKQogICAgICAgIC8vIHdoZW4KICAgICAgICB2YWwgaGVhbHRoID0gc3RyYXRlZ3lFeGVjdXRvcnNIZWFsdGguaGVhbHRoKCkKICAgICAgICAvLyB0aGVuCiAgICAgICAgYXNzZXJ0VGhhdChoZWFsdGguc3RhdHVzKS5pc0VxdWFsVG8oU3RhdHVzLkRPV04pCiAgICB9CgogICAgQFRlc3QKICAgIGZ1biBzaG91bGRSZXBvcnRIZWFsdGhVbmtub3duKCkgewogICAgICAgIC8vIGdpdmVuCiAgICAgICAgdW5leHBlY3RlZFJlc3BvbnNlRnJvbUFjY291bnRTZXJ2aWNlKCkKICAgICAgICAvLyB3aGVuCiAgICAgICAgdmFsIGhlYWx0aCA9IHN0cmF0ZWd5RXhlY3V0b3JzSGVhbHRoLmhlYWx0aCgpCiAgICAgICAgLy8gdGhlbgogICAgICAgIGFzc2VydFRoYXQoaGVhbHRoLnN0YXR1cykuaXNFcXVhbFRvKFN0YXR1cy5VTktOT1dOKQogICAgfQoKICAgIEBUZXN0CiAgICBmdW4gc2hvdWxkUmVwb3J0SGVhbHRoVXBXaGVuTm9TdHJhdGVneUV4ZWN1dG9yc1J1bm5pbmcoKSB7CiAgICAgICAgLy8gd2hlbgogICAgICAgIHZhbCBoZWFsdGggPSBzdHJhdGVneUV4ZWN1dG9yc0hlYWx0aC5oZWFsdGgoZW1wdHlMaXN0KCkpCiAgICAgICAgLy8gdGhlbgogICAgICAgIGFzc2VydFRoYXQoaGVhbHRoLnN0YXR1cykuaXNFcXVhbFRvKFN0YXR1cy5VUCkKICAgIH0KCiAgICBAVGVzdAogICAgZnVuIHNob3VsZFBsYWNlU2FtcGxlT3JkZXIoKSB7CiAgICAgICAgLy8gd2hlbgogICAgICAgIHN0cmF0ZWd5RXhlY3V0b3JzSGVhbHRoLmhlYWx0aCgpCiAgICAgICAgLy8gdGhlbgogICAgICAgIHZlcmlmeShmYWtlRXhjaGFuZ2UsIHRpbWVzKHJ1bm5pbmdTdHJhdGVneUV4ZWN1dG9yc0NvdW50KSkucGxhY2VTZWxsT3JkZXIoYW55KCksIGFueSgpLCBhbnkoKSkKICAgIH0KCiAgICBwcml2YXRlIGZ1biBoZWFsdGh5UmVzcG9uc2VGcm9tQWNjb3VudFNlcnZpY2UoKSB7CiAgICAgICAgd2hlbmV2ZXIoZmFrZUV4Y2hhbmdlLmFjY291bnRJbmZvKS50aGVuUmV0dXJuKEFjY291bnRJbmZvKGVtcHR5TGlzdCgpKSkKICAgIH0KCiAgICBwcml2YXRlIGZ1biB1bmhlYWx0aHlSZXNwb25zZUZyb21BY2NvdW50U2VydmljZSgpIHsKICAgICAgICB3aGVuZXZlcihmYWtlRXhjaGFuZ2UuYWNjb3VudEluZm8pLnRoZW5UaHJvdyhFeGNoYW5nZUV4Y2VwdGlvbigiQVBJS0VZX0lOVkFMSUQiKSkKICAgIH0KCiAgICBwcml2YXRlIGZ1biB1bmV4cGVjdGVkUmVzcG9uc2VGcm9tQWNjb3VudFNlcnZpY2UoKSB7CiAgICAgICAgd2hlbmV2ZXIoZmFrZUV4Y2hhbmdlLnBsYWNlU2VsbE9yZGVyKGFueSgpLCBhbnkoKSwgYW55KCkpKS50aGVuVGhyb3coRXhjaGFuZ2VFeGNlcHRpb24oInNvbWUgbm90IGhhbmRsZWQgZXhjZXB0aW9uIG1lc3NhZ2UiKSkKICAgIH0KCiAgICBwcml2YXRlIGZ1biBhbGxTdHJhdGVneUV4ZWN1dG9yc0hlYWx0aENoZWNrZWQoKSB7CiAgICAgICAgdmVyaWZ5KGZha2VFeGNoYW5nZSwgdGltZXMocnVubmluZ1N0cmF0ZWd5RXhlY3V0b3JzQ291bnQpKS5hY2NvdW50SW5mbwogICAgfQoKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJoZWFsdGhFeGNoYW5nZUtleXMiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/publicKey/apiKey/g</text>
