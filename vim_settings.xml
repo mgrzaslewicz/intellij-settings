@@ -18,6 +18,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a2cf009b-140d-447e-a028-60d3c8db0a88/console.sql" timestamp="1527013841020">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/AutocoinTradeServiceTest.kt" timestamp="1527856183775">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="11" />
+      </file>
       <file name="/Kotlin Console" timestamp="1527534630319">
         <mark key="[" line="0" column="0" />
       </file>
@@ -75,6 +79,9 @@
         <mark key="^" line="119" column="22" />
         <mark key="." line="119" column="13" />
       </file>
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinTradeService.kt" timestamp="1527855689959">
+        <mark key="[" line="57" column="47" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.scss" timestamp="1526831629873">
         <mark key="[" line="2" column="1" />
       </file>
@@ -84,12 +91,12 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyExecutionRepository.kt" timestamp="1526216503099">
         <mark key="[" line="17" column="12" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1527854529925">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1527856482778">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="159" column="98" />
-        <mark key="]" line="247" column="44" />
-        <mark key="." line="247" column="44" />
-        <mark key="^" line="247" column="44" />
+        <mark key="[" line="200" column="73" />
+        <mark key="]" line="200" column="75" />
+        <mark key="." line="200" column="75" />
+        <mark key="^" line="200" column="75" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" timestamp="1524310136097">
         <mark key="[" line="45" column="30" />
@@ -205,7 +212,7 @@
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1526941256531">
         <mark key="[" line="29" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527843237296">
+      <file name="/Dummy.txt" timestamp="1527855759419">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1527454695044">
@@ -257,6 +264,7 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/build-and-run.sh" timestamp="1527454840179">
         <mark key="[" line="40" column="131" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-core/4.3.5/xchange-core-4.3.5-sources.jar!/org/knowm/xchange/service/trade/params/orders/DefaultOpenOrdersParamCurrencyPair.java" timestamp="1527855618116" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/clients/clients.component.scss" timestamp="1526212344748">
         <mark key="[" line="3" column="22" />
       </file>
@@ -269,6 +277,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/0.1-SNAPSHOT/autocoin-exchange-engine-0.1-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/AutocoinTradeService.kt" timestamp="1527856142504" />
       <file name="/fragment.java" timestamp="1527542510859">
         <mark key="[" line="0" column="0" />
       </file>
@@ -370,9 +379,9 @@
       <jump line="2" column="10" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/secure-folder/autocoin-strategy-executor/exchange-health-keys.yml" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/local-env.properties.template" />
       <jump line="24" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" />
-      <jump line="124" column="27" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="161" column="16" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="110" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
+      <jump line="124" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
     </jumps>
     <registers>
@@ -380,13 +389,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>sell</text>
       </register>
       <register name="/" type="4">
-        <text>Could not read</text>
+        <text>No BTC ava</text>
       </register>
       <register name="0" type="4">
-        <text>: false</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2hhbmdlSGVhbHRoLmNhbk1ha2VCdXlPcmRlciA9IG9yZGVyICE9IG51bGwK</text>
@@ -420,9 +429,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Could not read</last-search>
+      <last-search>No BTC ava</last-search>
       <last-offset />
-      <last-pattern>Could not read</last-pattern>
+      <last-pattern>No BTC ava</last-pattern>
       <last-replace>apiKey</last-replace>
       <last-substitute>publicKey</last-substitute>
       <last-dir>1</last-dir>
@@ -430,7 +439,6 @@
     </search>
     <history>
       <history-search>
-        <entry>input type</entry>
         <entry>button</entry>
         <entry>Dismiss</entry>
         <entry>onSpecificParameters</entry>
@@ -450,6 +458,7 @@
         <entry encoding="base64">XDxjYW5SZWFkV2FsbGV0XD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVTZWxsT3JkZXJXaXRoSHVnZVByaWNlXD4=</entry>
         <entry>Could not read</entry>
+        <entry>No BTC ava</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber</entry>
