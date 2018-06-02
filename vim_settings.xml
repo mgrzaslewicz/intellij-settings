@@ -97,12 +97,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1527878651404">
-        <mark key="'" line="153" column="26" />
-        <mark key="[" line="174" column="155" />
-        <mark key="]" line="174" column="155" />
-        <mark key="." line="174" column="155" />
-        <mark key="^" line="178" column="50" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1527937348970">
+        <mark key="'" line="173" column="45" />
+        <mark key="[" line="125" column="86" />
+        <mark key="]" line="124" column="109" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="123" column="56" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" timestamp="1524310136097">
         <mark key="[" line="45" column="30" />
@@ -221,7 +221,7 @@
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1526941256531">
         <mark key="[" line="29" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527872164266">
+      <file name="/Dummy.txt" timestamp="1527936900071">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1527454695044">
@@ -292,7 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="57" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/order/OrderController.kt" />
       <jump line="33" column="24" filename="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.html" />
       <jump line="1536" column="77" filename="E:/prj/autocoin-trader-frontend/node_modules/underscore/underscore.js" />
       <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/node_modules/underscore/underscore.js" />
@@ -392,6 +391,7 @@
       <jump line="19" column="27" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="147" column="34" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="153" column="26" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
+      <jump line="173" column="45" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -401,46 +401,46 @@
         <text encoding="base64">IGQ=</text>
       </register>
       <register name="/" type="4">
-        <text>Could not</text>
+        <text>Placing</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiRXhjaGFuZ2VzIGhlYWx0aHk6ICR7ZXhjaGFuZ2VzSGVhbHRoLmZpbHRlciB7IGl0LmFsbEdyZWVuKCkgfS5tYXAgeyBpdC5leGNoYW5nZU5hbWUgfX0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2hhbmdlSGVhbHRoLmNhbk1ha2VCdXlPcmRlciA9IG9yZGVyICE9IG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmJiBjYW5DYW5jZWxCdXlPcmRlciA9PSB0cnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQgeWV0IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmJiBjYW5DYW5jZWxTZWxsT3JkZXIgPT0gdHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2hhbmdlSGVhbHRoLmNhbk1ha2VCdXlPcmRlciA9IG9yZGVyICE9IG51bGwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQgeWV0IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGV4Y2hhbmdlc0hlYWx0aDogRXhjaGFuZ2VzSGVhbHRoCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgZnVuIHNob3VsZFJlcG9ydEhlYWx0aFVwKCkgewogICAgICAgIC8vIHdoZW4KICAgICAgICB2YWwgaGVhbHRoID0gc3RyYXRlZ3lFeGVjdXRvcnNIZWFsdGguaGVhbHRoKCkKICAgICAgICAvLyB0aGVuCiAgICAgICAgYXNzZXJ0VGhhdChoZWFsdGguc3RhdHVzKS5pc0VxdWFsVG8oU3RhdHVzLlVQKQogICAgfQoKICAgIEBUZXN0CiAgICBmdW4gc2hvdWxkUmVwb3J0SGVhbHRoRG93bigpIHsKICAgICAgICAvLyB3aGVuCiAgICAgICAgdW5oZWFsdGh5UmVzcG9uc2VGcm9tQWNjb3VudFNlcnZpY2UoKQogICAgICAgIC8vIHdoZW4KICAgICAgICB2YWwgaGVhbHRoID0gc3RyYXRlZ3lFeGVjdXRvcnNIZWFsdGguaGVhbHRoKCkKICAgICAgICAvLyB0aGVuCiAgICAgICAgYXNzZXJ0VGhhdChoZWFsdGguc3RhdHVzKS5pc0VxdWFsVG8oU3RhdHVzLkRPV04pCiAgICB9CgogICAgQFRlc3QKICAgIGZ1biBzaG91bGRSZXBvcnRIZWFsdGhVbmtub3duKCkgewogICAgICAgIC8vIGdpdmVuCiAgICAgICAgdW5leHBlY3RlZFJlc3BvbnNlRnJvbUFjY291bnRTZXJ2aWNlKCkKICAgICAgICAvLyB3aGVuCiAgICAgICAgdmFsIGhlYWx0aCA9IHN0cmF0ZWd5RXhlY3V0b3JzSGVhbHRoLmhlYWx0aCgpCiAgICAgICAgLy8gdGhlbgogICAgICAgIGFzc2VydFRoYXQoaGVhbHRoLnN0YXR1cykuaXNFcXVhbFRvKFN0YXR1cy5VTktOT1dOKQogICAgfQoKICAgIEBUZXN0CiAgICBmdW4gc2hvdWxkUmVwb3J0SGVhbHRoVXBXaGVuTm9TdHJhdGVneUV4ZWN1dG9yc1J1bm5pbmcoKSB7CiAgICAgICAgLy8gd2hlbgogICAgICAgIHZhbCBoZWFsdGggPSBzdHJhdGVneUV4ZWN1dG9yc0hlYWx0aC5oZWFsdGgoZW1wdHlMaXN0KCkpCiAgICAgICAgLy8gdGhlbgogICAgICAgIGFzc2VydFRoYXQoaGVhbHRoLnN0YXR1cykuaXNFcXVhbFRvKFN0YXR1cy5VUCkKICAgIH0KCiAgICBAVGVzdAogICAgZnVuIHNob3VsZFBsYWNlU2FtcGxlT3JkZXIoKSB7CiAgICAgICAgLy8gd2hlbgogICAgICAgIHN0cmF0ZWd5RXhlY3V0b3JzSGVhbHRoLmhlYWx0aCgpCiAgICAgICAgLy8gdGhlbgogICAgICAgIHZlcmlmeShmYWtlRXhjaGFuZ2UsIHRpbWVzKHJ1bm5pbmdTdHJhdGVneUV4ZWN1dG9yc0NvdW50KSkucGxhY2VTZWxsT3JkZXIoYW55KCksIGFueSgpLCBhbnkoKSkKICAgIH0KCiAgICBwcml2YXRlIGZ1biBoZWFsdGh5UmVzcG9uc2VGcm9tQWNjb3VudFNlcnZpY2UoKSB7CiAgICAgICAgd2hlbmV2ZXIoZmFrZUV4Y2hhbmdlLmFjY291bnRJbmZvKS50aGVuUmV0dXJuKEFjY291bnRJbmZvKGVtcHR5TGlzdCgpKSkKICAgIH0KCiAgICBwcml2YXRlIGZ1biB1bmhlYWx0aHlSZXNwb25zZUZyb21BY2NvdW50U2VydmljZSgpIHsKICAgICAgICB3aGVuZXZlcihmYWtlRXhjaGFuZ2UuYWNjb3VudEluZm8pLnRoZW5UaHJvdyhFeGNoYW5nZUV4Y2VwdGlvbigiQVBJS0VZX0lOVkFMSUQiKSkKICAgIH0KCiAgICBwcml2YXRlIGZ1biB1bmV4cGVjdGVkUmVzcG9uc2VGcm9tQWNjb3VudFNlcnZpY2UoKSB7CiAgICAgICAgd2hlbmV2ZXIoZmFrZUV4Y2hhbmdlLnBsYWNlU2VsbE9yZGVyKGFueSgpLCBhbnkoKSwgYW55KCkpKS50aGVuVGhyb3coRXhjaGFuZ2VFeGNlcHRpb24oInNvbWUgbm90IGhhbmRsZWQgZXhjZXB0aW9uIG1lc3NhZ2UiKSkKICAgIH0KCiAgICBwcml2YXRlIGZ1biBhbGxTdHJhdGVneUV4ZWN1dG9yc0hlYWx0aENoZWNrZWQoKSB7CiAgICAgICAgdmVyaWZ5KGZha2VFeGNoYW5nZSwgdGltZXMocnVubmluZ1N0cmF0ZWd5RXhlY3V0b3JzQ291bnQpKS5hY2NvdW50SW5mbwogICAgfQoKfQo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGV4Y2hhbmdlc0hlYWx0aDogRXhjaGFuZ2VzSGVhbHRoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJoZWFsdGhFeGNoYW5nZUtleXMiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/publicKey/apiKey/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Could not</last-search>
+      <last-search>Placing</last-search>
       <last-offset />
-      <last-pattern>Could not</last-pattern>
+      <last-pattern>Placing</last-pattern>
       <last-replace>apiKey</last-replace>
       <last-substitute>publicKey</last-substitute>
       <last-dir>1</last-dir>
@@ -448,7 +448,6 @@
     </search>
     <history>
       <history-search>
-        <entry>specific</entry>
         <entry>pending</entry>
         <entry>console.log</entry>
         <entry encoding="base64">XDxOb3RZZXRJbXBsZW1lbnRlZEZvckV4Y2hhbmdlRXhjZXB0aW9uXD4=</entry>
@@ -468,6 +467,7 @@
         <entry>find</entry>
         <entry>Coud not make</entry>
         <entry>Could not</entry>
+        <entry>Placing</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber</entry>
