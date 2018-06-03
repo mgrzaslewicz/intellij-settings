@@ -140,6 +140,12 @@
         <mark key="^" line="148" column="65" />
         <mark key="." line="84" column="77" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/clients/client-edit/client-edit.component.ts" timestamp="1528051103390">
+        <mark key="[" line="97" column="63" />
+        <mark key="]" line="96" column="63" />
+        <mark key="^" line="96" column="63" />
+        <mark key="." line="96" column="63" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealth.kt" timestamp="1527538513980">
         <mark key="[" line="67" column="8" />
         <mark key="]" line="67" column="8" />
@@ -161,6 +167,9 @@
         <mark key="^" line="56" column="18" />
         <mark key="." line="56" column="18" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/clients/client-edit/client-edit.component.html" timestamp="1528050401736">
+        <mark key="[" line="38" column="42" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/visualisation/TradingRecordChart.kt" timestamp="1525596333967">
         <mark key="[" line="33" column="42" />
       </file>
@@ -173,7 +182,6 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-gateio/4.3.5/xchange-gateio-4.3.5-sources.jar!/org/knowm/xchange/gateio/service/GateioTradeServiceRaw.java" timestamp="1527951084269" />
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/account/AccountController.kt" timestamp="1527009183227">
         <mark key="[" line="53" column="58" />
         <mark key="]" line="53" column="21" />
@@ -225,7 +233,6 @@
         <mark key="." line="17" column="111" />
         <mark key="^" line="17" column="111" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-gateio/4.3.5/xchange-gateio-4.3.5-sources.jar!/org/knowm/xchange/gateio/service/GateioTradeService.java" timestamp="1527951185261" />
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/TickerListenerImpl.kt" timestamp="1524215406606">
         <mark key="[" line="7" column="6" />
       </file>
@@ -269,7 +276,6 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/build-and-run.sh" timestamp="1527454840179">
         <mark key="[" line="40" column="131" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-core/4.3.5/xchange-core-4.3.5-sources.jar!/org/knowm/xchange/service/trade/params/orders/DefaultOpenOrdersParamCurrencyPair.java" timestamp="1527855618116" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/clients/clients.component.scss" timestamp="1526212344748">
         <mark key="[" line="3" column="22" />
       </file>
@@ -282,8 +288,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/mmazi/rescu/2.0.2/rescu-2.0.2-sources.jar!/si/mazi/rescu/RestInvocationHandler.java" timestamp="1527958477902" />
-      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/0.1-SNAPSHOT/autocoin-exchange-engine-0.1-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/AutocoinTradeService.kt" timestamp="1527951617808" />
       <file name="/fragment.java" timestamp="1527866998329">
         <mark key="[" line="0" column="0" />
       </file>
@@ -395,7 +399,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGQ=</text>
+        <text>boolean</text>
       </register>
       <register name="/" type="4">
         <text>Placing</text>
