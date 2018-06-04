@@ -44,9 +44,9 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/BuyWhenDroppingSellWithTrailingStopStrategyIT.kt" timestamp="1525448056358">
         <mark key="[" line="55" column="23" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/order/OrderController.kt" timestamp="1528134964636" />
-      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinTradeService.kt" timestamp="1528138896261">
-        <mark key="[" line="13" column="0" />
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/order/OrderController.kt" timestamp="1528138927027" />
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinTradeService.kt" timestamp="1528140396007">
+        <mark key="[" line="18" column="0" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.scss" timestamp="1526831629873">
         <mark key="[" line="2" column="1" />
@@ -109,11 +109,11 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/sortable.column.component.ts" timestamp="1526129240970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/order/OrderService.kt" timestamp="1528134791933">
-        <mark key="[" line="118" column="9" />
-        <mark key="]" line="98" column="49" />
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/order/OrderService.kt" timestamp="1528140368978">
+        <mark key="[" line="54" column="44" />
+        <mark key="]" line="54" column="44" />
         <mark key="^" line="104" column="136" />
-        <mark key="." line="98" column="49" />
+        <mark key="." line="54" column="44" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoader.kt" timestamp="1525729014002">
         <mark key="[" line="27" column="13" />
@@ -139,7 +139,7 @@
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1526941256531">
         <mark key="[" line="29" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528056954928">
+      <file name="/Dummy.txt" timestamp="1528140709903">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/TickerListenerImpl.kt" timestamp="1524215406606">
@@ -287,10 +287,10 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>boolean</text>
+        <text>open</text>
       </register>
       <register name="/" type="4">
-        <text>Placing</text>
+        <text>OrderType</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiRXhjaGFuZ2VzIGhlYWx0aHk6ICR7ZXhjaGFuZ2VzSGVhbHRoLmZpbHRlciB7IGl0LmFsbEdyZWVuKCkgfS5tYXAgeyBpdC5leGNoYW5nZU5hbWUgfX0iKQo=</text>
@@ -327,9 +327,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Placing</last-search>
+      <last-search>OrderType</last-search>
       <last-offset />
-      <last-pattern>Placing</last-pattern>
+      <last-pattern>OrderType</last-pattern>
       <last-replace>apiKey</last-replace>
       <last-substitute>publicKey</last-substitute>
       <last-dir>1</last-dir>
@@ -337,7 +337,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pending</entry>
         <entry>console.log</entry>
         <entry encoding="base64">XDxOb3RZZXRJbXBsZW1lbnRlZEZvckV4Y2hhbmdlRXhjZXB0aW9uXD4=</entry>
         <entry>%s</entry>
@@ -357,6 +356,7 @@
         <entry>Coud not make</entry>
         <entry>Could not</entry>
         <entry>Placing</entry>
+        <entry>OrderType</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber</entry>
