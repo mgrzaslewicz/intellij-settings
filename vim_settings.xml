@@ -60,12 +60,12 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyExecutionRepository.kt" timestamp="1526216503099">
         <mark key="[" line="17" column="12" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1528149306371">
-        <mark key="'" line="176" column="45" />
-        <mark key="[" line="299" column="0" />
-        <mark key="]" line="127" column="109" />
-        <mark key="." line="127" column="0" />
-        <mark key="^" line="126" column="56" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1528318988437">
+        <mark key="'" line="175" column="45" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="125" column="56" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" timestamp="1524310136097">
         <mark key="[" line="45" column="30" />
@@ -143,7 +143,7 @@
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1526941256531">
         <mark key="[" line="29" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528318290296">
+      <file name="/Dummy.txt" timestamp="1528319011735">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/TickerListenerImpl.kt" timestamp="1524215406606">
@@ -165,8 +165,10 @@
         <mark key="." line="90" column="41" />
         <mark key="^" line="90" column="41" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" timestamp="1528317004788">
-        <mark key="[" line="118" column="49" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" timestamp="1528318999798">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/README.md" timestamp="1525359294657">
         <mark key="[" line="33" column="14" />
@@ -183,6 +185,7 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/EnterWhenDroppingExitWithTrailingStopStrategyIT.kt" timestamp="1525353834296">
         <mark key="[" line="55" column="15" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/0.1-SNAPSHOT/autocoin-exchange-engine-0.1-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/AutocoinTradeService.kt" timestamp="1528319007873" />
       <file name="/fragment.java" timestamp="1527866998329">
         <mark key="[" line="0" column="0" />
       </file>
@@ -303,31 +306,31 @@
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiRXhjaGFuZ2VzIGhlYWx0aHk6ICR7ZXhjaGFuZ2VzSGVhbHRoLmZpbHRlciB7IGl0LmFsbEdyZWVuKCkgfS5tYXAgeyBpdC5leGNoYW5nZU5hbWUgfX0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNhbmNlbE9yZGVyUGFyYW1zOiBDYW5jZWxPcmRlclBhcmFtcz8gPSBnZXRDYW5jZWxPcmRlclBhcmFtcyhleGNoYW5nZU5hbWUsIGNhbmNlbE9yZGVyUmVxdWVzdCkK</text>
+        <text encoding="base64">aW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi5leGNoYW5nZS5BdXRvY29pbkNhbmNlbE9yZGVyUGFyYW1zCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmJiBjYW5DYW5jZWxCdXlPcmRlciA9PSB0cnVlCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5rbm93bS54Y2hhbmdlLmR0by5PcmRlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmJiBjYW5DYW5jZWxTZWxsT3JkZXIgPT0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNhbmNlbE9yZGVyUGFyYW1zOiBDYW5jZWxPcmRlclBhcmFtcz8gPSBnZXRDYW5jZWxPcmRlclBhcmFtcyhleGNoYW5nZU5hbWUsIGNhbmNlbE9yZGVyUmVxdWVzdCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2hhbmdlSGVhbHRoLmNhbk1ha2VCdXlPcmRlciA9IG9yZGVyICE9IG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmJiBjYW5DYW5jZWxCdXlPcmRlciA9PSB0cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQgeWV0IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmJiBjYW5DYW5jZWxTZWxsT3JkZXIgPT0gdHJ1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2hhbmdlSGVhbHRoLmNhbk1ha2VCdXlPcmRlciA9IG9yZGVyICE9IG51bGwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQgeWV0IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGV4Y2hhbmdlc0hlYWx0aDogRXhjaGFuZ2VzSGVhbHRoCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/publicKey/apiKey/g</text>
