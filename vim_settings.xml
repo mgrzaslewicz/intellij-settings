@@ -12,6 +12,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a2cf009b-140d-447e-a028-60d3c8db0a88/console.sql" timestamp="1527013841020">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" timestamp="1528406550031">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="28" column="3" />
+        <mark key="^" line="28" column="3" />
+        <mark key="." line="28" column="3" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorProfitIT.kt" timestamp="1528401307095">
         <mark key="[" line="94" column="75" />
       </file>
@@ -175,7 +181,7 @@
         <mark key="." line="55" column="55" />
         <mark key="^" line="55" column="55" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" timestamp="1528406281043">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" timestamp="1528408611598">
         <mark key="[" line="72" column="4" />
         <mark key="]" line="72" column="4" />
         <mark key="^" line="8" column="17" />
@@ -188,8 +194,8 @@
         <mark key="." line="90" column="41" />
         <mark key="^" line="90" column="41" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" timestamp="1528401280949">
-        <mark key="'" line="484" column="290" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" timestamp="1528407449956">
+        <mark key="'" line="484" column="268" />
         <mark key="[" line="484" column="268" />
         <mark key="]" line="484" column="290" />
         <mark key="." line="484" column="290" />
@@ -211,13 +217,11 @@
         <mark key="[" line="55" column="15" />
       </file>
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/0.1-SNAPSHOT/autocoin-exchange-engine-0.1-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/AutocoinTradeService.kt" timestamp="1528319007873" />
-      <file name="/fragment.java" timestamp="1527866998329">
+      <file name="/fragment.java" timestamp="1528406502713">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="32" filename="E:/prj/autocoin-trader-frontend/node_modules/underscore/underscore.js" />
-      <jump line="55" column="90" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
       <jump line="57" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
       <jump line="69" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
       <jump line="6" column="23" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.html" />
@@ -314,8 +318,10 @@
       <jump line="100" column="122" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/OrderServiceTest.kt" />
       <jump line="108" column="98" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/OrderServiceTest.kt" />
       <jump line="120" column="34" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/OrderServiceTest.kt" />
-      <jump line="484" column="290" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
       <jump line="146" column="28" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
+      <jump line="84" column="25" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
+      <jump line="480" column="267" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
+      <jump line="484" column="268" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -325,7 +331,7 @@
         <text>Base</text>
       </register>
       <register name="/" type="4">
-        <text>tryToPlace</text>
+        <text encoding="base64">XDxvcmRlckFtb3VudENhbGN1bGF0b3JcPg==</text>
       </register>
       <register name="0" type="4">
         <text>accountService, strategyParameters</text>
@@ -362,9 +368,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tryToPlace</last-search>
+      <last-search encoding="base64">XDxvcmRlckFtb3VudENhbGN1bGF0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern>tryToPlace</last-pattern>
+      <last-pattern encoding="base64">XDxvcmRlckFtb3VudENhbGN1bGF0b3JcPg==</last-pattern>
       <last-replace>apiKey</last-replace>
       <last-substitute>publicKey</last-substitute>
       <last-dir>1</last-dir>
@@ -372,7 +378,6 @@
     </search>
     <history>
       <history-search>
-        <entry>super</entry>
         <entry>Users</entry>
         <entry>Client</entry>
         <entry>Add stra</entry>
@@ -392,6 +397,7 @@
         <entry>bin-1</entry>
         <entry>binance-1</entry>
         <entry>tryToPlace</entry>
+        <entry encoding="base64">XDxvcmRlckFtb3VudENhbGN1bGF0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber</entry>
