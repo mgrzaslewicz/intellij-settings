@@ -12,6 +12,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a2cf009b-140d-447e-a028-60d3c8db0a88/console.sql" timestamp="1527013841020">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorProfitIT.kt" timestamp="1528401307095">
+        <mark key="[" line="94" column="75" />
+      </file>
       <file name="/Kotlin Console" timestamp="1527534630319">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,6 +27,9 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/test/kotlin/automate/profit/autocoin/DbTickerRepositoryTest.kt" timestamp="1524997180791">
         <mark key="[" line="21" column="33" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorMaxExitCurrencyForBuyingIntegrationTest.kt" timestamp="1528401288744">
+        <mark key="[" line="76" column="69" />
+      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/pom.xml" timestamp="1525256057983">
         <mark key="[" line="127" column="21" />
       </file>
@@ -33,14 +39,14 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" timestamp="1527191030954">
         <mark key="[" line="86" column="13" />
       </file>
-      <file name="/fragment.kt" timestamp="1528134639446">
+      <file name="/fragment.kt" timestamp="1528400465072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1528317670452">
-        <mark key="[" line="115" column="191" />
-        <mark key="]" line="115" column="197" />
-        <mark key="^" line="115" column="197" />
-        <mark key="." line="115" column="197" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1528401930198">
+        <mark key="[" line="153" column="44" />
+        <mark key="]" line="153" column="42" />
+        <mark key="^" line="153" column="42" />
+        <mark key="." line="153" column="42" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/BuyWhenDroppingSellWithTrailingStopStrategyIT.kt" timestamp="1525448056358">
         <mark key="[" line="55" column="23" />
@@ -50,6 +56,9 @@
         <mark key="]" line="43" column="69" />
         <mark key="^" line="43" column="69" />
         <mark key="." line="43" column="69" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsService.kt" timestamp="1528401143545">
+        <mark key="[" line="72" column="53" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.scss" timestamp="1526831629873">
         <mark key="[" line="2" column="1" />
@@ -69,6 +78,9 @@
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" timestamp="1524310136097">
         <mark key="[" line="45" column="30" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" timestamp="1528401344407">
+        <mark key="[" line="47" column="67" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/ExchangeServiceConfig.kt" timestamp="1524257294800">
         <mark key="[" line="33" column="155" />
@@ -143,7 +155,10 @@
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1526941256531">
         <mark key="[" line="29" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528319011735">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" timestamp="1528401382758">
+        <mark key="[" line="43" column="67" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1528402106399">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/TickerListenerImpl.kt" timestamp="1524215406606">
@@ -155,8 +170,11 @@
         <mark key="." line="55" column="55" />
         <mark key="^" line="55" column="55" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/package.json" timestamp="1528055430390">
-        <mark key="'" line="54" column="53" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" timestamp="1528400718099">
+        <mark key="[" line="31" column="180" />
+        <mark key="]" line="32" column="107" />
+        <mark key="^" line="32" column="107" />
+        <mark key="." line="32" column="107" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" timestamp="1528146355899">
         <mark key="'" line="21" column="0" />
@@ -165,10 +183,12 @@
         <mark key="." line="90" column="41" />
         <mark key="^" line="90" column="41" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" timestamp="1528318999798">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" timestamp="1528401280949">
+        <mark key="'" line="484" column="290" />
+        <mark key="[" line="484" column="268" />
+        <mark key="]" line="484" column="290" />
+        <mark key="." line="484" column="290" />
+        <mark key="^" line="484" column="290" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/README.md" timestamp="1525359294657">
         <mark key="[" line="33" column="14" />
@@ -191,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="12" filename="E:/prj/autocoin-trader-frontend/node_modules/underscore/underscore.js" />
       <jump line="13" column="37" filename="E:/prj/autocoin-trader-frontend/node_modules/underscore/underscore.js" />
       <jump line="14" column="32" filename="E:/prj/autocoin-trader-frontend/node_modules/underscore/underscore.js" />
       <jump line="55" column="90" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
@@ -291,6 +310,7 @@
       <jump line="100" column="122" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/OrderServiceTest.kt" />
       <jump line="108" column="98" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/OrderServiceTest.kt" />
       <jump line="120" column="34" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/OrderServiceTest.kt" />
+      <jump line="484" column="290" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -302,8 +322,8 @@
       <register name="/" type="4">
         <text>binance-1</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiRXhjaGFuZ2VzIGhlYWx0aHk6ICR7ZXhjaGFuZ2VzSGVhbHRoLmZpbHRlciB7IGl0LmFsbEdyZWVuKCkgfS5tYXAgeyBpdC5leGNoYW5nZU5hbWUgfX0iKQo=</text>
+      <register name="0" type="4">
+        <text>accountService, strategyParameters</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi5leGNoYW5nZS5BdXRvY29pbkNhbmNlbE9yZGVyUGFyYW1zCg==</text>
