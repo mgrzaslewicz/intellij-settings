@@ -42,11 +42,12 @@
       <file name="/fragment.kt" timestamp="1528400465072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1528401930198">
-        <mark key="[" line="153" column="44" />
-        <mark key="]" line="153" column="42" />
-        <mark key="^" line="153" column="42" />
-        <mark key="." line="153" column="42" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1528402893588">
+        <mark key="'" line="146" column="28" />
+        <mark key="[" line="181" column="21" />
+        <mark key="]" line="153" column="24" />
+        <mark key="^" line="153" column="24" />
+        <mark key="." line="153" column="24" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/BuyWhenDroppingSellWithTrailingStopStrategyIT.kt" timestamp="1525448056358">
         <mark key="[" line="55" column="23" />
@@ -158,7 +159,7 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" timestamp="1528401382758">
         <mark key="[" line="43" column="67" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528402106399">
+      <file name="/Dummy.txt" timestamp="1528403442810">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/TickerListenerImpl.kt" timestamp="1524215406606">
@@ -170,7 +171,7 @@
         <mark key="." line="55" column="55" />
         <mark key="^" line="55" column="55" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" timestamp="1528400718099">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" timestamp="1528403019489">
         <mark key="[" line="31" column="180" />
         <mark key="]" line="32" column="107" />
         <mark key="^" line="32" column="107" />
@@ -211,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="37" filename="E:/prj/autocoin-trader-frontend/node_modules/underscore/underscore.js" />
       <jump line="14" column="32" filename="E:/prj/autocoin-trader-frontend/node_modules/underscore/underscore.js" />
       <jump line="55" column="90" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
       <jump line="57" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
@@ -311,6 +311,7 @@
       <jump line="108" column="98" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/OrderServiceTest.kt" />
       <jump line="120" column="34" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/OrderServiceTest.kt" />
       <jump line="484" column="290" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
+      <jump line="146" column="28" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -320,7 +321,7 @@
         <text>openBuyOr</text>
       </register>
       <register name="/" type="4">
-        <text>binance-1</text>
+        <text>tryToPlace</text>
       </register>
       <register name="0" type="4">
         <text>accountService, strategyParameters</text>
@@ -357,9 +358,9 @@
       </register>
     </registers>
     <search>
-      <last-search>binance-1</last-search>
+      <last-search>tryToPlace</last-search>
       <last-offset />
-      <last-pattern>binance-1</last-pattern>
+      <last-pattern>tryToPlace</last-pattern>
       <last-replace>apiKey</last-replace>
       <last-substitute>publicKey</last-substitute>
       <last-dir>1</last-dir>
@@ -367,7 +368,6 @@
     </search>
     <history>
       <history-search>
-        <entry>%s</entry>
         <entry>super</entry>
         <entry>Users</entry>
         <entry>Client</entry>
@@ -387,6 +387,7 @@
         <entry>OrderType</entry>
         <entry>bin-1</entry>
         <entry>binance-1</entry>
+        <entry>tryToPlace</entry>
       </history-search>
       <history-cmd>
         <entry>set relativenumber</entry>
