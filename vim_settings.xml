@@ -12,6 +12,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a2cf009b-140d-447e-a028-60d3c8db0a88/console.sql" timestamp="1527013841020">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" timestamp="1528739182123">
+        <mark key="[" line="68" column="26" />
+        <mark key="]" line="68" column="28" />
+        <mark key="^" line="68" column="28" />
+        <mark key="." line="68" column="28" />
+      </file>
       <file name="/Extensions.kt" timestamp="1528736331935" />
       <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1528737193505">
         <mark key="'" line="60" column="12" />
@@ -168,11 +174,12 @@
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1526941256531">
         <mark key="[" line="29" column="56" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" timestamp="1528736900929">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" timestamp="1528739250080">
         <mark key="'" line="27" column="18" />
-        <mark key="[" line="27" column="19" />
-        <mark key="]" line="27" column="19" />
-        <mark key="." line="27" column="19" />
+        <mark key="[" line="87" column="106" />
+        <mark key="]" line="87" column="105" />
+        <mark key="." line="87" column="105" />
+        <mark key="^" line="87" column="105" />
       </file>
       <file name="/Dummy.txt" timestamp="1528737250948">
         <mark key="[" line="0" column="0" />
@@ -329,7 +336,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>re</text>
+        <text>65878</text>
       </register>
       <register name="/" type="4">
         <text>Decimal8</text>
