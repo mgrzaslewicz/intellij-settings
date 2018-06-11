@@ -43,6 +43,12 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/pom.xml" timestamp="1525256057983">
         <mark key="[" line="127" column="21" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.kts" timestamp="1528735123362">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="6" column="66" />
+        <mark key="." line="6" column="66" />
+        <mark key="^" line="10" column="25" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/active/TestAutocoinExchangesConfig.kt" timestamp="1528651791125">
         <mark key="[" line="28" column="25" />
         <mark key="]" line="28" column="25" />
@@ -122,6 +128,7 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/buy-lower-and-lower-specific-parameters/buy-lower-and-lower-specific-parameters.component.html" timestamp="1526824401636">
         <mark key="[" line="12" column="99" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/math/BigDecimal.java" timestamp="1528734966108" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/clients/client-edit/client-edit.component.ts" timestamp="1528056757232">
         <mark key="[" line="49" column="63" />
       </file>
@@ -205,13 +212,6 @@
         <mark key="]" line="46" column="33" />
         <mark key="^" line="46" column="33" />
         <mark key="." line="46" column="33" />
-      </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" timestamp="1528642057969">
-        <mark key="'" line="482" column="268" />
-        <mark key="[" line="480" column="208" />
-        <mark key="]" line="480" column="208" />
-        <mark key="." line="480" column="208" />
-        <mark key="^" line="480" column="208" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/README.md" timestamp="1525359294657">
         <mark key="[" line="33" column="14" />
@@ -341,7 +341,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>ETH</text>
+        <text encoding="base64">IH0=</text>
       </register>
       <register name="/" type="4">
         <text>xchange</text>
