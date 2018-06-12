@@ -19,9 +19,6 @@
         <mark key="." line="69" column="36" />
       </file>
       <file name="/Extensions.kt" timestamp="1528736331935" />
-      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1528737193505">
-        <mark key="'" line="60" column="12" />
-      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/CurrencyPairMetadataApplier.kt" timestamp="1528829765424">
         <mark key="'" line="14" column="101" />
         <mark key="[" line="13" column="82" />
@@ -123,6 +120,13 @@
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" timestamp="1524310136097">
         <mark key="[" line="45" column="30" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1528830799827">
+        <mark key="'" line="109" column="79" />
+        <mark key="[" line="154" column="120" />
+        <mark key="]" line="102" column="59" />
+        <mark key="^" line="102" column="59" />
+        <mark key="." line="102" column="59" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" timestamp="1528829577175">
         <mark key="[" line="50" column="91" />
@@ -226,7 +230,7 @@
         <mark key="." line="88" column="105" />
         <mark key="^" line="88" column="105" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528737250948">
+      <file name="/Dummy.txt" timestamp="1528831051102">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/TickerListenerImpl.kt" timestamp="1524215406606">
@@ -245,6 +249,9 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="43" column="144" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" timestamp="1528830703961">
+        <mark key="[" line="48" column="56" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" timestamp="1528830054118">
         <mark key="'" line="49" column="18" />
         <mark key="[" line="149" column="154" />
@@ -261,7 +268,7 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/build-and-run.sh" timestamp="1527454840179">
         <mark key="[" line="40" column="131" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/RestTickerService.kt" timestamp="1528736740732">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/RestTickerService.kt" timestamp="1528830605903">
         <mark key="'" line="10" column="18" />
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="19" />
@@ -280,8 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="27" filename="$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms2.rnc" />
-      <jump line="190" column="19" filename="$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms2.rnc" />
       <jump line="201" column="18" filename="$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms2.rnc" />
       <jump line="206" column="17" filename="$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms2.rnc" />
       <jump line="213" column="25" filename="$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms2.rnc" />
@@ -380,6 +385,8 @@
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/CurrencyPairMetadataApplier.kt" />
       <jump line="13" column="82" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/CurrencyPairMetadataApplier.kt" />
       <jump line="14" column="101" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/CurrencyPairMetadataApplier.kt" />
+      <jump line="102" column="59" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
+      <jump line="109" column="79" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -389,7 +396,7 @@
         <text>OrderAmountCalculator</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text>100</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y3VycmVuY3lQYWlyTWV0YWRhdGFBcHBsaWVyIA==</text>
@@ -426,9 +433,9 @@
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search>100</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern>100</last-pattern>
       <last-replace>Decimal</last-replace>
       <last-substitute>Decimal8</last-substitute>
       <last-dir>1</last-dir>
@@ -436,7 +443,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVTZWxsT3JkZXJXaXRoSHVnZVByaWNlXD4=</entry>
         <entry>Could not read</entry>
         <entry>No BTC ava</entry>
         <entry>find</entry>
@@ -456,6 +462,7 @@
         <entry>8</entry>
         <entry>Decimal8</entry>
         <entry>logger</entry>
+        <entry>100</entry>
       </history-search>
       <history-cmd>
         <entry>%s/sudo//g</entry>
