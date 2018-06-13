@@ -143,6 +143,9 @@
         <mark key="^" line="98" column="30" />
         <mark key="." line="72" column="57" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/Extensions.kt" timestamp="1528736339275">
+        <mark key="[" line="9" column="65" />
+      </file>
       <file name="E:/prj/autocoin-order-service/src/main/resources/application.yml" timestamp="1525890238394">
         <mark key="[" line="3" column="0" />
       </file>
@@ -240,7 +243,7 @@
         <mark key="." line="93" column="133" />
         <mark key="^" line="148" column="247" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528841689918">
+      <file name="/Dummy.txt" timestamp="1528873030123">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/TickerListenerImpl.kt" timestamp="1524215406606">
@@ -259,11 +262,11 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="44" column="144" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" timestamp="1528842938158">
-        <mark key="[" line="65" column="9" />
-        <mark key="]" line="65" column="9" />
-        <mark key="^" line="65" column="9" />
-        <mark key="." line="65" column="9" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" timestamp="1528872650487">
+        <mark key="[" line="80" column="17" />
+        <mark key="]" line="79" column="61" />
+        <mark key="^" line="78" column="60" />
+        <mark key="." line="79" column="61" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" timestamp="1528841424983">
         <mark key="'" line="406" column="156" />
@@ -400,7 +403,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>.toBigDecimal()</text>
       </register>
       <register name="/" type="4">
         <text>ROUND_</text>
