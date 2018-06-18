@@ -12,12 +12,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a2cf009b-140d-447e-a028-60d3c8db0a88/console.sql" timestamp="1527013841020">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" timestamp="1529351010070">
-        <mark key="'" line="138" column="74" />
-        <mark key="[" line="138" column="98" />
-        <mark key="]" line="134" column="81" />
-        <mark key="^" line="134" column="81" />
-        <mark key="." line="134" column="81" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" timestamp="1529352681998">
+        <mark key="'" line="127" column="0" />
+        <mark key="[" line="125" column="59" />
+        <mark key="]" line="125" column="59" />
+        <mark key="^" line="125" column="58" />
+        <mark key="." line="125" column="59" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/AutocoinTradeServiceTest.kt" timestamp="1529311534698" />
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorProfitIT.kt" timestamp="1528835846600">
@@ -216,7 +216,7 @@
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1526941256531">
         <mark key="[" line="29" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529312068685">
+      <file name="/Dummy.txt" timestamp="1529352797155">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1529312311421">
@@ -234,7 +234,7 @@
         <mark key="." line="55" column="55" />
         <mark key="^" line="55" column="55" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" timestamp="1529351926662">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" timestamp="1529352468135">
         <mark key="'" line="60" column="68" />
         <mark key="[" line="71" column="24" />
         <mark key="]" line="71" column="24" />
@@ -281,7 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="23" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
       <jump line="2" column="78" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.component.html" />
       <jump line="1" column="23" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/secure-folder/autocoin-strategy-executor/exchange-health-keys.yml" />
       <jump line="3" column="27" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/secure-folder/autocoin-strategy-executor/exchange-health-keys.yml" />
@@ -381,13 +380,14 @@
       <jump line="135" column="58" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" />
       <jump line="136" column="125" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" />
       <jump line="138" column="74" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" />
+      <jump line="127" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2VsbFByaWNlLCA=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>()</text>
