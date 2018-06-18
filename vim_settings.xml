@@ -62,7 +62,7 @@
         <mark key="." line="23" column="146" />
         <mark key="^" line="61" column="59" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" timestamp="1529259750707">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" timestamp="1529307591088">
         <mark key="[" line="82" column="17" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/ExchangeMetadata.kt" timestamp="1528642533441">
@@ -163,8 +163,11 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/clients/client-edit/client-edit.component.html" timestamp="1528055094545">
         <mark key="[" line="38" column="42" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorMaxCounterCurrencyForBuyingIntegrationTest.kt" timestamp="1529306743444">
-        <mark key="[" line="72" column="5" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorMaxCounterCurrencyForBuyingIntegrationTest.kt" timestamp="1529307455641">
+        <mark key="[" line="116" column="65" />
+        <mark key="]" line="116" column="65" />
+        <mark key="^" line="116" column="64" />
+        <mark key="." line="116" column="65" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/visualisation/TradingRecordChart.kt" timestamp="1525596333967">
         <mark key="[" line="33" column="42" />
@@ -383,7 +386,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>.toBigDecimal8()</text>
+        <text encoding="base64">ID0gYXZhaWxhYmxlQmFzZUN1cnJlbmN5LCBjbGllbnRJZCA9ICJjbGllbnRJZCBkb2VzIG5vdCBtYXR0ZXIgbm93IiwgZXhjaGFuZ2VOYW1lID0gImV4Y2hhbmdlTmFtZSBkb2VzIG5vdCBtYXR0ZXIgbm93IiwgcGFyYW1ldGVyc0pzb24gPSAicGFyYW1ldGVyc0pzb24gZG9lcyBub3QgbWF0dGVyIG5vdyIsIHN0cmF0ZWd5TmFtZSA9ICJzdHJhdGVneU5hbWUgZG9lcyBub3QgbWF0dGVyIG5vdyIsIGN1cnJlbmN5UGFpciA9IHN0cmF0ZWd5UGFyYW1ldGVycy5jdXJyZW5jeVBhaXIhISwg</text>
       </register>
       <register name="/" type="4">
         <text>exit</text>
