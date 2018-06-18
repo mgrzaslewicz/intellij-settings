@@ -33,11 +33,12 @@
       <file name="/Kotlin Console" timestamp="1527534630319">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/StrategyExecutionTest.kt" timestamp="1529312036039">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="19" column="66" />
-        <mark key="." line="6" column="0" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/StrategyExecutionTest.kt" timestamp="1529313422260">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="21" column="51" />
+        <mark key="]" line="21" column="52" />
+        <mark key="^" line="32" column="48" />
+        <mark key="." line="21" column="52" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/localorder/LocalOrder.kt" timestamp="1525367654174">
         <mark key="[" line="10" column="11" />
@@ -315,14 +316,13 @@
       <file name="/fragment.java" timestamp="1529311460655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyExecution.kt" timestamp="1529311579833">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyExecution.kt" timestamp="1529313185524">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="49" column="42" />
         <mark key="." line="49" column="42" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="41" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
       <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
       <jump line="153" column="16" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
       <jump line="137" column="10" filename="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-bitstamp/4.3.6/xchange-bitstamp-4.3.6-sources.jar!/org/knowm/xchange/bitstamp/service/BitstampAccountService.java" />
@@ -422,19 +422,20 @@
       <jump line="63" column="24" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorMaxExitCurrencyForBuyingIntegrationTest.kt" />
       <jump line="108" column="8" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorMaxExitCurrencyForBuyingIntegrationTest.kt" />
       <jump line="66" column="46" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" />
+      <jump line="23" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/StrategyExecutionTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>Counter</text>
       </register>
       <register name="/" type="4">
-        <text>exit</text>
+        <text>tru</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoIkNvdWxkIG5vdCBtYWtlICRjdXJyZW5jeVBhaXIgc2VsbCBvcmRlciBhdCBleGNoYW5nZSAkZXhjaGFuZ2VOYW1lOiAke2UubWVzc2FnZX0iKQo=</text>
+      <register name="0" type="4">
+        <text>false</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudGltZS5ab25lZERhdGVUaW1lCg==</text>
@@ -468,9 +469,9 @@
       </register>
     </registers>
     <search>
-      <last-search>exit</last-search>
+      <last-search>tru</last-search>
       <last-offset />
-      <last-pattern>exit</last-pattern>
+      <last-pattern>tru</last-pattern>
       <last-replace>BaseCurrency</last-replace>
       <last-substitute>EntryCurrency</last-substitute>
       <last-dir>1</last-dir>
@@ -478,7 +479,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Exit</entry>
         <entry>Entry</entry>
         <entry>Service</entry>
         <entry>xchange</entry>
@@ -498,6 +498,7 @@
         <entry>entryCurrency</entry>
         <entry>EntryCurrency</entry>
         <entry>exit</entry>
+        <entry>tru</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bit-1-2-3/bittrex-1-2-3/g</entry>
