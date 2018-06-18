@@ -228,12 +228,12 @@
         <mark key="." line="55" column="55" />
         <mark key="^" line="55" column="55" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" timestamp="1529302906470">
-        <mark key="'" line="13" column="18" />
-        <mark key="[" line="37" column="55" />
-        <mark key="]" line="44" column="144" />
-        <mark key="^" line="13" column="18" />
-        <mark key="." line="44" column="144" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" timestamp="1529303638141">
+        <mark key="'" line="14" column="18" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-max-exit-currency-percent-for-buying.yml" timestamp="1529259802754">
         <mark key="[" line="5" column="6" />
@@ -271,9 +271,6 @@
       </file>
       <file name="/fragment.java" timestamp="1529260339887">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyExecution.kt" timestamp="1529259288039">
-        <mark key="[" line="45" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -383,7 +380,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>clone</text>
+        <text>.toBigDecimal8()</text>
       </register>
       <register name="/" type="4">
         <text>exit</text>
