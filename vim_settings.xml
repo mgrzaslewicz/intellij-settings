@@ -277,6 +277,11 @@
         <mark key="^" line="159" column="46" />
         <mark key="." line="159" column="46" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellHigherAndHigherStrategyProvider.kt" timestamp="1529393387982">
+        <mark key="'" line="13" column="7" />
+        <mark key="[" line="15" column="46" />
+        <mark key="]" line="15" column="74" />
+      </file>
       <file name="/fragment.java" timestamp="1529311460655">
         <mark key="[" line="0" column="0" />
       </file>
@@ -287,7 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="78" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.component.html" />
       <jump line="1" column="23" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/secure-folder/autocoin-strategy-executor/exchange-health-keys.yml" />
       <jump line="3" column="27" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/secure-folder/autocoin-strategy-executor/exchange-health-keys.yml" />
       <jump line="2" column="10" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/secure-folder/autocoin-strategy-executor/exchange-health-keys.yml" />
@@ -387,6 +391,7 @@
       <jump line="136" column="125" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" />
       <jump line="138" column="74" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" />
       <jump line="127" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" />
+      <jump line="13" column="7" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellHigherAndHigherStrategyProvider.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -396,10 +401,10 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>()</text>
+        <text>gro</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCiAgICBvcGVuIGZ1biBnZXRDb3VudGVyQ3VycmVuY3lGcmFjdGlvbkZvckJ1eWluZ19CRCgpID0gQmlnRGVjaW1hbChjb3VudGVyQ3VycmVuY3lGcmFjdGlvbkZvckJ1eWluZywgbWF0aENvbnRleHQpCg==</text>
+      <register name="0" type="4">
+        <text>growToSellNextRelativePercent</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -433,9 +438,9 @@
       </register>
     </registers>
     <search>
-      <last-search>()</last-search>
+      <last-search>gro</last-search>
       <last-offset />
-      <last-pattern>()</last-pattern>
+      <last-pattern>gro</last-pattern>
       <last-replace>BaseCurrency</last-replace>
       <last-substitute>EntryCurrency</last-substitute>
       <last-dir>1</last-dir>
@@ -443,7 +448,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Decimal8</entry>
         <entry>logger</entry>
         <entry>100</entry>
         <entry>cancelSell</entry>
@@ -463,6 +467,7 @@
         <entry>B</entry>
         <entry>when</entry>
         <entry>()</entry>
+        <entry>gro</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bit-1-2-3/bittrex-1-2-3/g</entry>
