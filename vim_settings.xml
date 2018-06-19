@@ -99,11 +99,11 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TickerListenerImplTest.kt" timestamp="1524215379550">
         <mark key="[" line="20" column="51" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" timestamp="1529414603058">
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" timestamp="1529417205789">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="168" column="48" />
-        <mark key="]" line="168" column="54" />
-        <mark key="." line="168" column="54" />
+        <mark key="[" line="168" column="66" />
+        <mark key="]" line="168" column="66" />
+        <mark key="." line="168" column="66" />
         <mark key="^" line="168" column="54" />
       </file>
       <file name="/fragment.kt" timestamp="1528400465072">
@@ -290,7 +290,7 @@
         <mark key="." line="93" column="133" />
         <mark key="^" line="148" column="247" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529412247708">
+      <file name="/Dummy.txt" timestamp="1529417221392">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1529403723512">
@@ -471,7 +471,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>Counter</text>
+        <text>CounterCurrencyPercentForBuying</text>
       </register>
       <register name="/" type="4">
         <text>Max coun</text>
