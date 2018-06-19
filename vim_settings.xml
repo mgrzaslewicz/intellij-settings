@@ -72,9 +72,6 @@
         <mark key="." line="23" column="146" />
         <mark key="^" line="61" column="59" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" timestamp="1529307591088">
-        <mark key="[" line="82" column="17" />
-      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/ExchangeMetadata.kt" timestamp="1528642533441">
         <mark key="[" line="9" column="27" />
         <mark key="]" line="9" column="27" />
@@ -210,6 +207,12 @@
       <file name="/ClientLogEntity [autocoin_client_log@138.201.226.51]" timestamp="1527012895004">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/StrategiesController.kt" timestamp="1529406896590">
+        <mark key="[" line="66" column="72" />
+        <mark key="]" line="66" column="72" />
+        <mark key="^" line="66" column="71" />
+        <mark key="." line="66" column="72" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealthTest.kt" timestamp="1524313725082">
         <mark key="[" line="39" column="18" />
       </file>
@@ -228,7 +231,7 @@
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1526941256531">
         <mark key="[" line="29" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529357256299">
+      <file name="/Dummy.txt" timestamp="1529407048486">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1529403723512">
@@ -404,7 +407,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>CounterCurrencyPercentForBuying</text>
       </register>
       <register name="/" type="4">
         <text>gro</text>
