@@ -6,6 +6,7 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyExecutorConfig.kt" timestamp="1525433618920">
         <mark key="[" line="13" column="0" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.component.html" timestamp="1529410846633" />
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/main/resources/application-mysql.yml" timestamp="1524998806836">
         <mark key="[" line="0" column="7" />
       </file>
@@ -84,8 +85,11 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TickerListenerImplTest.kt" timestamp="1524215379550">
         <mark key="[" line="20" column="51" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" timestamp="1527191030954">
-        <mark key="[" line="86" column="13" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" timestamp="1529410914014">
+        <mark key="[" line="46" column="16" />
+        <mark key="]" line="46" column="16" />
+        <mark key="." line="46" column="16" />
+        <mark key="^" line="48" column="3" />
       </file>
       <file name="/fragment.kt" timestamp="1528400465072">
         <mark key="[" line="0" column="0" />
@@ -95,6 +99,9 @@
         <mark key="]" line="190" column="58" />
         <mark key="^" line="190" column="58" />
         <mark key="." line="190" column="58" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.module.ts" timestamp="1529410560190">
+        <mark key="[" line="25" column="113" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/CurrencyPairMetadataApplierTest.kt" timestamp="1528839861042">
         <mark key="[" line="17" column="58" />
@@ -185,6 +192,11 @@
         <mark key="]" line="116" column="65" />
         <mark key="^" line="116" column="64" />
         <mark key="." line="116" column="65" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" timestamp="1529410883517">
+        <mark key="[" line="87" column="32" />
+        <mark key="]" line="87" column="32" />
+        <mark key="." line="87" column="32" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/visualisation/TradingRecordChart.kt" timestamp="1525596333967">
         <mark key="[" line="33" column="42" />
@@ -414,13 +426,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>max</text>
       </register>
       <register name="/" type="4">
         <text>gro</text>
       </register>
-      <register name="0" type="4">
-        <text>growToSellNextRelativePercent</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBWaWV3Q2hpbGQoJ2J1eUxvd2VyQW5kTG93ZXJTcGVjaWZpY1BhcmFtZXRlcnMnKQogICAgYnV5TG93ZXJBbmRMb3dlclNwZWNpZmljUGFyYW1ldGVyc0NvbXBvbmVudDogQnV5TG93ZXJBbmRMb3dlclNwZWNpZmljUGFyYW1ldGVyc0NvbXBvbmVudDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
