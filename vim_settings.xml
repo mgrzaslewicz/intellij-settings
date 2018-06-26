@@ -6,7 +6,6 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyExecutorConfig.kt" timestamp="1525433618920">
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.component.html" timestamp="1529410846633" />
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/main/resources/application-mysql.yml" timestamp="1524998806836">
         <mark key="[" line="0" column="7" />
       </file>
@@ -20,8 +19,7 @@
         <mark key="^" line="125" column="58" />
         <mark key="." line="133" column="11" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/AutocoinTradeServiceTest.kt" timestamp="1529311534698" />
-      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1529008229382">
+      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1530038178679">
         <mark key="[" line="13" column="21" />
         <mark key="]" line="13" column="22" />
         <mark key="." line="13" column="22" />
@@ -168,6 +166,13 @@
         <mark key="[" line="5" column="75" />
         <mark key="]" line="5" column="75" />
         <mark key="." line="5" column="75" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1530037867922">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="123" column="40" />
+        <mark key="]" line="123" column="40" />
+        <mark key="^" line="124" column="96" />
+        <mark key="." line="123" column="40" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" timestamp="1528835961429">
         <mark key="[" line="53" column="62" />
@@ -337,7 +342,6 @@
         <mark key="]" line="27" column="30" />
         <mark key="." line="27" column="30" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-test/5.0.6.RELEASE/spring-test-5.0.6.RELEASE-sources.jar!/org/springframework/test/web/servlet/result/ContentResultMatchers.java" timestamp="1529408658871" />
       <file name="E:/prj/autocoin-ticker-service/pom.xml" timestamp="1529008151849">
         <mark key="[" line="22" column="28" />
         <mark key="]" line="22" column="29" />
@@ -396,7 +400,6 @@
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/CurrencyPairMetadataApplier.kt" />
       <jump line="13" column="82" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/CurrencyPairMetadataApplier.kt" />
       <jump line="14" column="101" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/CurrencyPairMetadataApplier.kt" />
-      <jump line="102" column="59" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="109" column="79" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="171" column="15" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
       <jump line="159" column="141" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
@@ -465,19 +468,20 @@
       <jump line="89" column="96" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
       <jump line="103" column="92" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
       <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
+      <jump line="102" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>CounterCurrencyPercentForBuying</text>
+        <text>wallet</text>
       </register>
       <register name="/" type="4">
-        <text>Max coun</text>
+        <text>==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCBidXlMb3dlckFuZExvd2VyU3RyYXRlZ3kgPSBuZXcgU3RyYXRlZ3k7CiAgICBidXlMb3dlckFuZExvd2VyU3RyYXRlZ3kubmFtZSA9ICdCdXlMb3dlckFuZExvd2VyJzsKICAgIHN0cmF0ZWdpZXMucHVzaChidXlMb3dlckFuZExvd2VyU3RyYXRlZ3kpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiRXhjaGFuZ2VzIGNhbiBtYWtlIGFuZCBjYW5jZWwgc2VsbCBvcmRlcnM6ICR7ZXhjaGFuZ2VzSGVhbHRoLmZpbHRlciB7IGl0LmNhbk1ha2VBbmRDYW5jZWxTZWxsT3JkZXJzKCkgfS5tYXAgeyBpdC5leGNoYW5nZU5hbWUgfX0iKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -511,9 +515,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Max coun</last-search>
+      <last-search>==</last-search>
       <last-offset />
-      <last-pattern>Max coun</last-pattern>
+      <last-pattern>==</last-pattern>
       <last-replace>BaseCurrency</last-replace>
       <last-substitute>EntryCurrency</last-substitute>
       <last-dir>1</last-dir>
@@ -521,7 +525,6 @@
     </search>
     <history>
       <history-search>
-        <entry>EntryCurrency</entry>
         <entry>exit</entry>
         <entry>tru</entry>
         <entry>Remote</entry>
@@ -541,6 +544,7 @@
         <entry>Percen</entry>
         <entry>Max Ba</entry>
         <entry>Max coun</entry>
+        <entry>==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bit-1-2-3/bittrex-1-2-3/g</entry>
