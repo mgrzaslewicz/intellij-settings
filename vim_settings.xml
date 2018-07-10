@@ -179,12 +179,12 @@
         <mark key="]" line="5" column="75" />
         <mark key="." line="5" column="75" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1530209052120">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="123" column="40" />
-        <mark key="]" line="185" column="64" />
-        <mark key="^" line="185" column="64" />
-        <mark key="." line="185" column="64" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1531255163843">
+        <mark key="'" line="132" column="12" />
+        <mark key="[" line="146" column="32" />
+        <mark key="]" line="148" column="14" />
+        <mark key="^" line="148" column="14" />
+        <mark key="." line="148" column="14" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorTest.kt" timestamp="1528835961429">
         <mark key="[" line="53" column="62" />
@@ -380,7 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="58" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" />
       <jump line="94" column="78" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" />
       <jump line="59" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" />
       <jump line="45" column="51" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" />
@@ -480,16 +479,17 @@
       <jump line="62" column="5" filename="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-binance/4.3.7/xchange-binance-4.3.7.jar!/binance.json" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-binance/4.3.7/xchange-binance-4.3.7.jar!/binance.json" />
       <jump line="103" column="5" filename="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-binance/4.3.7/xchange-binance-4.3.7.jar!/binance.json" />
+      <jump line="132" column="12" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>numberOfDecimals</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>stepSi</text>
+        <text>return</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiRXhjaGFuZ2VzIGNhbiBtYWtlIGFuZCBjYW5jZWwgc2VsbCBvcmRlcnM6ICR7ZXhjaGFuZ2VzSGVhbHRoLmZpbHRlciB7IGl0LmNhbk1ha2VBbmRDYW5jZWxTZWxsT3JkZXJzKCkgfS5tYXAgeyBpdC5leGNoYW5nZU5hbWUgfX0iKQo=</text>
@@ -526,9 +526,9 @@
       </register>
     </registers>
     <search>
-      <last-search>stepSi</last-search>
+      <last-search>return</last-search>
       <last-offset />
-      <last-pattern>stepSi</last-pattern>
+      <last-pattern>return</last-pattern>
       <last-replace>BaseCurrency</last-replace>
       <last-substitute>EntryCurrency</last-substitute>
       <last-dir>1</last-dir>
@@ -536,7 +536,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Remote</entry>
         <entry encoding="base64">XDxyZW1vdGVcPg==</entry>
         <entry>B</entry>
         <entry>when</entry>
@@ -556,6 +555,7 @@
         <entry>==</entry>
         <entry>TRX</entry>
         <entry>stepSi</entry>
+        <entry>return</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bit-1-2-3/bittrex-1-2-3/g</entry>
