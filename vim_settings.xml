@@ -34,6 +34,11 @@
         <mark key="^" line="15" column="59" />
         <mark key="." line="10" column="61" />
       </file>
+      <file name="E:/prj/XChange/xchange-binance/src/main/java/org/knowm/xchange/binance/BinanceExchange.java" timestamp="1531253959858">
+        <mark key="[" line="105" column="27" />
+        <mark key="]" line="105" column="27" />
+        <mark key="." line="105" column="27" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorProfitIT.kt" timestamp="1528835846600">
         <mark key="[" line="98" column="69" />
         <mark key="]" line="167" column="263" />
@@ -481,7 +486,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>minNotional</text>
+        <text>numberOfDecimals</text>
       </register>
       <register name="/" type="4">
         <text>stepSi</text>
