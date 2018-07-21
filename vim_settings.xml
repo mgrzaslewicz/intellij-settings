@@ -117,12 +117,12 @@
         <mark key="]" line="5" column="75" />
         <mark key="." line="5" column="75" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1532200636380">
-        <mark key="'" line="132" column="12" />
-        <mark key="[" line="255" column="89" />
-        <mark key="]" line="255" column="89" />
-        <mark key="^" line="255" column="88" />
-        <mark key="." line="255" column="89" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1532201194035">
+        <mark key="'" line="223" column="135" />
+        <mark key="[" line="186" column="122" />
+        <mark key="]" line="233" column="48" />
+        <mark key="^" line="233" column="47" />
+        <mark key="." line="233" column="48" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/ExchangeServiceConfig.kt" timestamp="1524257294800">
         <mark key="[" line="33" column="155" />
@@ -250,7 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" />
       <jump line="45" column="51" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" />
       <jump line="17" column="60" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" />
       <jump line="15" column="53" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" />
@@ -350,13 +349,14 @@
       <jump line="132" column="12" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="60" column="12" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
+      <jump line="216" column="135" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IFBhaXIodHJhZGVhYmxlQ3VycmVuY3lXaXRoQmlnZ2VzdEJhbGFuY2UsIGN1cnJlbmN5UGFpciEhKQ==</text>
       </register>
       <register name="/" type="4">
         <text>50</text>
