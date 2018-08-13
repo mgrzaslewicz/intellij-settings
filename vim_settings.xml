@@ -22,11 +22,11 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/RSI2StrategyProvider.kt" timestamp="1533666472997">
         <mark key="[" line="129" column="15" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1533669122551">
-        <mark key="[" line="121" column="171" />
-        <mark key="]" line="122" column="3" />
-        <mark key="^" line="122" column="3" />
-        <mark key="." line="122" column="3" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1533705963453">
+        <mark key="[" line="129" column="8" />
+        <mark key="]" line="129" column="8" />
+        <mark key="^" line="125" column="3" />
+        <mark key="." line="129" column="8" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/strategy/TestStrategyProvider.kt" timestamp="1533666777569">
         <mark key="[" line="17" column="68" />
@@ -302,6 +302,12 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellHigherAndHigherStrategyProvider.kt" timestamp="1533666560981">
         <mark key="[" line="37" column="30" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWhenSecondCurrencyGrowsStrategyProvider.kt" timestamp="1533707472424">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="13" column="9" />
+        <mark key="." line="13" column="9" />
+        <mark key="^" line="11" column="34" />
+      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/AutocoinExchangeTest.kt" timestamp="1533592218066">
         <mark key="[" line="170" column="52" />
       </file>
@@ -421,7 +427,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>override</text>
+        <text>IN</text>
       </register>
       <register name="/" type="4">
         <text>50</text>
@@ -430,31 +436,31 @@
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiRXhjaGFuZ2VzIGNhbiBtYWtlIGFuZCBjYW5jZWwgc2VsbCBvcmRlcnM6ICR7ZXhjaGFuZ2VzSGVhbHRoLmZpbHRlciB7IGl0LmNhbk1ha2VBbmRDYW5jZWxTZWxsT3JkZXJzKCkgfS5tYXAgeyBpdC5leGNoYW5nZU5hbWUgfX0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnZlcmRlbGhhbi50YTRqLlN0cmF0ZWd5Cg==</text>
+        <text encoding="base64">b2JqZWN0IFNlbGxXaGVuU2Vjb25kQ3VycmVuY3lHcm93c3RyYXRlZ3lQYXJhbWV0ZXJzIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGV1LnZlcmRlbGhhbi50YTRqLlN0cmF0ZWd5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJhdGVneVBhcmFtZXRlcnMgPSBTdHJhdGVneVBhcmFtZXRlcnMoKS5hcHBseSB7CiAgICAgICAgICAgIGJhc2VDdXJyZW5jeUNvZGUgPSAiYnV5QSIKICAgICAgICAgICAgY291bnRlckN1cnJlbmN5Q29kZSA9ICJCIgogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5ab25lZERhdGVUaW1lCg==</text>
+        <text encoding="base64">ICAgICAgICBzdHJhdGVneVBhcmFtZXRlcnMgPSBTdHJhdGVneVBhcmFtZXRlcnMoKS5hcHBseSB7CiAgICAgICAgICAgIGJhc2VDdXJyZW5jeUNvZGUgPSAiYnV5QSIKICAgICAgICAgICAgY291bnRlckN1cnJlbmN5Q29kZSA9ICJCIgogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5ab25lSWQK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5ab25lZERhdGVUaW1lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5ab25lSWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubWF0aC5CaWdEZWNpbWFsLlpFUk8K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubWF0aC5CaWdEZWNpbWFsCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubWF0aC5CaWdEZWNpbWFsLlpFUk8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHRvRGF0ZQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubWF0aC5CaWdEZWNpbWFsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/EntryCurrency/BaseCurrency/g</text>
