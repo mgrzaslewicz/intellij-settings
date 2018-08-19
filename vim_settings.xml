@@ -25,11 +25,11 @@
         <mark key="^" line="119" column="124" />
         <mark key="." line="119" column="124" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1534684118014">
-        <mark key="[" line="122" column="75" />
-        <mark key="]" line="122" column="75" />
-        <mark key="^" line="122" column="74" />
-        <mark key="." line="122" column="75" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1534687479026">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="122" column="69" />
+        <mark key="^" line="122" column="69" />
+        <mark key="." line="122" column="69" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/strategy/TestStrategyProvider.kt" timestamp="1533666777569">
         <mark key="[" line="16" column="68" />
@@ -105,6 +105,12 @@
         <mark key="]" line="76" column="66" />
         <mark key="." line="76" column="66" />
         <mark key="^" line="76" column="66" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/SellWhenSecondCurrencyGrowsRuleTest.kt" timestamp="1534687491415">
+        <mark key="[" line="37" column="68" />
+        <mark key="]" line="37" column="68" />
+        <mark key="^" line="37" column="68" />
+        <mark key="." line="37" column="68" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/BuyWhenDroppingSellWithTrailingStopStrategyIT.kt" timestamp="1525448056358">
         <mark key="[" line="55" column="23" />
@@ -320,7 +326,7 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/AutocoinExchangeTest.kt" timestamp="1533592218066">
         <mark key="[" line="170" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1530723441811">
+      <file name="/fragment.java" timestamp="1534687113445">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -431,7 +437,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>minPrice, Decimal.ONE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJhdGVneVNwZWNpZmljUGFyYW1ldGVyc1w+</text>
