@@ -26,6 +26,12 @@
         <mark key="^" line="119" column="124" />
         <mark key="." line="119" column="124" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1534704732360">
+        <mark key="[" line="138" column="48" />
+        <mark key="]" line="138" column="59" />
+        <mark key="^" line="138" column="58" />
+        <mark key="." line="138" column="59" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/strategy/TestStrategyProvider.kt" timestamp="1533666777569">
         <mark key="[" line="16" column="68" />
       </file>
@@ -101,11 +107,12 @@
         <mark key="." line="76" column="66" />
         <mark key="^" line="76" column="66" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/SellWhenSecondCurrencyGrowsRuleTest.kt" timestamp="1534691663544">
-        <mark key="[" line="31" column="149" />
-        <mark key="]" line="31" column="168" />
-        <mark key="^" line="31" column="168" />
-        <mark key="." line="31" column="168" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/SellWhenSecondCurrencyGrowsRuleTest.kt" timestamp="1534704136775">
+        <mark key="'" line="16" column="54" />
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="12" />
+        <mark key="^" line="16" column="66" />
+        <mark key="." line="16" column="12" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/BuyWhenDroppingSellWithTrailingStopStrategyIT.kt" timestamp="1525448056358">
         <mark key="[" line="55" column="23" />
@@ -326,7 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="57" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" />
       <jump line="5" column="7" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/Tick.kt" />
       <jump line="21" column="59" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/Tick.kt" />
       <jump line="11" column="18" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" />
@@ -426,16 +432,17 @@
       <jump line="45" column="4" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
       <jump line="32" column="11" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
       <jump line="28" column="58" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/buy-lower-and-lower-specific-parameters/buy-lower-and-lower-specific-parameters.component.ts" />
+      <jump line="18" column="54" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/SellWhenSecondCurrencyGrowsRuleTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y3VycmVuY3lQYWlyUHJpY2VJbmRpY2F0b3IuZ2V0VmFsdWUoaW5kZXgpIA==</text>
+        <text>price</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdHJhdGVneVNwZWNpZmljUGFyYW1ldGVyc1w+</text>
+        <text>val</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiRXhjaGFuZ2VzIGNhbiBtYWtlIGFuZCBjYW5jZWwgc2VsbCBvcmRlcnM6ICR7ZXhjaGFuZ2VzSGVhbHRoLmZpbHRlciB7IGl0LmNhbk1ha2VBbmRDYW5jZWxTZWxsT3JkZXJzKCkgfS5tYXAgeyBpdC5leGNoYW5nZU5hbWUgfX0iKQo=</text>
@@ -475,17 +482,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdHJhdGVneVNwZWNpZmljUGFyYW1ldGVyc1w+</last-search>
+      <last-search>val</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdHJhdGVneVNwZWNpZmljUGFyYW1ldGVyc1w+</last-pattern>
+      <last-pattern>val</last-pattern>
       <last-replace>BaseCurrency</last-replace>
       <last-substitute>EntryCurrency</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Percentage</entry>
         <entry>Percenta</entry>
         <entry>cent</entry>
         <entry>Percen</entry>
@@ -505,6 +511,7 @@
         <entry>drop</entry>
         <entry encoding="base64">XDxidXlMb3dlckFuZExvd2VyU3BlY2lmaWNQYXJhbWV0ZXJzQ29tcG9uZW50XD4=</entry>
         <entry encoding="base64">XDxzdHJhdGVneVNwZWNpZmljUGFyYW1ldGVyc1w+</entry>
+        <entry>val</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bit-1-2-3/bittrex-1-2-3/g</entry>
