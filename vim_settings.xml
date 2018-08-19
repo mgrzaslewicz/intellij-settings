@@ -63,6 +63,12 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" timestamp="1529261510927">
         <mark key="[" line="124" column="17" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/models/strategy.ts" timestamp="1534675852003">
+        <mark key="[" line="21" column="66" />
+        <mark key="]" line="21" column="65" />
+        <mark key="." line="21" column="65" />
+        <mark key="^" line="21" column="65" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-max-counter-currency-percent-for-buying.yml" timestamp="1534454430825">
         <mark key="[" line="8" column="44" />
         <mark key="]" line="8" column="45" />
@@ -72,8 +78,8 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TickerListenerImplTest.kt" timestamp="1524215379550">
         <mark key="[" line="20" column="51" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" timestamp="1534672979063">
-        <mark key="'" line="99" column="4" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" timestamp="1534675877268">
+        <mark key="'" line="32" column="11" />
         <mark key="[" line="99" column="17" />
         <mark key="]" line="156" column="12" />
         <mark key="." line="156" column="12" />
@@ -156,8 +162,8 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" timestamp="1524255438292">
         <mark key="[" line="22" column="0" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/buy-lower-and-lower-specific-parameters/buy-lower-and-lower-specific-parameters.component.html" timestamp="1534456340932">
-        <mark key="[" line="4" column="81" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/buy-lower-and-lower-specific-parameters/buy-lower-and-lower-specific-parameters.component.html" timestamp="1534675556932">
+        <mark key="[" line="4" column="73" />
         <mark key="]" line="4" column="82" />
         <mark key="." line="4" column="82" />
         <mark key="^" line="4" column="82" />
@@ -171,12 +177,12 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/clients/client-edit/client-edit.component.html" timestamp="1528055094545">
         <mark key="[" line="38" column="42" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" timestamp="1534672957188">
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" timestamp="1534675276629">
         <mark key="'" line="122" column="19" />
         <mark key="[" line="132" column="57" />
-        <mark key="]" line="103" column="93" />
-        <mark key="." line="103" column="93" />
-        <mark key="^" line="89" column="96" />
+        <mark key="]" line="46" column="35" />
+        <mark key="." line="46" column="35" />
+        <mark key="^" line="46" column="35" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/visualisation/TradingRecordChart.kt" timestamp="1525596333967">
         <mark key="[" line="33" column="42" />
@@ -267,6 +273,11 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-max-exit-currency-percent-for-buying.yml" timestamp="1529259802754">
         <mark key="[" line="5" column="6" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/buy-lower-and-lower-specific-parameters/buy-lower-and-lower-specific-parameters.component.ts" timestamp="1534675674787">
+        <mark key="[" line="28" column="72" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersMerger.kt" timestamp="1534455802420">
         <mark key="'" line="15" column="52" />
         <mark key="[" line="7" column="74" />
@@ -312,8 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/pom.xml" />
-      <jump line="26" column="34" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/pom.xml" />
       <jump line="9" column="50" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/pom.xml" />
       <jump line="71" column="57" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" />
       <jump line="5" column="7" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/Tick.kt" />
@@ -412,58 +421,60 @@
       <jump line="41" column="82" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
       <jump line="118" column="19" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
       <jump line="122" column="19" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
+      <jump line="45" column="4" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
+      <jump line="32" column="11" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">ID4oKTs=</text>
       </register>
       <register name="/" type="4">
-        <text>selected</text>
+        <text encoding="base64">XDxzdHJhdGVneVNwZWNpZmljUGFyYW1ldGVyc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiRXhjaGFuZ2VzIGNhbiBtYWtlIGFuZCBjYW5jZWwgc2VsbCBvcmRlcnM6ICR7ZXhjaGFuZ2VzSGVhbHRoLmZpbHRlciB7IGl0LmNhbk1ha2VBbmRDYW5jZWxTZWxsT3JkZXJzKCkgfS5tYXAgeyBpdC5leGNoYW5nZU5hbWUgfX0iKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="2" type="4">
         <text>mapOf(
             SellWhenSecondCurrencyGrowsStrategyParameters.MIN_OTHER_CURRENCY_SELL_PRICE to Double.MAX_VALUE,
             SellWhenSecondCurrencyGrowsStrategyParameters.MAX_OTHER_CURRENCY_SELL_PRICE to Double.MAX_VALUE
     )</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">b2JqZWN0IFNlbGxXaGVuU2Vjb25kQ3VycmVuY3lHcm93c3RyYXRlZ3lQYXJhbWV0ZXJzIHsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGV1LnZlcmRlbGhhbi50YTRqLlN0cmF0ZWd5Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBzdHJhdGVneVBhcmFtZXRlcnMgPSBTdHJhdGVneVBhcmFtZXRlcnMoKS5hcHBseSB7CiAgICAgICAgICAgIGJhc2VDdXJyZW5jeUNvZGUgPSAiYnV5QSIKICAgICAgICAgICAgY291bnRlckN1cnJlbmN5Q29kZSA9ICJCIgogICAgICAgIH0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudGltZS5ab25lZERhdGVUaW1lCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudGltZS5ab25lSWQK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubWF0aC5CaWdEZWNpbWFsLlpFUk8K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/EntryCurrency/BaseCurrency/g</text>
       </register>
     </registers>
     <search>
-      <last-search>selected</last-search>
+      <last-search encoding="base64">XDxzdHJhdGVneVNwZWNpZmljUGFyYW1ldGVyc1w+</last-search>
       <last-offset />
-      <last-pattern>selected</last-pattern>
+      <last-pattern encoding="base64">XDxzdHJhdGVneVNwZWNpZmljUGFyYW1ldGVyc1w+</last-pattern>
       <last-replace>BaseCurrency</last-replace>
       <last-substitute>EntryCurrency</last-substitute>
       <last-dir>1</last-dir>
@@ -471,9 +482,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Rela</entry>
-        <entry>Currency pa</entry>
-        <entry>Pair</entry>
         <entry>Percentage</entry>
         <entry>Percenta</entry>
         <entry>cent</entry>
@@ -491,6 +499,9 @@
         <entry encoding="base64">XDxmaWx0ZXJlZFNlbGVjdGVkQ2xpZW50c1w+</entry>
         <entry>selectedCients</entry>
         <entry>selected</entry>
+        <entry>drop</entry>
+        <entry encoding="base64">XDxidXlMb3dlckFuZExvd2VyU3BlY2lmaWNQYXJhbWV0ZXJzQ29tcG9uZW50XD4=</entry>
+        <entry encoding="base64">XDxzdHJhdGVneVNwZWNpZmljUGFyYW1ldGVyc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bit-1-2-3/bittrex-1-2-3/g</entry>
