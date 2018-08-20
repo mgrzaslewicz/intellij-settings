@@ -49,7 +49,7 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1533665820845">
         <mark key="[" line="91" column="49" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/SellWhenSecondCurrencyGrowsRuleTest.kt" timestamp="1534745716731">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/SellWhenSecondCurrencyGrowsRuleTest.kt" timestamp="1534803059149">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -162,11 +162,11 @@
         <mark key="]" line="13" column="22" />
         <mark key="." line="13" column="22" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1534791575777">
-        <mark key="[" line="143" column="35" />
-        <mark key="]" line="143" column="35" />
-        <mark key="^" line="143" column="34" />
-        <mark key="." line="143" column="35" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1534802919950">
+        <mark key="[" line="150" column="34" />
+        <mark key="]" line="140" column="73" />
+        <mark key="^" line="140" column="73" />
+        <mark key="." line="140" column="73" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/strategy/TestStrategyProvider.kt" timestamp="1533666777569">
         <mark key="[" line="16" column="68" />
@@ -463,7 +463,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>flatMap { it.getEntries() }</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>toggle</text>
@@ -472,34 +472,31 @@
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiRXhjaGFuZ2VzIGNhbiBtYWtlIGFuZCBjYW5jZWwgc2VsbCBvcmRlcnM6ICR7ZXhjaGFuZ2VzSGVhbHRoLmZpbHRlciB7IGl0LmNhbk1ha2VBbmRDYW5jZWxTZWxsT3JkZXJzKCkgfS5tYXAgeyBpdC5leGNoYW5nZU5hbWUgfX0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRvQmlnRGVjaW1hbDgK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5rbm93bS54Y2hhbmdlLmR0by5tYXJrZXRkYXRhLlRpY2tlcgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnZlcmRlbGhhbi50YTRqLk9yZGVyLk9yZGVyVHlwZS5TRUxMCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1heFZhbHVlID0gRGVjaW1hbC52YWx1ZU9mKExvbmcuTUFYX1ZBTFVFKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHRvQmlnRGVjaW1hbDgK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYW55UHJpY2VGcm9tTGlzdFNtYWxsZXIgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnZlcmRlbGhhbi50YTRqLmluZGljYXRvcnMuaGVscGVycy5DbG9zZVByaWNlSW5kaWNhdG9yCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PQogICAgICAgIHJldHVybiBpZiAobGFzdFByaWNlV2hlblJ1bGVXYXNTYXRpc2ZpZWQgPT0gbWluVmFsdWUpIHsKICAgICAgICAgICAgaWYgKGFueVByaWNlRnJvbUxpc3RTbWFsbGVyKSBsYXN0UHJpY2VXaGVuUnVsZVdhc1NhdGlzZmllZCA9IGxhc3RUaWNrZXJQcmljZQogICAgICAgICAgICBhbnlQcmljZUZyb21MaXN0U21hbGxlcgogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHZhbCBzYXRpc2ZpZWQgPSBhbnlQcmljZUZyb21MaXN0U21hbGxlciAmJiBsYXN0VGlja2VyUHJpY2UgPiBsYXN0UHJpY2VXaGVuUnVsZVdhc1NhdGlzZmllZAogICAgICAgICAgICBpZiAoc2F0aXNmaWVkKSB7CiAgICAgICAgICAgICAgICBsYXN0UHJpY2VXaGVuUnVsZVdhc1NhdGlzZmllZCA9IGxhc3RUaWNrZXJQcmljZQogICAgICAgICAgICB9CiAgICAgICAgICAgIHNhdGlzZmllZAogICAgICAgIH0KICAgIH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IHByaWNlc1RyaWdnZXJpbmdTYWxlLmFueSB7IGxhc3RUaWNrZXJQcmljZSA+IGl0IH0K</text>
       </register>
       <register name="7" type="4">
-        <text>mapOf(
-            SellWhenSecondCurrencyGrowsStrategyParameters.MIN_OTHER_CURRENCY_SELL_PRICE to Double.MAX_VALUE,
-            SellWhenSecondCurrencyGrowsStrategyParameters.MAX_OTHER_CURRENCY_SELL_PRICE to Double.MAX_VALUE
-    )</text>
+        <text encoding="base64">CiAgICAvLyBzZWxsIG9ubHkgd2hlbiBvdGhlciBjdXJyZW5jeSBwcmljZSBpcyBoaWdoZXIgdGhhbiBsYXN0IHNlbGwgYW5kIHByaWNlIGZyb20gdGhlIGxpc3QKICAgIG92ZXJyaWRlIGZ1biBpc1NhdGlzZmllZChpbmRleDogSW50LCB0cmFkaW5nUmVjb3JkOiBUcmFkaW5nUmVjb3JkKTogQm9vbGVhbiB7CiAgICAgICAgdHJhZGluZ1JlY29yZC5jdXJyZW50VHJhZGUuZ2V0RW50cmllcygpCiAgICAgICAgdmFsIG1pblByaWNlVG9TZWxsSW5kZXggPSBNYXRoLm1pbih0cmFkaW5nUmVjb3JkLmN1cnJlbnRUcmFkZS5nZXRFbnRyaWVzKCkuc2l6ZSwgcHJpY2VzVHJpZ2dlcmluZ1NhbGUuc2l6ZSkgLSAxCiAgICAgICAgdmFsIG1pblByaWNlVG9TZWxsID0gaWYgKG1pblByaWNlVG9TZWxsSW5kZXggPiAwKSBwcmljZXNUcmlnZ2VyaW5nU2FsZVttaW5QcmljZVRvU2VsbEluZGV4XSBlbHNlIG1heFZhbHVlCiAgICAgICAgcmV0dXJuIGxhc3RUaWNrZXJQcmljZSA+IG1pblByaWNlVG9TZWxsCiAgICAgICAgdmFsIGFueVByaWNlRnJvbUxpc3RTbWFsbGVyID0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b2JqZWN0IFNlbGxXaGVuU2Vjb25kQ3VycmVuY3lHcm93c3RyYXRlZ3lQYXJhbWV0ZXJzIHsK</text>
+        <text encoding="base64">aW1wb3J0IHRvQmlnRGVjaW1hbDgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnZlcmRlbGhhbi50YTRqLlN0cmF0ZWd5Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5rbm93bS54Y2hhbmdlLmR0by5tYXJrZXRkYXRhLlRpY2tlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/EntryCurrency/BaseCurrency/g</text>
