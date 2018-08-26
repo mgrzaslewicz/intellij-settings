@@ -49,10 +49,12 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1533665820845">
         <mark key="[" line="91" column="49" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/SellWhenSecondCurrencyGrowsRuleTest.kt" timestamp="1534803059149">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/SellWhenSecondCurrencyGrowsRuleTest.kt" timestamp="1535285235882">
+        <mark key="'" line="63" column="8" />
+        <mark key="[" line="63" column="57" />
+        <mark key="]" line="63" column="61" />
+        <mark key="." line="63" column="61" />
+        <mark key="^" line="63" column="61" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.scss" timestamp="1526831629873">
         <mark key="[" line="2" column="1" />
@@ -163,10 +165,10 @@
         <mark key="." line="13" column="22" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ta/rule/Rules.kt" timestamp="1534802919950">
-        <mark key="[" line="150" column="34" />
-        <mark key="]" line="140" column="73" />
-        <mark key="^" line="140" column="73" />
-        <mark key="." line="140" column="73" />
+        <mark key="[" line="146" column="34" />
+        <mark key="]" line="136" column="73" />
+        <mark key="^" line="136" column="73" />
+        <mark key="." line="136" column="73" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/strategy/TestStrategyProvider.kt" timestamp="1533666777569">
         <mark key="[" line="16" column="68" />
@@ -357,7 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="18" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" />
       <jump line="10" column="18" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/RestTickerService.kt" />
       <jump line="48" column="18" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
       <jump line="27" column="18" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" />
@@ -457,19 +458,20 @@
       <jump line="18" column="54" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/SellWhenSecondCurrencyGrowsRuleTest.kt" />
       <jump line="19" column="159" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyProvidersTest.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/resources/application.yml" />
+      <jump line="63" column="8" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/SellWhenSecondCurrencyGrowsRuleTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>toggle</text>
+        <text>True</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiRXhjaGFuZ2VzIGNhbiBtYWtlIGFuZCBjYW5jZWwgc2VsbCBvcmRlcnM6ICR7ZXhjaGFuZ2VzSGVhbHRoLmZpbHRlciB7IGl0LmNhbk1ha2VBbmRDYW5jZWxTZWxsT3JkZXJzKCkgfS5tYXAgeyBpdC5leGNoYW5nZU5hbWUgfX0iKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJ1bGUuaXNTYXRpc2ZpZWQoMSwgdHJhZGluZ1JlY29yZCkpLmlzVHJ1ZSgpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -503,9 +505,9 @@
       </register>
     </registers>
     <search>
-      <last-search>toggle</last-search>
+      <last-search>True</last-search>
       <last-offset />
-      <last-pattern>toggle</last-pattern>
+      <last-pattern>True</last-pattern>
       <last-replace>BaseCurrency</last-replace>
       <last-substitute>EntryCurrency</last-substitute>
       <last-dir>1</last-dir>
@@ -513,7 +515,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cent</entry>
         <entry>Percen</entry>
         <entry>Max Ba</entry>
         <entry>Max coun</entry>
@@ -533,6 +534,7 @@
         <entry encoding="base64">XDxzdHJhdGVneVNwZWNpZmljUGFyYW1ldGVyc1w+</entry>
         <entry>val</entry>
         <entry>toggle</entry>
+        <entry>True</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bit-1-2-3/bittrex-1-2-3/g</entry>
