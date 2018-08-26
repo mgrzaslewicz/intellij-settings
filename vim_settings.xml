@@ -49,12 +49,12 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1533665820845">
         <mark key="[" line="91" column="49" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/SellWhenSecondCurrencyGrowsRuleTest.kt" timestamp="1535285235882">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/SellWhenSecondCurrencyGrowsRuleTest.kt" timestamp="1535285867161">
         <mark key="'" line="63" column="8" />
-        <mark key="[" line="63" column="57" />
-        <mark key="]" line="63" column="61" />
-        <mark key="." line="63" column="61" />
-        <mark key="^" line="63" column="61" />
+        <mark key="[" line="65" column="103" />
+        <mark key="]" line="65" column="101" />
+        <mark key="." line="65" column="101" />
+        <mark key="^" line="65" column="101" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.scss" timestamp="1526831629873">
         <mark key="[" line="2" column="1" />
@@ -471,34 +471,34 @@
         <text>True</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJ1bGUuaXNTYXRpc2ZpZWQoMSwgdHJhZGluZ1JlY29yZCkpLmlzVHJ1ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBydWxlLm9uVGlja2VyKG90aGVyQ3VycmVuY3lUaWNrZXJzWzJdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBydWxlLm9uVGlja2VyKG90aGVyQ3VycmVuY3lUaWNrZXJzWzJdKQogICAgICAgIGFzc2VydFRoYXQocnVsZS5pc1NhdGlzZmllZCgyLCB0cmFkaW5nUmVjb3JkKSkuaXNUcnVlKCkKICAgICAgICBhc3NlcnRUaGF0KHJ1bGUuaXNTYXRpc2ZpZWQoMiwgdHJhZGluZ1JlY29yZCkpLmlzRmFsc2UoKQoKICAgICAgICBydWxlLm9uVGlja2VyKG90aGVyQ3VycmVuY3lUaWNrZXJzWzRdKQogICAgICAgIGFzc2VydFRoYXQocnVsZS5pc1NhdGlzZmllZCg0LCB0cmFkaW5nUmVjb3JkKSkuaXNUcnVlKCkKICAgICAgICBhc3NlcnRUaGF0KHJ1bGUuaXNTYXRpc2ZpZWQoNCwgdHJhZGluZ1JlY29yZCkpLmlzRmFsc2UoKQoKICAgICAgICBydWxlLm9uVGlja2VyKG90aGVyQ3VycmVuY3lUaWNrZXJzWzddKQogICAgICAgIGFzc2VydFRoYXQocnVsZS5pc1NhdGlzZmllZCg0LCB0cmFkaW5nUmVjb3JkKSkuaXNUcnVlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1heFZhbHVlID0gRGVjaW1hbC52YWx1ZU9mKExvbmcuTUFYX1ZBTFVFKQo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1heFZhbHVlID0gRGVjaW1hbC52YWx1ZU9mKExvbmcuTUFYX1ZBTFVFKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgYW55UHJpY2VGcm9tTGlzdFNtYWxsZXIgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PQogICAgICAgIHJldHVybiBpZiAobGFzdFByaWNlV2hlblJ1bGVXYXNTYXRpc2ZpZWQgPT0gbWluVmFsdWUpIHsKICAgICAgICAgICAgaWYgKGFueVByaWNlRnJvbUxpc3RTbWFsbGVyKSBsYXN0UHJpY2VXaGVuUnVsZVdhc1NhdGlzZmllZCA9IGxhc3RUaWNrZXJQcmljZQogICAgICAgICAgICBhbnlQcmljZUZyb21MaXN0U21hbGxlcgogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHZhbCBzYXRpc2ZpZWQgPSBhbnlQcmljZUZyb21MaXN0U21hbGxlciAmJiBsYXN0VGlja2VyUHJpY2UgPiBsYXN0UHJpY2VXaGVuUnVsZVdhc1NhdGlzZmllZAogICAgICAgICAgICBpZiAoc2F0aXNmaWVkKSB7CiAgICAgICAgICAgICAgICBsYXN0UHJpY2VXaGVuUnVsZVdhc1NhdGlzZmllZCA9IGxhc3RUaWNrZXJQcmljZQogICAgICAgICAgICB9CiAgICAgICAgICAgIHNhdGlzZmllZAogICAgICAgIH0KICAgIH0K</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IHByaWNlc1RyaWdnZXJpbmdTYWxlLmFueSB7IGxhc3RUaWNrZXJQcmljZSA+IGl0IH0K</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAvLyBzZWxsIG9ubHkgd2hlbiBvdGhlciBjdXJyZW5jeSBwcmljZSBpcyBoaWdoZXIgdGhhbiBsYXN0IHNlbGwgYW5kIHByaWNlIGZyb20gdGhlIGxpc3QKICAgIG92ZXJyaWRlIGZ1biBpc1NhdGlzZmllZChpbmRleDogSW50LCB0cmFkaW5nUmVjb3JkOiBUcmFkaW5nUmVjb3JkKTogQm9vbGVhbiB7CiAgICAgICAgdHJhZGluZ1JlY29yZC5jdXJyZW50VHJhZGUuZ2V0RW50cmllcygpCiAgICAgICAgdmFsIG1pblByaWNlVG9TZWxsSW5kZXggPSBNYXRoLm1pbih0cmFkaW5nUmVjb3JkLmN1cnJlbnRUcmFkZS5nZXRFbnRyaWVzKCkuc2l6ZSwgcHJpY2VzVHJpZ2dlcmluZ1NhbGUuc2l6ZSkgLSAxCiAgICAgICAgdmFsIG1pblByaWNlVG9TZWxsID0gaWYgKG1pblByaWNlVG9TZWxsSW5kZXggPiAwKSBwcmljZXNUcmlnZ2VyaW5nU2FsZVttaW5QcmljZVRvU2VsbEluZGV4XSBlbHNlIG1heFZhbHVlCiAgICAgICAgcmV0dXJuIGxhc3RUaWNrZXJQcmljZSA+IG1pblByaWNlVG9TZWxsCiAgICAgICAgdmFsIGFueVByaWNlRnJvbUxpc3RTbWFsbGVyID0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHRvQmlnRGVjaW1hbDgK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5rbm93bS54Y2hhbmdlLmR0by5tYXJrZXRkYXRhLlRpY2tlcgo=</text>
+        <text encoding="base64">aW1wb3J0IHRvQmlnRGVjaW1hbDgK</text>
       </register>
       <register name=":" type="4">
         <text>%s/EntryCurrency/BaseCurrency/g</text>
