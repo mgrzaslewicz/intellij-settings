@@ -118,6 +118,9 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/sortable.column.component.ts" timestamp="1526129240970">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/sell-when-second-currency-grows-parameters/sell-when-second-currency-grows.component.ts" timestamp="1535489098240">
+        <mark key="[" line="37" column="15" />
+      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchanges.kt" timestamp="1533592439291">
         <mark key="[" line="31" column="78" />
         <mark key="]" line="30" column="67" />
@@ -370,6 +373,12 @@
         <mark key="[" line="19" column="33" />
       </file>
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/0.1-SNAPSHOT/autocoin-exchange-engine-0.1-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/AutocoinExchange.kt" timestamp="1535290436304" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/sell-when-second-currency-grows-parameters/sell-when-second-currency-grows-parameters.component.html" timestamp="1535489096417">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="32" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="13" column="32" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/buy-lower-and-lower-specific-parameters/buy-lower-and-lower-specific-parameters.component.ts" timestamp="1534678093764">
         <mark key="'" line="42" column="58" />
         <mark key="[" line="42" column="72" />
@@ -525,7 +534,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>(&quot;ESE.${strategyParameters.exchangeName?.substring(0, 4)}</text>
+        <text>onGrowToSellNextRelativePercent</text>
       </register>
       <register name="/" type="4">
         <text>51</text>
