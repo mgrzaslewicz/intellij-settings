@@ -28,6 +28,9 @@
         <mark key="^" line="147" column="8" />
         <mark key="." line="148" column="38" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/sell-when-second-currency-grows-parameters/sell-when-second-currency-grows-parameters.component.ts" timestamp="1535816617800">
+        <mark key="[" line="3" column="15" />
+      </file>
       <file name="E:/prj/XChange/xchange-binance/src/main/java/org/knowm/xchange/binance/BinanceExchange.java" timestamp="1531253959858">
         <mark key="[" line="105" column="27" />
         <mark key="]" line="105" column="27" />
@@ -77,13 +80,6 @@
         <mark key="]" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" timestamp="1535577830317">
-        <mark key="'" line="70" column="8" />
-        <mark key="[" line="120" column="22" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
-        <mark key="^" line="160" column="12" />
-      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyLowerAndLowerStrategyProvider.kt" timestamp="1534157812242">
         <mark key="[" line="31" column="142" />
         <mark key="]" line="31" column="150" />
@@ -93,6 +89,9 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1535315152821">
         <mark key="'" line="34" column="10" />
         <mark key="[" line="91" column="49" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.module.ts" timestamp="1535816517261">
+        <mark key="[" line="30" column="54" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/SellWhenSecondCurrencyGrowsRuleTest.kt" timestamp="1535288073326">
         <mark key="'" line="63" column="8" />
@@ -158,11 +157,8 @@
         <mark key="]" line="35" column="75" />
         <mark key="." line="35" column="75" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" timestamp="1535576432189">
-        <mark key="'" line="122" column="19" />
-        <mark key="[" line="125" column="14" />
-        <mark key="]" line="125" column="14" />
-        <mark key="." line="125" column="14" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" timestamp="1535816640583">
+        <mark key="'" line="42" column="58" />
         <mark key="^" line="46" column="35" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/sell-when-second-currency-grows-parameters/sell-when-second-currency-grows.component.ts" timestamp="1535576551079">
@@ -214,7 +210,7 @@
         <mark key="." line="93" column="133" />
         <mark key="^" line="148" column="247" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535315500107">
+      <file name="/Dummy.txt" timestamp="1535817300127">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="^" line="0" column="35" />
@@ -283,7 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/CurrencyPairMetadataApplier.kt" />
       <jump line="13" column="82" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/CurrencyPairMetadataApplier.kt" />
       <jump line="14" column="101" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/CurrencyPairMetadataApplier.kt" />
       <jump line="109" column="79" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
@@ -383,6 +378,7 @@
       <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
       <jump line="69" column="8" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
       <jump line="70" column="8" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
+      <jump line="42" column="58" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -392,7 +388,7 @@
         <text>HigherAndHigher</text>
       </register>
       <register name="/" type="4">
-        <text>this.strategies</text>
+        <text>when</text>
       </register>
       <register name="0" type="4">
         <text>SellWhenSecondCurrencyGrowsComponent</text>
@@ -429,9 +425,9 @@
       </register>
     </registers>
     <search>
-      <last-search>this.strategies</last-search>
+      <last-search>when</last-search>
       <last-offset />
-      <last-pattern>this.strategies</last-pattern>
+      <last-pattern>when</last-pattern>
       <last-replace>BaseCurrency</last-replace>
       <last-substitute>EntryCurrency</last-substitute>
       <last-dir>1</last-dir>
@@ -439,7 +435,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Max coun</entry>
         <entry>==</entry>
         <entry>TRX</entry>
         <entry>stepSi</entry>
@@ -459,6 +454,7 @@
         <entry>True</entry>
         <entry>51</entry>
         <entry>this.strategies</entry>
+        <entry>when</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bit-1-2-3/bittrex-1-2-3/g</entry>
