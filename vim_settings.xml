@@ -136,9 +136,9 @@
         <mark key="^" line="31" column="114" />
         <mark key="." line="31" column="114" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/services/feature.toogle.service.ts" timestamp="1535890841475">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="63" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/feature.toogle.service.ts" timestamp="1535891889384">
+        <mark key="[" line="7" column="65" />
+        <mark key="]" line="7" column="99" />
         <mark key="." line="7" column="63" />
         <mark key="^" line="7" column="63" />
       </file>
@@ -191,8 +191,8 @@
         <mark key="]" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/StrategiesController.kt" timestamp="1535889631321">
-        <mark key="'" line="56" column="12" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/StrategiesController.kt" timestamp="1535892114942">
+        <mark key="'" line="0" column="0" />
         <mark key="]" line="157" column="18" />
         <mark key="." line="157" column="18" />
         <mark key="^" line="157" column="18" />
@@ -291,8 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="101" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/CurrencyPairMetadataApplier.kt" />
-      <jump line="109" column="79" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="171" column="15" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
       <jump line="159" column="141" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
       <jump line="146" column="51" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
@@ -391,6 +389,8 @@
       <jump line="3" column="19" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/sell-when-second-currency-grows-parameters/sell-when-second-currency-grows-parameters.component.ts" />
       <jump line="103" column="27" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
       <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
+      <jump line="147" column="27" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/StrategiesController.kt" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/StrategiesController.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -400,10 +400,10 @@
         <text>CREATE_</text>
       </register>
       <register name="/" type="4">
-        <text>auto</text>
+        <text>Has</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ID0gZW1wdHlMaXN0KCk=</text>
+        <text>strategySellWhenSecondCurrencyGrows</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
@@ -437,9 +437,9 @@
       </register>
     </registers>
     <search>
-      <last-search>auto</last-search>
+      <last-search>Has</last-search>
       <last-offset />
-      <last-pattern>auto</last-pattern>
+      <last-pattern>Has</last-pattern>
       <last-replace>Second</last-replace>
       <last-substitute>Other</last-substitute>
       <last-dir>1</last-dir>
@@ -447,8 +447,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stepSi</entry>
-        <entry>return</entry>
         <entry>50</entry>
         <entry>Dou</entry>
         <entry>?</entry>
@@ -467,6 +465,8 @@
         <entry>when</entry>
         <entry>Other</entry>
         <entry>auto</entry>
+        <entry>has set</entry>
+        <entry>Has</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bin-1-2-3/binance-1-2-3/g</entry>
