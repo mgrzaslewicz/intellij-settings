@@ -61,7 +61,8 @@
         <mark key="]" line="55" column="67" />
         <mark key="." line="55" column="67" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/buy-now-parameters/buy-now-parameters.component.ts" timestamp="1536138983043">
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/buy-now-parameters/buy-now-parameters.component.ts" timestamp="1536141375748">
+        <mark key="'" line="26" column="1" />
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="19" />
         <mark key="^" line="4" column="22" />
@@ -93,8 +94,11 @@
         <mark key="." line="42" column="37" />
         <mark key="^" line="42" column="37" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" timestamp="1536134769564">
-        <mark key="^" line="179" column="35" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" timestamp="1536141231671">
+        <mark key="[" line="60" column="31" />
+        <mark key="]" line="60" column="33" />
+        <mark key="^" line="60" column="33" />
+        <mark key="." line="60" column="33" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyLowerAndLowerStrategyProvider.kt" timestamp="1534157812242">
         <mark key="[" line="31" column="142" />
@@ -102,8 +106,11 @@
         <mark key="." line="31" column="150" />
         <mark key="^" line="31" column="150" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.module.ts" timestamp="1535816517261">
-        <mark key="[" line="30" column="54" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.module.ts" timestamp="1536141048664">
+        <mark key="[" line="34" column="12" />
+        <mark key="]" line="35" column="11" />
+        <mark key="^" line="35" column="11" />
+        <mark key="." line="35" column="11" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ta/rule/SellWhenSecondCurrencyGrowsRuleTest.kt" timestamp="1535288073326">
         <mark key="'" line="63" column="8" />
@@ -117,12 +124,6 @@
         <mark key="]" line="76" column="66" />
         <mark key="." line="76" column="66" />
         <mark key="^" line="76" column="66" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE-sources.jar!/org/springframework/http/HttpStatus.java" timestamp="1535910284148">
-        <mark key="'" line="33" column="12" />
-      </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsService.kt" timestamp="1535908823440">
-        <mark key="'" line="83" column="20" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/api/StrategiesControllerTest.kt" timestamp="1536135470041">
         <mark key="^" line="135" column="0" />
@@ -279,7 +280,7 @@
         <mark key="." line="93" column="133" />
         <mark key="^" line="148" column="247" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536139555259">
+      <file name="/Dummy.txt" timestamp="1536141243732">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="^" line="0" column="35" />
@@ -302,6 +303,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/sell-when-second-currency-grows-parameters/sell-when-second-currency-grows-parameters.component.html" timestamp="1535818574032">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="16" column="34" />
+        <mark key="^" line="16" column="34" />
+        <mark key="." line="16" column="34" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/buy-lower-and-lower-specific-parameters/buy-lower-and-lower-specific-parameters.component.ts" timestamp="1534678093764">
         <mark key="'" line="42" column="58" />
@@ -334,6 +341,12 @@
         <mark key="^" line="34" column="155" />
         <mark key="." line="34" column="155" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWhenSecondCurrencyGrowsStrategyProvider.kt" timestamp="1535819263614">
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="23" column="45" />
+        <mark key="^" line="23" column="44" />
+        <mark key="." line="23" column="45" />
+      </file>
       <file name="/fragment.java" timestamp="1536138521079">
         <mark key="[" line="0" column="0" />
       </file>
@@ -344,8 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="202" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
-      <jump line="406" column="156" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
       <jump line="190" column="165" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
       <jump line="188" column="4" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
       <jump line="31" column="35" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchangeFactory.kt" />
@@ -444,16 +455,18 @@
       <jump line="16" column="55" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyProvidersConfig.kt" />
       <jump line="9" column="32" filename="E:/prj/autocoin-trader-frontend/src/app/services/feature.toogle.service.ts" />
       <jump line="41" column="20" filename="E:/prj/autocoin-trader-frontend/src/app/services/automation/strategies.service.ts" />
+      <jump line="3" column="38" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/buy-now-parameters/buy-now-parameters.component.ts" />
+      <jump line="26" column="1" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/buy-now-parameters/buy-now-parameters.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>HigherAndHigher</text>
+        <text>Sell</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>sell</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ewogICJyZXN1bHQiOiB7CiAgICAiY2xpZW50SWQiOiAiY2xpZW50LTIiLAogICAgImV4Y2hhbmdlTmFtZSI6ICJiaW5hbmNlIiwKICAgICJzdHJhdGVneU5hbWUiOiAiQnV5TG93ZXJBbmRMb3dlciIsCiAgICAiYmFzZUN1cnJlbmN5Q29kZSI6ICJYUlAiLAogICAgImNvdW50ZXJDdXJyZW5jeUNvZGUiOiAiQlRDIiwKICAgICJjb3VudGVyQ3VycmVuY3lGcmFjdGlvbkZvckJ1eWluZyI6IDAuMiwKICAgICJtYXhDb3VudGVyQ3VycmVuY3lQZXJjZW50Rm9yQnV5aW5nIjogMjUuMCwKICAgICJzdHJhdGVneVNwZWNpZmljUGFyYW1ldGVycyI6IHsKICAgICAgIm1heEJ1eVByaWNlIjogMTUuMCwKICAgICAgImRyb3BUb0J1eU5leHRSZWxhdGl2ZVBlcmNlbnQiOiAwLjUKICAgIH0KICB9LAogICJpbmZvTWVzc2FnZUxpc3QiOiBbXSwKICAid2FybmluZ01lc3NhZ2VMaXN0IjogW10sCiAgImVycm9yTWVzc2FnZUxpc3QiOiBbXQp9Cg==</text>
@@ -490,9 +503,9 @@
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>sell</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>sell</last-pattern>
       <last-replace>Second</last-replace>
       <last-substitute>Other</last-substitute>
       <last-dir>1</last-dir>
@@ -500,7 +513,6 @@
     </search>
     <history>
       <history-search>
-        <entry>selectedCients</entry>
         <entry>selected</entry>
         <entry>drop</entry>
         <entry encoding="base64">XDxidXlMb3dlckFuZExvd2VyU3BlY2lmaWNQYXJhbWV0ZXJzQ29tcG9uZW50XD4=</entry>
@@ -520,6 +532,7 @@
         <entry>sellNo</entry>
         <entry>Se</entry>
         <entry>'</entry>
+        <entry>sell</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bin-1-2-3/binance-1-2-3/g</entry>
