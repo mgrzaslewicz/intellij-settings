@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" timestamp="1536148057635">
-        <mark key="'" line="133" column="0" />
-        <mark key="[" line="59" column="40" />
-        <mark key="]" line="139" column="11" />
-        <mark key="^" line="131" column="58" />
-        <mark key="." line="139" column="11" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" timestamp="1536150156016">
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="72" column="12" />
+        <mark key="]" line="72" column="12" />
+        <mark key="^" line="72" column="44" />
+        <mark key="." line="72" column="12" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/RSI2StrategyProvider.kt" timestamp="1534157705139">
         <mark key="[" line="125" column="116" />
@@ -199,8 +199,12 @@
         <mark key="^" line="92" column="53" />
         <mark key="." line="92" column="53" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" timestamp="1536148153553">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" timestamp="1536149908540">
+        <mark key="'" line="12" column="6" />
         <mark key="[" line="10" column="6" />
+        <mark key="]" line="6" column="29" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="6" column="29" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/StrategiesController.kt" timestamp="1536146881521">
         <mark key="'" line="0" column="0" />
@@ -236,14 +240,14 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/StrategyProvider.kt" timestamp="1534783769126">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" timestamp="1536148053490">
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/TrailingStopStrategyTest.kt" timestamp="1536149903230">
         <mark key="'" line="27" column="18" />
-        <mark key="[" line="62" column="33" />
-        <mark key="]" line="95" column="133" />
-        <mark key="." line="95" column="133" />
-        <mark key="^" line="150" column="247" />
+        <mark key="[" line="65" column="15" />
+        <mark key="]" line="65" column="15" />
+        <mark key="." line="65" column="15" />
+        <mark key="^" line="65" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536147527830">
+      <file name="/Dummy.txt" timestamp="1536150230992">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="^" line="0" column="35" />
@@ -308,11 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="267" column="67" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
-      <jump line="11" column="22" filename="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-core/4.3.7/xchange-core-4.3.7-sources.jar!/org/knowm/xchange/service/BaseParamsDigest.java" />
-      <jump line="200" column="520" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" />
-      <jump line="5" column="9" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
-      <jump line="10" column="9" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
       <jump line="19" column="9" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
       <jump line="7" column="9" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
       <jump line="21" column="12" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
@@ -408,16 +407,21 @@
       <jump line="106" column="32" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
       <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
       <jump line="61" column="93" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
+      <jump line="6" column="29" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
+      <jump line="10" column="6" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
+      <jump line="16" column="57" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
+      <jump line="12" column="6" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>0.5</text>
+        <text>counter</text>
       </register>
       <register name="/" type="4">
-        <text>counter cu</text>
+        <text>maxBaseCurrencyPercentForSelling</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZm91bmQgc3RyYXRlZ3k6Jyk7Cg==</text>
@@ -454,9 +458,9 @@
       </register>
     </registers>
     <search>
-      <last-search>counter cu</last-search>
+      <last-search>maxBaseCurrencyPercentForSelling</last-search>
       <last-offset />
-      <last-pattern>counter cu</last-pattern>
+      <last-pattern>maxBaseCurrencyPercentForSelling</last-pattern>
       <last-replace>Second</last-replace>
       <last-substitute>Other</last-substitute>
       <last-dir>1</last-dir>
@@ -464,8 +468,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toggle</entry>
-        <entry>True</entry>
         <entry>51</entry>
         <entry>this.strategies</entry>
         <entry>when</entry>
@@ -484,6 +486,8 @@
         <entry>Bu</entry>
         <entry>Counter curr</entry>
         <entry>counter cu</entry>
+        <entry>maxCounterCurrencyPercentForBuying</entry>
+        <entry>maxBaseCurrencyPercentForSelling</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bin-1-2-3/binance-1-2-3/g</entry>
