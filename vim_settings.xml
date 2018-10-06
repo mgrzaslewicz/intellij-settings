@@ -123,7 +123,7 @@
         <mark key="." line="76" column="66" />
         <mark key="^" line="76" column="66" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.html" timestamp="1538812232783">
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.html" timestamp="1538813207229">
         <mark key="[" line="9" column="39" />
         <mark key="]" line="9" column="48" />
         <mark key="." line="9" column="48" />
@@ -178,8 +178,12 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.ts" timestamp="1538761083159">
-        <mark key="[" line="8" column="0" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.ts" timestamp="1538813161258">
+        <mark key="'" line="22" column="8" />
+        <mark key="[" line="8" column="50" />
+        <mark key="]" line="8" column="50" />
+        <mark key="^" line="8" column="49" />
+        <mark key="." line="8" column="50" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/sell-now-parameters/sell-now-parameters.component.ts" timestamp="1536136571765">
         <mark key="[" line="5" column="24" />
@@ -352,7 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="9" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
       <jump line="7" column="9" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
       <jump line="21" column="12" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
       <jump line="150" column="20" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
@@ -452,19 +455,20 @@
       <jump line="16" column="57" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
       <jump line="12" column="6" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
+      <jump line="22" column="8" filename="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ID0gZmFsc2U=</text>
       </register>
       <register name="/" type="4">
-        <text>maxBaseCurrencyPercentForSelling</text>
+        <text>di</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2ICpuZ0lmPSJpc0F0TG9naW5BbmRQYXNzd29yZFN0ZXAoKSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnR3b0ZhY3RvckF1dGhlbnRpY2F0aW9uU3RhdGUgPSAnZGlzYWJsZWQnOwo=</text>
       </register>
       <register name="1" type="4">
         <text>[
@@ -503,9 +507,9 @@
       </register>
     </registers>
     <search>
-      <last-search>maxBaseCurrencyPercentForSelling</last-search>
+      <last-search>di</last-search>
       <last-offset />
-      <last-pattern>maxBaseCurrencyPercentForSelling</last-pattern>
+      <last-pattern>di</last-pattern>
       <last-replace>Second</last-replace>
       <last-substitute>Other</last-substitute>
       <last-dir>1</last-dir>
@@ -513,7 +517,6 @@
     </search>
     <history>
       <history-search>
-        <entry>51</entry>
         <entry>this.strategies</entry>
         <entry>when</entry>
         <entry>Other</entry>
@@ -533,6 +536,7 @@
         <entry>counter cu</entry>
         <entry>maxCounterCurrencyPercentForBuying</entry>
         <entry>maxBaseCurrencyPercentForSelling</entry>
+        <entry>di</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bin-1-2-3/binance-1-2-3/g</entry>
