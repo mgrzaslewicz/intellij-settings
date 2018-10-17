@@ -16,10 +16,11 @@
         <mark key="^" line="72" column="44" />
         <mark key="." line="72" column="12" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/pom.xml" timestamp="1539806945632">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
+      <file name="E:/prj/autocoin-auth-service/pom.xml" timestamp="1539810602169">
+        <mark key="[" line="55" column="21" />
+        <mark key="]" line="59" column="22" />
+        <mark key="." line="59" column="22" />
+        <mark key="^" line="59" column="22" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/RSI2StrategyProvider.kt" timestamp="1534157705139">
         <mark key="[" line="125" column="116" />
@@ -88,6 +89,9 @@
         <mark key="]" line="8" column="45" />
         <mark key="^" line="8" column="45" />
         <mark key="." line="8" column="45" />
+      </file>
+      <file name="E:/prj/autocoin-auth-service/README.md" timestamp="1539810217103">
+        <mark key="[" line="0" column="23" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/automation/strategies.service.ts" timestamp="1538750555044">
         <mark key="'" line="43" column="39" />
@@ -229,6 +233,7 @@
         <mark key="^" line="92" column="53" />
         <mark key="." line="92" column="53" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/pom.xml" timestamp="1539810891051" />
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" timestamp="1536149908540">
         <mark key="'" line="12" column="6" />
         <mark key="[" line="10" column="6" />
@@ -276,7 +281,6 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/sell-higher-and-higher-specific-parameters/sell-higher-and-higher-specific-parameters.component.ts" timestamp="1534678099615">
         <mark key="[" line="38" column="28" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication-settings/two-factor-authentication-settings.component.ts" timestamp="1539629343607" />
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyParametersMergerTest.kt" timestamp="1534679811967">
         <mark key="[" line="14" column="13" />
         <mark key="]" line="55" column="52" />
@@ -285,6 +289,11 @@
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/StrategyProvider.kt" timestamp="1534783769126">
         <mark key="[" line="4" column="0" />
+      </file>
+      <file name="E:/prj/autocoin-auth-service/src/test/resources/application-test.yml" timestamp="1539810914087">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/login/login.component.html" timestamp="1538753792587">
         <mark key="[" line="17" column="30" />
@@ -373,7 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="9" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
       <jump line="21" column="12" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
       <jump line="150" column="20" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
       <jump line="63" column="24" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorMaxExitCurrencyForBuyingIntegrationTest.kt" />
@@ -473,6 +481,7 @@
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
       <jump line="12" column="6" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
       <jump line="22" column="8" filename="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.ts" />
+      <jump line="15" column="37" filename="E:/prj/autocoin-auth-service/src/test/resources/application-test.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -487,7 +496,10 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnR3b0ZhY3RvckF1dGhlbnRpY2F0aW9uU3RhdGUgPSAnZGlzYWJsZWQnOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Y2xpZW50QXBpVXJsOiBodHRwczovL2NsaWVudHMtYXBpLmF1dG9jb2luLXRyYWRlci5jb20KaWRlbnRpdHlTZXJ2ZXJVcmw6IGh0dHBzOi8vdXNlcnMtYXBpLmF1dG9jb2luLXRyYWRlci5jb20vaWRzCgoKaWRlbnRpdHktc2VydmVyOiAjaHR0cHM6Ly91c2Vycy1hcGkuYXV0b2NvaW4tdHJhZGVyLmNvbS9pZHMvLndlbGwta25vd24vb3BlbmlkLWNvbmZpZ3VyYXRpb24KICBjbGllbnRJZDogQVBJCiAgY2xpZW50U2VjcmV0OiBrZGllY3NkZmFvd2VpcmplZmxrbmxza2RuZm9hd2llcm9qCiAgYWNjZXNzVG9rZW5Vcmk6ICR7aWRlbnRpdHlTZXJ2ZXJVcmx9L2Nvbm5lY3QvaW50cm9zcGVjdAogIGF1dGhvcml6YXRpb25Vcmk6ICR7aWRlbnRpdHlTZXJ2ZXJVcmx9L2Nvbm5lY3QvYXV0aG9yaXplCiAgdG9rZW5OYW1lOiBvYXV0aF90b2tlbgogIHNjb3BlOgogICAgLSBBUEkKCnNwcmluZzoKICBkYXRhc291cmNlOgogICAgdXJsOiBqZGJjOmhzcWxkYjptZW06ZGIvYXV0b2NvaW5kYgoKZmVhdHVyZXMubWFwLm1ha2VSZWFsT3JkZXI6IHRydWUKCmF1dG9jb2luLXN1YnNjcmlwdGlvbi1rZXk6IHNhbXBsZS1hdXRvY29pbi1rZXkKCmZha2VFeGNoYW5nZVJhbmRvbUZhaWx1cmU6IHRydWUKCmV4Y2hhbmdlLWhlYWx0aC1rZXlzLWxvY2F0aW9uOiBjbGFzc3BhdGg6L3NlY3VyZS1mb2xkZXIvYXV0b2NvaW4tc3RyYXRlZ3ktZXhlY3V0b3IvZXhjaGFuZ2UtaGVhbHRoLWtleXMucHJvcGVydGllcwoKZXhjaGFuZ2U6CiAgYWN0aXZlOgogICAgLSBiaXR0cmV4Cgpjc3ZSZXBvc2l0b3J5OgogIGZvbGRlcjogdGFyZ2V0LwogIHNob3VsZFNhdmU6IHRydWUKCnRpY2tlci1zZXJ2aWNlLmVuYWJsZWQ6IGZhbHNlCnJlbW90ZS1sb2ctc2VydmljZS5lbmFibGVkOiBmYWxzZQoKI2xvZ2dpbmcubGV2ZWwub3JnLmhpYmVybmF0ZS5TUUw6IERFQlVHCiNsb2dnaW5nLmxldmVsLm9yZy5oaWJlcm5hdGUuYXV0b21hdGUucHJvZml0LnN0cmF0ZWd5Lm1hbmFnZW1lbnQucGFyYW1ldGVycy5kZXNjcmlwdG9yLnNxbC5CYXNpY0JpbmRlcjogVFJBQ0UKI3NwcmluZy5qcGEucHJvcGVydGllcy5oaWJlcm5hdGUuYXV0b21hdGUucHJvZml0LnN0cmF0ZWd5Lm1hbmFnZW1lbnQucGFyYW1ldGVyczogdHJhY2UKbG9nZ2luZy5sZXZlbC5vcmcuc3ByaW5nZnJhbWV3b3JrLndlYjogZGVidWcK</text>
+      </register>
+      <register name="2" type="4">
         <text>[
             FEATURE_CREATE_STRATEGY,
             FEATURE_STRATEGY_SELL_WHEN_SECOND_CURRENCY_GROWS,
@@ -495,29 +507,26 @@
             FEATURE_STRATEGY_BUY_NOW
         ];</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDogewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDogewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBGRUFUVVJFX1NUUkFURUdZX0JVWV9OT1c6IHsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBGRUFUVVJFX1NUUkFURUdZX0JVWV9OT1c6IHsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Other/Second/g</text>
