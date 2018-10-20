@@ -253,6 +253,13 @@
         <mark key="^" line="34" column="155" />
         <mark key="." line="34" column="155" />
       </file>
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/ResourceServerConfig.kt" timestamp="1540028203015">
+        <mark key="'" line="41" column="91" />
+        <mark key="[" line="24" column="69" />
+        <mark key="]" line="24" column="69" />
+        <mark key="." line="24" column="69" />
+        <mark key="^" line="24" column="68" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWhenSecondCurrencyGrowsStrategyProvider.kt" timestamp="1535819263614">
         <mark key="[" line="14" column="9" />
         <mark key="]" line="23" column="45" />
@@ -264,8 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="12" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
-      <jump line="150" column="20" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
       <jump line="63" column="24" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorMaxExitCurrencyForBuyingIntegrationTest.kt" />
       <jump line="108" column="8" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorMaxExitCurrencyForBuyingIntegrationTest.kt" />
       <jump line="66" column="46" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" />
@@ -364,16 +369,18 @@
       <jump line="12" column="6" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
       <jump line="22" column="8" filename="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.ts" />
       <jump line="15" column="37" filename="E:/prj/autocoin-auth-service/src/test/resources/application-test.yml" />
+      <jump line="40" column="47" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/ResourceServerConfig.kt" />
+      <jump line="42" column="91" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/ResourceServerConfig.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>5.4</text>
+        <text>? = null</text>
       </register>
       <register name="/" type="4">
-        <text>di</text>
+        <text>on</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmJlYW5zLmZhY3RvcnkuYW5ub3RhdGlvbi5BdXRvd2lyZWQ7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmNvbnRleHQuYW5ub3RhdGlvbi5CZWFuOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5jb250ZXh0LmFubm90YXRpb24uQ29uZmlndXJhdGlvbjsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuYXV0aGVudGljYXRpb24uQXV0aGVudGljYXRpb25NYW5hZ2VyOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5zZWN1cml0eS5jcnlwdG8ucGFzc3dvcmQuUGFzc3dvcmRFbmNvZGVyOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5zZWN1cml0eS5jcnlwdG8uYmNyeXB0LkJDcnlwdFBhc3N3b3JkRW5jb2RlcjsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuY29uZmlnLmFubm90YXRpb24uYXV0aGVudGljYXRpb24uYnVpbGRlcnMuQXV0aGVudGljYXRpb25NYW5hZ2VyQnVpbGRlcjsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuY29uZmlnLmFubm90YXRpb24ubWV0aG9kLmNvbmZpZ3VyYXRpb24uRW5hYmxlR2xvYmFsTWV0aG9kU2VjdXJpdHk7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnNlY3VyaXR5LmNvbmZpZy5hbm5vdGF0aW9uLndlYi5idWlsZGVycy5IdHRwU2VjdXJpdHk7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnNlY3VyaXR5LmNvbmZpZy5hbm5vdGF0aW9uLndlYi5idWlsZGVycy5XZWJTZWN1cml0eTsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuY29uZmlnLmFubm90YXRpb24ud2ViLmNvbmZpZ3VyYXRpb24uRW5hYmxlV2ViU2VjdXJpdHk7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnNlY3VyaXR5LmNvbmZpZy5hbm5vdGF0aW9uLndlYi5jb25maWd1cmF0aW9uLldlYlNlY3VyaXR5Q29uZmlndXJlckFkYXB0ZXI7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnNlY3VyaXR5Lm9hdXRoMi5jb25maWcuYW5ub3RhdGlvbi53ZWIuY29uZmlndXJhdGlvbi5FbmFibGVSZXNvdXJjZVNlcnZlcjsKCgpARW5hYmxlUmVzb3VyY2VTZXJ2ZXIKQENvbmZpZ3VyYXRpb24KQEVuYWJsZVdlYlNlY3VyaXR5CkBFbmFibGVHbG9iYWxNZXRob2RTZWN1cml0eShwcmVQb3N0RW5hYmxlZCA9IHRydWUpCnB1YmxpYyBjbGFzcyBSZXNvdXJjZVNlcnZlckNvbmZpZyBleHRlbmRzIFdlYlNlY3VyaXR5Q29uZmlndXJlckFkYXB0ZXIgewoKCUBBdXRvd2lyZWQKCUN1c3RvbURldGFpbHNTZXJ2aWNlIGN1c3RvbURldGFpbHNTZXJ2aWNlOwoJCgkKCUBCZWFuCglwdWJsaWMgUGFzc3dvcmRFbmNvZGVyIGVuY29kZXIoKSB7CgkJcmV0dXJuIG5ldyBCQ3J5cHRQYXNzd29yZEVuY29kZXIoKTsKCX0KCQoJCglAQmVhbihuYW1lID0gImF1dGhlbnRpY2F0aW9uTWFuYWdlciIpCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBBdXRoZW50aWNhdGlvbk1hbmFnZXIgYXV0aGVudGljYXRpb25NYW5hZ2VyQmVhbigpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIHJldHVybiBzdXBlci5hdXRoZW50aWNhdGlvbk1hbmFnZXJCZWFuKCk7CiAgICB9CgoJQE92ZXJyaWRlCgkgIHB1YmxpYyB2b2lkIGNvbmZpZ3VyZShXZWJTZWN1cml0eSB3ZWIpIHRocm93cyBFeGNlcHRpb24gewoJICAgIHdlYi5pZ25vcmluZygpLmFudE1hdGNoZXJzKCIvd2ViamFycy8qKiIpOwoJICAgIHdlYi5pZ25vcmluZygpLmFudE1hdGNoZXJzKCIvY3NzLyoqIiwiL2ZvbnRzLyoqIiwiL2xpYnMvKioiKTsKCSAgfQoJICAKCSAgQE92ZXJyaWRlCgkgIHByb3RlY3RlZCB2b2lkIGNvbmZpZ3VyZShIdHRwU2VjdXJpdHkgaHR0cCkgdGhyb3dzIEV4Y2VwdGlvbiB7IC8vIEBmb3JtYXR0ZXI6b2ZmCgkgICAgICBodHRwLnJlcXVlc3RNYXRjaGVycygpCgkgICAgICAgICAgLmFudE1hdGNoZXJzKCIvbG9naW4iLCAiL29hdXRoL2F1dGhvcml6ZSIsICIvc2VjdXJlL3R3b19mYWN0b3JfYXV0aGVudGljYXRpb24iLCIvZXhpdCIsICIvcmVzb3VyY2VzLyoqIikKCSAgICAgICAgICAuYW5kKCkKCSAgICAgICAgICAuYXV0aG9yaXplUmVxdWVzdHMoKQoJICAgICAgICAgIC5hbnlSZXF1ZXN0KCkKCSAgICAgICAgICAuYXV0aGVudGljYXRlZCgpCgkgICAgICAgICAgLmFuZCgpCgkgICAgICAgICAgLmZvcm1Mb2dpbigpLmxvZ2luUGFnZSgiL2xvZ2luIikKCSAgICAgICAgICAucGVybWl0QWxsKCk7CgkgIH0gLy8gQGZvcm1hdHRlcjpvbgoJCgoKICAgIEBPdmVycmlkZQogICAgQEF1dG93aXJlZCAvLyA8LS0gVGhpcyBpcyBjcnVjaWFsIG90aGVyd2lzZSBTcHJpbmcgQm9vdCBjcmVhdGVzIGl0cyBvd24KICAgIHByb3RlY3RlZCB2b2lkIGNvbmZpZ3VyZShBdXRoZW50aWNhdGlvbk1hbmFnZXJCdWlsZGVyIGF1dGgpIHRocm93cyBFeGNlcHRpb24gewoKLy8gICAgICAgIGF1dGgvLy5wYXJlbnRBdXRoZW50aWNhdGlvbk1hbmFnZXIoYXV0aGVudGljYXRpb25NYW5hZ2VyKQovLyAgICAgICAgICAgICAgICAuaW5NZW1vcnlBdXRoZW50aWNhdGlvbigpCi8vICAgICAgICAgICAgICAgIC53aXRoVXNlcigiZGVtbyIpCi8vICAgICAgICAgICAgICAgIC5wYXNzd29yZCgiZGVtbyIpCi8vICAgICAgICAgICAgICAgIC5yb2xlcygiVVNFUiIpOwogICAgCQogICAgCWF1dGgudXNlckRldGFpbHNTZXJ2aWNlKGN1c3RvbURldGFpbHNTZXJ2aWNlKS5wYXNzd29yZEVuY29kZXIoZW5jb2RlcigpKTsKICAgIH0KfQo=</text>
@@ -415,9 +422,9 @@
       </register>
     </registers>
     <search>
-      <last-search>di</last-search>
+      <last-search>on</last-search>
       <last-offset />
-      <last-pattern>di</last-pattern>
+      <last-pattern>on</last-pattern>
       <last-replace>Second</last-replace>
       <last-substitute>Other</last-substitute>
       <last-dir>1</last-dir>
@@ -425,7 +432,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this.strategies</entry>
         <entry>when</entry>
         <entry>Other</entry>
         <entry>auto</entry>
@@ -445,6 +451,7 @@
         <entry>maxCounterCurrencyPercentForBuying</entry>
         <entry>maxBaseCurrencyPercentForSelling</entry>
         <entry>di</entry>
+        <entry>on</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bin-1-2-3/binance-1-2-3/g</entry>
