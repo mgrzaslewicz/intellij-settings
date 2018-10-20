@@ -9,11 +9,16 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/settings/settings.module.ts" timestamp="1538757034958">
         <mark key="[" line="18" column="65" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/pom.xml" timestamp="1539810602169">
-        <mark key="[" line="55" column="21" />
-        <mark key="]" line="59" column="22" />
-        <mark key="." line="59" column="22" />
-        <mark key="^" line="59" column="22" />
+      <file name="E:/prj/autocoin-auth-service/pom.xml" timestamp="1540026213376">
+        <mark key="[" line="44" column="21" />
+        <mark key="]" line="64" column="22" />
+        <mark key="." line="64" column="22" />
+        <mark key="^" line="64" column="22" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1540026222561">
+        <mark key="[" line="46" column="27" />
+        <mark key="]" line="46" column="27" />
+        <mark key="." line="46" column="27" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/RSI2StrategyProvider.kt" timestamp="1534157705139">
         <mark key="[" line="125" column="116" />
@@ -33,7 +38,11 @@
       <file name="/autocoin_client_log.UserPassword [autocoin_client_log@138.201.226.51]" timestamp="1538757837461">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/oauth2-2FA/spring-security-auth-server/src/main/java/com/rr/security/authserver/config/CustomOAuth2RequestFactory.java" timestamp="1539890205020" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/StrategyExecutionTest.kt" timestamp="1540026108121" />
+      <file name="E:/prj/oauth2-2FA/spring-security-auth-server/src/main/java/com/rr/security/authserver/config/ResourceServerConfig.java" timestamp="1540026627240">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="72" column="0" />
+      </file>
       <file name="E:/prj/oauth2-2FA/spring-security-auth-server/src/main/java/com/rr/security/authserver/config/AuthorizationServerConfig.java" timestamp="1539891411887">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="71" column="73" />
@@ -104,7 +113,6 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/config/annotation/configurers/ClientDetailsServiceConfigurer.java" timestamp="1539888971356" />
       <file name="E:/prj/oauth2-2FA/spring-security-auth-server/src/main/java/com/rr/security/authserver/config/TwoFactorAuthenticationFilter.java" timestamp="1539890319855">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="119" column="1" />
@@ -121,13 +129,19 @@
         <mark key="." line="7" column="49" />
         <mark key="^" line="7" column="49" />
       </file>
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/LogoutController.kt" timestamp="1540026050468">
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/auth.service.ts" timestamp="1540026045479" />
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" timestamp="1536147843337">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="92" column="53" />
         <mark key="^" line="92" column="53" />
         <mark key="." line="92" column="53" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/pom.xml" timestamp="1539810891051" />
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/pom.xml" timestamp="1540026098114" />
       <file name="E:/prj/oauth2-2FA/spring-security-auth-server/src/main/java/com/rr/security/authserver/controller/TwoFactorAuthenticationController.java" timestamp="1539890640102">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="97" column="0" />
@@ -177,17 +191,13 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/StrategyProvider.kt" timestamp="1534783769126">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/test/resources/application-test.yml" timestamp="1539810914087">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/login/login.component.html" timestamp="1538753792587">
         <mark key="[" line="17" column="30" />
         <mark key="]" line="7" column="60" />
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="60" />
       </file>
+      <file name="E:/prj/oauth2-2FA/spring-security-auth-server/src/main/java/com/rr/security/authserver/controller/LogoutController.java" timestamp="1540025932098" />
       <file name="/dummy.sql" timestamp="1539673450301">
         <mark key="[" line="0" column="0" />
       </file>
@@ -212,7 +222,6 @@
         <mark key="^" line="16" column="34" />
         <mark key="." line="16" column="34" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE-sources.jar!/org/springframework/web/filter/OncePerRequestFilter.java" timestamp="1539891478738" />
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/TwoFactorAuthenticationFilter.kt" timestamp="1539891300107">
         <mark key="[" line="43" column="62" />
         <mark key="]" line="43" column="62" />
@@ -237,6 +246,7 @@
       <file name="/autocoin_client_log.User [autocoin_client_log@138.201.226.51]" timestamp="1539673395285">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/AuthenticationManager.java" timestamp="1540026515431" />
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellHigherAndHigherStrategyProvider.kt" timestamp="1534454347335">
         <mark key="[" line="34" column="146" />
         <mark key="]" line="34" column="155" />
@@ -360,13 +370,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiBNYXA8U3RyaW5nLCBTdHJpbmc+IA==</text>
+        <text>5.4</text>
       </register>
       <register name="/" type="4">
         <text>di</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFR3b0ZhY3RvckF1dGhlbnRpY2F0aW9uQ29udHJvbGxlciB7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgTE9HID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoVHdvRmFjdG9yQXV0aGVudGljYXRpb25Db250cm9sbGVyLmNsYXNzKTsKICAgIAogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUEFUSCA9ICIvc2VjdXJlL3R3b19mYWN0b3JfYXV0aGVudGljYXRpb24iOwoKICAgIEBSZXF1ZXN0TWFwcGluZyhtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkdFVCkKICAgIHB1YmxpYyBTdHJpbmcgYXV0aChIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCwgSHR0cFNlc3Npb24gc2Vzc2lvbikgewogICAgICAgIGlmIChpc0F1dGhlbnRpY2F0ZWRXaXRoQXV0aG9yaXR5KFR3b0ZhY3RvckF1dGhlbnRpY2F0aW9uRmlsdGVyLlJPTEVfVFdPX0ZBQ1RPUl9BVVRIRU5USUNBVEVEKSkgewogICAgICAgICAgICBMT0cuZGVidWcoIlVzZXIge30gYWxyZWFkeSBoYXMge30gYXV0aG9yaXR5IC0gbm8gbmVlZCB0byBlbnRlciBjb2RlIGFnYWluIiwgVHdvRmFjdG9yQXV0aGVudGljYXRpb25GaWx0ZXIuUk9MRV9UV09fRkFDVE9SX0FVVEhFTlRJQ0FURUQpOwogICAgICAgICAgICAKICAgICAgICAgICAgLy90aHJvdyAuLi4uOwogICAgICAgIH0KICAgICAgICBlbHNlIGlmIChzZXNzaW9uLmdldEF0dHJpYnV0ZShDdXN0b21PQXV0aDJSZXF1ZXN0RmFjdG9yeS5TQVZFRF9BVVRIT1JJWkFUSU9OX1JFUVVFU1RfU0VTU0lPTl9BVFRSSUJVVEVfTkFNRSkgPT0gbnVsbCkgewogICAgICAgICAgICBMT0cuZGVidWcoIkVycm9yIHdoaWxlIGVudGVyaW5nIDJGQSBjb2RlIC0gYXR0cmlidXRlIHt9IG5vdCBmb3VuZCBpbiBzZXNzaW9uLiIsIEN1c3RvbU9BdXRoMlJlcXVlc3RGYWN0b3J5LlNBVkVEX0FVVEhPUklaQVRJT05fUkVRVUVTVF9TRVNTSU9OX0FUVFJJQlVURV9OQU1FKTsKICAgICAgICAgICAgLy90aHJvdyAuLi4uOwogICAgICAgIH0KCiAgICAgICAgTE9HLmRlYnVnKCJhdXRoKCkgSFRNTC5HZXQiKTsgCiAgICAgICAgCiAgICAgICAgcmV0dXJuICJsb2dpblNlY3JldCI7IC8vIFNob3cgdGhlIGZvcm0gdG8gZW50ZXIgdGhlIDJGQSBzZWNyZXQKICAgIH0KCiAgICBAUmVxdWVzdE1hcHBpbmcobWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QT1NUKQogICAgcHVibGljIFN0cmluZyBhdXRoKEBNb2RlbEF0dHJpYnV0ZSh2YWx1ZT0ic2VjcmV0IikgU3RyaW5nIHNlY3JldCwgQmluZGluZ1Jlc3VsdCByZXN1bHQsIE1vZGVsIG1vZGVsKSB7CiAgICAJTE9HLmRlYnVnKCJhdXRoKCkgSFRNTC5Qb3N0Iik7CiAgICAgICAgCiAgICAJaWYgKHVzZXJFbnRlcmVkQ29ycmVjdDJGQVNlY3JldChzZWNyZXQpKSB7CiAgICAgICAgICAgIGFkZEF1dGhvcml0eShUd29GYWN0b3JBdXRoZW50aWNhdGlvbkZpbHRlci5ST0xFX1RXT19GQUNUT1JfQVVUSEVOVElDQVRFRCk7CiAgICAgICAgICAgIHJldHVybiAiZm9yd2FyZDovb2F1dGgvYXV0aG9yaXplIjsgLy8gQ29udGludWUgd2l0aCB0aGUgT0F1dGggZmxvdwogICAgICAgIH0KICAgIAkKICAgIAltb2RlbC5hZGRBdHRyaWJ1dGUoImlzSW5jb3JyZWN0U2VjcmV0IiwgdHJ1ZSk7CiAgICAgICAgcmV0dXJuICJsb2dpblNlY3JldCI7IC8vIFNob3cgdGhlIGZvcm0gdG8gZW50ZXIgdGhlIDJGQSBzZWNyZXQgYWdhaW4KICAgIH0KICAgIAogICAgcHJpdmF0ZSBib29sZWFuIGlzQXV0aGVudGljYXRlZFdpdGhBdXRob3JpdHkoU3RyaW5nIGNoZWNrZWRBdXRob3JpdHkpewogIAogICAgCXJldHVybiBTZWN1cml0eUNvbnRleHRIb2xkZXIuZ2V0Q29udGV4dCgpLmdldEF1dGhlbnRpY2F0aW9uKCkuZ2V0QXV0aG9yaXRpZXMoKS5zdHJlYW0oKS5hbnlNYXRjaCgKICAgICAgICAgICAgICAgIGF1dGhvcml0eSAtPiBjaGVja2VkQXV0aG9yaXR5LmVxdWFscyhhdXRob3JpdHkuZ2V0QXV0aG9yaXR5KCkpCiAgICAJCQkpOwogICAgfQogICAgCiAgICBwcml2YXRlIGJvb2xlYW4gYWRkQXV0aG9yaXR5KFN0cmluZyBhdXRob3JpdHkpewogICAgCQogICAgCUNvbGxlY3Rpb248U2ltcGxlR3JhbnRlZEF1dGhvcml0eT4gb2xkQXV0aG9yaXRpZXMgPSAoQ29sbGVjdGlvbjxTaW1wbGVHcmFudGVkQXV0aG9yaXR5PilTZWN1cml0eUNvbnRleHRIb2xkZXIuZ2V0Q29udGV4dCgpLmdldEF1dGhlbnRpY2F0aW9uKCkuZ2V0QXV0aG9yaXRpZXMoKTsKICAgIAlTaW1wbGVHcmFudGVkQXV0aG9yaXR5IG5ld0F1dGhvcml0eSA9IG5ldyBTaW1wbGVHcmFudGVkQXV0aG9yaXR5KGF1dGhvcml0eSk7CiAgICAJTGlzdDxTaW1wbGVHcmFudGVkQXV0aG9yaXR5PiB1cGRhdGVkQXV0aG9yaXRpZXMgPSBuZXcgQXJyYXlMaXN0PFNpbXBsZUdyYW50ZWRBdXRob3JpdHk+KCk7CiAgICAJdXBkYXRlZEF1dGhvcml0aWVzLmFkZChuZXdBdXRob3JpdHkpOwogICAgCXVwZGF0ZWRBdXRob3JpdGllcy5hZGRBbGwob2xkQXV0aG9yaXRpZXMpOwoKICAgIAlTZWN1cml0eUNvbnRleHRIb2xkZXIuZ2V0Q29udGV4dCgpLnNldEF1dGhlbnRpY2F0aW9uKAogICAgCSAgICAgICAgbmV3IFVzZXJuYW1lUGFzc3dvcmRBdXRoZW50aWNhdGlvblRva2VuKAogICAgCSAgICAgICAgICAgICAgICBTZWN1cml0eUNvbnRleHRIb2xkZXIuZ2V0Q29udGV4dCgpLmdldEF1dGhlbnRpY2F0aW9uKCkuZ2V0UHJpbmNpcGFsKCksCiAgICAJICAgICAgICAgICAgICAgIFNlY3VyaXR5Q29udGV4dEhvbGRlci5nZXRDb250ZXh0KCkuZ2V0QXV0aGVudGljYXRpb24oKS5nZXRDcmVkZW50aWFscygpLAogICAgCSAgICAgICAgICAgICAgICB1cGRhdGVkQXV0aG9yaXRpZXMpCiAgICAJKTsKICAgIAkJCiAgICAJcmV0dXJuIHRydWU7CiAgICB9CiAgICAKICAgIHByaXZhdGUgYm9vbGVhbiB1c2VyRW50ZXJlZENvcnJlY3QyRkFTZWNyZXQoU3RyaW5nIHNlY3JldCl7CiAgICAJLyogbGF0ZXIgb24sIHdlIG5lZWQgdG8gcGFzcyBhIHRlbXBvcmFyeSBzZWNyZXQgZm9yIGVhY2ggdXNlciBhbmQgY29udHJvbCBpdCBoZXJlICovCiAgICAJLyogdGhpcyBpcyBqdXN0IGEgdGVtcG9yYXJ5IHdheSB0byBjaGVjayB0aGluZ3MgYXJlIHdvcmtpbmcgKi8KICAgIAkKICAgIAlpZihzZWNyZXQuZXF1YWxzKCIxMjMiKSkKICAgIAkJcmV0dXJuIHRydWU7CiAgICAJZWxzZTsKICAgIAkJcmV0dXJuIGZhbHNlOwogICAgfQp9Cg==</text>
+        <text encoding="base64">CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmJlYW5zLmZhY3RvcnkuYW5ub3RhdGlvbi5BdXRvd2lyZWQ7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmNvbnRleHQuYW5ub3RhdGlvbi5CZWFuOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5jb250ZXh0LmFubm90YXRpb24uQ29uZmlndXJhdGlvbjsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuYXV0aGVudGljYXRpb24uQXV0aGVudGljYXRpb25NYW5hZ2VyOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5zZWN1cml0eS5jcnlwdG8ucGFzc3dvcmQuUGFzc3dvcmRFbmNvZGVyOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5zZWN1cml0eS5jcnlwdG8uYmNyeXB0LkJDcnlwdFBhc3N3b3JkRW5jb2RlcjsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuY29uZmlnLmFubm90YXRpb24uYXV0aGVudGljYXRpb24uYnVpbGRlcnMuQXV0aGVudGljYXRpb25NYW5hZ2VyQnVpbGRlcjsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuY29uZmlnLmFubm90YXRpb24ubWV0aG9kLmNvbmZpZ3VyYXRpb24uRW5hYmxlR2xvYmFsTWV0aG9kU2VjdXJpdHk7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnNlY3VyaXR5LmNvbmZpZy5hbm5vdGF0aW9uLndlYi5idWlsZGVycy5IdHRwU2VjdXJpdHk7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnNlY3VyaXR5LmNvbmZpZy5hbm5vdGF0aW9uLndlYi5idWlsZGVycy5XZWJTZWN1cml0eTsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuY29uZmlnLmFubm90YXRpb24ud2ViLmNvbmZpZ3VyYXRpb24uRW5hYmxlV2ViU2VjdXJpdHk7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnNlY3VyaXR5LmNvbmZpZy5hbm5vdGF0aW9uLndlYi5jb25maWd1cmF0aW9uLldlYlNlY3VyaXR5Q29uZmlndXJlckFkYXB0ZXI7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnNlY3VyaXR5Lm9hdXRoMi5jb25maWcuYW5ub3RhdGlvbi53ZWIuY29uZmlndXJhdGlvbi5FbmFibGVSZXNvdXJjZVNlcnZlcjsKCgpARW5hYmxlUmVzb3VyY2VTZXJ2ZXIKQENvbmZpZ3VyYXRpb24KQEVuYWJsZVdlYlNlY3VyaXR5CkBFbmFibGVHbG9iYWxNZXRob2RTZWN1cml0eShwcmVQb3N0RW5hYmxlZCA9IHRydWUpCnB1YmxpYyBjbGFzcyBSZXNvdXJjZVNlcnZlckNvbmZpZyBleHRlbmRzIFdlYlNlY3VyaXR5Q29uZmlndXJlckFkYXB0ZXIgewoKCUBBdXRvd2lyZWQKCUN1c3RvbURldGFpbHNTZXJ2aWNlIGN1c3RvbURldGFpbHNTZXJ2aWNlOwoJCgkKCUBCZWFuCglwdWJsaWMgUGFzc3dvcmRFbmNvZGVyIGVuY29kZXIoKSB7CgkJcmV0dXJuIG5ldyBCQ3J5cHRQYXNzd29yZEVuY29kZXIoKTsKCX0KCQoJCglAQmVhbihuYW1lID0gImF1dGhlbnRpY2F0aW9uTWFuYWdlciIpCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBBdXRoZW50aWNhdGlvbk1hbmFnZXIgYXV0aGVudGljYXRpb25NYW5hZ2VyQmVhbigpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIHJldHVybiBzdXBlci5hdXRoZW50aWNhdGlvbk1hbmFnZXJCZWFuKCk7CiAgICB9CgoJQE92ZXJyaWRlCgkgIHB1YmxpYyB2b2lkIGNvbmZpZ3VyZShXZWJTZWN1cml0eSB3ZWIpIHRocm93cyBFeGNlcHRpb24gewoJICAgIHdlYi5pZ25vcmluZygpLmFudE1hdGNoZXJzKCIvd2ViamFycy8qKiIpOwoJICAgIHdlYi5pZ25vcmluZygpLmFudE1hdGNoZXJzKCIvY3NzLyoqIiwiL2ZvbnRzLyoqIiwiL2xpYnMvKioiKTsKCSAgfQoJICAKCSAgQE92ZXJyaWRlCgkgIHByb3RlY3RlZCB2b2lkIGNvbmZpZ3VyZShIdHRwU2VjdXJpdHkgaHR0cCkgdGhyb3dzIEV4Y2VwdGlvbiB7IC8vIEBmb3JtYXR0ZXI6b2ZmCgkgICAgICBodHRwLnJlcXVlc3RNYXRjaGVycygpCgkgICAgICAgICAgLmFudE1hdGNoZXJzKCIvbG9naW4iLCAiL29hdXRoL2F1dGhvcml6ZSIsICIvc2VjdXJlL3R3b19mYWN0b3JfYXV0aGVudGljYXRpb24iLCIvZXhpdCIsICIvcmVzb3VyY2VzLyoqIikKCSAgICAgICAgICAuYW5kKCkKCSAgICAgICAgICAuYXV0aG9yaXplUmVxdWVzdHMoKQoJICAgICAgICAgIC5hbnlSZXF1ZXN0KCkKCSAgICAgICAgICAuYXV0aGVudGljYXRlZCgpCgkgICAgICAgICAgLmFuZCgpCgkgICAgICAgICAgLmZvcm1Mb2dpbigpLmxvZ2luUGFnZSgiL2xvZ2luIikKCSAgICAgICAgICAucGVybWl0QWxsKCk7CgkgIH0gLy8gQGZvcm1hdHRlcjpvbgoJCgoKICAgIEBPdmVycmlkZQogICAgQEF1dG93aXJlZCAvLyA8LS0gVGhpcyBpcyBjcnVjaWFsIG90aGVyd2lzZSBTcHJpbmcgQm9vdCBjcmVhdGVzIGl0cyBvd24KICAgIHByb3RlY3RlZCB2b2lkIGNvbmZpZ3VyZShBdXRoZW50aWNhdGlvbk1hbmFnZXJCdWlsZGVyIGF1dGgpIHRocm93cyBFeGNlcHRpb24gewoKLy8gICAgICAgIGF1dGgvLy5wYXJlbnRBdXRoZW50aWNhdGlvbk1hbmFnZXIoYXV0aGVudGljYXRpb25NYW5hZ2VyKQovLyAgICAgICAgICAgICAgICAuaW5NZW1vcnlBdXRoZW50aWNhdGlvbigpCi8vICAgICAgICAgICAgICAgIC53aXRoVXNlcigiZGVtbyIpCi8vICAgICAgICAgICAgICAgIC5wYXNzd29yZCgiZGVtbyIpCi8vICAgICAgICAgICAgICAgIC5yb2xlcygiVVNFUiIpOwogICAgCQogICAgCWF1dGgudXNlckRldGFpbHNTZXJ2aWNlKGN1c3RvbURldGFpbHNTZXJ2aWNlKS5wYXNzd29yZEVuY29kZXIoZW5jb2RlcigpKTsKICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvKiBsYXRlciBvbiwgd2UgbmVlZCB0byBwYXNzIGEgdGVtcG9yYXJ5IHNlY3JldCBmb3IgZWFjaCB1c2VyIGFuZCBjb250cm9sIGl0IGhlcmUgKi8K</text>
