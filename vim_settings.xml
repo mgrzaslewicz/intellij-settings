@@ -79,11 +79,15 @@
         <mark key="^" line="35" column="11" />
         <mark key="." line="35" column="11" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/store/InMemoryTokenStore.java" timestamp="1540228295453" />
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsServiceTest.kt" timestamp="1533665281906">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="76" column="66" />
         <mark key="." line="76" column="66" />
         <mark key="^" line="76" column="66" />
+      </file>
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/ServerSecurityConfig.kt" timestamp="1540227184082">
+        <mark key="[" line="14" column="0" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.html" timestamp="1538813438359">
         <mark key="[" line="14" column="16" />
@@ -116,6 +120,9 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="119" column="1" />
       </file>
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/PasswordEncoders.kt" timestamp="1540227252655">
+        <mark key="[" line="8" column="0" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/sell-now-parameters/sell-now-parameters.component.ts" timestamp="1536136571765">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="27" />
@@ -144,8 +151,11 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="97" column="0" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/AuthorizationServerConfig.kt" timestamp="1539891569632">
-        <mark key="^" line="19" column="0" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/AuthorizationServerConfig.kt" timestamp="1540228191574">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="21" column="22" />
+        <mark key="^" line="21" column="22" />
+        <mark key="." line="21" column="22" />
       </file>
       <file name="/ClientLogEntity [autocoin_client_log@138.201.226.51]" timestamp="1538757777502">
         <mark key="[" line="0" column="0" />
@@ -177,14 +187,22 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/buy-now-parameters/sell-now-parameters.component.ts" timestamp="1536138965738">
         <mark key="[" line="7" column="16" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/doc/grantToken.sh" timestamp="1540225838434">
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="3" column="15" />
-        <mark key="." line="3" column="15" />
-        <mark key="^" line="2" column="13" />
+      <file name="E:/prj/autocoin-auth-service/doc/grantToken.sh" timestamp="1540228753167">
+        <mark key="'" line="15" column="189" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="244" />
+        <mark key="." line="15" column="162" />
+        <mark key="^" line="15" column="162" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/sell-higher-and-higher-specific-parameters/sell-higher-and-higher-specific-parameters.component.ts" timestamp="1534678099615">
         <mark key="[" line="38" column="28" />
+      </file>
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/AuthServerOauth2Config.kt" timestamp="1540228963373">
+        <mark key="'" line="31" column="13" />
+        <mark key="[" line="39" column="5" />
+        <mark key="]" line="25" column="21" />
+        <mark key="^" line="25" column="21" />
+        <mark key="." line="25" column="21" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyParametersMergerTest.kt" timestamp="1534679811967">
         <mark key="[" line="14" column="13" />
@@ -259,7 +277,7 @@
         <mark key="^" line="34" column="155" />
         <mark key="." line="34" column="155" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/ResourceServerConfig.kt" timestamp="1540159440404">
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/ResourceServerConfig.kt" timestamp="1540227571213">
         <mark key="'" line="41" column="91" />
         <mark key="[" line="41" column="104" />
         <mark key="]" line="41" column="103" />
@@ -283,8 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="8" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorMaxExitCurrencyForBuyingIntegrationTest.kt" />
-      <jump line="66" column="46" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" />
       <jump line="23" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/StrategyExecutionTest.kt" />
       <jump line="35" column="42" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" />
       <jump line="60" column="68" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" />
@@ -383,19 +399,21 @@
       <jump line="40" column="47" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/ResourceServerConfig.kt" />
       <jump line="42" column="91" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/ResourceServerConfig.kt" />
       <jump line="4" column="47" filename="E:/prj/autocoin-auth-service/src/main/resources/logback-spring.xml" />
+      <jump line="15" column="189" filename="E:/prj/autocoin-auth-service/doc/grantToken.sh" />
+      <jump line="27" column="13" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/AuthServerOauth2Config.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG5hbWU=</text>
+        <text>changeme</text>
       </register>
       <register name="/" type="4">
-        <text>auto</text>
+        <text>TokenSt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y3VybCAtLWhlYWRlciAiQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uIiBcCiAgLS1yZXF1ZXN0IFBPU1QgXAogIC0tZGF0YSAneyJjbGllbnRfaWQiOiAiU1BBIiwgImNsaWVudF9zZWNyZXQiOiAic3VwZXJTZWNyZXRQYXNzd29yZCIsICJ1c2VyTmFtZSI6ICIkdXNlck5hbWUiLCAicGFzc3dvcmQiOiAiJHBhc3N3b3JkIiwgImdyYW50X3R5cGUiOiAidXNlcm5hbWVfcGFzc3dvcmQiLCAic2NvcGVzIjogIkFQSS5yZWFkIn0nIFwKICBodHRwOi8vbG9jYWxob3N0OjgwODAvb2F1dGgvdG9rZW4K</text>
+        <text encoding="base64">I2N1cmwgLUggIkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbiIgLS1yZXF1ZXN0IFBPU1QgLS1kYXRhICd7ImNsaWVudF9pZCI6ICJTUEEiLCAiY2xpZW50X3NlY3JldCI6ICJzdXBlclNlY3JldFBhc3N3b3JkIiwgInVzZXJOYW1lIjogImRlbW8iLCAicGFzc3dvcmQiOiAiZGVtbyIsICJncmFudF90eXBlIjogInBhc3N3b3JkIiwgInNjb3BlcyI6ICJyZWFkIn0nIGh0dHA6Ly9sb2NhbGhvc3Q6ODA4MC9vYXV0aC90b2tlbgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">UEFTU1dPUkQ9InBhc3N3b3JkIgpVU0VSX05BTUU9InVzZXIgbmFtZSIKT0FVVEhfSE9TVD0iaHR0cDovL2xvY2FsaG9zdDo4MDgwL29hdXRoL3Rva2VuIgo=</text>
@@ -434,9 +452,9 @@
       </register>
     </registers>
     <search>
-      <last-search>auto</last-search>
+      <last-search>TokenSt</last-search>
       <last-offset />
-      <last-pattern>auto</last-pattern>
+      <last-pattern>TokenSt</last-pattern>
       <last-replace>Second</last-replace>
       <last-substitute>Other</last-substitute>
       <last-dir>1</last-dir>
@@ -444,8 +462,6 @@
     </search>
     <history>
       <history-search>
-        <entry>when</entry>
-        <entry>Other</entry>
         <entry>has set</entry>
         <entry>Has</entry>
         <entry>400</entry>
@@ -464,6 +480,8 @@
         <entry>di</entry>
         <entry>on</entry>
         <entry>auto</entry>
+        <entry>AP</entry>
+        <entry>TokenSt</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bin-1-2-3/binance-1-2-3/g</entry>
