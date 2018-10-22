@@ -76,18 +76,18 @@
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/ServerSecurityConfig.kt" timestamp="1540227184082">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/endpoint/TokenEndpoint.java" timestamp="1540232593366" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/endpoint/TokenEndpoint.java" timestamp="1540248592521" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.html" timestamp="1538813438359">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="16" />
         <mark key="." line="14" column="16" />
         <mark key="^" line="14" column="37" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/Oauth2Config.kt" timestamp="1540241395952">
-        <mark key="[" line="52" column="24" />
-        <mark key="]" line="52" column="24" />
-        <mark key="." line="52" column="24" />
-        <mark key="^" line="51" column="31" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/Oauth2Config.kt" timestamp="1540247959926">
+        <mark key="[" line="44" column="33" />
+        <mark key="]" line="43" column="44" />
+        <mark key="." line="43" column="32" />
+        <mark key="^" line="43" column="32" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/sell-now-parameters/sell-when-second-currency-grows-parameters.component.ts" timestamp="1536136482055">
         <mark key="[" line="7" column="24" />
@@ -126,7 +126,15 @@
         <mark key="." line="7" column="49" />
         <mark key="^" line="7" column="49" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/auth.service.ts" timestamp="1540247147468">
+        <mark key="[" line="22" column="37" />
+        <mark key="]" line="22" column="69" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/config/annotation/web/configurers/AuthorizationServerEndpointsConfigurer.java" timestamp="1540231046085" />
+      <file name="E:/prj/autocoin-auth-service/doc/oauthTokenRequest.json" timestamp="1540247581670">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/client/ClientCredentialsTokenEndpointFilter.java" timestamp="1540248462755" />
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" timestamp="1536147843337">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="92" column="53" />
@@ -170,12 +178,12 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/buy-now-parameters/sell-now-parameters.component.ts" timestamp="1536138965738">
         <mark key="[" line="7" column="16" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/doc/grantToken.sh" timestamp="1540240076379">
+      <file name="E:/prj/autocoin-auth-service/doc/grantToken.sh" timestamp="1540247626537">
         <mark key="'" line="15" column="189" />
-        <mark key="[" line="15" column="6" />
-        <mark key="]" line="15" column="120" />
-        <mark key="." line="15" column="120" />
-        <mark key="^" line="15" column="120" />
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+        <mark key="^" line="8" column="27" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/sell-higher-and-higher-specific-parameters/sell-higher-and-higher-specific-parameters.component.ts" timestamp="1534678099615">
         <mark key="[" line="38" column="28" />
@@ -230,7 +238,6 @@
         <mark key="^" line="16" column="34" />
         <mark key="." line="16" column="34" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/grantToken.sh" timestamp="1540037049226" />
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/TwoFactorAuthenticationFilter.kt" timestamp="1539891300107">
         <mark key="[" line="43" column="62" />
         <mark key="]" line="43" column="62" />
@@ -279,12 +286,6 @@
       </file>
       <file name="/fragment.java" timestamp="1540037489176">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/resources/logback-spring.xml" timestamp="1540037242366">
-        <mark key="'" line="4" column="47" />
-        <mark key="[" line="3" column="51" />
-        <mark key="]" line="3" column="51" />
-        <mark key="." line="3" column="51" />
       </file>
     </filemarks>
     <jumps>
@@ -394,13 +395,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>frontendClientSecret</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>TokenSt</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">I2N1cmwgLUggIkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbiIgLS1yZXF1ZXN0IFBPU1QgLS1kYXRhICd7ImNsaWVudF9pZCI6ICJTUEEiLCAiY2xpZW50X3NlY3JldCI6ICJzdXBlclNlY3JldFBhc3N3b3JkIiwgInVzZXJOYW1lIjogImRlbW8iLCAicGFzc3dvcmQiOiAiZGVtbyIsICJncmFudF90eXBlIjogInBhc3N3b3JkIiwgInNjb3BlcyI6ICJyZWFkIn0nIGh0dHA6Ly9sb2NhbGhvc3Q6ODA4MC9vYXV0aC90b2tlbgo=</text>
+      <register name="0" type="4">
+        <text>&quot;permitAll()&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5hdXRvQXBwcm92ZSh0cnVlKQo=</text>
