@@ -197,12 +197,12 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/sell-higher-and-higher-specific-parameters/sell-higher-and-higher-specific-parameters.component.ts" timestamp="1534678099615">
         <mark key="[" line="38" column="28" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/AuthServerOauth2Config.kt" timestamp="1540228963373">
-        <mark key="'" line="31" column="13" />
-        <mark key="[" line="39" column="5" />
-        <mark key="]" line="25" column="21" />
-        <mark key="^" line="25" column="21" />
-        <mark key="." line="25" column="21" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/AuthServerOauth2Config.kt" timestamp="1540229972950">
+        <mark key="'" line="29" column="13" />
+        <mark key="[" line="64" column="75" />
+        <mark key="]" line="64" column="75" />
+        <mark key="^" line="71" column="36" />
+        <mark key="." line="64" column="75" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyParametersMergerTest.kt" timestamp="1534679811967">
         <mark key="[" line="14" column="13" />
@@ -240,6 +240,7 @@
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" timestamp="1536147413723">
         <mark key="[" line="19" column="83" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.9.RELEASE/spring-security-core-5.0.9.RELEASE-sources.jar!/org/springframework/security/provisioning/InMemoryUserDetailsManager.java" timestamp="1540229136034" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/sell-when-second-currency-grows-parameters/sell-when-second-currency-grows-parameters.component.html" timestamp="1535818574032">
         <mark key="[" line="17" column="34" />
         <mark key="]" line="16" column="34" />
@@ -252,6 +253,9 @@
         <mark key="]" line="43" column="62" />
         <mark key="^" line="43" column="84" />
         <mark key="." line="43" column="62" />
+      </file>
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/UserDetailsService.kt" timestamp="1540229215338">
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/settings/settings.component.ts" timestamp="1538750556022">
         <mark key="[" line="15" column="0" />
@@ -407,7 +411,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>changeme</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>TokenSt</text>
