@@ -54,6 +54,9 @@
         <mark key="^" line="8" column="45" />
         <mark key="." line="8" column="45" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/store/JwtAccessTokenConverter.java" timestamp="1540334637792">
+        <mark key="'" line="215" column="55" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyLowerAndLowerStrategyProvider.kt" timestamp="1534157812242">
         <mark key="[" line="31" column="142" />
         <mark key="]" line="31" column="150" />
@@ -291,7 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/StrategyExecutionTest.kt" />
       <jump line="35" column="42" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" />
       <jump line="60" column="68" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" />
       <jump line="58" column="38" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" />
@@ -391,6 +393,7 @@
       <jump line="4" column="47" filename="E:/prj/autocoin-auth-service/src/main/resources/logback-spring.xml" />
       <jump line="15" column="189" filename="E:/prj/autocoin-auth-service/doc/grantToken.sh" />
       <jump line="27" column="13" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/AuthServerOauth2Config.kt" />
+      <jump line="215" column="55" filename="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/store/JwtAccessTokenConverter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -400,7 +403,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>TokenSt</text>
+        <text>Beare</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGF1dGhlbnRpY2F0aW9uTWFuYWdlcjogQXV0aGVudGljYXRpb25NYW5hZ2VyCg==</text>
@@ -442,9 +445,9 @@
       </register>
     </registers>
     <search>
-      <last-search>TokenSt</last-search>
+      <last-search>Beare</last-search>
       <last-offset />
-      <last-pattern>TokenSt</last-pattern>
+      <last-pattern>Beare</last-pattern>
       <last-replace>Second</last-replace>
       <last-substitute>Other</last-substitute>
       <last-dir>1</last-dir>
@@ -452,7 +455,6 @@
     </search>
     <history>
       <history-search>
-        <entry>has set</entry>
         <entry>Has</entry>
         <entry>400</entry>
         <entry>pa</entry>
@@ -472,6 +474,7 @@
         <entry>auto</entry>
         <entry>AP</entry>
         <entry>TokenSt</entry>
+        <entry>Beare</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bin-1-2-3/binance-1-2-3/g</entry>
