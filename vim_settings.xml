@@ -83,11 +83,11 @@
         <mark key="." line="14" column="16" />
         <mark key="^" line="14" column="37" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/Oauth2Config.kt" timestamp="1540247959926">
-        <mark key="[" line="44" column="33" />
-        <mark key="]" line="43" column="44" />
-        <mark key="." line="43" column="32" />
-        <mark key="^" line="43" column="32" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/Oauth2Config.kt" timestamp="1540331855075">
+        <mark key="[" line="71" column="42" />
+        <mark key="]" line="32" column="40" />
+        <mark key="." line="32" column="40" />
+        <mark key="^" line="32" column="57" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/sell-now-parameters/sell-when-second-currency-grows-parameters.component.ts" timestamp="1536136482055">
         <mark key="[" line="7" column="24" />
@@ -111,8 +111,10 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/PasswordEncoders.kt" timestamp="1540227252655">
-        <mark key="[" line="8" column="0" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/PasswordEncoders.kt" timestamp="1540331709474">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/sell-now-parameters/sell-now-parameters.component.ts" timestamp="1536136571765">
         <mark key="[" line="5" column="24" />
@@ -395,13 +397,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>TokenSt</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;permitAll()&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGF1dGhlbnRpY2F0aW9uTWFuYWdlcjogQXV0aGVudGljYXRpb25NYW5hZ2VyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5hdXRvQXBwcm92ZSh0cnVlKQo=</text>
