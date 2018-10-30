@@ -31,6 +31,16 @@
         <mark key="." line="54" column="18" />
         <mark key="^" line="54" column="18" />
       </file>
+      <file name="E:/prj/autocoin-auth-service/doc/requestOauthToken.sh" timestamp="1540924897760">
+        <mark key="'" line="2" column="1" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+      </file>
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/SecurityConfig.kt" timestamp="1540925370831">
+        <mark key="[" line="33" column="41" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/resources/application-sample-max-counter-currency-percent-for-buying.yml" timestamp="1534454430825">
         <mark key="[" line="8" column="44" />
         <mark key="]" line="8" column="45" />
@@ -172,7 +182,7 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540885404057">
+      <file name="/Dummy.txt" timestamp="1540925564093">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="^" line="0" column="35" />
@@ -230,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="68" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" />
       <jump line="58" column="38" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" />
       <jump line="87" column="8" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" />
       <jump line="97" column="8" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" />
@@ -330,19 +339,20 @@
       <jump line="27" column="13" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/AuthServerOauth2Config.kt" />
       <jump line="215" column="55" filename="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/store/JwtAccessTokenConverter.java" />
       <jump line="2" column="0" filename="E:/prj/autocoin-auth-service/src/main/resources/application.yml" />
+      <jump line="2" column="1" filename="E:/prj/autocoin-auth-service/doc/requestOauthToken.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>-u demo_user:demo_password -</text>
       </register>
       <register name="/" type="4">
-        <text>Beare</text>
+        <text>u</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHBhc3N3b3JkRW5jb2RlcjogUGFzc3dvcmRFbmNvZGVyCg==</text>
+        <text encoding="base64">Y3VybCAtWCBQT1NUIC11IGRlbW9fdXNlcjpkZW1vX3Bhc3N3b3JkIC1IICJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCIgLWQgImNsaWVudF9pZD1TUEEmY2xpZW50X3NlY3JldD1zdXBlclNlY3JldFBhc3N3b3JkJnVzZXJuYW1lPWRlbW9fdXNlciZwYXNzd29yZD1kZW1vX3Bhc3N3b3JkJmdyYW50X3R5cGU9cGFzc3dvcmQmc2NvcGVzPXJlYWQiICJodHRwOi8vbG9jYWxob3N0OjgwODAvb2F1dGgvdG9rZW4iCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5hdXRvQXBwcm92ZSh0cnVlKQo=</text>
@@ -381,9 +391,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Beare</last-search>
+      <last-search>u</last-search>
       <last-offset />
-      <last-pattern>Beare</last-pattern>
+      <last-pattern>u</last-pattern>
       <last-replace>Second</last-replace>
       <last-substitute>Other</last-substitute>
       <last-dir>1</last-dir>
@@ -391,7 +401,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Has</entry>
         <entry>400</entry>
         <entry>pa</entry>
         <entry>sellNo</entry>
@@ -411,6 +420,7 @@
         <entry>AP</entry>
         <entry>TokenSt</entry>
         <entry>Beare</entry>
+        <entry>u</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bin-1-2-3/binance-1-2-3/g</entry>
