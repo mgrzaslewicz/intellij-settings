@@ -165,6 +165,12 @@
         <mark key="." line="55" column="52" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/client/InMemoryClientDetailsService.java" timestamp="1540884363481" />
+      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/Oauth2TokenTest.kt" timestamp="1541014147840">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="24" column="35" />
+        <mark key="^" line="24" column="35" />
+        <mark key="." line="24" column="35" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.2.RELEASE/spring-test-5.1.2.RELEASE.jar!/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.class" timestamp="1541009531349" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/login/login.component.html" timestamp="1538753792587">
         <mark key="[" line="17" column="30" />
@@ -172,7 +178,7 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540925564093">
+      <file name="/Dummy.txt" timestamp="1541014194980">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="^" line="0" column="35" />
@@ -329,30 +335,33 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>-u demo_user:demo_password -</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">anNvbj1gY3VybCAtcyAtWCBQT1NUIC1IICJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCIgLWQgImNsaWVudF9pZD1TUEEmY2xpZW50X3NlY3JldD1zdXBlclNlY3JldFBhc3N3b3JkJnVzZXJuYW1lPWRlbW9fdXNlciZwYXNzd29yZD1kZW1vX3Bhc3N3b3JkJmdyYW50X3R5cGU9cGFzc3dvcmQmc2NvcGVzPXJlYWQiICJodHRwOi8vbG9jYWxob3N0OjgwODAvb2F1dGgvdG9rZW4iYAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEpzb25Qcm9wZXJ0eSgiYWNjZXNzX3Rva2VuIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hdXRvQXBwcm92ZSh0cnVlKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHBvc3RGb3JUb2tlblJlZnJlc2gocmVmcmVzaFRva2VuOiBTdHJpbmcpOiBSZXNwb25zZUVudGl0eTw+IHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UEFTU1dPUkQ9InBhc3N3b3JkIgpVU0VSX05BTUU9InVzZXIgbmFtZSIKT0FVVEhfSE9TVD0iaHR0cDovL2xvY2FsaG9zdDo4MDgwL29hdXRoL3Rva2VuIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hdXRvQXBwcm92ZSh0cnVlKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">UEFTU1dPUkQ9InBhc3N3b3JkIgpVU0VSX05BTUU9InVzZXIgbmFtZSIKT0FVVEhfSE9TVD0iaHR0cDovL2xvY2FsaG9zdDo4MDgwL29hdXRoL3Rva2VuIgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAvKiBsYXRlciBvbiwgd2UgbmVlZCB0byBwYXNzIGEgdGVtcG9yYXJ5IHNlY3JldCBmb3IgZWFjaCB1c2VyIGFuZCBjb250cm9sIGl0IGhlcmUgKi8K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGRhdGFTb3VyY2U6IERhdGFTb3VyY2UKICAgIEBWYWx1ZSgiXCR7ZnJvbnRlbmRDbGllbnRTZWNyZXR9IikKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGZyb250ZW5kQ2xpZW50U2VjcmV0OiBTdHJpbmcKICAgIEBWYWx1ZSgiXCR7ZnJvbnRlbmRDbGllbnRTZWNyZXR9IikKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGZyb250ZW5kQ2xpZW50U2VjcmV0OiBTdHJpbmcKCgogICAgb3ZlcnJpZGUgZnVuIGNvbmZpZ3VyZShzZWN1cml0eTogQXV0aG9yaXphdGlvblNlcnZlclNlY3VyaXR5Q29uZmlndXJlcikgewogICAgICAgIHNlY3VyaXR5LnRva2VuS2V5QWNjZXNzKCJwZXJtaXRBbGwoKSIpCiAgICAgICAgICAgICAgICAuY2hlY2tUb2tlbkFjY2VzcygiaXNBdXRoZW50aWNhdGVkKCkiKQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBjb25maWd1cmUoY2xpZW50czogQ2xpZW50RGV0YWlsc1NlcnZpY2VDb25maWd1cmVyKSB7CiAgICAgICAgY2xpZW50cy5qZGJjKGRhdGFTb3VyY2UpCiAgICAgICAgICAgICAgICAud2l0aENsaWVudCgiU1BBIikKICAgICAgICAgICAgICAgIC5hdXRvQXBwcm92ZSh0cnVlKQogICAgICAgICAgICAgICAgLnNlY3JldChmcm9udGVuZENsaWVudFNlY3JldCkKICAgICAgICAgICAgICAgIC5hdXRob3JpemVkR3JhbnRUeXBlcygicGFzc3dvcmQiKSAvLyBodHRwczovL29hdXRoLm5ldC8yL2dyYW50LXR5cGVzCiAgICAgICAgICAgICAgICAuYW5kKCkKICAgIH0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Y2xpZW50QXBpVXJsOiBodHRwczovL2NsaWVudHMtYXBpLmF1dG9jb2luLXRyYWRlci5jb20KaWRlbnRpdHlTZXJ2ZXJVcmw6IGh0dHBzOi8vdXNlcnMtYXBpLmF1dG9jb2luLXRyYWRlci5jb20vaWRzCgoKaWRlbnRpdHktc2VydmVyOiAjaHR0cHM6Ly91c2Vycy1hcGkuYXV0b2NvaW4tdHJhZGVyLmNvbS9pZHMvLndlbGwta25vd24vb3BlbmlkLWNvbmZpZ3VyYXRpb24KICBjbGllbnRJZDogQVBJCiAgY2xpZW50U2VjcmV0OiBrZGllY3NkZmFvd2VpcmplZmxrbmxza2RuZm9hd2llcm9qCiAgYWNjZXNzVG9rZW5Vcmk6ICR7aWRlbnRpdHlTZXJ2ZXJVcmx9L2Nvbm5lY3QvaW50cm9zcGVjdAogIGF1dGhvcml6YXRpb25Vcmk6ICR7aWRlbnRpdHlTZXJ2ZXJVcmx9L2Nvbm5lY3QvYXV0aG9yaXplCiAgdG9rZW5OYW1lOiBvYXV0aF90b2tlbgogIHNjb3BlOgogICAgLSBBUEkKCnNwcmluZzoKICBkYXRhc291cmNlOgogICAgdXJsOiBqZGJjOmhzcWxkYjptZW06ZGIvYXV0b2NvaW5kYgoKZmVhdHVyZXMubWFwLm1ha2VSZWFsT3JkZXI6IHRydWUKCmF1dG9jb2luLXN1YnNjcmlwdGlvbi1rZXk6IHNhbXBsZS1hdXRvY29pbi1rZXkKCmZha2VFeGNoYW5nZVJhbmRvbUZhaWx1cmU6IHRydWUKCmV4Y2hhbmdlLWhlYWx0aC1rZXlzLWxvY2F0aW9uOiBjbGFzc3BhdGg6L3NlY3VyZS1mb2xkZXIvYXV0b2NvaW4tc3RyYXRlZ3ktZXhlY3V0b3IvZXhjaGFuZ2UtaGVhbHRoLWtleXMucHJvcGVydGllcwoKZXhjaGFuZ2U6CiAgYWN0aXZlOgogICAgLSBiaXR0cmV4Cgpjc3ZSZXBvc2l0b3J5OgogIGZvbGRlcjogdGFyZ2V0LwogIHNob3VsZFNhdmU6IHRydWUKCnRpY2tlci1zZXJ2aWNlLmVuYWJsZWQ6IGZhbHNlCnJlbW90ZS1sb2ctc2VydmljZS5lbmFibGVkOiBmYWxzZQoKI2xvZ2dpbmcubGV2ZWwub3JnLmhpYmVybmF0ZS5TUUw6IERFQlVHCiNsb2dnaW5nLmxldmVsLm9yZy5oaWJlcm5hdGUuYXV0b21hdGUucHJvZml0LnN0cmF0ZWd5Lm1hbmFnZW1lbnQucGFyYW1ldGVycy5kZXNjcmlwdG9yLnNxbC5CYXNpY0JpbmRlcjogVFJBQ0UKI3NwcmluZy5qcGEucHJvcGVydGllcy5oaWJlcm5hdGUuYXV0b21hdGUucHJvZml0LnN0cmF0ZWd5Lm1hbmFnZW1lbnQucGFyYW1ldGVyczogdHJhY2UKbG9nZ2luZy5sZXZlbC5vcmcuc3ByaW5nZnJhbWV3b3JrLndlYjogZGVidWcK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>[
             FEATURE_CREATE_STRATEGY,
             FEATURE_STRATEGY_SELL_WHEN_SECOND_CURRENCY_GROWS,
@@ -360,14 +369,11 @@
             FEATURE_STRATEGY_BUY_NOW
         ];</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDogewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Other/Second/g</text>
