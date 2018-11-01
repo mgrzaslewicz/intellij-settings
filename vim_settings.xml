@@ -11,6 +11,12 @@
         <mark key="." line="16" column="22" />
         <mark key="^" line="24" column="28" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1541065569113">
+        <mark key="[" line="81" column="27" />
+        <mark key="]" line="81" column="28" />
+        <mark key="." line="81" column="28" />
+        <mark key="^" line="22" column="28" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/RSI2StrategyProvider.kt" timestamp="1534157705139">
         <mark key="[" line="125" column="116" />
         <mark key="]" line="119" column="124" />
@@ -165,7 +171,7 @@
         <mark key="." line="55" column="52" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/client/InMemoryClientDetailsService.java" timestamp="1540884363481" />
-      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/Oauth2TokenTest.kt" timestamp="1541014147840">
+      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/Oauth2TokenTest.kt" timestamp="1541065202097">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="24" column="35" />
         <mark key="^" line="24" column="35" />
@@ -184,6 +190,7 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="36" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1541065318052" />
       <file name="E:/prj/autocoin-strategy-executor/log/get-ektoplazm-feed.py" timestamp="1532161101115">
         <mark key="[" line="28" column="10" />
         <mark key="]" line="29" column="119" />
@@ -335,13 +342,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>61</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEpzb25Qcm9wZXJ0eSgiYWNjZXNzX3Rva2VuIikK</text>
+      <register name="0" type="4">
+        <text encoding="base64">bW9ja2l0by1rb3RsaW48</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHBvc3RGb3JUb2tlblJlZnJlc2gocmVmcmVzaFRva2VuOiBTdHJpbmcpOiBSZXNwb25zZUVudGl0eTw+IHsK</text>
