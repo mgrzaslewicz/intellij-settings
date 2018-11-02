@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.6.RELEASE/spring-boot-autoconfigure-2.0.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/security/SecurityProperties.java" timestamp="1540885024505" />
       <file name="E:/prj/autocoin-auth-service/pom.xml" timestamp="1541011245295">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="60" column="31" />
@@ -57,7 +56,6 @@
         <mark key="^" line="8" column="45" />
         <mark key="." line="8" column="45" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.2.RELEASE/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/http/HttpHeaders.java" timestamp="1541011886129" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/store/JwtAccessTokenConverter.java" timestamp="1540334637792">
         <mark key="'" line="215" column="55" />
       </file>
@@ -111,7 +109,6 @@
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/AuthServiceApplicationTests.kt" timestamp="1541009039113">
         <mark key="[" line="9" column="10" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/config/annotation/configurers/ClientDetailsServiceConfigurer.java" timestamp="1540885108426" />
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/PasswordEncoders.kt" timestamp="1540331709474">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="12" column="8" />
@@ -153,7 +150,6 @@
         <mark key="^" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.2.RELEASE/spring-test-5.1.2.RELEASE-sources.jar!/org/springframework/test/context/junit/jupiter/SpringExtension.java" timestamp="1541009574445" />
       <file name="E:/prj/autocoin-auth-service/scripts/stop.sh" timestamp="1541070260716">
         <mark key="[" line="1" column="0" />
       </file>
@@ -175,22 +171,18 @@
         <mark key="." line="31" column="115" />
         <mark key="^" line="30" column="108" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test-autoconfigure/2.1.0.RELEASE/spring-boot-test-autoconfigure-2.1.0.RELEASE-sources.jar!/org/springframework/boot/test/autoconfigure/web/servlet/AutoConfigureMockMvc.java" timestamp="1541009825650" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/RemoteTokenServices.java" timestamp="1541067004230" />
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyParametersMergerTest.kt" timestamp="1534679811967">
         <mark key="[" line="14" column="13" />
         <mark key="]" line="55" column="52" />
         <mark key="^" line="52" column="33" />
         <mark key="." line="55" column="52" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/client/InMemoryClientDetailsService.java" timestamp="1540884363481" />
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/Oauth2TokenTest.kt" timestamp="1541067312875">
         <mark key="[" line="80" column="37" />
         <mark key="]" line="91" column="29" />
         <mark key="^" line="91" column="21" />
         <mark key="." line="91" column="29" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.2.RELEASE/spring-test-5.1.2.RELEASE.jar!/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.class" timestamp="1541009531349" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/login/login.component.html" timestamp="1538753792587">
         <mark key="[" line="17" column="30" />
         <mark key="]" line="7" column="60" />
@@ -203,14 +195,12 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="36" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1541065318052" />
       <file name="E:/prj/autocoin-strategy-executor/log/get-ektoplazm-feed.py" timestamp="1532161101115">
         <mark key="[" line="28" column="10" />
         <mark key="]" line="29" column="119" />
         <mark key="^" line="29" column="118" />
         <mark key="." line="29" column="119" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.9.RELEASE/spring-security-core-5.0.9.RELEASE-sources.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.java" timestamp="1540884163970" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/sell-when-second-currency-grows-parameters/sell-when-second-currency-grows-parameters.component.html" timestamp="1535818574032">
         <mark key="[" line="17" column="34" />
         <mark key="]" line="16" column="34" />
@@ -235,6 +225,7 @@
         <mark key="^" line="71" column="10" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="E:/prj/autocoin-order-service/pom.xml" timestamp="1541173051867" />
       <file name="E:/prj/autocoin-ticker-service/pom.xml" timestamp="1535290737329">
         <mark key="[" line="13" column="21" />
         <mark key="]" line="13" column="22" />
