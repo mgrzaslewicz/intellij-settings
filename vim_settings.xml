@@ -153,6 +153,11 @@
       <file name="E:/prj/autocoin-auth-service/scripts/stop.sh" timestamp="1541070260716">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="E:/prj/autocoin-auth-service/Dockerfile" timestamp="1541174012962">
+        <mark key="'" line="2" column="11" />
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="32" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellNowStrategyProvider.kt" timestamp="1536138489375">
         <mark key="[" line="18" column="44" />
         <mark key="]" line="18" column="44" />
@@ -256,7 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="8" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" />
       <jump line="133" column="28" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" />
       <jump line="134" column="95" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" />
       <jump line="135" column="58" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" />
@@ -356,6 +360,7 @@
       <jump line="55" column="8" filename="E:/prj/autocoin-auth-service/pom.xml" />
       <jump line="0" column="0" filename="E:/prj/autocoin-auth-service/pom.xml" />
       <jump line="11" column="39" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
+      <jump line="2" column="11" filename="E:/prj/autocoin-auth-service/Dockerfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -365,10 +370,10 @@
         <text>#    maven:3.3-jdk-8 \</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>autocoin-order-service</text>
       </register>
       <register name="0" type="4">
-        <text>SERVICE_NAME</text>
+        <text>autocoin-order-service</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHBvc3RGb3JUb2tlblJlZnJlc2gocmVmcmVzaFRva2VuOiBTdHJpbmcpOiBSZXNwb25zZUVudGl0eTw+IHsK</text>
@@ -403,21 +408,20 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/Other/Second/g</text>
+        <text>%s/autocoin-order-service/autocoin-auth-service/g</text>
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>autocoin-order-service</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
-      <last-replace>Second</last-replace>
-      <last-substitute>Other</last-substitute>
+      <last-pattern>autocoin-order-service</last-pattern>
+      <last-replace>autocoin-auth-service</last-replace>
+      <last-substitute>autocoin-order-service</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pa</entry>
         <entry>sellNo</entry>
         <entry>Se</entry>
         <entry>'</entry>
@@ -437,9 +441,9 @@
         <entry>Beare</entry>
         <entry>u</entry>
         <entry>test</entry>
+        <entry>autocoin-order-service</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/bin-1-2-3/binance-1-2-3/g</entry>
         <entry>%s/subscriptionKey/id/g</entry>
         <entry>%s/key-/id-/g</entry>
         <entry>x</entry>
@@ -459,6 +463,7 @@
         <entry>%s/entryCurrency/baseCurrency/g</entry>
         <entry>%s/EntryCurrency/BaseCurrency/g</entry>
         <entry>%s/Other/Second/g</entry>
+        <entry>%s/autocoin-order-service/autocoin-auth-service/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
