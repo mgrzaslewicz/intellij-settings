@@ -28,11 +28,16 @@
         <mark key="^" line="147" column="8" />
         <mark key="." line="148" column="38" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/resources/application.yml" timestamp="1541010510759">
-        <mark key="'" line="3" column="0" />
+      <file name="E:/prj/autocoin-auth-service/src/main/resources/application.yml" timestamp="1541175140014">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/scripts/env.properties.template" timestamp="1541069610693">
-        <mark key="[" line="3" column="31" />
+      <file name="E:/prj/autocoin-auth-service/scripts/env.properties.template" timestamp="1541175692187">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/models/strategy.ts" timestamp="1536142907481">
         <mark key="[" line="53" column="22" />
@@ -55,9 +60,6 @@
         <mark key="]" line="8" column="45" />
         <mark key="^" line="8" column="45" />
         <mark key="." line="8" column="45" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/store/JwtAccessTokenConverter.java" timestamp="1540334637792">
-        <mark key="'" line="215" column="55" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyLowerAndLowerStrategyProvider.kt" timestamp="1534157812242">
         <mark key="[" line="31" column="142" />
@@ -109,6 +111,10 @@
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/AuthServiceApplicationTests.kt" timestamp="1541009039113">
         <mark key="[" line="9" column="10" />
       </file>
+      <file name="E:/prj/autocoin-order-service/src/main/resources/application.yml" timestamp="1541175113256">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+      </file>
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/PasswordEncoders.kt" timestamp="1540331709474">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="12" column="8" />
@@ -133,10 +139,9 @@
         <mark key="." line="4" column="27" />
       </file>
       <file name="E:/prj/autocoin-auth-service/scripts/release.sh" timestamp="1541070215400">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/StrategyParameters.kt" timestamp="1536147843337">
         <mark key="[" line="35" column="0" />
@@ -153,10 +158,11 @@
       <file name="E:/prj/autocoin-auth-service/scripts/stop.sh" timestamp="1541070260716">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/Dockerfile" timestamp="1541174012962">
+      <file name="E:/prj/autocoin-auth-service/Dockerfile" timestamp="1541175097842">
         <mark key="'" line="2" column="11" />
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="32" />
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellNowStrategyProvider.kt" timestamp="1536138489375">
         <mark key="[" line="18" column="44" />
@@ -194,7 +200,7 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541074493746">
+      <file name="/Dummy.txt" timestamp="1541175773151">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="^" line="0" column="35" />
@@ -217,12 +223,6 @@
         <mark key="]" line="43" column="62" />
         <mark key="^" line="43" column="84" />
         <mark key="." line="43" column="62" />
-      </file>
-      <file name="E:/prj/autocoin-auth-service/scripts/install.sh" timestamp="1541070321072">
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="11" column="20" />
-        <mark key="^" line="11" column="20" />
-        <mark key="." line="11" column="20" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/TwoFactorAuthenticationController.kt" timestamp="1539890931186">
         <mark key="[" line="69" column="70" />
@@ -261,7 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="28" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" />
       <jump line="134" column="95" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" />
       <jump line="135" column="58" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" />
       <jump line="136" column="125" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" />
@@ -361,6 +360,7 @@
       <jump line="0" column="0" filename="E:/prj/autocoin-auth-service/pom.xml" />
       <jump line="11" column="39" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="2" column="11" filename="E:/prj/autocoin-auth-service/Dockerfile" />
+      <jump line="3" column="0" filename="E:/prj/autocoin-auth-service/src/main/resources/application.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -372,8 +372,8 @@
       <register name="/" type="4">
         <text>autocoin-order-service</text>
       </register>
-      <register name="0" type="4">
-        <text>autocoin-order-service</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VydmVyLnBvcnQ6IDkwMDEK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHBvc3RGb3JUb2tlblJlZnJlc2gocmVmcmVzaFRva2VuOiBTdHJpbmcpOiBSZXNwb25zZUVudGl0eTw+IHsK</text>
