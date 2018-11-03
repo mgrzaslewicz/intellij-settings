@@ -228,11 +228,11 @@
         <mark key="]" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541191058327">
+      <file name="/Dummy.txt" timestamp="1541278710352">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="36" />
+        <mark key="]" line="0" column="101" />
         <mark key="^" line="0" column="35" />
-        <mark key="." line="0" column="36" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/log/get-ektoplazm-feed.py" timestamp="1532161101115">
         <mark key="[" line="28" column="10" />
@@ -397,7 +397,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>.also { throw NotImplementedError() }</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>autocoin-order-service</text>
