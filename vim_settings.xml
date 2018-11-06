@@ -10,16 +10,25 @@
         <mark key="[" line="114" column="55" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4bdb39f5-9ab9-49e9-baf5-4dd7e9c87229/console.sql" timestamp="1541366235830">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="38" column="18" />
-        <mark key="^" line="38" column="18" />
-        <mark key="." line="38" column="18" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="37" column="18" />
+        <mark key="^" line="37" column="18" />
+        <mark key="." line="37" column="18" />
       </file>
       <file name="E:/prj/autocoin-auth-service/scripts/stop.sh" timestamp="1541070260716">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="E:/prj/autocoin-auth-service/pom.xml" timestamp="1541533729783">
+        <mark key="[" line="186" column="65" />
+      </file>
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/config/TestDatasourceConfig.kt" timestamp="1541371451687">
         <mark key="[" line="4" column="0" />
+      </file>
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" timestamp="1541534084837">
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/main/resources/application.yml" timestamp="1541370936932">
         <mark key="'" line="8" column="0" />
@@ -39,11 +48,6 @@
       <file name="/autocoin_client_log.Client [autocoin_client_log@138.201.226.51]" timestamp="1541352379086">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/RunLocal.kt" timestamp="1541369889282">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="9" />
-        <mark key="." line="6" column="9" />
-      </file>
       <file name="/autocoin_client_log.Exchange [autocoin_client_log@138.201.226.51]" timestamp="1541349370585">
         <mark key="[" line="0" column="0" />
       </file>
@@ -59,6 +63,12 @@
         <mark key="]" line="5" column="10" />
         <mark key="." line="5" column="10" />
         <mark key="^" line="5" column="10" />
+      </file>
+      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/Oauth2TokenTest.kt" timestamp="1541533532268">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="30" column="12" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/SecurityConfig.kt" timestamp="1541373905639">
         <mark key="[" line="41" column="25" />
@@ -78,16 +88,11 @@
       <file name="/dummy.sql" timestamp="1541375124157">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541375559946">
+      <file name="/Dummy.txt" timestamp="1541533885473">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="101" />
+        <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="35" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountEntity.kt" timestamp="1541354367078">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="E:/prj/autocoin-auth-service/.gitignore" timestamp="1541369016610">
         <mark key="[" line="1" column="5" />
@@ -107,12 +112,12 @@
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/AuthServiceApplicationTests.kt" timestamp="1541009039113">
         <mark key="[" line="9" column="10" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" timestamp="1541373241304">
-        <mark key="'" line="6" column="31" />
-        <mark key="[" line="29" column="10" />
-        <mark key="]" line="29" column="16" />
-        <mark key="^" line="29" column="16" />
-        <mark key="." line="29" column="16" />
+      <file name="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" timestamp="1541533289467">
+        <mark key="'" line="5" column="31" />
+        <mark key="[" line="16" column="100" />
+        <mark key="]" line="28" column="16" />
+        <mark key="^" line="28" column="16" />
+        <mark key="." line="28" column="16" />
       </file>
       <file name="/autocoin_client_log.Permission [autocoin_client_log@138.201.226.51]" timestamp="1541447784514">
         <mark key="[" line="0" column="0" />
@@ -132,15 +137,15 @@
       <file name="/fragment.java" timestamp="1541185516209">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccount.kt" timestamp="1541375492112">
-        <mark key="[" line="60" column="12" />
-        <mark key="]" line="60" column="12" />
-        <mark key="^" line="60" column="11" />
-        <mark key="." line="60" column="12" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccount.kt" timestamp="1541532128878">
+        <mark key="'" line="6" column="25" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="17" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="72" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
       <jump line="94" column="64" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
       <jump line="105" column="59" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
       <jump line="107" column="69" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
@@ -240,60 +245,56 @@
       <jump line="37" column="22" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="38" column="22" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="6" column="31" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
+      <jump line="6" column="25" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccount.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>passwordSalt</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>bit</text>
+        <text>Salt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHBhc3N3b3JkRW5jb2RlcjogUGFzc3dvcmRFbmNvZGVyCg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHVzZXJBY2NvdW50UmVwb3NpdG9yeTogVXNlckFjY291bnRSZXBvc2l0b3J5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEF1dGhTZXJ2aWNlQXBwbGljYXRpb24ubWFpbigpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5UcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlRhYmxlCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC50ZXN0LmF1dG9jb25maWd1cmUub3JtLmpwYS5EYXRhSnBhVGVzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHBvc3RGb3JUb2tlblJlZnJlc2gocmVmcmVzaFRva2VuOiBTdHJpbmcpOiBSZXNwb25zZUVudGl0eTw+IHsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC50ZXN0LmF1dG9jb25maWd1cmUuamRiYy5BdXRvQ29uZmlndXJlVGVzdERhdGFiYXNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hdXRvQXBwcm92ZSh0cnVlKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5qZGJjLkVtYmVkZGVkRGF0YWJhc2VDb25uZWN0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UEFTU1dPUkQ9InBhc3N3b3JkIgpVU0VSX05BTUU9InVzZXIgbmFtZSIKT0FVVEhfSE9TVD0iaHR0cDovL2xvY2FsaG9zdDo4MDgwL29hdXRoL3Rva2VuIgo=</text>
+        <text encoding="base64">ICAgICAgICBAQ29sdW1uKGNvbHVtbkRlZmluaXRpb24gPSAiVkFSQ0hBUigxMDI0KSIsIG51bGxhYmxlID0gZmFsc2UpCiAgICAgICAgdmFsIHBhc3N3b3JkU2FsdDogU3RyaW5nID0gIiIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKiBsYXRlciBvbiwgd2UgbmVlZCB0byBwYXNzIGEgdGVtcG9yYXJ5IHNlY3JldCBmb3IgZWFjaCB1c2VyIGFuZCBjb250cm9sIGl0IGhlcmUgKi8K</text>
+        <text encoding="base64">ICAgIEF1dGhTZXJ2aWNlQXBwbGljYXRpb24ubWFpbigpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGRhdGFTb3VyY2U6IERhdGFTb3VyY2UKICAgIEBWYWx1ZSgiXCR7ZnJvbnRlbmRDbGllbnRTZWNyZXR9IikKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGZyb250ZW5kQ2xpZW50U2VjcmV0OiBTdHJpbmcKICAgIEBWYWx1ZSgiXCR7ZnJvbnRlbmRDbGllbnRTZWNyZXR9IikKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGZyb250ZW5kQ2xpZW50U2VjcmV0OiBTdHJpbmcKCgogICAgb3ZlcnJpZGUgZnVuIGNvbmZpZ3VyZShzZWN1cml0eTogQXV0aG9yaXphdGlvblNlcnZlclNlY3VyaXR5Q29uZmlndXJlcikgewogICAgICAgIHNlY3VyaXR5LnRva2VuS2V5QWNjZXNzKCJwZXJtaXRBbGwoKSIpCiAgICAgICAgICAgICAgICAuY2hlY2tUb2tlbkFjY2VzcygiaXNBdXRoZW50aWNhdGVkKCkiKQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBjb25maWd1cmUoY2xpZW50czogQ2xpZW50RGV0YWlsc1NlcnZpY2VDb25maWd1cmVyKSB7CiAgICAgICAgY2xpZW50cy5qZGJjKGRhdGFTb3VyY2UpCiAgICAgICAgICAgICAgICAud2l0aENsaWVudCgiU1BBIikKICAgICAgICAgICAgICAgIC5hdXRvQXBwcm92ZSh0cnVlKQogICAgICAgICAgICAgICAgLnNlY3JldChmcm9udGVuZENsaWVudFNlY3JldCkKICAgICAgICAgICAgICAgIC5hdXRob3JpemVkR3JhbnRUeXBlcygicGFzc3dvcmQiKSAvLyBodHRwczovL29hdXRoLm5ldC8yL2dyYW50LXR5cGVzCiAgICAgICAgICAgICAgICAuYW5kKCkKICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlRhYmxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xpZW50QXBpVXJsOiBodHRwczovL2NsaWVudHMtYXBpLmF1dG9jb2luLXRyYWRlci5jb20KaWRlbnRpdHlTZXJ2ZXJVcmw6IGh0dHBzOi8vdXNlcnMtYXBpLmF1dG9jb2luLXRyYWRlci5jb20vaWRzCgoKaWRlbnRpdHktc2VydmVyOiAjaHR0cHM6Ly91c2Vycy1hcGkuYXV0b2NvaW4tdHJhZGVyLmNvbS9pZHMvLndlbGwta25vd24vb3BlbmlkLWNvbmZpZ3VyYXRpb24KICBjbGllbnRJZDogQVBJCiAgY2xpZW50U2VjcmV0OiBrZGllY3NkZmFvd2VpcmplZmxrbmxza2RuZm9hd2llcm9qCiAgYWNjZXNzVG9rZW5Vcmk6ICR7aWRlbnRpdHlTZXJ2ZXJVcmx9L2Nvbm5lY3QvaW50cm9zcGVjdAogIGF1dGhvcml6YXRpb25Vcmk6ICR7aWRlbnRpdHlTZXJ2ZXJVcmx9L2Nvbm5lY3QvYXV0aG9yaXplCiAgdG9rZW5OYW1lOiBvYXV0aF90b2tlbgogIHNjb3BlOgogICAgLSBBUEkKCnNwcmluZzoKICBkYXRhc291cmNlOgogICAgdXJsOiBqZGJjOmhzcWxkYjptZW06ZGIvYXV0b2NvaW5kYgoKZmVhdHVyZXMubWFwLm1ha2VSZWFsT3JkZXI6IHRydWUKCmF1dG9jb2luLXN1YnNjcmlwdGlvbi1rZXk6IHNhbXBsZS1hdXRvY29pbi1rZXkKCmZha2VFeGNoYW5nZVJhbmRvbUZhaWx1cmU6IHRydWUKCmV4Y2hhbmdlLWhlYWx0aC1rZXlzLWxvY2F0aW9uOiBjbGFzc3BhdGg6L3NlY3VyZS1mb2xkZXIvYXV0b2NvaW4tc3RyYXRlZ3ktZXhlY3V0b3IvZXhjaGFuZ2UtaGVhbHRoLWtleXMucHJvcGVydGllcwoKZXhjaGFuZ2U6CiAgYWN0aXZlOgogICAgLSBiaXR0cmV4Cgpjc3ZSZXBvc2l0b3J5OgogIGZvbGRlcjogdGFyZ2V0LwogIHNob3VsZFNhdmU6IHRydWUKCnRpY2tlci1zZXJ2aWNlLmVuYWJsZWQ6IGZhbHNlCnJlbW90ZS1sb2ctc2VydmljZS5lbmFibGVkOiBmYWxzZQoKI2xvZ2dpbmcubGV2ZWwub3JnLmhpYmVybmF0ZS5TUUw6IERFQlVHCiNsb2dnaW5nLmxldmVsLm9yZy5oaWJlcm5hdGUuYXV0b21hdGUucHJvZml0LnN0cmF0ZWd5Lm1hbmFnZW1lbnQucGFyYW1ldGVycy5kZXNjcmlwdG9yLnNxbC5CYXNpY0JpbmRlcjogVFJBQ0UKI3NwcmluZy5qcGEucHJvcGVydGllcy5oaWJlcm5hdGUuYXV0b21hdGUucHJvZml0LnN0cmF0ZWd5Lm1hbmFnZW1lbnQucGFyYW1ldGVyczogdHJhY2UKbG9nZ2luZy5sZXZlbC5vcmcuc3ByaW5nZnJhbWV3b3JrLndlYjogZGVidWcK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHBvc3RGb3JUb2tlblJlZnJlc2gocmVmcmVzaFRva2VuOiBTdHJpbmcpOiBSZXNwb25zZUVudGl0eTw+IHsK</text>
       </register>
-      <register name="9" type="4">
-        <text>[
-            FEATURE_CREATE_STRATEGY,
-            FEATURE_STRATEGY_SELL_WHEN_SECOND_CURRENCY_GROWS,
-            FEATURE_STRATEGY_SELL_NOW,
-            FEATURE_STRATEGY_BUY_NOW
-        ];</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hdXRvQXBwcm92ZSh0cnVlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/char(36)/varchar(36)/g</text>
       </register>
     </registers>
     <search>
-      <last-search>bit</last-search>
+      <last-search>Salt</last-search>
       <last-offset />
-      <last-pattern>bit</last-pattern>
+      <last-pattern>Salt</last-pattern>
       <last-replace>varchar(36)</last-replace>
       <last-substitute>char(36)</last-substitute>
       <last-dir>1</last-dir>
@@ -301,7 +302,6 @@
     </search>
     <history>
       <history-search>
-        <entry>na</entry>
         <entry>tr</entry>
         <entry>Bu</entry>
         <entry>Counter curr</entry>
@@ -321,6 +321,7 @@
         <entry>char(36)</entry>
         <entry>char(</entry>
         <entry>bit</entry>
+        <entry>Salt</entry>
       </history-search>
       <history-cmd>
         <entry>%s/key-/id-/g</entry>
