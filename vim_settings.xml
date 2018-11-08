@@ -21,7 +21,11 @@
         <mark key="^" line="46" column="109" />
         <mark key="." line="22" column="10" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1541631677673" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1541706450124">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/config/TestDatasourceConfig.kt" timestamp="1541371451687">
         <mark key="[" line="4" column="0" />
       </file>
@@ -77,7 +81,7 @@
       <file name="E:/prj/autocoin-auth-service/README.md" timestamp="1541368560279">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1541663578519">
+      <file name="/dummy.sql" timestamp="1541706592974">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/tmp/autocoin_client_log_Exchange.sql" timestamp="1541631976274" />
@@ -246,7 +250,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>BIT</text>
+        <text>@autocoin-trader.com</text>
       </register>
       <register name="/" type="4">
         <text>VARBPCHAR</text>
