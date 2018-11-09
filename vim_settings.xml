@@ -6,8 +6,11 @@
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/DatasourceConfig.kt" timestamp="1541185447874">
         <mark key="[" line="114" column="55" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/pom.xml" timestamp="1541533729783">
-        <mark key="[" line="186" column="65" />
+      <file name="E:/prj/autocoin-auth-service/pom.xml" timestamp="1541762506840">
+        <mark key="[" line="52" column="21" />
+        <mark key="]" line="39" column="22" />
+        <mark key="^" line="39" column="22" />
+        <mark key="." line="39" column="22" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4bdb39f5-9ab9-49e9-baf5-4dd7e9c87229/console.sql" timestamp="1541752204765">
         <mark key="[" line="69" column="95" />
@@ -15,17 +18,12 @@
         <mark key="^" line="69" column="101" />
         <mark key="." line="69" column="41" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1541708519200">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/security/Principal.java" timestamp="1541752699204" />
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" timestamp="1541761278875">
-        <mark key="[" line="33" column="30" />
-        <mark key="]" line="23" column="2" />
-        <mark key="^" line="23" column="2" />
-        <mark key="." line="23" column="2" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" timestamp="1541763103146">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="22" column="2" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/autocoin_client_log.UserPassword [autocoin_client_log@138.201.226.51]" timestamp="1541185767540">
         <mark key="[" line="0" column="0" />
@@ -50,11 +48,11 @@
         <mark key="[" line="8" column="0" />
       </file>
       <file name="/UserAccount.kt" timestamp="1541623492274" />
-      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" timestamp="1541751720511">
-        <mark key="[" line="74" column="20" />
-        <mark key="]" line="74" column="20" />
-        <mark key="." line="74" column="20" />
-        <mark key="^" line="74" column="19" />
+      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" timestamp="1541762939028">
+        <mark key="[" line="54" column="45" />
+        <mark key="]" line="53" column="37" />
+        <mark key="." line="53" column="37" />
+        <mark key="^" line="53" column="37" />
       </file>
       <file name="/fragment.kt" timestamp="1541759489686">
         <mark key="[" line="0" column="0" />
@@ -106,6 +104,12 @@
         <mark key="^" line="9" column="45" />
         <mark key="." line="9" column="47" />
       </file>
+      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/Oauth2TokenTest.kt" timestamp="1541543542273">
+        <mark key="[" line="74" column="94" />
+        <mark key="]" line="74" column="95" />
+        <mark key="^" line="81" column="52" />
+        <mark key="." line="74" column="73" />
+      </file>
       <file name="E:/prj/autocoin-auth-service/src/test/resources/application-test.yml" timestamp="1541370940731">
         <mark key="[" line="0" column="0" />
       </file>
@@ -113,13 +117,25 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/tmp/autocoin_client_log_Exchange.sql" timestamp="1541631976274" />
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1541761260247">
-        <mark key="[" line="46" column="63" />
-        <mark key="]" line="46" column="63" />
-        <mark key="^" line="41" column="40" />
-        <mark key="." line="46" column="63" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1541762750106">
+        <mark key="[" line="39" column="137" />
+        <mark key="]" line="39" column="137" />
+        <mark key="." line="39" column="137" />
+        <mark key="^" line="39" column="136" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.1.RELEASE/spring-security-core-5.1.1.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetails.java" timestamp="1541759002826" />
+      <file name="/Dummy.txt" timestamp="1541763076137">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="35" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/Oauth2TokenClient.kt" timestamp="1541543600930">
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="23" column="32" />
+        <mark key="^" line="23" column="35" />
+        <mark key="." line="23" column="32" />
+      </file>
       <file name="E:/prj/autocoin-auth-service/.gitignore" timestamp="1541369016610">
         <mark key="[" line="1" column="5" />
       </file>
@@ -254,7 +270,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>name=${createExchangeUserDto.name}</text>
       </register>
       <register name="/" type="4">
         <text>VARBPCHAR</text>
@@ -262,40 +278,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGV4Y2hhbmdlVXNlclJlcG9zaXRvcnk6IEV4Y2hhbmdlVXNlclJlcG9zaXRvcnkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IEJvb2xlYW4gewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5IdHRwU3RhdHVzCg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IEJvb2xlYW4gewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQo=</text>
+        <text encoding="base64">IEJvb2xlYW4gewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQ==</text>
       </register>
       <register name="3" type="4">
-        <text>: String {
-        TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.
-    }</text>
+        <text encoding="base64">IEJvb2xlYW4gewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQo=</text>
       </register>
       <register name="4" type="4">
-        <text>: Boolean {
+        <text>: String {
         TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.
     }</text>
       </register>
       <register name="5" type="4">
-        <text>: String {
+        <text>: Boolean {
         TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.
     }</text>
       </register>
       <register name="6" type="4">
-        <text>{
+        <text>: String {
         TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.
     }</text>
       </register>
       <register name="7" type="4">
+        <text>{
+        TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.
+    }</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">OiBNdXRhYmxlQ29sbGVjdGlvbjxvdXQgR3JhbnRlZEF1dGhvcml0eT4gewogICAgICAgIGdyYW50ZWRBdXRob3JpdGllcw==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYWRtaW4gPSB1c2VyQWNjb3VudFNlcnZpY2UuY3JlYXRlVXNlcigiYWRtaW4iLCAiYWRtaW5fcGFzc3dvcmQiKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodXNlckFjY291bnRSZXBvc2l0b3J5LmV4aXN0c0J5SWQoZW1haWxBZGRyZXNzKSkgewogICAgICAgICAgICB0aHJvdyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oIlVzZXIgd2l0aCBlbWFpbCAkZW1haWxBZGRyZXNzIGFscmVhZHkgZXhpc3RzIikKICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYWRtaW4gPSB1c2VyQWNjb3VudFNlcnZpY2UuY3JlYXRlVXNlcigiYWRtaW4iLCAiYWRtaW5fcGFzc3dvcmQiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/VARBPCHAR/VARCHAR/g</text>
