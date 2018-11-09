@@ -48,12 +48,12 @@
         <mark key="[" line="8" column="0" />
       </file>
       <file name="/UserAccount.kt" timestamp="1541623492274" />
-      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" timestamp="1541766507443">
-        <mark key="'" line="33" column="64" />
-        <mark key="[" line="143" column="36" />
-        <mark key="]" line="143" column="36" />
-        <mark key="^" line="143" column="3" />
-        <mark key="." line="143" column="36" />
+      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" timestamp="1541771621564">
+        <mark key="'" line="37" column="68" />
+        <mark key="[" line="180" column="33" />
+        <mark key="]" line="186" column="58" />
+        <mark key="^" line="186" column="58" />
+        <mark key="." line="186" column="58" />
       </file>
       <file name="/fragment.kt" timestamp="1541759489686">
         <mark key="[" line="0" column="0" />
@@ -86,11 +86,11 @@
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/config/TestDatasourceConfig.kt" timestamp="1541371451687">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeRepository.kt" timestamp="1541769617793">
-        <mark key="[" line="112" column="1" />
-        <mark key="]" line="110" column="12" />
-        <mark key="^" line="110" column="12" />
-        <mark key="." line="110" column="12" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeRepository.kt" timestamp="1541772076773">
+        <mark key="[" line="114" column="1" />
+        <mark key="]" line="112" column="12" />
+        <mark key="^" line="112" column="12" />
+        <mark key="." line="112" column="12" />
       </file>
       <file name="/autocoin_client_log.Client [autocoin_client_log@138.201.226.51]" timestamp="1541663507759">
         <mark key="[" line="0" column="0" />
@@ -118,19 +118,19 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/tmp/autocoin_client_log_Exchange.sql" timestamp="1541631976274" />
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1541770089049">
-        <mark key="'" line="70" column="45" />
-        <mark key="[" line="70" column="45" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="69" column="0" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1541772554957">
+        <mark key="'" line="89" column="25" />
+        <mark key="[" line="109" column="60" />
+        <mark key="]" line="109" column="60" />
+        <mark key="." line="109" column="60" />
+        <mark key="^" line="110" column="23" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.1.RELEASE/spring-security-core-5.1.1.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetails.java" timestamp="1541759002826" />
-      <file name="/Dummy.txt" timestamp="1541763076137">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="35" />
-        <mark key="." line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1541772196219">
+        <mark key="[" line="0" column="66" />
+        <mark key="]" line="0" column="66" />
+        <mark key="^" line="0" column="65" />
+        <mark key="." line="0" column="66" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/Oauth2TokenClient.kt" timestamp="1541543600930">
         <mark key="[" line="23" column="32" />
@@ -165,8 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="96" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
-      <jump line="102" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="16" column="8" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/CurrencyMetadataApplier.kt" />
       <jump line="62" column="5" filename="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-binance/4.3.7/xchange-binance-4.3.7.jar!/binance.json" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-binance/4.3.7/xchange-binance-4.3.7.jar!/binance.json" />
@@ -265,19 +263,21 @@
       <jump line="49" column="33" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccount.kt" />
       <jump line="33" column="64" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" />
       <jump line="70" column="45" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" />
+      <jump line="37" column="68" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" />
+      <jump line="89" column="25" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;,</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>VARBPCHAR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGV4Y2hhbmdlVXNlclJlcG9zaXRvcnk6IEV4Y2hhbmdlVXNlclJlcG9zaXRvcnkK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGV4Y2hhbmdlUmVwb3NpdG9yeTogRXhjaGFuZ2VSZXBvc2l0b3J5Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5zYXZlKEV4Y2hhbmdlVXNlcigKICAgICAgICAgICAgICAgIGlkID0gCiAgICAgICAgKSkK</text>
