@@ -70,7 +70,7 @@
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" timestamp="1541716106419">
         <mark key="[" line="53" column="17" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccount.kt" timestamp="1541630711499">
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccount.kt" timestamp="1541768311836">
         <mark key="'" line="49" column="33" />
         <mark key="[" line="21" column="36" />
         <mark key="]" line="21" column="36" />
@@ -86,11 +86,11 @@
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/config/TestDatasourceConfig.kt" timestamp="1541371451687">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeRepository.kt" timestamp="1541767780333">
-        <mark key="[" line="41" column="32" />
-        <mark key="]" line="41" column="32" />
-        <mark key="^" line="42" column="65" />
-        <mark key="." line="41" column="32" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeRepository.kt" timestamp="1541769617793">
+        <mark key="[" line="112" column="1" />
+        <mark key="]" line="110" column="12" />
+        <mark key="^" line="110" column="12" />
+        <mark key="." line="110" column="12" />
       </file>
       <file name="/autocoin_client_log.Client [autocoin_client_log@138.201.226.51]" timestamp="1541663507759">
         <mark key="[" line="0" column="0" />
@@ -118,11 +118,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/tmp/autocoin_client_log_Exchange.sql" timestamp="1541631976274" />
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1541767551628">
-        <mark key="[" line="53" column="26" />
-        <mark key="]" line="17" column="11" />
-        <mark key="." line="17" column="11" />
-        <mark key="^" line="17" column="10" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1541770089049">
+        <mark key="'" line="70" column="45" />
+        <mark key="[" line="70" column="45" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="69" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.1.RELEASE/spring-security-core-5.1.1.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetails.java" timestamp="1541759002826" />
       <file name="/Dummy.txt" timestamp="1541763076137">
@@ -164,7 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="56" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
       <jump line="89" column="96" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
       <jump line="102" column="0" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="16" column="8" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/CurrencyMetadataApplier.kt" />
@@ -264,6 +264,7 @@
       <jump line="50" column="8" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccount.kt" />
       <jump line="49" column="33" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccount.kt" />
       <jump line="33" column="64" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" />
+      <jump line="70" column="45" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
