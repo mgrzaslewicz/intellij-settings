@@ -37,11 +37,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3baa1f22-6603-448b-a5d0-35fbee98abd7/console.sql" timestamp="1541706641578">
         <mark key="[" line="19" column="106" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/SecurityConfig.kt" timestamp="1541756546824">
-        <mark key="[" line="38" column="43" />
-        <mark key="]" line="44" column="25" />
-        <mark key="^" line="41" column="13" />
-        <mark key="." line="44" column="25" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/SecurityConfig.kt" timestamp="1541759252158">
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="37" column="43" />
+        <mark key="^" line="37" column="43" />
+        <mark key="." line="37" column="43" />
       </file>
       <file name="/autocoin_client_log.ExchangeKey [autocoin_client_log@138.201.226.51]" timestamp="1541350944900">
         <mark key="[" line="0" column="0" />
@@ -56,7 +56,7 @@
         <mark key="." line="74" column="20" />
         <mark key="^" line="74" column="19" />
       </file>
-      <file name="/fragment.kt" timestamp="1541753664491">
+      <file name="/fragment.kt" timestamp="1541759489686">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/autocoin_client_log.ClientLog [autocoin_client_log@138.201.226.51]" timestamp="1541711247762">
@@ -113,12 +113,13 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/tmp/autocoin_client_log_Exchange.sql" timestamp="1541631976274" />
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1541758242717">
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1541759551817">
         <mark key="[" line="50" column="57" />
         <mark key="]" line="47" column="39" />
         <mark key="^" line="41" column="40" />
         <mark key="." line="47" column="39" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.1.RELEASE/spring-security-core-5.1.1.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetails.java" timestamp="1541759002826" />
       <file name="E:/prj/autocoin-auth-service/.gitignore" timestamp="1541369016610">
         <mark key="[" line="1" column="5" />
       </file>
@@ -253,7 +254,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>VARBPCHAR</text>
@@ -261,32 +262,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGV4Y2hhbmdlVXNlclJlcG9zaXRvcnk6IEV4Y2hhbmdlVXNlclJlcG9zaXRvcnkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYWRtaW4gPSB1c2VyQWNjb3VudFNlcnZpY2UuY3JlYXRlVXNlcigiYWRtaW4iLCAiYWRtaW5fcGFzc3dvcmQiKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IEJvb2xlYW4gewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodXNlckFjY291bnRSZXBvc2l0b3J5LmV4aXN0c0J5SWQoZW1haWxBZGRyZXNzKSkgewogICAgICAgICAgICB0aHJvdyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oIlVzZXIgd2l0aCBlbWFpbCAkZW1haWxBZGRyZXNzIGFscmVhZHkgZXhpc3RzIikKICAgIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IEJvb2xlYW4gewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5UcmFuc2FjdGlvbmFsCg==</text>
+      <register name="3" type="4">
+        <text>: String {
+        TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.
+    }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC50ZXN0LmF1dG9jb25maWd1cmUub3JtLmpwYS5EYXRhSnBhVGVzdAo=</text>
+      <register name="4" type="4">
+        <text>: Boolean {
+        TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.
+    }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC50ZXN0LmF1dG9jb25maWd1cmUuamRiYy5BdXRvQ29uZmlndXJlVGVzdERhdGFiYXNlCg==</text>
+      <register name="5" type="4">
+        <text>: String {
+        TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.
+    }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5qZGJjLkVtYmVkZGVkRGF0YWJhc2VDb25uZWN0aW9uCg==</text>
+      <register name="6" type="4">
+        <text>{
+        TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.
+    }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAQ29sdW1uKGNvbHVtbkRlZmluaXRpb24gPSAiVkFSQ0hBUigxMDI0KSIsIG51bGxhYmxlID0gZmFsc2UpCiAgICAgICAgdmFsIHBhc3N3b3JkU2FsdDogU3RyaW5nID0gIiIsCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">OiBNdXRhYmxlQ29sbGVjdGlvbjxvdXQgR3JhbnRlZEF1dGhvcml0eT4gewogICAgICAgIGdyYW50ZWRBdXRob3JpdGllcw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEF1dGhTZXJ2aWNlQXBwbGljYXRpb24ubWFpbigpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYWRtaW4gPSB1c2VyQWNjb3VudFNlcnZpY2UuY3JlYXRlVXNlcigiYWRtaW4iLCAiYWRtaW5fcGFzc3dvcmQiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlRhYmxlCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodXNlckFjY291bnRSZXBvc2l0b3J5LmV4aXN0c0J5SWQoZW1haWxBZGRyZXNzKSkgewogICAgICAgICAgICB0aHJvdyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oIlVzZXIgd2l0aCBlbWFpbCAkZW1haWxBZGRyZXNzIGFscmVhZHkgZXhpc3RzIikKICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/VARBPCHAR/VARCHAR/g</text>
