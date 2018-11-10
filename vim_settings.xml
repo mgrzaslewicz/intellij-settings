@@ -151,12 +151,12 @@
       <file name="E:/prj/autocoin-auth-service/.gitignore" timestamp="1541369016610">
         <mark key="[" line="1" column="5" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" timestamp="1541855974302">
-        <mark key="'" line="14" column="2" />
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="16" column="51" />
-        <mark key="^" line="16" column="51" />
-        <mark key="." line="16" column="51" />
+      <file name="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" timestamp="1541859029880">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/models/client.ts" timestamp="1541778344101">
         <mark key="[" line="0" column="0" />
@@ -276,8 +276,8 @@
       <jump line="23" column="2" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="24" column="86" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="25" column="44" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
-      <jump line="0" column="13" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="14" column="2" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -287,10 +287,10 @@
         <text>;sql.syntax_pgs=true</text>
       </register>
       <register name="/" type="4">
-        <text>user_account</text>
+        <text>create table</text>
       </register>
       <register name="0" type="4">
-        <text>useSpringAuthService</text>
+        <text>create table</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5hcGkucHV0KGAke3RoaXMuY2xpZW50c0FwaVVybERlcHJlY2F0ZWR9L2NsaWVudHMvJHtjbGllbnRJZH1gLCBkYXRhKTsK</text>
@@ -326,21 +326,20 @@
     }</text>
       </register>
       <register name=":" type="4">
-        <text>%s/VARBPCHAR/VARCHAR/g</text>
+        <text>%s/create table/create table if not exists/g</text>
       </register>
     </registers>
     <search>
-      <last-search>user_account</last-search>
+      <last-search>create table</last-search>
       <last-offset />
-      <last-pattern>user_account</last-pattern>
-      <last-replace>VARCHAR</last-replace>
-      <last-substitute>VARBPCHAR</last-substitute>
+      <last-pattern>create table</last-pattern>
+      <last-replace>create table if not exists</last-replace>
+      <last-substitute>create table</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>maxBaseCurrencyPercentForSelling</entry>
         <entry>di</entry>
         <entry>on</entry>
         <entry>auto</entry>
@@ -360,9 +359,9 @@
         <entry>BOOLEAN</entry>
         <entry>VARBPCHAR</entry>
         <entry>user_account</entry>
+        <entry>create table</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/getStrategyProviderName()/strategyName!!/g</entry>
         <entry>%s/LastTrade/LastExecution/g</entry>
         <entry>%s/PreviousTrade/PreviousExecution</entry>
         <entry>%s/autocoin-order-service/autocoin-strategy-executor/g</entry>
@@ -382,6 +381,7 @@
         <entry>%s/CHAR(/BPCHAR(/g</entry>
         <entry>%s/BOOLEAN/BIT/g</entry>
         <entry>%s/VARBPCHAR/VARCHAR/g</entry>
+        <entry>%s/create table/create table if not exists/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
