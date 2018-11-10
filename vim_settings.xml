@@ -38,11 +38,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3baa1f22-6603-448b-a5d0-35fbee98abd7/console.sql" timestamp="1541706641578">
         <mark key="[" line="19" column="106" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/SecurityConfig.kt" timestamp="1541843471523">
-        <mark key="[" line="84" column="24" />
-        <mark key="]" line="37" column="43" />
-        <mark key="^" line="37" column="43" />
-        <mark key="." line="37" column="43" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/SecurityConfig.kt" timestamp="1541855148649">
+        <mark key="'" line="99" column="67" />
+        <mark key="[" line="93" column="15" />
+        <mark key="]" line="93" column="15" />
+        <mark key="^" line="93" column="15" />
+        <mark key="." line="93" column="15" />
       </file>
       <file name="/autocoin_client_log.ExchangeKey [autocoin_client_log@138.201.226.51]" timestamp="1541350944900">
         <mark key="[" line="0" column="0" />
@@ -132,7 +133,7 @@
       <file name="/dummy.sql" timestamp="1541783205951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541849234606">
+      <file name="/Dummy.txt" timestamp="1541855244428">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="66" />
         <mark key="^" line="0" column="65" />
@@ -147,11 +148,12 @@
       <file name="E:/prj/autocoin-auth-service/.gitignore" timestamp="1541369016610">
         <mark key="[" line="1" column="5" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" timestamp="1541783711212">
-        <mark key="'" line="5" column="31" />
-        <mark key="]" line="38" column="22" />
-        <mark key="^" line="38" column="22" />
-        <mark key="." line="38" column="22" />
+      <file name="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" timestamp="1541855625814">
+        <mark key="'" line="14" column="2" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="16" column="51" />
+        <mark key="^" line="16" column="51" />
+        <mark key="." line="16" column="51" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/models/client.ts" timestamp="1541778344101">
         <mark key="[" line="0" column="0" />
@@ -173,11 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-binance/4.3.7/xchange-binance-4.3.7.jar!/binance.json" />
-      <jump line="103" column="5" filename="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-binance/4.3.7/xchange-binance-4.3.7.jar!/binance.json" />
-      <jump line="132" column="12" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
-      <jump line="60" column="12" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
-      <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
       <jump line="216" column="135" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="56" column="12" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/StrategiesController.kt" />
       <jump line="15" column="52" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersMerger.kt" />
@@ -242,7 +239,6 @@
       <jump line="9" column="0" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/RunLocal.kt" />
       <jump line="7" column="43" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/RunLocal.kt" />
       <jump line="20" column="17" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
-      <jump line="0" column="0" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="1" column="28" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="2" column="28" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="3" column="28" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
@@ -250,10 +246,8 @@
       <jump line="5" column="28" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="7" column="28" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="15" column="21" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
-      <jump line="16" column="21" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="21" column="21" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="22" column="21" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
-      <jump line="23" column="21" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="28" column="13" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="30" column="13" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="34" column="22" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
@@ -273,16 +267,24 @@
       <jump line="89" column="25" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" />
       <jump line="111" column="64" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" />
       <jump line="69" column="36" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" />
+      <jump line="99" column="67" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/SecurityConfig.kt" />
+      <jump line="16" column="83" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
+      <jump line="17" column="49" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
+      <jump line="23" column="2" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
+      <jump line="24" column="86" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
+      <jump line="25" column="44" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
+      <jump line="0" column="13" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
+      <jump line="14" column="2" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>VARBPCHAR</text>
+        <text>user_account</text>
       </register>
       <register name="0" type="4">
         <text>useSpringAuthService</text>
@@ -325,9 +327,9 @@
       </register>
     </registers>
     <search>
-      <last-search>VARBPCHAR</last-search>
+      <last-search>user_account</last-search>
       <last-offset />
-      <last-pattern>VARBPCHAR</last-pattern>
+      <last-pattern>user_account</last-pattern>
       <last-replace>VARCHAR</last-replace>
       <last-substitute>VARBPCHAR</last-substitute>
       <last-dir>1</last-dir>
@@ -335,7 +337,6 @@
     </search>
     <history>
       <history-search>
-        <entry>maxCounterCurrencyPercentForBuying</entry>
         <entry>maxBaseCurrencyPercentForSelling</entry>
         <entry>di</entry>
         <entry>on</entry>
@@ -355,6 +356,7 @@
         <entry>CHAR(</entry>
         <entry>BOOLEAN</entry>
         <entry>VARBPCHAR</entry>
+        <entry>user_account</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getStrategyProviderName()/strategyName!!/g</entry>
