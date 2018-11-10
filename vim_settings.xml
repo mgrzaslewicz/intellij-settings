@@ -61,6 +61,13 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" timestamp="1541779950126">
         <mark key="[" line="99" column="5" />
       </file>
+      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" timestamp="1541892373568">
+        <mark key="'" line="69" column="36" />
+        <mark key="[" line="185" column="44" />
+        <mark key="]" line="193" column="21" />
+        <mark key="^" line="193" column="21" />
+        <mark key="." line="193" column="21" />
+      </file>
       <file name="/fragment.kt" timestamp="1541759489686">
         <mark key="[" line="0" column="0" />
       </file>
@@ -95,6 +102,13 @@
         <mark key="[" line="53" column="17" />
       </file>
       <file name="/application-test.yml" timestamp="1541890472608" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccount.kt" timestamp="1541768311836">
+        <mark key="'" line="49" column="33" />
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="36" />
+        <mark key="^" line="25" column="42" />
+        <mark key="." line="21" column="42" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/auth.service.ts" timestamp="1541784352039">
         <mark key="[" line="8" column="38" />
       </file>
@@ -108,7 +122,7 @@
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/config/TestDatasourceConfig.kt" timestamp="1541371451687">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeRepository.kt" timestamp="1541891450442">
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeRepository.kt" timestamp="1541891778570">
         <mark key="[" line="126" column="12" />
         <mark key="]" line="126" column="84" />
         <mark key="^" line="126" column="20" />
@@ -119,6 +133,13 @@
       </file>
       <file name="/autocoin_client_log.Exchange [autocoin_client_log@138.201.226.51]" timestamp="1541781023697">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/RunLocal.kt" timestamp="1541622804558">
+        <mark key="'" line="7" column="43" />
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="9" column="47" />
+        <mark key="^" line="9" column="45" />
+        <mark key="." line="9" column="47" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/AllowOptionsRequestsConfig.kt" timestamp="1541849128396">
         <mark key="[" line="9" column="0" />
@@ -138,12 +159,12 @@
       <file name="/dummy.sql" timestamp="1541783205951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1541890558451">
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1541891717689">
         <mark key="'" line="111" column="64" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="112" column="84" />
-        <mark key="." line="112" column="84" />
-        <mark key="^" line="112" column="84" />
+        <mark key="[" line="126" column="63" />
+        <mark key="]" line="126" column="63" />
+        <mark key="." line="126" column="63" />
+        <mark key="^" line="121" column="65" />
       </file>
       <file name="/Dummy.txt" timestamp="1541890484898">
         <mark key="[" line="0" column="0" />
@@ -293,13 +314,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>.isPresent</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>create table</text>
       </register>
       <register name="0" type="4">
-        <text>create table</text>
+        <text>exchangeUserId</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5hcGkucHV0KGAke3RoaXMuY2xpZW50c0FwaVVybERlcHJlY2F0ZWR9L2NsaWVudHMvJHtjbGllbnRJZH1gLCBkYXRhKTsK</text>
