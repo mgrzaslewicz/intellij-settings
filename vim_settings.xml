@@ -29,6 +29,7 @@
         <mark key="^" line="22" column="2" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="E:/prj/autocoin-auth-service/src/main/resources/application.yml" timestamp="1541855724023" />
       <file name="/autocoin_client_log.UserPassword [autocoin_client_log@138.201.226.51]" timestamp="1541185767540">
         <mark key="[" line="0" column="0" />
       </file>
@@ -127,8 +128,10 @@
         <mark key="^" line="81" column="52" />
         <mark key="." line="74" column="73" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/test/resources/application-test.yml" timestamp="1541370940731">
-        <mark key="[" line="0" column="0" />
+      <file name="E:/prj/autocoin-auth-service/src/test/resources/application-test.yml" timestamp="1541856322027">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="38" />
+        <mark key="." line="4" column="38" />
       </file>
       <file name="/dummy.sql" timestamp="1541783205951">
         <mark key="[" line="0" column="0" />
@@ -148,9 +151,9 @@
       <file name="E:/prj/autocoin-auth-service/.gitignore" timestamp="1541369016610">
         <mark key="[" line="1" column="5" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" timestamp="1541855625814">
+      <file name="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" timestamp="1541855974302">
         <mark key="'" line="14" column="2" />
-        <mark key="[" line="0" column="13" />
+        <mark key="[" line="0" column="12" />
         <mark key="]" line="16" column="51" />
         <mark key="^" line="16" column="51" />
         <mark key="." line="16" column="51" />
@@ -281,7 +284,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;sql.syntax_pgs=true</text>
       </register>
       <register name="/" type="4">
         <text>user_account</text>
