@@ -119,7 +119,9 @@
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/config/TestDatasourceConfig.kt" timestamp="1541371451687">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeRepository.kt" timestamp="1541966720627">
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeRepository.kt" timestamp="1541978437785">
+        <mark key="'" line="152" column="69" />
+        <mark key="[" line="150" column="5" />
         <mark key="]" line="121" column="14" />
         <mark key="^" line="121" column="14" />
         <mark key="." line="121" column="14" />
@@ -161,7 +163,7 @@
       <file name="/dummy.sql" timestamp="1541783205951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1541977014781">
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1541978493626">
         <mark key="'" line="111" column="64" />
         <mark key="[" line="65" column="5" />
         <mark key="]" line="65" column="5" />
@@ -210,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="12" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/StrategiesController.kt" />
       <jump line="15" column="52" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersMerger.kt" />
       <jump line="25" column="11" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
       <jump line="99" column="4" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
@@ -310,6 +311,7 @@
       <jump line="14" column="2" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="0" column="0" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="3" column="8" filename="E:/prj/autocoin-trader-frontend/src/app/services/api/exchangeusers/exchange-users.service.ts" />
+      <jump line="152" column="69" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeRepository.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
