@@ -12,12 +12,6 @@
         <mark key="^" line="39" column="22" />
         <mark key="." line="39" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4bdb39f5-9ab9-49e9-baf5-4dd7e9c87229/console.sql" timestamp="1541783935369">
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="83" column="41" />
-        <mark key="^" line="83" column="101" />
-        <mark key="." line="83" column="41" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1541783237848">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="25" />
@@ -41,6 +35,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3baa1f22-6603-448b-a5d0-35fbee98abd7/console.sql" timestamp="1541706641578">
         <mark key="[" line="19" column="106" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/models/index.ts" timestamp="1541976306048">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
       <file name="E:/prj/autocoin-auth-service/doc/requestOauthToken.sh" timestamp="1541969978076" />
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/SecurityConfig.kt" timestamp="1541855148649">
         <mark key="'" line="99" column="67" />
@@ -55,11 +54,12 @@
       <file name="E:/prj/autocoin-auth-service/README.md" timestamp="1541368560279">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/exchangeusers/exchange-users.service.ts" timestamp="1541784363879">
-        <mark key="[" line="11" column="52" />
-        <mark key="]" line="123" column="93" />
-        <mark key="^" line="126" column="5" />
-        <mark key="." line="123" column="0" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/exchangeusers/exchange-users.service.ts" timestamp="1541976541354">
+        <mark key="'" line="3" column="8" />
+        <mark key="[" line="99" column="12" />
+        <mark key="]" line="99" column="12" />
+        <mark key="^" line="99" column="12" />
+        <mark key="." line="99" column="12" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" timestamp="1541779950126">
         <mark key="[" line="99" column="5" />
@@ -96,13 +96,16 @@
       <file name="/autocoin_client_log.Permission [autocoin_client_log@138.201.226.51]" timestamp="1541447784514">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/clients/client-edit/client-edit.component.ts" timestamp="1541778272193">
-        <mark key="[" line="17" column="0" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/clients/client-edit/client-edit.component.ts" timestamp="1541976659067">
+        <mark key="[" line="65" column="63" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" timestamp="1541716106419">
         <mark key="[" line="53" column="17" />
       </file>
       <file name="/application-test.yml" timestamp="1541890472608" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" timestamp="1541976076570">
+        <mark key="[" line="54" column="22" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/auth.service.ts" timestamp="1541784352039">
         <mark key="[" line="8" column="38" />
       </file>
@@ -124,8 +127,14 @@
       <file name="/autocoin_client_log.Client [autocoin_client_log@138.201.226.51]" timestamp="1541781026082">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/clients/client-delete/client-delete.component.ts" timestamp="1541976502650">
+        <mark key="[" line="40" column="14" />
+      </file>
       <file name="/autocoin_client_log.Exchange [autocoin_client_log@138.201.226.51]" timestamp="1541781023697">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/clients/client-create/client-create.component.ts" timestamp="1541976478377">
+        <mark key="[" line="27" column="16" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/RunLocal.kt" timestamp="1541969883027">
         <mark key="'" line="7" column="43" />
@@ -152,14 +161,14 @@
       <file name="/dummy.sql" timestamp="1541783205951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1541966576449">
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1541977014781">
         <mark key="'" line="111" column="64" />
         <mark key="[" line="65" column="5" />
         <mark key="]" line="65" column="5" />
         <mark key="." line="65" column="5" />
         <mark key="^" line="140" column="225" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541967077414">
+      <file name="/Dummy.txt" timestamp="1541976781547">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="66" />
         <mark key="^" line="0" column="65" />
@@ -181,8 +190,8 @@
         <mark key="^" line="37" column="21" />
         <mark key="." line="37" column="21" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/models/client.ts" timestamp="1541778344101">
-        <mark key="[" line="0" column="0" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/models/client.ts" timestamp="1541975867613">
+        <mark key="[" line="1" column="13" />
       </file>
       <file name="/autocoin_client_log.User [autocoin_client_log@138.201.226.51]" timestamp="1541781028028">
         <mark key="[" line="0" column="0" />
@@ -201,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="135" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="56" column="12" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/StrategiesController.kt" />
       <jump line="15" column="52" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersMerger.kt" />
       <jump line="25" column="11" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
@@ -301,16 +309,17 @@
       <jump line="25" column="44" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="14" column="2" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="0" column="0" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
+      <jump line="3" column="8" filename="E:/prj/autocoin-trader-frontend/src/app/services/api/exchangeusers/exchange-users.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>OrUpdate</text>
+        <text>client</text>
       </register>
       <register name="/" type="4">
-        <text>create table</text>
+        <text encoding="base64">XDxFeGNoYW5nZVVzZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>exchangeUserId</text>
@@ -353,9 +362,9 @@
       </register>
     </registers>
     <search>
-      <last-search>create table</last-search>
+      <last-search encoding="base64">XDxFeGNoYW5nZVVzZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>create table</last-pattern>
+      <last-pattern encoding="base64">XDxFeGNoYW5nZVVzZXJcPg==</last-pattern>
       <last-replace>create table if not exists</last-replace>
       <last-substitute>create table</last-substitute>
       <last-dir>1</last-dir>
@@ -363,7 +372,6 @@
     </search>
     <history>
       <history-search>
-        <entry>di</entry>
         <entry>on</entry>
         <entry>auto</entry>
         <entry>AP</entry>
@@ -383,6 +391,7 @@
         <entry>VARBPCHAR</entry>
         <entry>user_account</entry>
         <entry>create table</entry>
+        <entry encoding="base64">XDxFeGNoYW5nZVVzZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/LastTrade/LastExecution/g</entry>
