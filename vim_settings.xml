@@ -61,12 +61,10 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" timestamp="1541779950126">
         <mark key="[" line="99" column="5" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" timestamp="1541964592876">
+      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" timestamp="1541966467305">
         <mark key="'" line="69" column="36" />
-        <mark key="[" line="185" column="44" />
-        <mark key="]" line="230" column="31" />
-        <mark key="^" line="230" column="31" />
-        <mark key="." line="230" column="31" />
+        <mark key="[" line="250" column="19" />
+        <mark key="^" line="240" column="70" />
       </file>
       <file name="/fragment.kt" timestamp="1541759489686">
         <mark key="[" line="0" column="0" />
@@ -115,10 +113,10 @@
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/config/TestDatasourceConfig.kt" timestamp="1541371451687">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeRepository.kt" timestamp="1541964402763">
-        <mark key="]" line="124" column="14" />
-        <mark key="^" line="124" column="14" />
-        <mark key="." line="124" column="14" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeRepository.kt" timestamp="1541966720627">
+        <mark key="]" line="121" column="14" />
+        <mark key="^" line="121" column="14" />
+        <mark key="." line="121" column="14" />
       </file>
       <file name="/autocoin_client_log.Client [autocoin_client_log@138.201.226.51]" timestamp="1541781026082">
         <mark key="[" line="0" column="0" />
@@ -144,14 +142,14 @@
       <file name="/dummy.sql" timestamp="1541783205951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1541964566834">
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1541966576449">
         <mark key="'" line="111" column="64" />
-        <mark key="[" line="140" column="226" />
-        <mark key="]" line="140" column="226" />
-        <mark key="." line="140" column="226" />
+        <mark key="[" line="65" column="5" />
+        <mark key="]" line="65" column="5" />
+        <mark key="." line="65" column="5" />
         <mark key="^" line="140" column="225" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541892540143">
+      <file name="/Dummy.txt" timestamp="1541967077414">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="66" />
         <mark key="^" line="0" column="65" />
@@ -299,7 +297,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZvciBub24gZXhpc3RpbmcgZXhjaGFuZ2UgdXNlcg==</text>
+        <text>exchangeKeyRepository.findAll()</text>
       </register>
       <register name="/" type="4">
         <text>create table</text>
