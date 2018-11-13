@@ -135,11 +135,11 @@
         <mark key="^" line="6" column="55" />
         <mark key="." line="6" column="55" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/AllowOptionsRequestsConfig.kt" timestamp="1542137860531">
-        <mark key="[" line="18" column="48" />
-        <mark key="]" line="23" column="60" />
-        <mark key="^" line="23" column="60" />
-        <mark key="." line="23" column="60" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/AllowOptionsRequestsConfig.kt" timestamp="1542150495443">
+        <mark key="'" line="9" column="9" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/Oauth2TokenTest.kt" timestamp="1541543542273">
         <mark key="[" line="74" column="94" />
@@ -162,7 +162,7 @@
         <mark key="." line="166" column="11" />
         <mark key="^" line="162" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542148540686">
+      <file name="/Dummy.txt" timestamp="1542150483310">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="66" />
         <mark key="^" line="0" column="65" />
@@ -204,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="52" filename="E:/prj/autocoin-strategy-executor/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParametersMerger.kt" />
       <jump line="25" column="11" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
       <jump line="99" column="4" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
       <jump line="41" column="82" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
@@ -304,61 +303,56 @@
       <jump line="0" column="0" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="3" column="8" filename="E:/prj/autocoin-trader-frontend/src/app/services/api/exchangeusers/exchange-users.service.ts" />
       <jump line="152" column="69" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeRepository.kt" />
+      <jump line="9" column="9" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/AllowOptionsRequestsConfig.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">QWNjZXNzLUNvbnRyb2wtQWxsb3ctSGVhZGVycywgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1NZXRob2QsIEFjY2Vzcy1Db250cm9sLVJlcXVlc3QtSGVhZGVycywg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFeGNoYW5nZVVzZXJcPg==</text>
+        <text>Control</text>
       </register>
       <register name="0" type="4">
         <text>exchangeUserId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5hcGkucHV0KGAke3RoaXMuY2xpZW50c0FwaVVybERlcHJlY2F0ZWR9L2NsaWVudHMvJHtjbGllbnRJZH1gLCBkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVVc2VyQWNjb3VudEluRGIoInNvbWUtb3RoZXItdXNlckAhQCMuY29tIiwgInNvbWUgcGFzc3dvcmQiKQo=</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLnNldEhlYWRlcigiQWNjZXNzLUNvbnRyb2wtQWxsb3ctSGVhZGVycyIsICJBY2Nlc3MtQ29udHJvbC1BbGxvdy1IZWFkZXJzLCBBY2Nlc3MtQ29udHJvbC1SZXF1ZXN0LU1ldGhvZCwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1IZWFkZXJzIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zYXZlKEV4Y2hhbmdlVXNlcigKICAgICAgICAgICAgICAgIGlkID0gCiAgICAgICAgKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5hcGkucHV0KGAke3RoaXMuY2xpZW50c0FwaVVybERlcHJlY2F0ZWR9L2NsaWVudHMvJHtjbGllbnRJZH1gLCBkYXRhKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjcmVhdGVVc2VyQWNjb3VudEluRGIoInNvbWUtb3RoZXItdXNlckAhQCMuY29tIiwgInNvbWUgcGFzc3dvcmQiKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zYXZlKEV4Y2hhbmdlVXNlcigKICAgICAgICAgICAgICAgIGlkID0gCiAgICAgICAgKSkK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5IdHRwU3RhdHVzCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IEJvb2xlYW4gewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQ==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IEJvb2xlYW4gewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>: String {
-        TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.
-    }</text>
-      </register>
-      <register name="8" type="4">
-        <text>: Boolean {
-        TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.
-    }</text>
-      </register>
       <register name="9" type="4">
-        <text>: String {
-        TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.
-    }</text>
+        <text encoding="base64">IEJvb2xlYW4gewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/create table/create table if not exists/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFeGNoYW5nZVVzZXJcPg==</last-search>
+      <last-search>Control</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFeGNoYW5nZVVzZXJcPg==</last-pattern>
+      <last-pattern>Control</last-pattern>
       <last-replace>create table if not exists</last-replace>
       <last-substitute>create table</last-substitute>
       <last-dir>1</last-dir>
@@ -366,8 +360,6 @@
     </search>
     <history>
       <history-search>
-        <entry>on</entry>
-        <entry>auto</entry>
         <entry>AP</entry>
         <entry>TokenSt</entry>
         <entry>Beare</entry>
@@ -386,6 +378,8 @@
         <entry>user_account</entry>
         <entry>create table</entry>
         <entry encoding="base64">XDxFeGNoYW5nZVVzZXJcPg==</entry>
+        <entry>Cache</entry>
+        <entry>Control</entry>
       </history-search>
       <history-cmd>
         <entry>%s/LastTrade/LastExecution/g</entry>
