@@ -57,9 +57,12 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" timestamp="1541779950126">
         <mark key="[" line="99" column="5" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" timestamp="1542154332217">
+      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" timestamp="1542319801816">
         <mark key="'" line="69" column="36" />
-        <mark key="[" line="285" column="0" />
+        <mark key="[" line="143" column="33" />
+        <mark key="]" line="148" column="20" />
+        <mark key="^" line="148" column="20" />
+        <mark key="." line="148" column="20" />
       </file>
       <file name="/fragment.kt" timestamp="1541759489686">
         <mark key="[" line="0" column="0" />
@@ -101,8 +104,8 @@
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/config/TestDatasourceConfig.kt" timestamp="1541371451687">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeRepository.kt" timestamp="1542139789096">
-        <mark key="'" line="153" column="69" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeRepository.kt" timestamp="1542319288072">
+        <mark key="'" line="169" column="69" />
       </file>
       <file name="/autocoin_client_log.Client [autocoin_client_log@138.201.226.51]" timestamp="1541781026082">
         <mark key="[" line="0" column="0" />
@@ -115,13 +118,6 @@
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/clients/client-create/client-create.component.ts" timestamp="1541976478377">
         <mark key="[" line="27" column="16" />
-      </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/RunLocal.kt" timestamp="1541969883027">
-        <mark key="'" line="7" column="43" />
-        <mark key="[" line="6" column="56" />
-        <mark key="]" line="6" column="55" />
-        <mark key="^" line="6" column="55" />
-        <mark key="." line="6" column="55" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/AllowOptionsRequestsConfig.kt" timestamp="1542154463326">
         <mark key="'" line="9" column="9" />
@@ -137,12 +133,11 @@
       <file name="/dummy.sql" timestamp="1541783205951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1542140695391">
-        <mark key="'" line="111" column="64" />
-        <mark key="[" line="154" column="33" />
-        <mark key="]" line="166" column="11" />
-        <mark key="." line="166" column="11" />
-        <mark key="^" line="162" column="13" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1542319447484">
+        <mark key="'" line="131" column="64" />
+        <mark key="[" line="77" column="54" />
+        <mark key="]" line="77" column="54" />
+        <mark key="." line="77" column="54" />
       </file>
       <file name="/Dummy.txt" timestamp="1542154782593">
         <mark key="[" line="0" column="0" />
@@ -159,13 +154,6 @@
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/app.module.ts" timestamp="1542314170399">
         <mark key="[" line="0" column="41" />
-      </file>
-      <file name="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" timestamp="1541890388595">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="37" column="19" />
-        <mark key="]" line="37" column="21" />
-        <mark key="^" line="37" column="21" />
-        <mark key="." line="37" column="21" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/models/client.ts" timestamp="1541975867613">
         <mark key="[" line="1" column="13" />
@@ -290,7 +278,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>statusCode</text>
+        <text>test-user-name</text>
       </register>
       <register name="/" type="4">
         <text>this.api</text>
@@ -299,31 +287,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8qICAgICovLmNvbmZpZ3VyYXRpb25Tb3VyY2UoY29yc0NvbmZpZ3VyYXRpb25Tb3VyY2UoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVzcG9uc2VFbnRpdHkub2sobmV3RXhjaGFuZ2VVc2VyLmlkKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLnNldEhlYWRlcigiQWNjZXNzLUNvbnRyb2wtQWxsb3ctSGVhZGVycyIsICJBY2Nlc3MtQ29udHJvbC1BbGxvdy1IZWFkZXJzLCBBY2Nlc3MtQ29udHJvbC1SZXF1ZXN0LU1ldGhvZCwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1IZWFkZXJzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG5ld0V4Y2hhbmdlVXNlciA9IGV4Y2hhbmdlVXNlclNlcnZpY2UuY3JlYXRlKHVzZXJBY2NvdW50RGV0YWlscy5pZCwgdXBkYXRlRXhjaGFuZ2VVc2VyRHRvLm5hbWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFkUmVxdWVzdCgpLmJvZHkoIkV4Y2hhbmdlIHVzZXIgd2l0aCBuYW1lICR7dXBkYXRlRXhjaGFuZ2VVc2VyRHRvLm5hbWV9IGFscmVhZHkgZXhpc3RzIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5hcGkucHV0KGAke3RoaXMuY2xpZW50c0FwaVVybERlcHJlY2F0ZWR9L2NsaWVudHMvJHtjbGllbnRJZH1gLCBkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVVc2VyQWNjb3VudEluRGIoInNvbWUtb3RoZXItdXNlckAhQCMuY29tIiwgInNvbWUgcGFzc3dvcmQiKQo=</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLnNldEhlYWRlcigiQWNjZXNzLUNvbnRyb2wtQWxsb3ctSGVhZGVycyIsICJBY2Nlc3MtQ29udHJvbC1BbGxvdy1IZWFkZXJzLCBBY2Nlc3MtQ29udHJvbC1SZXF1ZXN0LU1ldGhvZCwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1IZWFkZXJzIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zYXZlKEV4Y2hhbmdlVXNlcigKICAgICAgICAgICAgICAgIGlkID0gCiAgICAgICAgKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5IdHRwU3RhdHVzCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5hcGkucHV0KGAke3RoaXMuY2xpZW50c0FwaVVybERlcHJlY2F0ZWR9L2NsaWVudHMvJHtjbGllbnRJZH1gLCBkYXRhKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IEJvb2xlYW4gewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjcmVhdGVVc2VyQWNjb3VudEluRGIoInNvbWUtb3RoZXItdXNlckAhQCMuY29tIiwgInNvbWUgcGFzc3dvcmQiKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IEJvb2xlYW4gewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zYXZlKEV4Y2hhbmdlVXNlcigKICAgICAgICAgICAgICAgIGlkID0gCiAgICAgICAgKSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/this.api/this.http/g</text>
