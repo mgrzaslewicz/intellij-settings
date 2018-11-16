@@ -43,9 +43,11 @@
       <file name="E:/prj/autocoin-auth-service/README.md" timestamp="1541368560279">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/exchangeusers/exchange-users.service.ts" timestamp="1542386385665">
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/exchangeusers/exchange-users.service.ts" timestamp="1542394483714">
         <mark key="'" line="17" column="4" />
-        <mark key="[" line="118" column="33" />
+        <mark key="[" line="138" column="31" />
+        <mark key="]" line="138" column="31" />
+        <mark key="." line="138" column="31" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/price.service.ts" timestamp="1542359408624">
         <mark key="[" line="21" column="66" />
@@ -91,8 +93,11 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-delete/exchangeuser-delete.component.ts" timestamp="1542367890369">
         <mark key="[" line="11" column="20" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/interceptors.ts" timestamp="1542388235772">
-        <mark key="[" line="37" column="51" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/interceptors.ts" timestamp="1542394226839">
+        <mark key="[" line="38" column="18" />
+        <mark key="]" line="38" column="12" />
+        <mark key="^" line="38" column="17" />
+        <mark key="." line="38" column="12" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/components/sidebar/sidebar.component.html" timestamp="1542370172193">
         <mark key="[" line="7" column="55" />
@@ -337,7 +342,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>client</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RlZEV4Y2hhbmdlc1dpdGhFeGNoYW5nZVVzZXJzXD4=</text>
