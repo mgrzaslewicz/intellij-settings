@@ -124,6 +124,9 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-edit/exchange-user-edit.component.html" timestamp="1542477490994">
         <mark key="[" line="37" column="33" />
       </file>
+      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" timestamp="1542547402041">
+        <mark key="[" line="87" column="0" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" timestamp="1542408919398">
         <mark key="[" line="240" column="33" />
         <mark key="]" line="240" column="33" />
@@ -201,12 +204,12 @@
       <file name="/dummy.sql" timestamp="1542371485328">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1542546316548">
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1542547203961">
         <mark key="'" line="130" column="64" />
-        <mark key="[" line="204" column="85" />
-        <mark key="]" line="199" column="86" />
-        <mark key="." line="199" column="86" />
-        <mark key="^" line="205" column="34" />
+        <mark key="[" line="199" column="109" />
+        <mark key="]" line="199" column="109" />
+        <mark key="." line="199" column="109" />
+        <mark key="^" line="199" column="114" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/layout-routing.module.ts" timestamp="1542370106527">
         <mark key="[" line="11" column="55" />
@@ -376,13 +379,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>Existence</text>
+        <text>throw HttpClientErrorException.Unauthorized</text>
       </register>
       <register name="/" type="4">
         <text>shouldGetExchangeKeysExistenceOfExchangeUser</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGF0YSBjbGFzcyBFeGNoYW5nZUtleUV4aXN0ZW5jZSh2YWwgZXhjaGFuZ2VVc2VySWQ6IFN0cmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgZXhjaGFuZ2VJZDogU3RyaW5nKQo=</text>
+      <register name="0" type="4">
+        <text>ROLE_EXCHANGE_KEYS_READER</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QEluamVjdGFibGUoKQpleHBvcnQgY2xhc3MgQXBpU2VydmljZSB7CgogICAgY29uc3RydWN0b3IocHJpdmF0ZSBodHRwOiBIdHRwQ2xpZW50LAogICAgICAgICAgICAgICAgcHJpdmF0ZSBhdXRoU2VydmljZTogQXV0aFNlcnZpY2UpIHsKICAgIH0KCiAgICBnZXQ8VD4odXJsKTogT2JzZXJ2YWJsZTxUPiB7CiAgICAgICAgcmV0dXJuIHRoaXMuaHR0cC5nZXQ8VD4odXJsLCB0aGlzLm9wdGlvbnMoKSk7CiAgICB9CgogICAgcG9zdDxUPih1cmwsIGRhdGEpOiBPYnNlcnZhYmxlPFQ+IHsKICAgICAgICByZXR1cm4gdGhpcy5odHRwLnBvc3Q8VD4odXJsLCBkYXRhLCB0aGlzLm9wdGlvbnMoKSk7CiAgICB9CgogICAgcHV0KHVybCwgZGF0YSkgewogICAgICAgIHJldHVybiB0aGlzLmh0dHAucHV0KHVybCwgZGF0YSwgdGhpcy5vcHRpb25zKCkpOwogICAgfQoKICAgIGRlbGV0ZSh1cmwpIHsKICAgICAgICByZXR1cm4gdGhpcy5odHRwLmRlbGV0ZSh1cmwsIHRoaXMub3B0aW9ucygpKTsKICAgIH0KCiAgICBwcml2YXRlIG9wdGlvbnMoKSB7CiAgICAgICAgbGV0IGhlYWRlcnMgPSBuZXcgSHR0cEhlYWRlcnMoKQogICAgICAgICAgICAuYXBwZW5kKCdBdXRob3JpemF0aW9uJywgJ0JlYXJlciAnICsgdGhpcy5hdXRoU2VydmljZS50b2tlbigpKTsKCiAgICAgICAgcmV0dXJuIHtoZWFkZXJzfTsKICAgIH0KCn0K</text>
