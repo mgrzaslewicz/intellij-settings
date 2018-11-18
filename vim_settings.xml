@@ -99,8 +99,11 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/models/exchange-key.ts" timestamp="1542386759198">
         <mark key="[" line="15" column="33" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/Oauth2Config.kt" timestamp="1542558199249">
-        <mark key="[" line="63" column="29" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/Oauth2Config.kt" timestamp="1542558256122">
+        <mark key="[" line="65" column="29" />
+        <mark key="]" line="68" column="27" />
+        <mark key="^" line="68" column="27" />
+        <mark key="." line="68" column="27" />
       </file>
       <file name="/autocoin_client_log.ClientLog [autocoin_client_log@138.201.226.51]" timestamp="1541711247762">
         <mark key="[" line="0" column="0" />
@@ -108,11 +111,11 @@
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/AuthServiceApplicationTests.kt" timestamp="1541009039113">
         <mark key="[" line="9" column="10" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/resources/application.yml" timestamp="1542558012356">
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="27" column="24" />
-        <mark key="^" line="27" column="24" />
-        <mark key="." line="27" column="24" />
+      <file name="E:/prj/autocoin-order-service/src/main/resources/application.yml" timestamp="1542558227813">
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="51" />
+        <mark key="^" line="24" column="25" />
+        <mark key="." line="24" column="25" />
       </file>
       <file name="/autocoin_client_log.Permission [autocoin_client_log@138.201.226.51]" timestamp="1541447784514">
         <mark key="[" line="0" column="0" />
@@ -402,13 +405,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>API</text>
       </register>
       <register name="/" type="4">
         <text>Forbid</text>
       </register>
       <register name="0" type="4">
-        <text>ROLE_EXCHANGE_KEYS_READER</text>
+        <text>ad5fe177-acf0-4c5c-8043-9b0c6f4f66fa</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
