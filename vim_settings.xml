@@ -36,8 +36,8 @@
       <file name="/Kotlin Console" timestamp="1541535280923">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1542788969974">
-        <mark key="[" line="93" column="29" />
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1542841211207">
+        <mark key="[" line="46" column="10" />
         <mark key="]" line="93" column="15" />
         <mark key="." line="93" column="15" />
         <mark key="^" line="93" column="15" />
@@ -84,6 +84,7 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-create/exchange-user-create.component.ts" timestamp="1542368016545">
         <mark key="[" line="29" column="51" />
       </file>
+      <file name="/Oauth2.kt" timestamp="1542840418777" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/index.ts" timestamp="1541780009837">
         <mark key="[" line="0" column="17" />
       </file>
@@ -108,11 +109,11 @@
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/AuthServiceApplicationTests.kt" timestamp="1541009039113">
         <mark key="[" line="9" column="10" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/resources/application.yml" timestamp="1542788820096">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="5" />
-        <mark key="^" line="22" column="3" />
-        <mark key="." line="22" column="5" />
+      <file name="E:/prj/autocoin-order-service/src/main/resources/application.yml" timestamp="1542841291401">
+        <mark key="[" line="29" column="14" />
+        <mark key="]" line="29" column="15" />
+        <mark key="^" line="29" column="6" />
+        <mark key="." line="29" column="15" />
       </file>
       <file name="/autocoin_client_log.Permission [autocoin_client_log@138.201.226.51]" timestamp="1541447784514">
         <mark key="[" line="0" column="0" />
@@ -141,6 +142,7 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-edit/exchange-user-edit.component.html" timestamp="1542477490994">
         <mark key="[" line="37" column="33" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/authentication/BearerTokenExtractor.java" timestamp="1542840668404" />
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" timestamp="1542548919469">
         <mark key="[" line="88" column="20" />
         <mark key="]" line="88" column="28" />
@@ -387,7 +389,7 @@
         <text>Satisfy</text>
       </register>
       <register name="/" type="4">
-        <text>Forbid</text>
+        <text>check</text>
       </register>
       <register name="0" type="4">
         <text>ad5fe177-acf0-4c5c-8043-9b0c6f4f66fa</text>
@@ -436,9 +438,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Forbid</last-search>
+      <last-search>check</last-search>
       <last-offset />
-      <last-pattern>Forbid</last-pattern>
+      <last-pattern>check</last-pattern>
       <last-replace>exchange-users</last-replace>
       <last-substitute>exchange-user</last-substitute>
       <last-dir>1</last-dir>
@@ -446,7 +448,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this.api</entry>
         <entry>5.2.0</entry>
         <entry>5.2.4</entry>
         <entry>clients</entry>
@@ -466,6 +467,7 @@
         <entry>TODO</entry>
         <entry>UNAU</entry>
         <entry>Forbid</entry>
+        <entry>check</entry>
       </history-search>
       <history-cmd>
         <entry>%s/publicKey/apiKey/g</entry>
