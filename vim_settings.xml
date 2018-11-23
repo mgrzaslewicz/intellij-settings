@@ -15,6 +15,15 @@
       <file name="/a.dummy" timestamp="1542988135533">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/prj/autocoin-auth-service/pom.xml" timestamp="1542843652869">
+        <mark key="'" line="195" column="60" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyExecution.kt" timestamp="1542989800735">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="16" />
+        <mark key="^" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-delete/exchange-user-delete.component.html" timestamp="1542478440872">
         <mark key="[" line="14" column="78" />
         <mark key="]" line="14" column="77" />
@@ -220,6 +229,9 @@
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/account/AccountController.kt" timestamp="1542969642662">
         <mark key="[" line="20" column="12" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/StrategiesController.kt" timestamp="1542989693166">
+        <mark key="[" line="18" column="14" />
+      </file>
       <file name="/autocoin_client_log.Client [autocoin_client_log@138.201.226.51]" timestamp="1542371484255">
         <mark key="[" line="0" column="0" />
       </file>
@@ -230,6 +242,9 @@
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/clients/client-delete/client-delete.component.ts" timestamp="1541976502650">
         <mark key="[" line="40" column="14" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/api/StrategiesControllerTest.kt" timestamp="1542989831759">
+        <mark key="'" line="135" column="21" />
       </file>
       <file name="/autocoin_client_log.Exchange [autocoin_client_log@138.201.226.51]" timestamp="1541781023697">
         <mark key="[" line="0" column="0" />
@@ -274,7 +289,7 @@
         <mark key="." line="11" column="34" />
         <mark key="^" line="11" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542988363722">
+      <file name="/Dummy.txt" timestamp="1542990082669">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="66" />
         <mark key="^" line="0" column="65" />
@@ -336,12 +351,11 @@
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1541715948183">
+      <file name="/fragment.java" timestamp="1542990082699">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="21" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="28" column="13" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="30" column="13" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="34" column="22" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
@@ -441,6 +455,7 @@
       <jump line="48" column="12" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
       <jump line="5" column="49" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.html" />
       <jump line="81" column="22" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-edit/exchange-user-edit.component.ts" />
+      <jump line="135" column="21" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/api/StrategiesControllerTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -450,7 +465,7 @@
         <text>.forRoot()</text>
       </register>
       <register name="/" type="4">
-        <text>Client</text>
+        <text>client-</text>
       </register>
       <register name="0" type="4">
         <text>client-portfolio-balances-</text>
@@ -495,21 +510,20 @@
         <text encoding="base64">ICAgICAgICAgICAgYmFkUmVxdWVzdCgpLmJvZHkoIkV4Y2hhbmdlIHVzZXIgd2l0aCBuYW1lICR7dXBkYXRlRXhjaGFuZ2VVc2VyRHRvLm5hbWV9IGFscmVhZHkgZXhpc3RzIikK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/client-portfolio-balances-/exchange-user-portfolio-balances-/g</text>
+        <text>%s/client-/exchange-user-/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Client</last-search>
+      <last-search>client-</last-search>
       <last-offset />
-      <last-pattern>Client</last-pattern>
-      <last-replace>exchange-user-portfolio-balances-</last-replace>
-      <last-substitute>client-portfolio-balances-</last-substitute>
+      <last-pattern>client-</last-pattern>
+      <last-replace>exchange-user-</last-replace>
+      <last-substitute>client-</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>exchange-user</entry>
         <entry encoding="base64">XDxzZWxlY3RlZEV4Y2hhbmdlc1dpdGhFeGNoYW5nZVVzZXJzXD4=</entry>
         <entry>Obser</entry>
         <entry>unders</entry>
@@ -529,9 +543,9 @@
         <entry>client-portfolio-balances-</entry>
         <entry>client</entry>
         <entry>Client</entry>
+        <entry>client-</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/entryCurrency/baseCurrency/g</entry>
         <entry>%s/EntryCurrency/BaseCurrency/g</entry>
         <entry>%s/Other/Second/g</entry>
         <entry>%s/autocoin-order-service/autocoin-auth-service/g</entry>
@@ -551,6 +565,7 @@
         <entry>%s/Client1/ExchangeUser1/g</entry>
         <entry>%s/client-portfolio-refresh-time/exchange-user-portfolio-refresh-time/g</entry>
         <entry>%s/client-portfolio-balances-/exchange-user-portfolio-balances-/g</entry>
+        <entry>%s/client-/exchange-user-/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
