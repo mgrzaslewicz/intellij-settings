@@ -277,11 +277,11 @@
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/DatasourceConfig.kt" timestamp="1541185447874">
         <mark key="[" line="114" column="55" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" timestamp="1542839711908">
-        <mark key="[" line="100" column="34" />
-        <mark key="]" line="100" column="34" />
-        <mark key="^" line="100" column="34" />
-        <mark key="." line="100" column="34" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" timestamp="1542995100804">
+        <mark key="[" line="134" column="42" />
+        <mark key="]" line="133" column="9" />
+        <mark key="^" line="133" column="9" />
+        <mark key="." line="133" column="9" />
       </file>
       <file name="/Kotlin Console" timestamp="1541535280923">
         <mark key="[" line="0" column="0" />
@@ -550,13 +550,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>client</text>
+        <text>Match</text>
       </register>
       <register name="/" type="4">
         <text>client-of-the-same-user-</text>
       </register>
-      <register name="0" type="4">
-        <text>client-of-the-same-user-</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGhlYWx0aExpc3QpLmFsbE1hdGNoIHsgaXQuY2FuUmVhZFByaWNlID09IGZhbHNlICYmIGl0LmNhblJlYWRXYWxsZXQgPT0gZmFsc2UgJiYgaXQuY2FuTWFrZVNlbGxPcmRlciA9PSBmYWxzZSAmJiBpdC5jYW5DYW5jZWxTZWxsT3JkZXIgPT0gZmFsc2UgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLlZhbHVlCg==</text>
