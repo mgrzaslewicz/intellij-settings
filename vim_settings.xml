@@ -277,12 +277,13 @@
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/DatasourceConfig.kt" timestamp="1541185447874">
         <mark key="[" line="114" column="55" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" timestamp="1542995100804">
-        <mark key="[" line="134" column="42" />
-        <mark key="]" line="133" column="9" />
-        <mark key="^" line="133" column="9" />
-        <mark key="." line="133" column="9" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" timestamp="1542995867631">
+        <mark key="[" line="101" column="2" />
+        <mark key="]" line="101" column="2" />
+        <mark key="^" line="100" column="24" />
+        <mark key="." line="101" column="2" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1542995944731" />
       <file name="/Kotlin Console" timestamp="1541535280923">
         <mark key="[" line="0" column="0" />
       </file>
@@ -353,6 +354,9 @@
         <mark key="]" line="60" column="40" />
         <mark key="." line="60" column="40" />
       </file>
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchange.kt" timestamp="1542996332109">
+        <mark key="[" line="49" column="26" />
+      </file>
       <file name="E:/prj/autocoin-auth-service/scripts/stop.sh" timestamp="1541070260716">
         <mark key="[" line="1" column="0" />
       </file>
@@ -422,6 +426,9 @@
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsService.kt" timestamp="1542991874909">
         <mark key="[" line="80" column="49" />
+      </file>
+      <file name="E:/prj/autocoin-ticker-service/pom.xml" timestamp="1542995996639">
+        <mark key="[" line="91" column="25" />
       </file>
       <file name="/autocoin_client_log.User [autocoin_client_log@138.201.226.51]" timestamp="1541781028028">
         <mark key="[" line="0" column="0" />
@@ -550,7 +557,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>Match</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>client-of-the-same-user-</text>
