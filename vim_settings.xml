@@ -12,7 +12,7 @@
         <mark key="^" line="100" column="34" />
         <mark key="." line="100" column="34" />
       </file>
-      <file name="/a.dummy" timestamp="1542367228865">
+      <file name="/a.dummy" timestamp="1542971238576">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-delete/exchange-user-delete.component.html" timestamp="1542478440872">
@@ -45,11 +45,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="85" column="8" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/test/resources/application-test.yml" timestamp="1542964689297">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="40" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/WebSecurityConfig.kt" timestamp="1542843434034">
         <mark key="[" line="18" column="55" />
         <mark key="]" line="13" column="71" />
@@ -64,6 +59,9 @@
       </file>
       <file name="E:/prj/autocoin-auth-service/README.md" timestamp="1541368560279">
         <mark key="[" line="8" column="0" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/exchangeusers/exchange-users.service.ts" timestamp="1542971957703">
+        <mark key="[" line="72" column="56" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/price.service.ts" timestamp="1542409034844">
         <mark key="[" line="21" column="66" />
@@ -89,6 +87,13 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-create/exchange-user-create.component.ts" timestamp="1542368016545">
         <mark key="[" line="29" column="51" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.html" timestamp="1542971611300">
+        <mark key="'" line="5" column="49" />
+        <mark key="[" line="7" column="89" />
+        <mark key="]" line="5" column="49" />
+        <mark key="^" line="5" column="49" />
+        <mark key="." line="5" column="49" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/index.ts" timestamp="1541780009837">
         <mark key="[" line="0" column="17" />
       </file>
@@ -101,14 +106,17 @@
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/order/OrderController.kt" timestamp="1542969375270">
         <mark key="[" line="26" column="17" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/models/exchange-key.ts" timestamp="1542386759198">
-        <mark key="[" line="15" column="33" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/models/exchange-key.ts" timestamp="1542971950070">
+        <mark key="[" line="6" column="33" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/Oauth2Config.kt" timestamp="1542558256122">
         <mark key="[" line="65" column="29" />
         <mark key="]" line="68" column="27" />
         <mark key="^" line="68" column="27" />
         <mark key="." line="68" column="27" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.ts" timestamp="1542972588398">
+        <mark key="[" line="19" column="32" />
       </file>
       <file name="/autocoin_client_log.ClientLog [autocoin_client_log@138.201.226.51]" timestamp="1541711247762">
         <mark key="[" line="0" column="0" />
@@ -168,11 +176,12 @@
         <mark key="^" line="88" column="28" />
         <mark key="." line="88" column="28" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" timestamp="1542971076800">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="240" column="33" />
-        <mark key="^" line="243" column="50" />
-        <mark key="." line="240" column="33" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" timestamp="1542971580875">
+        <mark key="'" line="48" column="12" />
+        <mark key="[" line="62" column="13" />
+        <mark key="]" line="193" column="104" />
+        <mark key="^" line="193" column="104" />
+        <mark key="." line="193" column="104" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/make-order/make-order.component.html" timestamp="1542368391532">
         <mark key="[" line="14" column="55" />
@@ -186,6 +195,13 @@
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/auth.service.ts" timestamp="1542315185729">
         <mark key="[" line="66" column="14" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-edit/exchange-user-edit.component.ts" timestamp="1542972577330">
+        <mark key="'" line="81" column="22" />
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="29" />
+        <mark key="^" line="3" column="29" />
+        <mark key="." line="3" column="29" />
       </file>
       <file name="/autocoin_client_log.UserPermission [autocoin_client_log@138.201.226.51]" timestamp="1541365304780">
         <mark key="[" line="0" column="0" />
@@ -348,20 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="39" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
-      <jump line="2" column="11" filename="E:/prj/autocoin-auth-service/Dockerfile" />
-      <jump line="3" column="0" filename="E:/prj/autocoin-auth-service/src/main/resources/application.yml" />
-      <jump line="9" column="0" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/RunLocal.kt" />
-      <jump line="7" column="43" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/RunLocal.kt" />
-      <jump line="20" column="17" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
-      <jump line="1" column="28" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
-      <jump line="2" column="28" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
-      <jump line="3" column="28" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
-      <jump line="4" column="28" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
-      <jump line="5" column="28" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
-      <jump line="7" column="28" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
-      <jump line="15" column="21" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
-      <jump line="21" column="21" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="22" column="21" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="28" column="13" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
       <jump line="30" column="13" filename="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" />
@@ -448,6 +450,20 @@
       <jump line="48" column="76" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/OrderControllerTest.kt" />
       <jump line="37" column="79" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/AccountControllerTest.kt" />
       <jump line="61" column="42" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/AccountServiceTest.kt" />
+      <jump line="19" column="31" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.html" />
+      <jump line="3" column="36" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.html" />
+      <jump line="74" column="73" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="104" column="38" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="108" column="97" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="93" column="34" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="97" column="39" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="180" column="23" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="193" column="104" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="48" column="12" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="5" column="49" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.html" />
+      <jump line="81" column="22" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-edit/exchange-user-edit.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -457,10 +473,10 @@
         <text>client</text>
       </register>
       <register name="/" type="4">
-        <text>Client1</text>
+        <text>Client</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXhjaGFuZ2VzQXBpVXJsOiBodHRwczovL2xvY2FsaG9zdDoxMjM0NQo=</text>
+      <register name="0" type="4">
+        <text>client-portfolio-balances-</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLlZhbHVlCg==</text>
@@ -502,23 +518,20 @@
         <text encoding="base64">ICAgICAgICAgICAgYmFkUmVxdWVzdCgpLmJvZHkoIkV4Y2hhbmdlIHVzZXIgd2l0aCBuYW1lICR7dXBkYXRlRXhjaGFuZ2VVc2VyRHRvLm5hbWV9IGFscmVhZHkgZXhpc3RzIikK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/Client1/ExchangeUser1/g</text>
+        <text>%s/client-portfolio-balances-/exchange-user-portfolio-balances-/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Client1</last-search>
+      <last-search>Client</last-search>
       <last-offset />
-      <last-pattern>Client1</last-pattern>
-      <last-replace>ExchangeUser1</last-replace>
-      <last-substitute>Client1</last-substitute>
+      <last-pattern>Client</last-pattern>
+      <last-replace>exchange-user-portfolio-balances-</last-replace>
+      <last-substitute>client-portfolio-balances-</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>selectedClientsExchanges</entry>
-        <entry>selected</entry>
-        <entry>selectedExchanges</entry>
         <entry>exchange-user</entry>
         <entry encoding="base64">XDxzZWxlY3RlZEV4Y2hhbmdlc1dpdGhFeGNoYW5nZVVzZXJzXD4=</entry>
         <entry>Obser</entry>
@@ -534,12 +547,13 @@
         <entry>check</entry>
         <entry>main</entry>
         <entry>fr</entry>
-        <entry>client</entry>
         <entry>Client1</entry>
+        <entry>client-portfolio-refresh-time</entry>
+        <entry>client-portfolio-balances-</entry>
+        <entry>client</entry>
+        <entry>Client</entry>
       </history-search>
       <history-cmd>
-        <entry>%s///To change body of created functions use File | Settings | File Templates.//g</entry>
-        <entry>%s/Decimal8/Decimal/g</entry>
         <entry>%s/entryCurrency/baseCurrency/g</entry>
         <entry>%s/EntryCurrency/BaseCurrency/g</entry>
         <entry>%s/Other/Second/g</entry>
@@ -558,6 +572,8 @@
         <entry>%s/selectedExchanges/selectedExchangesWithExchangeUsers/g</entry>
         <entry>%s/exchange-user/exchange-users/g</entry>
         <entry>%s/Client1/ExchangeUser1/g</entry>
+        <entry>%s/client-portfolio-refresh-time/exchange-user-portfolio-refresh-time/g</entry>
+        <entry>%s/client-portfolio-balances-/exchange-user-portfolio-balances-/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
