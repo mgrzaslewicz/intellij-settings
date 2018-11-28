@@ -87,11 +87,11 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/models/exchange-key.ts" timestamp="1542971950070">
         <mark key="[" line="6" column="33" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/Oauth2Config.kt" timestamp="1543077850133">
-        <mark key="[" line="72" column="48" />
-        <mark key="]" line="72" column="83" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/Oauth2Config.kt" timestamp="1543436121124">
+        <mark key="[" line="71" column="55" />
+        <mark key="]" line="71" column="55" />
         <mark key="^" line="71" column="53" />
-        <mark key="." line="71" column="53" />
+        <mark key="." line="71" column="55" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/config/Oauth2TestConfig.kt" timestamp="1543050617010" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.ts" timestamp="1542972588398">
@@ -330,7 +330,7 @@
         <mark key="^" line="38" column="16" />
         <mark key="." line="38" column="16" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/CorsConfig.kt" timestamp="1543432655217" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/CorsConfig.kt" timestamp="1543435951525" />
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/AuthServiceApplicationTests.kt" timestamp="1541009039113">
         <mark key="[" line="9" column="10" />
       </file>
@@ -431,7 +431,7 @@
         <mark key="." line="6" column="35" />
         <mark key="^" line="6" column="35" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1543078268100">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1543436126570">
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
@@ -570,7 +570,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">ICIic3RyYXRlZ3ktZXhlY3V0b3Itc2VydmljZSI=</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
