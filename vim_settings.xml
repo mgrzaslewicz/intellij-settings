@@ -48,11 +48,11 @@
       <file name="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-maven-plugin/1.3.10/kotlin-maven-plugin-1.3.10.jar!/META-INF/maven/plugin.xml" timestamp="1542998724185">
         <mark key="'" line="1750" column="122" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1543445602936">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="85" column="8" />
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1543956906900">
+        <mark key="[" line="74" column="33" />
+        <mark key="]" line="61" column="9" />
+        <mark key="." line="61" column="9" />
+        <mark key="^" line="50" column="8" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/client/OAuth2RestTemplate.java" timestamp="1543057682987" />
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/WebSecurityConfig.kt" timestamp="1543444457170">
@@ -127,11 +127,8 @@
         <mark key="^" line="52" column="4" />
         <mark key="." line="190" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/main/resources/application.yml" timestamp="1543063048150">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="56" />
-        <mark key="^" line="28" column="6" />
-        <mark key="." line="19" column="0" />
+      <file name="E:/prj/autocoin-order-service/src/main/resources/application.yml" timestamp="1543956729955">
+        <mark key="^" line="25" column="6" />
       </file>
       <file name="/autocoin_client_log.Permission [autocoin_client_log@138.201.226.51]" timestamp="1541447784514">
         <mark key="[" line="0" column="0" />
@@ -331,11 +328,7 @@
       <file name="/Kotlin Console" timestamp="1541535280923">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/src/test/resources/application-test.yml" timestamp="1542964689297">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="40" />
-        <mark key="." line="1" column="0" />
-      </file>
+      <file name="E:/prj/autocoin-order-service/src/test/resources/application-test.yml" timestamp="1542964689297" />
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyExecutionRepository.kt" timestamp="1543043280551">
         <mark key="[" line="25" column="101" />
       </file>
@@ -620,7 +613,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>in</text>
+        <text>(&quot;oauth2RestTemplate&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>Appli</text>
