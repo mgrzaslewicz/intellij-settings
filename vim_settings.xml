@@ -36,6 +36,7 @@
         <mark key="." line="13" column="71" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.0.1/kotlinx-coroutines-core-1.0.1.jar!/kotlinx/coroutines/BuildersKt.class" timestamp="1542997366608" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/exchange/StrategyParametersConf.kt" timestamp="1544003927710" />
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" timestamp="1542967057415">
         <mark key="[" line="387" column="9" />
         <mark key="]" line="389" column="29" />
@@ -57,10 +58,10 @@
         <mark key="." line="12" column="16" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1544001429560">
-        <mark key="[" line="100" column="55" />
-        <mark key="]" line="101" column="74" />
-        <mark key="^" line="91" column="28" />
-        <mark key="." line="101" column="74" />
+        <mark key="[" line="99" column="55" />
+        <mark key="]" line="100" column="74" />
+        <mark key="^" line="90" column="28" />
+        <mark key="." line="100" column="74" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/OrderServiceTest.kt" timestamp="1543962935679">
         <mark key="'" line="103" column="146" />
@@ -117,12 +118,11 @@
         <mark key="]" line="20" column="40" />
         <mark key="." line="20" column="40" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" timestamp="1544003234030">
-        <mark key="'" line="108" column="17" />
-        <mark key="[" line="128" column="17" />
-        <mark key="]" line="108" column="19" />
-        <mark key="^" line="108" column="19" />
-        <mark key="." line="108" column="19" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" timestamp="1544004043225">
+        <mark key="[" line="123" column="17" />
+        <mark key="]" line="103" column="19" />
+        <mark key="^" line="103" column="19" />
+        <mark key="." line="103" column="19" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" timestamp="1543043082872">
         <mark key="[" line="58" column="16" />
@@ -232,7 +232,7 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544000480141">
+      <file name="/Dummy.txt" timestamp="1544004438674">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="66" />
         <mark key="^" line="0" column="65" />
@@ -290,7 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="12" filename="E:/prj/autocoin-trader-frontend/package.json" />
       <jump line="24" column="42" filename="E:/prj/autocoin-trader-frontend/package.json" />
       <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/package.json" />
       <jump line="80" column="57" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-edit/exchange-user-edit.component.ts" />
@@ -390,6 +389,7 @@
       <jump line="110" column="43" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/OrderServiceTest.kt" />
       <jump line="112" column="147" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/OrderServiceTest.kt" />
       <jump line="103" column="146" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/OrderServiceTest.kt" />
+      <jump line="128" column="0" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
