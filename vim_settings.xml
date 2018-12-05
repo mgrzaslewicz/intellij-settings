@@ -45,6 +45,13 @@
         <mark key="." line="13" column="71" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.0.1/kotlinx-coroutines-core-1.0.1.jar!/kotlinx/coroutines/BuildersKt.class" timestamp="1542997366608" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/models/strategy.ts" timestamp="1543016368654">
+        <mark key="'" line="1" column="12" />
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/exchangeusers/exchange-users.service.ts" timestamp="1544006636931">
         <mark key="'" line="55" column="64" />
         <mark key="[" line="65" column="10" />
@@ -65,6 +72,13 @@
         <mark key="." line="389" column="29" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/scripts/release.sh" timestamp="1543019239428" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.html" timestamp="1542971611300">
+        <mark key="'" line="5" column="49" />
+        <mark key="[" line="7" column="89" />
+        <mark key="]" line="5" column="49" />
+        <mark key="^" line="5" column="49" />
+        <mark key="." line="5" column="49" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/models/exchange-key.ts" timestamp="1542971950070">
         <mark key="[" line="6" column="33" />
       </file>
@@ -130,6 +144,13 @@
         <mark key="]" line="63" column="39" />
         <mark key="." line="63" column="51" />
         <mark key="^" line="71" column="35" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4bdb39f5-9ab9-49e9-baf5-4dd7e9c87229/console.sql" timestamp="1544047033758">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="41" column="62" />
+        <mark key="]" line="87" column="26" />
+        <mark key="^" line="87" column="26" />
+        <mark key="." line="87" column="26" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1543964296602">
         <mark key="'" line="26" column="18" />
@@ -337,8 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="57" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-edit/exchange-user-edit.component.ts" />
-      <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-edit/exchange-user-edit.component.ts" />
       <jump line="80" column="15" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" />
       <jump line="309" column="62" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" />
       <jump line="364" column="84" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" />
@@ -437,6 +456,8 @@
       <jump line="128" column="0" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" />
       <jump line="55" column="64" filename="E:/prj/autocoin-trader-frontend/src/app/services/api/exchangeusers/exchange-users.service.ts" />
       <jump line="24" column="37" filename="E:/prj/autocoin-trader-frontend/package.json" />
+      <jump line="84" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4bdb39f5-9ab9-49e9-baf5-4dd7e9c87229/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4bdb39f5-9ab9-49e9-baf5-4dd7e9c87229/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -446,7 +467,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>node-sass</text>
+        <text>alter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm4oIkdldHRpbmcgZXhjaGFuZ2VzIGZyb20gZGVwcmVjYXRlZCBzZXJ2aWNlIikK</text>
@@ -483,9 +504,9 @@
       </register>
     </registers>
     <search>
-      <last-search>node-sass</last-search>
+      <last-search>alter</last-search>
       <last-offset />
-      <last-pattern>node-sass</last-pattern>
+      <last-pattern>alter</last-pattern>
       <last-replace>exchangeUserId =</last-replace>
       <last-substitute>clientId =</last-substitute>
       <last-dir>1</last-dir>
@@ -493,7 +514,6 @@
     </search>
     <history>
       <history-search>
-        <entry>coroutin</entry>
         <entry>Coroutines</entry>
         <entry encoding="base64">XDxleGNoYW5nZVVzZXJzXD4=</entry>
         <entry encoding="base64">XDxleGNoYW5nZVVzZXJTZWxlY3Rpb25MaXN0XD4=</entry>
@@ -513,6 +533,7 @@
         <entry>\$</entry>
         <entry encoding="base64">XDxleGNoYW5nZVVzZXJJZFw+</entry>
         <entry>node-sass</entry>
+        <entry>alter</entry>
       </history-search>
       <history-cmd>
         <entry>%s/char(36)/varchar(36)/g</entry>
