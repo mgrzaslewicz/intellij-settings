@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.component.html" timestamp="1543016278353">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" timestamp="1543014925773">
         <mark key="[" line="100" column="8" />
         <mark key="]" line="100" column="14" />
         <mark key="." line="100" column="14" />
         <mark key="^" line="100" column="14" />
+      </file>
+      <file name="E:/prj/autocoin-auth-service/pom.xml" timestamp="1542843652869">
+        <mark key="'" line="195" column="60" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsServiceIT.kt" timestamp="1542992500089">
         <mark key="'" line="52" column="78" />
@@ -21,6 +27,9 @@
         <mark key="]" line="9" column="74" />
         <mark key="." line="9" column="74" />
         <mark key="^" line="9" column="74" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-maven-plugin/1.3.10/kotlin-maven-plugin-1.3.10.jar!/META-INF/maven/plugin.xml" timestamp="1542998724185">
+        <mark key="'" line="1750" column="122" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1543958901381">
         <mark key="[" line="51" column="10" />
@@ -112,6 +121,9 @@
         <mark key="]" line="14" column="13" />
         <mark key="." line="14" column="13" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/api/StrategiesControllerTest.kt" timestamp="1542989831759">
+        <mark key="'" line="135" column="21" />
+      </file>
       <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/AccountControllerTest.kt" timestamp="1542970133120">
         <mark key="'" line="37" column="79" />
         <mark key="[" line="60" column="34" />
@@ -131,6 +143,9 @@
         <mark key="]" line="217" column="2" />
         <mark key="^" line="217" column="2" />
         <mark key="." line="217" column="2" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/package.json" timestamp="1544007963866">
+        <mark key="'" line="24" column="37" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/RunLocal.kt" timestamp="1543963757590">
         <mark key="[" line="9" column="74" />
@@ -263,6 +278,9 @@
         <mark key="]" line="127" column="113" />
         <mark key="." line="127" column="113" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" timestamp="1543043453654">
+        <mark key="'" line="3" column="6" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/resources/schema.sql" timestamp="1543042334974">
         <mark key="[" line="9" column="2" />
         <mark key="]" line="9" column="14" />
@@ -307,6 +325,9 @@
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyProvidersTest.kt" timestamp="1543058365459" />
       <file name="C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/net/UnknownHostException.java" timestamp="1543063113646" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurer.java" timestamp="1543445108473">
+        <mark key="'" line="46" column="17" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1543881501069" />
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/ExchangeServiceConfig.kt" timestamp="1543965969184">
         <mark key="[" line="31" column="147" />
@@ -316,7 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/package.json" />
       <jump line="80" column="57" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-edit/exchange-user-edit.component.ts" />
       <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-edit/exchange-user-edit.component.ts" />
       <jump line="80" column="15" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" />
@@ -416,6 +436,7 @@
       <jump line="103" column="146" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/OrderServiceTest.kt" />
       <jump line="128" column="0" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" />
       <jump line="55" column="64" filename="E:/prj/autocoin-trader-frontend/src/app/services/api/exchangeusers/exchange-users.service.ts" />
+      <jump line="24" column="37" filename="E:/prj/autocoin-trader-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -425,7 +446,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGNoYW5nZVVzZXJJZFw+</text>
+        <text>node-sass</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm4oIkdldHRpbmcgZXhjaGFuZ2VzIGZyb20gZGVwcmVjYXRlZCBzZXJ2aWNlIikK</text>
@@ -462,9 +483,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleGNoYW5nZVVzZXJJZFw+</last-search>
+      <last-search>node-sass</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGNoYW5nZVVzZXJJZFw+</last-pattern>
+      <last-pattern>node-sass</last-pattern>
       <last-replace>exchangeUserId =</last-replace>
       <last-substitute>clientId =</last-substitute>
       <last-dir>1</last-dir>
@@ -472,7 +493,6 @@
     </search>
     <history>
       <history-search>
-        <entry>corout</entry>
         <entry>coroutin</entry>
         <entry>Coroutines</entry>
         <entry encoding="base64">XDxleGNoYW5nZVVzZXJzXD4=</entry>
@@ -492,6 +512,7 @@
         <entry>$</entry>
         <entry>\$</entry>
         <entry encoding="base64">XDxleGNoYW5nZVVzZXJJZFw+</entry>
+        <entry>node-sass</entry>
       </history-search>
       <history-cmd>
         <entry>%s/char(36)/varchar(36)/g</entry>
