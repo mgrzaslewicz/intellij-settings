@@ -280,6 +280,11 @@
         <mark key="^" line="193" column="104" />
         <mark key="." line="193" column="104" />
       </file>
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccount.kt" timestamp="1544048843736">
+        <mark key="]" line="35" column="38" />
+        <mark key="^" line="35" column="38" />
+        <mark key="." line="35" column="38" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-edit/exchange-user-edit.component.ts" timestamp="1544006341709">
         <mark key="'" line="77" column="22" />
         <mark key="]" line="6" column="8" />
@@ -333,10 +338,21 @@
         <mark key="." line="6" column="35" />
         <mark key="^" line="6" column="35" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1543963739269">
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsService.kt" timestamp="1543964414451">
         <mark key="[" line="86" column="168" />
         <mark key="]" line="86" column="168" />
         <mark key="." line="86" column="168" />
+      </file>
+      <file name="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" timestamp="1544048680650">
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-sample-max-counter-currency-percent-for-buying.yml" timestamp="1543043435286">
         <mark key="[" line="3" column="6" />
@@ -470,34 +486,34 @@
         <text>alter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm4oIkdldHRpbmcgZXhjaGFuZ2VzIGZyb20gZGVwcmVjYXRlZCBzZXJ2aWNlIikK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYWN0aXZhdGlvblRva2VuOiBTdHJpbmc/ID0gbnVsbCwKICAgICAgICBAQ29sdW1uKGNvbHVtbkRlZmluaXRpb24gPSAiVkFSQ0hBUigxMjgpIiwgbnVsbGFibGUgPSBmYWxzZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYWN0aXZhdGlvblRva2VuOiBTdHJpbmc/ID0gbnVsbCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ewogICAgZnVuIGVuYWJsZWQoKSA9IGlmIChkaXNhYmxlZCAhPSBudWxsKSAhZGlzYWJsZWQgZWxzZSBlbmFibGVkISEgLy8gVE9ETyByZW1vdmUgd2hlbiBzd2l0Y2hlZCB0byBuZXcgb2F1dGgKfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ewogICAgZnVuIGVuYWJsZWQoKSA9IGlmIChkaXNhYmxlZCAhPSBudWxsKSAhZGlzYWJsZWQgZWxzZSBlbmFibGVkISEgLy8gVE9ETyByZW1vdmUgd2hlbiBzd2l0Y2hlZCB0byBuZXcgb2F1dGgKfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBsb2dnZXIud2FybigiR2V0dGluZyBleGNoYW5nZXMgZnJvbSBkZXByZWNhdGVkIHNlcnZpY2UiKQogICAgICAgICAgICB2YWwgcmVzcG9uc2VFbnRpdHkgPSBkZXByZWNhdGVkUmVzdFRlbXBsYXRlLmV4Y2hhbmdlKCIkZGVwcmVjYXRlZEV4Y2hhbmdlc0FwaVVybC9leGNoYW5nZXMiLCBHRVQsIG51bGwsIGV4Y2hhbmdlTGlzdFR5cGUpCiAgICAgICAgICAgIHJldHVybiByZXNwb25zZUVudGl0eS5ib2R5ISEKICAgICAgICB9IGNhdGNoIChlOiBFeGNlcHRpb24pIHsKICAgICAgICAgICAgbG9nZ2VyLndhcm4oIkNvdWxkIG5vdCBnZXQgZXhjaGFuZ2VzIGZyb20gJGRlcHJlY2F0ZWRFeGNoYW5nZXNBcGlVcmwvZXhjaGFuZ2VzIiwgZSkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAUXVhbGlmaWVyKCJkZXByZWNhdGVkT2F1dGgyUmVzdFRlbXBsYXRlIikgdmFsIGRlcHJlY2F0ZWRSZXN0VGVtcGxhdGU6IE9BdXRoMlJlc3RUZW1wbGF0ZSwKICAgICAgICAgICAgICAgICAgICAgIEBWYWx1ZSgiXCR7ZGVwcmVjYXRlZEV4Y2hhbmdlc0FwaVVybH0iKSB2YWwgZGVwcmVjYXRlZEV4Y2hhbmdlc0FwaVVybDogU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBsb2dnZXIud2FybigiR2V0dGluZyBleGNoYW5nZXMgZnJvbSBkZXByZWNhdGVkIHNlcnZpY2UiKQogICAgICAgICAgICB2YWwgcmVzcG9uc2VFbnRpdHkgPSBkZXByZWNhdGVkUmVzdFRlbXBsYXRlLmV4Y2hhbmdlKCIkZGVwcmVjYXRlZEV4Y2hhbmdlc0FwaVVybC9leGNoYW5nZXMiLCBHRVQsIG51bGwsIGV4Y2hhbmdlTGlzdFR5cGUpCiAgICAgICAgICAgIHJldHVybiByZXNwb25zZUVudGl0eS5ib2R5ISEKICAgICAgICB9IGNhdGNoIChlOiBFeGNlcHRpb24pIHsKICAgICAgICAgICAgbG9nZ2VyLndhcm4oIkNvdWxkIG5vdCBnZXQgZXhjaGFuZ2VzIGZyb20gJGRlcHJlY2F0ZWRFeGNoYW5nZXNBcGlVcmwvZXhjaGFuZ2VzIiwgZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gCg==</text>
+        <text encoding="base64">ICAgICAgICBAUXVhbGlmaWVyKCJkZXByZWNhdGVkT2F1dGgyUmVzdFRlbXBsYXRlIikgdmFsIGRlcHJlY2F0ZWRSZXN0VGVtcGxhdGU6IE9BdXRoMlJlc3RUZW1wbGF0ZSwKICAgICAgICAgICAgICAgICAgICAgIEBWYWx1ZSgiXCR7ZGVwcmVjYXRlZEV4Y2hhbmdlc0FwaVVybH0iKSB2YWwgZGVwcmVjYXRlZEV4Y2hhbmdlc0FwaVVybDogU3RyaW5nLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">ICAgIC0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLlZhbHVlCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiaHR0cHM6Ly9hdXRvY29pbi10cmFkZXIuY29tIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiaHR0cDovL2xvY2FsaG9zdDo0MjAwIiAvLyBsb2NhbCBkZXYgY29uZmln</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLlZhbHVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/clientId =/exchangeUserId =/g</text>
