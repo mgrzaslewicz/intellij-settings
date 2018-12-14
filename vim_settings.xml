@@ -28,7 +28,7 @@
         <mark key="." line="36" column="32" />
         <mark key="^" line="36" column="32" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" timestamp="1544803449495">
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" timestamp="1544806975436">
         <mark key="'" line="60" column="63" />
         <mark key="[" line="53" column="12" />
         <mark key="]" line="52" column="93" />
@@ -69,8 +69,10 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/SecurityConfig.kt" timestamp="1544801322509">
-        <mark key="[" line="30" column="54" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/SecurityConfig.kt" timestamp="1544806722526">
+        <mark key="[" line="48" column="39" />
+        <mark key="]" line="48" column="39" />
+        <mark key="." line="48" column="39" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/exchangeusers/exchange-users.service.ts" timestamp="1544006636931">
         <mark key="'" line="55" column="64" />
@@ -155,9 +157,9 @@
         <mark key="." line="10" column="26" />
         <mark key="^" line="10" column="26" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountService.kt" timestamp="1544802794879">
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountService.kt" timestamp="1544806943676">
         <mark key="'" line="59" column="71" />
-        <mark key="[" line="66" column="70" />
+        <mark key="[" line="73" column="39" />
         <mark key="]" line="66" column="72" />
         <mark key="^" line="66" column="72" />
         <mark key="." line="66" column="72" />
@@ -505,7 +507,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>userAccountService.assignRandom2FASecretCode(userAccountDetails.emailAddress)</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>Long</text>
