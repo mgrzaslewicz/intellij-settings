@@ -21,7 +21,7 @@
       <file name="E:/prj/autocoin-auth-service/pom.xml" timestamp="1542843652869">
         <mark key="'" line="195" column="60" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" timestamp="1544806975436">
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" timestamp="1544880426859">
         <mark key="'" line="60" column="63" />
         <mark key="[" line="53" column="12" />
         <mark key="]" line="52" column="93" />
@@ -78,7 +78,9 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/models/exchange-key.ts" timestamp="1542971950070">
         <mark key="[" line="6" column="33" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.html" timestamp="1544876589426" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.html" timestamp="1544880991108">
+        <mark key="[" line="12" column="101" />
+      </file>
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/Oauth2Config.kt" timestamp="1544794024296">
         <mark key="[" line="72" column="47" />
         <mark key="]" line="71" column="55" />
@@ -113,14 +115,14 @@
         <mark key="^" line="66" column="72" />
         <mark key="." line="66" column="72" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" timestamp="1544802971863">
-        <mark key="'" line="145" column="63" />
-        <mark key="[" line="121" column="43" />
-        <mark key="]" line="121" column="11" />
-        <mark key="^" line="121" column="11" />
-        <mark key="." line="121" column="11" />
+      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" timestamp="1544879724534">
+        <mark key="'" line="133" column="64" />
+        <mark key="[" line="132" column="40" />
+        <mark key="]" line="132" column="43" />
+        <mark key="^" line="132" column="43" />
+        <mark key="." line="132" column="43" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.ts" timestamp="1544876587399">
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.ts" timestamp="1544880986324">
         <mark key="[" line="36" column="40" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccount.kt" timestamp="1544800521078">
@@ -147,8 +149,11 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchange.kt" timestamp="1543019049587">
         <mark key="[" line="51" column="26" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/services/user-account.service.ts" timestamp="1544868781890">
-        <mark key="[" line="5" column="14" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/user-account.service.ts" timestamp="1544880417734">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="20" column="114" />
+        <mark key="." line="20" column="114" />
+        <mark key="^" line="20" column="114" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" timestamp="1543043453654">
         <mark key="'" line="3" column="6" />
@@ -184,7 +189,7 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544807256838">
+      <file name="/Dummy.txt" timestamp="1544880197398">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="66" />
         <mark key="^" line="0" column="65" />
@@ -254,12 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="27" filename="E:/prj/autocoin-trader-frontend/src/app/services/api/exchangeusers/exchange-users.service.ts" />
-      <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/services/api/exchangeusers/exchange-users.service.ts" />
-      <jump line="94" column="0" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" />
-      <jump line="0" column="0" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" />
-      <jump line="207" column="45" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" />
-      <jump line="443" column="58" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" />
       <jump line="127" column="0" filename="E:/prj/autocoin-order-service/pom.xml" />
       <jump line="0" column="0" filename="E:/prj/autocoin-auth-service/pom.xml" />
       <jump line="188" column="48" filename="E:/prj/autocoin-auth-service/pom.xml" />
@@ -354,19 +353,25 @@
       <jump line="150" column="63" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
       <jump line="59" column="71" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountService.kt" />
       <jump line="56" column="63" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="163" column="57" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
+      <jump line="157" column="0" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
+      <jump line="170" column="35" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
+      <jump line="132" column="43" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
+      <jump line="133" column="64" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>add</text>
+        <text>boolean</text>
       </register>
       <register name="/" type="4">
-        <text>Long</text>
+        <text>secret-</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIjJGQSBlbmFibGVkIGZvciB1c2VyICR7dXNlckFjY291bnREZXRhaWxzLmlkfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5odHRwLmdldDxib29sZWFuPih0aGlzLnR3b0ZhY3RvckF1dGhlbnRpY2F0aW9uRW5kcG9pbnRVcmwpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICogQ29udmVydGVkIHRvIGtvdGxpbjogaHR0cHM6Ly9naXRodWIuY29tL2oyNTYvdHdvLWZhY3Rvci1hdXRoL3RyZWUvbWFzdGVyL3NyYy9tYWluL2phdmEvY29tL2oyNTYvdHdvZmFjdG9yYXV0aAo=</text>
@@ -400,9 +405,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Long</last-search>
+      <last-search>secret-</last-search>
       <last-offset />
-      <last-pattern>Long</last-pattern>
+      <last-pattern>secret-</last-pattern>
       <last-replace>exchangeUserId =</last-replace>
       <last-substitute>clientId =</last-substitute>
       <last-dir>1</last-dir>
@@ -410,7 +415,6 @@
     </search>
     <history>
       <history-search>
-        <entry>client</entry>
         <entry>clientId</entry>
         <entry>clientId =</entry>
         <entry encoding="base64">XDxyZXN0VGVtcGxhdGVcPg==</entry>
@@ -430,6 +434,7 @@
         <entry>Key</entry>
         <entry>Lon</entry>
         <entry>Long</entry>
+        <entry>secret-</entry>
       </history-search>
       <history-cmd>
         <entry>%s/char(36)/varchar(36)/g</entry>
