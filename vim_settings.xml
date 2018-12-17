@@ -161,10 +161,11 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchange.kt" timestamp="1543019049587">
         <mark key="[" line="51" column="26" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/services/user-account.service.ts" timestamp="1545043922352">
-        <mark key="[" line="24" column="120" />
-        <mark key="]" line="24" column="119" />
-        <mark key="." line="24" column="119" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/user-account.service.ts" timestamp="1545046223555">
+        <mark key="'" line="20" column="29" />
+        <mark key="[" line="20" column="107" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="29" />
         <mark key="^" line="24" column="119" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/StrategiesController.kt" timestamp="1543964398618">
@@ -259,7 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/prj/autocoin-auth-service/pom.xml" />
       <jump line="188" column="48" filename="E:/prj/autocoin-auth-service/pom.xml" />
       <jump line="195" column="60" filename="E:/prj/autocoin-auth-service/pom.xml" />
       <jump line="61" column="8" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeKeyService.kt" />
@@ -359,16 +359,17 @@
       <jump line="132" column="43" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
       <jump line="133" column="64" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
       <jump line="59" column="78" filename="E:/prj/autocoin-trader-frontend/src/app/services/api/exchangeusers/exchange-users.service.ts" />
+      <jump line="20" column="29" filename="E:/prj/autocoin-trader-frontend/src/app/services/user-account.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>secret2FACode</text>
+        <text encoding="base64">PHN0cmluZz4=</text>
       </register>
       <register name="/" type="4">
-        <text>post</text>
+        <text>null</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5vcGVyYXRpb25JblByb2dyZXNzID0gZmFsc2U7Cg==</text>
@@ -405,9 +406,9 @@
       </register>
     </registers>
     <search>
-      <last-search>post</last-search>
+      <last-search>null</last-search>
       <last-offset />
-      <last-pattern>post</last-pattern>
+      <last-pattern>null</last-pattern>
       <last-replace>exchangeUserId =</last-replace>
       <last-substitute>clientId =</last-substitute>
       <last-dir>1</last-dir>
@@ -415,7 +416,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clientId =</entry>
         <entry encoding="base64">XDxyZXN0VGVtcGxhdGVcPg==</entry>
         <entry>main</entry>
         <entry>security</entry>
@@ -435,6 +435,7 @@
         <entry>Long</entry>
         <entry>secret-</entry>
         <entry>post</entry>
+        <entry>null</entry>
       </history-search>
       <history-cmd>
         <entry>%s/char(36)/varchar(36)/g</entry>
