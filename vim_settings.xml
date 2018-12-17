@@ -197,6 +197,11 @@
       <file name="/Client [autocoin_client_log@138.201.226.51]" timestamp="1544789544503">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/login/login.component.html" timestamp="1545056409659">
+        <mark key="[" line="19" column="48" />
+        <mark key="]" line="19" column="48" />
+        <mark key="." line="19" column="48" />
+      </file>
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1544795530560">
         <mark key="[" line="217" column="0" />
         <mark key="]" line="217" column="2" />
@@ -380,7 +385,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>message: string</text>
+        <text>Step</text>
       </register>
       <register name="/" type="4">
         <text>Total</text>
