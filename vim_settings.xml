@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/login/login.component.ts" timestamp="1545251016180">
-        <mark key="'" line="28" column="4" />
-        <mark key="[" line="30" column="23" />
-        <mark key="]" line="42" column="69" />
-        <mark key="." line="42" column="69" />
-        <mark key="^" line="42" column="69" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/login/login.component.ts" timestamp="1545253334454">
+        <mark key="'" line="27" column="4" />
+        <mark key="[" line="39" column="78" />
+        <mark key="]" line="21" column="49" />
+        <mark key="." line="21" column="50" />
+        <mark key="^" line="21" column="49" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" timestamp="1542995867631">
         <mark key="[" line="101" column="2" />
@@ -52,6 +52,12 @@
         <mark key="]" line="13" column="71" />
         <mark key="^" line="13" column="71" />
         <mark key="." line="13" column="71" />
+      </file>
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/SecurityConfig.kt" timestamp="1545251662336">
+        <mark key="[" line="71" column="12" />
+        <mark key="]" line="71" column="12" />
+        <mark key="^" line="71" column="15" />
+        <mark key="." line="71" column="12" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/WebSecurityConfig.kt" timestamp="1543444523756">
         <mark key="[" line="15" column="42" />
@@ -105,7 +111,7 @@
         <mark key="]" line="23" column="20" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/feature.toogle.service.ts" timestamp="1544006242934">
-        <mark key="[" line="32" column="36" />
+        <mark key="[" line="31" column="36" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1544001429560">
         <mark key="[" line="99" column="55" />
@@ -155,6 +161,9 @@
         <mark key="^" line="10" column="37" />
         <mark key="." line="10" column="38" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/auth.service.ts" timestamp="1545252416147">
+        <mark key="[" line="15" column="28" />
+      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchange.kt" timestamp="1543019049587">
         <mark key="[" line="51" column="26" />
       </file>
@@ -180,6 +189,11 @@
         <mark key="^" line="167" column="123" />
         <mark key="." line="167" column="123" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/settings/settings.component.html" timestamp="1545252563427">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4bdb39f5-9ab9-49e9-baf5-4dd7e9c87229/console.sql" timestamp="1545241775585">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="87" column="0" />
@@ -190,7 +204,7 @@
       <file name="/Client [autocoin_client_log@138.201.226.51]" timestamp="1544789544503">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/login/login.component.html" timestamp="1545242274974">
+      <file name="E:/prj/autocoin-trader-frontend/src/app/login/login.component.html" timestamp="1545253328313">
         <mark key="'" line="3" column="60" />
         <mark key="[" line="18" column="48" />
         <mark key="]" line="7" column="24" />
@@ -209,7 +223,7 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545052333874">
+      <file name="/Dummy.txt" timestamp="1545253537752">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="66" />
         <mark key="^" line="0" column="65" />
@@ -256,6 +270,7 @@
         <mark key="." line="6" column="35" />
         <mark key="^" line="6" column="35" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/settings/settings.component.ts" timestamp="1545252581378" />
       <file name="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" timestamp="1544790582555">
         <mark key="[" line="3" column="37" />
         <mark key="]" line="0" column="24" />
@@ -385,7 +400,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tcG9sbCA1MDAw</text>
+        <text encoding="base64">RkVBVFVSRV8yRkEsIA==</text>
       </register>
       <register name="/" type="4">
         <text>onSubmit</text>
@@ -394,31 +409,31 @@
         <text>currencyPairPrices</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQ29udmVydGVkIHRvIGtvdGxpbjogaHR0cHM6Ly9naXRodWIuY29tL2oyNTYvdHdvLWZhY3Rvci1hdXRoL3RyZWUvbWFzdGVyL3NyYy9tYWluL2phdmEvY29tL2oyNTYvdHdvZmFjdG9yYXV0aAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpc1Nob3dpbmdUd29GYWN0b3JBdXRoZW50aWNhdGlvbigpOiBib29sZWFuIHsKICAgICAgICByZXR1cm4gdGhpcy5mZWF0dXJlVG9nZ2xlLmlzQWN0aXZlKEZFQVRVUkVfMkZBKTsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYWN0aXZhdGlvblRva2VuOiBTdHJpbmc/ID0gbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5pc1Nob3dpbmdUd29GYWN0b3JBdXRoZW50aWNhdGlvbkNvZGVJbnB1dCA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMudHdvRmFjdG9yQXV0aGVudGljYXRpb25JbnB1dC5uYXRpdmVFbGVtZW50LmZvY3VzKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQ29udmVydGVkIHRvIGtvdGxpbjogaHR0cHM6Ly9naXRodWIuY29tL2oyNTYvdHdvLWZhY3Rvci1hdXRoL3RyZWUvbWFzdGVyL3NyYy9tYWluL2phdmEvY29tL2oyNTYvdHdvZmFjdG9yYXV0aAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ewogICAgZnVuIGVuYWJsZWQoKSA9IGlmIChkaXNhYmxlZCAhPSBudWxsKSAhZGlzYWJsZWQgZWxzZSBlbmFibGVkISEgLy8gVE9ETyByZW1vdmUgd2hlbiBzd2l0Y2hlZCB0byBuZXcgb2F1dGgKfQoK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYWN0aXZhdGlvblRva2VuOiBTdHJpbmc/ID0gbnVsbCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBsb2dnZXIud2FybigiR2V0dGluZyBleGNoYW5nZXMgZnJvbSBkZXByZWNhdGVkIHNlcnZpY2UiKQogICAgICAgICAgICB2YWwgcmVzcG9uc2VFbnRpdHkgPSBkZXByZWNhdGVkUmVzdFRlbXBsYXRlLmV4Y2hhbmdlKCIkZGVwcmVjYXRlZEV4Y2hhbmdlc0FwaVVybC9leGNoYW5nZXMiLCBHRVQsIG51bGwsIGV4Y2hhbmdlTGlzdFR5cGUpCiAgICAgICAgICAgIHJldHVybiByZXNwb25zZUVudGl0eS5ib2R5ISEKICAgICAgICB9IGNhdGNoIChlOiBFeGNlcHRpb24pIHsKICAgICAgICAgICAgbG9nZ2VyLndhcm4oIkNvdWxkIG5vdCBnZXQgZXhjaGFuZ2VzIGZyb20gJGRlcHJlY2F0ZWRFeGNoYW5nZXNBcGlVcmwvZXhjaGFuZ2VzIiwgZSkK</text>
+        <text encoding="base64">ewogICAgZnVuIGVuYWJsZWQoKSA9IGlmIChkaXNhYmxlZCAhPSBudWxsKSAhZGlzYWJsZWQgZWxzZSBlbmFibGVkISEgLy8gVE9ETyByZW1vdmUgd2hlbiBzd2l0Y2hlZCB0byBuZXcgb2F1dGgKfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAUXVhbGlmaWVyKCJkZXByZWNhdGVkT2F1dGgyUmVzdFRlbXBsYXRlIikgdmFsIGRlcHJlY2F0ZWRSZXN0VGVtcGxhdGU6IE9BdXRoMlJlc3RUZW1wbGF0ZSwKICAgICAgICAgICAgICAgICAgICAgIEBWYWx1ZSgiXCR7ZGVwcmVjYXRlZEV4Y2hhbmdlc0FwaVVybH0iKSB2YWwgZGVwcmVjYXRlZEV4Y2hhbmdlc0FwaVVybDogU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBsb2dnZXIud2FybigiR2V0dGluZyBleGNoYW5nZXMgZnJvbSBkZXByZWNhdGVkIHNlcnZpY2UiKQogICAgICAgICAgICB2YWwgcmVzcG9uc2VFbnRpdHkgPSBkZXByZWNhdGVkUmVzdFRlbXBsYXRlLmV4Y2hhbmdlKCIkZGVwcmVjYXRlZEV4Y2hhbmdlc0FwaVVybC9leGNoYW5nZXMiLCBHRVQsIG51bGwsIGV4Y2hhbmdlTGlzdFR5cGUpCiAgICAgICAgICAgIHJldHVybiByZXNwb25zZUVudGl0eS5ib2R5ISEKICAgICAgICB9IGNhdGNoIChlOiBFeGNlcHRpb24pIHsKICAgICAgICAgICAgbG9nZ2VyLndhcm4oIkNvdWxkIG5vdCBnZXQgZXhjaGFuZ2VzIGZyb20gJGRlcHJlY2F0ZWRFeGNoYW5nZXNBcGlVcmwvZXhjaGFuZ2VzIiwgZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBAUXVhbGlmaWVyKCJkZXByZWNhdGVkT2F1dGgyUmVzdFRlbXBsYXRlIikgdmFsIGRlcHJlY2F0ZWRSZXN0VGVtcGxhdGU6IE9BdXRoMlJlc3RUZW1wbGF0ZSwKICAgICAgICAgICAgICAgICAgICAgIEBWYWx1ZSgiXCR7ZGVwcmVjYXRlZEV4Y2hhbmdlc0FwaVVybH0iKSB2YWwgZGVwcmVjYXRlZEV4Y2hhbmdlc0FwaVVybDogU3RyaW5nLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/clientId =/exchangeUserId =/g</text>
