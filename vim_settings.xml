@@ -73,6 +73,9 @@
         <mark key="^" line="13" column="71" />
         <mark key="." line="13" column="71" />
       </file>
+      <file name="/InitialStrategyExecutorStateLoaderTest.kt" timestamp="1545348046657">
+        <mark key="'" line="27" column="0" />
+      </file>
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/SecurityConfig.kt" timestamp="1545251662336">
         <mark key="[" line="71" column="12" />
         <mark key="]" line="71" column="12" />
@@ -132,6 +135,9 @@
         <mark key="]" line="26" column="53" />
         <mark key="^" line="25" column="56" />
         <mark key="." line="26" column="53" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoader.kt" timestamp="1545347702119">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccount.kt" timestamp="1544800521078">
         <mark key="[" line="38" column="37" />
@@ -237,11 +243,11 @@
         <mark key="^" line="103" column="19" />
         <mark key="." line="103" column="19" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" timestamp="1543043082872">
-        <mark key="[" line="58" column="16" />
-        <mark key="]" line="58" column="40" />
-        <mark key="." line="58" column="40" />
-        <mark key="^" line="58" column="40" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" timestamp="1545347974885">
+        <mark key="[" line="87" column="80" />
+        <mark key="]" line="87" column="80" />
+        <mark key="." line="87" column="80" />
+        <mark key="^" line="55" column="40" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/account/AccountService.kt" timestamp="1543957880941">
         <mark key="[" line="52" column="110" />
@@ -261,16 +267,20 @@
         <mark key="." line="22" column="14" />
         <mark key="^" line="22" column="47" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/settings/settings.component.ts" timestamp="1545252581378" />
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyWithTrailingStopStrategyProvider.kt" timestamp="1545340837613">
         <mark key="[" line="19" column="4" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1545342887643">
-        <mark key="'" line="138" column="82" />
-        <mark key="[" line="207" column="40" />
-        <mark key="]" line="207" column="40" />
-        <mark key="." line="207" column="40" />
-        <mark key="^" line="59" column="30" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1545347575990">
+        <mark key="'" line="132" column="82" />
+        <mark key="[" line="199" column="47" />
+        <mark key="]" line="199" column="47" />
+        <mark key="." line="199" column="47" />
+        <mark key="^" line="53" column="30" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsService.kt" timestamp="1545348078451">
+        <mark key="[" line="73" column="173" />
+        <mark key="]" line="73" column="173" />
+        <mark key="." line="73" column="173" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/test/resources/schema.sql" timestamp="1544790582555">
         <mark key="[" line="3" column="37" />
@@ -295,9 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="30" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/ExchangeServiceConfig.kt" />
-      <jump line="30" column="114" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/ExchangeServiceConfig.kt" />
-      <jump line="31" column="114" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/ExchangeServiceConfig.kt" />
       <jump line="32" column="114" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/ExchangeServiceConfig.kt" />
       <jump line="33" column="134" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/ExchangeServiceConfig.kt" />
       <jump line="34" column="114" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/ExchangeServiceConfig.kt" />
@@ -395,16 +402,19 @@
       <jump line="61" column="17" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
       <jump line="139" column="80" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
       <jump line="141" column="82" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
+      <jump line="52" column="4" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoader.kt" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoader.kt" />
+      <jump line="27" column="0" filename="/InitialStrategyExecutorStateLoaderTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>timeSeries: TimeSeries, shouldLogOnSuccess: Boolean = true</text>
+        <text encoding="base64">ZXZlbnRQdWJsaXNoZXIsIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdHJhdGVneUV4ZWN1dGlvblw+</text>
+        <text>createLocalO</text>
       </register>
       <register name="0" type="4">
         <text>currencyPairPrices</text>
@@ -441,9 +451,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdHJhdGVneUV4ZWN1dGlvblw+</last-search>
+      <last-search>createLocalO</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdHJhdGVneUV4ZWN1dGlvblw+</last-pattern>
+      <last-pattern>createLocalO</last-pattern>
       <last-replace>exchangeUserId =</last-replace>
       <last-substitute>currencyPair</last-substitute>
       <last-dir>1</last-dir>
@@ -451,8 +461,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Long</entry>
-        <entry>secret-</entry>
         <entry>post</entry>
         <entry>null</entry>
         <entry encoding="base64">XDxzdHJpbmdcPg==</entry>
@@ -471,6 +479,8 @@
         <entry>para</entry>
         <entry>trading</entry>
         <entry encoding="base64">XDxzdHJhdGVneUV4ZWN1dGlvblw+</entry>
+        <entry>findClosed</entry>
+        <entry>createLocalO</entry>
       </history-search>
       <history-cmd>
         <entry>%s/char(36)/varchar(36)/g</entry>
