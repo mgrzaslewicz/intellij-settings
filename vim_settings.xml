@@ -214,6 +214,12 @@
       <file name="E:/prj/autocoin-auth-service/scripts/stop.sh" timestamp="1545051522893">
         <mark key="[" line="14" column="6" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/order/ExchangeOrderService.kt" timestamp="1545502668415">
+        <mark key="[" line="38" column="111" />
+        <mark key="]" line="38" column="119" />
+        <mark key="^" line="38" column="119" />
+        <mark key="." line="38" column="119" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/StrategiesController.kt" timestamp="1543964398618">
         <mark key="[" line="167" column="123" />
         <mark key="]" line="167" column="123" />
@@ -316,10 +322,12 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyWithTrailingStopStrategyProvider.kt" timestamp="1545383600432">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1545501936137">
-        <mark key="[" line="45" column="36" />
-        <mark key="]" line="45" column="85" />
-        <mark key="." line="45" column="85" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1545502600215">
+        <mark key="'" line="121" column="136" />
+        <mark key="[" line="141" column="75" />
+        <mark key="]" line="104" column="148" />
+        <mark key="." line="122" column="68" />
+        <mark key="^" line="104" column="148" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsService.kt" timestamp="1545348078451">
         <mark key="[" line="73" column="173" />
@@ -367,10 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="78" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsServiceIT.kt" />
-      <jump line="62" column="32" filename="E:/prj/autocoin-order-service/pom.xml" />
-      <jump line="59" column="8" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-maven-plugin/1.3.10/kotlin-maven-plugin-1.3.10.jar!/META-INF/maven/plugin.xml" />
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-maven-plugin/1.3.10/kotlin-maven-plugin-1.3.10.jar!/META-INF/maven/plugin.xml" />
       <jump line="210" column="97" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-maven-plugin/1.3.10/kotlin-maven-plugin-1.3.10.jar!/META-INF/maven/plugin.xml" />
       <jump line="421" column="97" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-maven-plugin/1.3.10/kotlin-maven-plugin-1.3.10.jar!/META-INF/maven/plugin.xml" />
       <jump line="696" column="97" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-maven-plugin/1.3.10/kotlin-maven-plugin-1.3.10.jar!/META-INF/maven/plugin.xml" />
@@ -467,6 +471,10 @@
       <jump line="14" column="29" filename="/Rules.kt" />
       <jump line="49" column="8" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParameters.kt" />
       <jump line="0" column="0" filename="/application-sample-trading-parameters.yml" />
+      <jump line="105" column="68" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
+      <jump line="119" column="16" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
+      <jump line="120" column="50" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
+      <jump line="121" column="136" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -476,7 +484,7 @@
         <text>val</text>
       </register>
       <register name="/" type="4">
-        <text>maxBaseCurrencyPercentForSelling</text>
+        <text>cance</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGFja2FnZSBhdXRvbWF0ZS5wcm9maXQuYXV0b2NvaW4udGEucnVsZQoKaW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi50ZXN0LmNvbmZpZy50aWNrc1dpdGhJbnRQcmljZXMKaW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi50ZXN0LmNvbmZpZy50b1RpY2tlcgppbXBvcnQgY29tLm5oYWFybWFuLm1vY2tpdG9fa290bGluLm1vY2sKaW1wb3J0IGV1LnZlcmRlbGhhbi50YTRqLkJhc2VUaW1lU2VyaWVzCmltcG9ydCBldS52ZXJkZWxoYW4udGE0ai5CYXNlVHJhZGluZ1JlY29yZAppbXBvcnQgZXUudmVyZGVsaGFuLnRhNGouRGVjaW1hbAppbXBvcnQgZXUudmVyZGVsaGFuLnRhNGouRGVjaW1hbC52YWx1ZU9mCmltcG9ydCBldS52ZXJkZWxoYW4udGE0ai5UaW1lU2VyaWVzCmltcG9ydCBvcmcuYXNzZXJ0ai5jb3JlLmFwaS5Bc3NlcnRpb25zRm9ySW50ZXJmYWNlVHlwZXMuYXNzZXJ0VGhhdAppbXBvcnQgb3JnLmp1bml0LkJlZm9yZQppbXBvcnQgb3JnLmp1bml0LlRlc3QKaW1wb3J0IG9yZy5rbm93bS54Y2hhbmdlLmN1cnJlbmN5LkN1cnJlbmN5UGFpcgoKY2xhc3MgU2VsbFdoZW5TZWNvbmRDdXJyZW5jeUdyb3dzUnVsZVRlc3QgewogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgdGltZVNlcmllc1dpdGhHcm93aW5nT3RoZXJDdXJyZW5jeVByaWNlczogVGltZVNlcmllcwogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgcnVsZTogU2VsbFdoZW5DdXJyZW5jeUdyb3dzUnVsZQogICAgcHJpdmF0ZSB2YWwgb3RoZXJDdXJyZW5jeVBhaXIgPSBDdXJyZW5jeVBhaXIuQlRDX1VTRAoKICAgIEBCZWZvcmUKICAgIGZ1biBzZXR1cCgpIHsKICAgICAgICB0aW1lU2VyaWVzV2l0aEdyb3dpbmdPdGhlckN1cnJlbmN5UHJpY2VzID0gQmFzZVRpbWVTZXJpZXModGlja3NXaXRoSW50UHJpY2VzKG90aGVyQ3VycmVuY3lQYWlyLCAoNzUwMC4uNzU1MCkudG9MaXN0KCkpKQogICAgfQoKICAgIEBUZXN0CiAgICBmdW4gc2hvdWxkU2VsbFdoZW5QcmljZUFib3ZlUHJpY2VGcm9tTGlzdEFuZFRyYWRpbmdSZWNvcmRFbXB0eSgpIHsKICAgICAgICAvLyBnaXZlbgogICAgICAgIHZhbCBvdGhlckN1cnJlbmN5UHJpY2VzID0gdGlja3NXaXRoSW50UHJpY2VzKG90aGVyQ3VycmVuY3lQYWlyLCBsaXN0T2YoNzQwMCwgNzUwMCwgNzUxMSwgNzUyMCwgNzUzMCwgNzU0MCwgNzU5OSwgNzYwMSkpLm1hcCB7IGl0LnRvVGlja2VyKCkgfQogICAgICAgIHZhbCB0cmFkaW5nUmVjb3JkRG9lc05vdE1hdHRlckluVGhpc1Rlc3QgPSBCYXNlVHJhZGluZ1JlY29yZCgpCiAgICAgICAgcnVsZSA9IFNlbGxXaGVuQ3VycmVuY3lHcm93c1J1bGUoZGVjaW1hbHMoNzUxMCwgNzUzMCwgNzYwMCksIG90aGVyQ3VycmVuY3lQYWlyKQogICAgICAgIC8vIHdoZW4KICAgICAgICBydWxlLm9uVGlja2VyKG90aGVyQ3VycmVuY3lQcmljZXNbMF0pCiAgICAgICAgYXNzZXJ0VGhhdChydWxlLmlzU2F0aXNmaWVkKDAsIHRyYWRpbmdSZWNvcmREb2VzTm90TWF0dGVySW5UaGlzVGVzdCkpLmlzRmFsc2UoKQogICAgICAgIHJ1bGUub25UaWNrZXIob3RoZXJDdXJyZW5jeVByaWNlc1sxXSkKICAgICAgICBhc3NlcnRUaGF0KHJ1bGUuaXNTYXRpc2ZpZWQoMSwgdHJhZGluZ1JlY29yZERvZXNOb3RNYXR0ZXJJblRoaXNUZXN0KSkuaXNGYWxzZSgpCiAgICAgICAgcnVsZS5vblRpY2tlcihvdGhlckN1cnJlbmN5UHJpY2VzWzJdKQogICAgICAgIGFzc2VydFRoYXQocnVsZS5pc1NhdGlzZmllZCgyLCB0cmFkaW5nUmVjb3JkRG9lc05vdE1hdHRlckluVGhpc1Rlc3QpKS5pc1RydWUoKQogICAgICAgIHJ1bGUub25UaWNrZXIob3RoZXJDdXJyZW5jeVByaWNlc1s0XSkKICAgICAgICBhc3NlcnRUaGF0KHJ1bGUuaXNTYXRpc2ZpZWQoNCwgdHJhZGluZ1JlY29yZERvZXNOb3RNYXR0ZXJJblRoaXNUZXN0KSkuaXNUcnVlKCkKICAgIH0KCiAgICBAVGVzdAogICAgZnVuIHNob3VsZFNlbGxXaGVuUHJpY2VBYm92ZUNvcnJlc3BvbmRpbmdQcmljZUZyb21QcmljZUxpc3QoKSB7CiAgICAgICAgLy8gZ2l2ZW4KICAgICAgICB2YWwgcHJpY2VPZlRyYWRlZEN1cnJlbmN5RG9lc05vdE1hdHRlciA9IG1vY2s8RGVjaW1hbD4oKQogICAgICAgIHZhbCBhbW91bnRPZlRyYWRlZEN1cnJlbmN5RG9lc05vdE1hdHRlciA9IG1vY2s8RGVjaW1hbD4oKQogICAgICAgIHZhbCBvdGhlckN1cnJlbmN5VGlja2VycyA9IHRpY2tzV2l0aEludFByaWNlcyhvdGhlckN1cnJlbmN5UGFpciwgbGlzdE9mKDc0MDAsIDc1MDAsIDc1MTEsIDc1MjAsIDc1MzAsIDc1NDAsIDc1OTksIDc2MDEpKS5tYXAgeyBpdC50b1RpY2tlcigpIH0KICAgICAgICB2YWwgdHJhZGluZ1JlY29yZCA9IEJhc2VUcmFkaW5nUmVjb3JkKCkKICAgICAgICBydWxlID0gU2VsbFdoZW5DdXJyZW5jeUdyb3dzUnVsZShkZWNpbWFscyg3NTEwLCA3NTMwLCA3NjAwKSwgb3RoZXJDdXJyZW5jeVBhaXIpCgogICAgICAgIC8vIHdoZW4KICAgICAgICBydWxlLm9uVGlja2VyKG90aGVyQ3VycmVuY3lUaWNrZXJzWzBdKQogICAgICAgIGFzc2VydFRoYXQocnVsZS5pc1NhdGlzZmllZCgwLCB0cmFkaW5nUmVjb3JkKSkuaXNGYWxzZSgpIC8vIDc0MDAgaXMgbm90ID4gNzUxMAogICAgICAgIHJ1bGUub25UaWNrZXIob3RoZXJDdXJyZW5jeVRpY2tlcnNbMV0pCiAgICAgICAgYXNzZXJ0VGhhdChydWxlLmlzU2F0aXNmaWVkKDEsIHRyYWRpbmdSZWNvcmQpKS5pc0ZhbHNlKCkgLy8gNzUwMCBpcyBub3QgPiA3NTEwCgogICAgICAgIHJ1bGUub25UaWNrZXIob3RoZXJDdXJyZW5jeVRpY2tlcnNbMl0pIC8vIDc1MTEKICAgICAgICBhc3NlcnRUaGF0KHJ1bGUuaXNTYXRpc2ZpZWQoMiwgdHJhZGluZ1JlY29yZCkpLmlzVHJ1ZSgpIC8vIDc1MTEgaXMgPiA3NTEwCiAgICAgICAgdHJhZGluZ1JlY29yZC5lbnRlcigyLCBwcmljZU9mVHJhZGVkQ3VycmVuY3lEb2VzTm90TWF0dGVyLCBhbW91bnRPZlRyYWRlZEN1cnJlbmN5RG9lc05vdE1hdHRlcikgLy8gYWZ0ZXIgdGhhdCBtb3ZpbmcgdG8gcHJpY2UgbmV4dCBwcmljZSAybmQgb24gdGhlIHByaWNlIGxpc3QgPSA3NTMwCiAgICAgICAgYXNzZXJ0VGhhdChydWxlLmlzU2F0aXNmaWVkKDIsIHRyYWRpbmdSZWNvcmQpKS5pc0ZhbHNlKCkKCgogICAgICAgIHJ1bGUub25UaWNrZXIob3RoZXJDdXJyZW5jeVRpY2tlcnNbM10pCiAgICAgICAgYXNzZXJ0VGhhdChydWxlLmlzU2F0aXNmaWVkKDMsIHRyYWRpbmdSZWNvcmQpKS5pc0ZhbHNlKCkgLy8gNzUyMCBpcyBub3QgPiA3NTMwCgogICAgICAgIHJ1bGUub25UaWNrZXIob3RoZXJDdXJyZW5jeVRpY2tlcnNbNF0pCiAgICAgICAgYXNzZXJ0VGhhdChydWxlLmlzU2F0aXNmaWVkKDQsIHRyYWRpbmdSZWNvcmQpKS5pc0ZhbHNlKCkgLy8gNzUzMCBpcyBub3QgPiA3NTMwCgogICAgICAgIHJ1bGUub25UaWNrZXIob3RoZXJDdXJyZW5jeVRpY2tlcnNbNV0pCiAgICAgICAgYXNzZXJ0VGhhdChydWxlLmlzU2F0aXNmaWVkKDUsIHRyYWRpbmdSZWNvcmQpKS5pc1RydWUoKSAvLyA3NTk5IGlzID4gNzUzMAoKICAgICAgICB0cmFkaW5nUmVjb3JkLmVudGVyKDYsIHByaWNlT2ZUcmFkZWRDdXJyZW5jeURvZXNOb3RNYXR0ZXIsIGFtb3VudE9mVHJhZGVkQ3VycmVuY3lEb2VzTm90TWF0dGVyKSAvLyBhZnRlciB0aGF0IG1vdmluZyB0byBwcmljZSBuZXh0IHByaWNlIDJuZCBvbiB0aGUgcHJpY2UgbGlzdCA9IDc1OTkKICAgICAgICBydWxlLm9uVGlja2VyKG90aGVyQ3VycmVuY3lUaWNrZXJzWzZdKQogICAgICAgIGFzc2VydFRoYXQocnVsZS5pc1NhdGlzZmllZCg1LCB0cmFkaW5nUmVjb3JkKSkuaXNGYWxzZSgpIC8vIDc1OTkgaXMgbm90ID4gNzU5OQoKICAgICAgICBydWxlLm9uVGlja2VyKG90aGVyQ3VycmVuY3lUaWNrZXJzWzddKQogICAgICAgIGFzc2VydFRoYXQocnVsZS5pc1NhdGlzZmllZCg3LCB0cmFkaW5nUmVjb3JkKSkuaXNUcnVlKCkgLy8gNzU2MDEgaXMgPiA3NTk5CgogICAgfQoKICAgIHByaXZhdGUgZnVuIGRlY2ltYWxzKHZhcmFyZyBwcmljZXM6IEludCk6IExpc3Q8RGVjaW1hbD4gPSBwcmljZXMubWFwIHsgdmFsdWVPZihpdCkgfQoKfQo=</text>
@@ -513,9 +521,9 @@
       </register>
     </registers>
     <search>
-      <last-search>maxBaseCurrencyPercentForSelling</last-search>
+      <last-search>cance</last-search>
       <last-offset />
-      <last-pattern>maxBaseCurrencyPercentForSelling</last-pattern>
+      <last-pattern>cance</last-pattern>
       <last-replace>emptyList()</last-replace>
       <last-substitute>tradingRecordDoesNotMatterInThisTest</last-substitute>
       <last-dir>1</last-dir>
@@ -523,7 +531,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Total</entry>
         <entry>Refresh</entry>
         <entry>currencyPairPrices</entry>
         <entry>currencyPair</entry>
@@ -543,6 +550,7 @@
         <entry encoding="base64">XDx0aW1lU2VyaWVzV2l0aEdyb3dpbmdPdGhlckN1cnJlbmN5UHJpY2VzXD4=</entry>
         <entry encoding="base64">XDxpbmRleFw+</entry>
         <entry>maxBaseCurrencyPercentForSelling</entry>
+        <entry>cance</entry>
       </history-search>
       <history-cmd>
         <entry>%s/BOOLEAN/BIT/g</entry>
