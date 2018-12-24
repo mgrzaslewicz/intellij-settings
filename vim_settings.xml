@@ -17,11 +17,12 @@
         <mark key="]" line="72" column="234" />
         <mark key="." line="72" column="234" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" timestamp="1545610409911">
-        <mark key="[" line="64" column="125" />
-        <mark key="]" line="32" column="53" />
-        <mark key="^" line="32" column="53" />
-        <mark key="." line="32" column="53" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" timestamp="1545611179373">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="209" column="113" />
+        <mark key="]" line="209" column="113" />
+        <mark key="^" line="212" column="7" />
+        <mark key="." line="209" column="113" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWhenSecondCurrencyGrowsStrategyProvider.kt" timestamp="1545341571197">
         <mark key="[" line="23" column="118" />
@@ -106,6 +107,7 @@
         <mark key="^" line="33" column="8" />
         <mark key="." line="35" column="25" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/wallet/ExchangeWalletService.kt" timestamp="1545610852033" />
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealthService.kt" timestamp="1545504462228">
         <mark key="'" line="65" column="55" />
         <mark key="[" line="65" column="55" />
@@ -177,8 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="11" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
-      <jump line="88" column="32" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
       <jump line="3" column="6" filename="E:/prj/autocoin-strategy-executor/src/test/resources/application-sample-trading-parameters.yml" />
       <jump line="5" column="44" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/ExchangeServiceConfig.kt" />
       <jump line="105" column="17" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/FetchAndProcessTickersE2ETest.kt" />
@@ -277,55 +277,57 @@
       <jump line="69" column="55" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealthService.kt" />
       <jump line="27" column="51" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" />
       <jump line="34" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeKeyService.kt" />
+      <jump line="171" column="36" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>BID</text>
+        <text>: BigDecimal { }</text>
       </register>
       <register name="/" type="4">
-        <text>Ge</text>
+        <text>curr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdHJhZGVTZXJ2aWNlID0gZ2V0VHJhZGVTZXJ2aWNlKGV4Y2hhbmdlTmFtZSwgZXhjaGFuZ2VVc2VySWQpCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoIWF2YWlsYWJsZUN1cnJlbmN5LmNvbnRhaW5zS2V5KGN1cnJlbmN5Q29kZSkpIHsKICAgICAgICAgICAgYXZhaWxhYmxlQ3VycmVuY3lbY3VycmVuY3lDb2RlXSA9IGRlZmF1bHRBbW91bnRPZkFueUN1cnJlbmN5CiAgICAgICAgfQogICAgICAgIHJldHVybiBhdmFpbGFibGVDdXJyZW5jeVtjdXJyZW5jeUNvZGVdISEK</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ZXhjaGFuZ2VOYW1lICsgZXhjaGFuZ2VVc2VySWQgKyA=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">IHsK</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAub3JpZ2luYWxBbW91bnQodGhpcy5vcmRlcmVkQW1vdW50KQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAub3JpZ2luYWxBbW91bnQodGhpcy5vcmRlcmVkQW1vdW50KQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>tradingRecord.currentTrade.get</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>tradingRecord.currentTrade.getEntries().</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBpc1Nob3dpbmdUd29GYWN0b3JBdXRoZW50aWNhdGlvbigpOiBib29sZWFuIHsKICAgICAgICByZXR1cm4gdGhpcy5mZWF0dXJlVG9nZ2xlLmlzQWN0aXZlKEZFQVRVUkVfMkZBKTsKICAgIH0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5pc1Nob3dpbmdUd29GYWN0b3JBdXRoZW50aWNhdGlvbkNvZGVJbnB1dCA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMudHdvRmFjdG9yQXV0aGVudGljYXRpb25JbnB1dC5uYXRpdmVFbGVtZW50LmZvY3VzKCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICogQ29udmVydGVkIHRvIGtvdGxpbjogaHR0cHM6Ly9naXRodWIuY29tL2oyNTYvdHdvLWZhY3Rvci1hdXRoL3RyZWUvbWFzdGVyL3NyYy9tYWluL2phdmEvY29tL2oyNTYvdHdvZmFjdG9yYXV0aAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYWN0aXZhdGlvblRva2VuOiBTdHJpbmc/ID0gbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5pc1Nob3dpbmdUd29GYWN0b3JBdXRoZW50aWNhdGlvbkNvZGVJbnB1dCA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMudHdvRmFjdG9yQXV0aGVudGljYXRpb25JbnB1dC5uYXRpdmVFbGVtZW50LmZvY3VzKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/tradingRecordDoesNotMatterInThisTest/emptyList()/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Ge</last-search>
+      <last-search>curr</last-search>
       <last-offset />
-      <last-pattern>Ge</last-pattern>
+      <last-pattern>curr</last-pattern>
       <last-replace>emptyList()</last-replace>
       <last-substitute>tradingRecordDoesNotMatterInThisTest</last-substitute>
       <last-dir>1</last-dir>
@@ -333,8 +335,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXJyZW5jeVBhaXJQcmljZXNcPg==</entry>
-        <entry>ngIf</entry>
         <entry>ngFor</entry>
         <entry>onSubmit</entry>
         <entry>para</entry>
@@ -353,6 +353,8 @@
         <entry>loadOpenO</entry>
         <entry>.currencyPai</entry>
         <entry>Ge</entry>
+        <entry>key</entry>
+        <entry>curr</entry>
       </history-search>
       <history-cmd>
         <entry>%s/BOOLEAN/BIT/g</entry>
