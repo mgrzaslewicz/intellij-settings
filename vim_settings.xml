@@ -17,11 +17,11 @@
         <mark key="]" line="72" column="234" />
         <mark key="." line="72" column="234" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" timestamp="1545604665044">
-        <mark key="[" line="39" column="101" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="60" column="0" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" timestamp="1545610409911">
+        <mark key="[" line="64" column="125" />
+        <mark key="]" line="32" column="53" />
+        <mark key="^" line="32" column="53" />
+        <mark key="." line="32" column="53" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWhenSecondCurrencyGrowsStrategyProvider.kt" timestamp="1545341571197">
         <mark key="[" line="23" column="118" />
@@ -37,8 +37,8 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWithTrailingStopStrategyProvider.kt" timestamp="1545341870849">
         <mark key="[" line="19" column="4" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/order/ExchangeOrderService.kt" timestamp="1545604333928">
-        <mark key="[" line="51" column="91" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/order/ExchangeOrderService.kt" timestamp="1545610466407">
+        <mark key="[" line="49" column="22" />
         <mark key="]" line="51" column="91" />
         <mark key="^" line="51" column="91" />
         <mark key="." line="51" column="91" />
@@ -283,7 +283,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>AutocoinTrade</text>
+        <text>BID</text>
       </register>
       <register name="/" type="4">
         <text>Ge</text>
@@ -291,32 +291,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdHJhZGVTZXJ2aWNlID0gZ2V0VHJhZGVTZXJ2aWNlKGV4Y2hhbmdlTmFtZSwgZXhjaGFuZ2VVc2VySWQpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAub3JpZ2luYWxBbW91bnQodGhpcy5vcmRlcmVkQW1vdW50KQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAub3JpZ2luYWxBbW91bnQodGhpcy5vcmRlcmVkQW1vdW50KQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>tradingRecord.currentTrade.get</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAub3JpZ2luYWxBbW91bnQodGhpcy5vcmRlcmVkQW1vdW50KQo=</text>
       </register>
       <register name="4" type="4">
+        <text>tradingRecord.currentTrade.get</text>
+      </register>
+      <register name="5" type="4">
         <text>tradingRecord.currentTrade.getEntries().</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBpc1Nob3dpbmdUd29GYWN0b3JBdXRoZW50aWNhdGlvbigpOiBib29sZWFuIHsKICAgICAgICByZXR1cm4gdGhpcy5mZWF0dXJlVG9nZ2xlLmlzQWN0aXZlKEZFQVRVUkVfMkZBKTsKICAgIH0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5pc1Nob3dpbmdUd29GYWN0b3JBdXRoZW50aWNhdGlvbkNvZGVJbnB1dCA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMudHdvRmFjdG9yQXV0aGVudGljYXRpb25JbnB1dC5uYXRpdmVFbGVtZW50LmZvY3VzKCk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICogQ29udmVydGVkIHRvIGtvdGxpbjogaHR0cHM6Ly9naXRodWIuY29tL2oyNTYvdHdvLWZhY3Rvci1hdXRoL3RyZWUvbWFzdGVyL3NyYy9tYWluL2phdmEvY29tL2oyNTYvdHdvZmFjdG9yYXV0aAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYWN0aXZhdGlvblRva2VuOiBTdHJpbmc/ID0gbnVsbCwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYWN0aXZhdGlvblRva2VuOiBTdHJpbmc/ID0gbnVsbCwK</text>
       </register>
       <register name=":" type="4">
         <text>%s/tradingRecordDoesNotMatterInThisTest/emptyList()/g</text>
