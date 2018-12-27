@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/TestTickerListenerRegistrar.kt" timestamp="1545925545755">
-        <mark key="[" line="5" column="0" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/TestTickerListenerRegistrar.kt" timestamp="1545946850231">
+        <mark key="]" line="38" column="15" />
+        <mark key="." line="38" column="15" />
+        <mark key="^" line="38" column="15" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" timestamp="1545611179373">
         <mark key="'" line="0" column="0" />
@@ -108,7 +110,7 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/BaseStrategyOrderService.kt" timestamp="1545506107719">
         <mark key="[" line="35" column="49" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.4/autocoin-exchange-engine-1.0.4-sources.jar!/automate/profit/autocoin/exchange/AutocoinExchanges.kt" timestamp="1545946107630" />
+      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.4/autocoin-exchange-engine-1.0.4-sources.jar!/automate/profit/autocoin/exchange/AutocoinExchanges.kt" timestamp="1545946515106" />
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/TestExchangeMetadataProvider.kt" timestamp="1545926465665">
         <mark key="[" line="5" column="0" />
       </file>
@@ -131,7 +133,7 @@
         <mark key="." line="84" column="92" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/wallet/ExchangeWalletService.kt" timestamp="1545610852033" />
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealthService.kt" timestamp="1545946099825">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealthService.kt" timestamp="1545946374463">
         <mark key="'" line="54" column="32" />
         <mark key="[" line="45" column="49" />
         <mark key="]" line="70" column="0" />
@@ -151,7 +153,7 @@
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/StrategyOrderServiceTest.kt" timestamp="1545615004250">
         <mark key="'" line="142" column="83" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsService.kt" timestamp="1545946128239">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsService.kt" timestamp="1545946371036">
         <mark key="[" line="99" column="107" />
         <mark key="]" line="84" column="75" />
         <mark key="." line="84" column="75" />
@@ -274,7 +276,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdXRvY29pbkV4Y2hhbmdlc1w+</text>
@@ -283,31 +285,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gRXhjaGFuZ2VPcmRlcigKICAgICAgICAgICAgICAgIHR5cGUgPSBCSUQsCiAgICAgICAgICAgICAgICBvcmRlcklkID0gZXhjaGFuZ2VPcmRlcklkLAogICAgICAgICAgICAgICAgYmFzZUN1cnJlbmN5Q29kZSA9IGN1cnJlbmN5UGFpci5iYXNlLmN1cnJlbmN5Q29kZSwKICAgICAgICAgICAgICAgIGNvdW50ZXJDdXJyZW5jeUNvZGUgPSBjdXJyZW5jeVBhaXIuY291bnRlci5jdXJyZW5jeUNvZGUsCiAgICAgICAgICAgICAgICBzdGF0dXMgPSBORVcsCiAgICAgICAgICAgICAgICBwcmljZSA9IDAuNS50b0JpZ0RlY2ltYWwoKSwKICAgICAgICAgICAgICAgIG9yZGVyZWRBbW91bnQgPSAyLjAudG9CaWdEZWNpbWFsKCksCiAgICAgICAgICAgICAgICB0aW1lc3RhbXAgPSBvcGVuVGltZS50b0luc3RhbnQoKQogICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoIWF2YWlsYWJsZUN1cnJlbmN5LmNvbnRhaW5zS2V5KGN1cnJlbmN5Q29kZSkpIHsKICAgICAgICAgICAgYXZhaWxhYmxlQ3VycmVuY3lbY3VycmVuY3lDb2RlXSA9IGRlZmF1bHRBbW91bnRPZkFueUN1cnJlbmN5CiAgICAgICAgfQogICAgICAgIHJldHVybiBhdmFpbGFibGVDdXJyZW5jeVtjdXJyZW5jeUNvZGVdISEK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ZXhjaGFuZ2VOYW1lICsgZXhjaGFuZ2VVc2VySWQgKyA=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAub3JpZ2luYWxBbW91bnQodGhpcy5vcmRlcmVkQW1vdW50KQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAub3JpZ2luYWxBbW91bnQodGhpcy5vcmRlcmVkQW1vdW50KQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>tradingRecord.currentTrade.get</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAub3JpZ2luYWxBbW91bnQodGhpcy5vcmRlcmVkQW1vdW50KQo=</text>
       </register>
       <register name="7" type="4">
+        <text>tradingRecord.currentTrade.get</text>
+      </register>
+      <register name="8" type="4">
         <text>tradingRecord.currentTrade.getEntries().</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpc1Nob3dpbmdUd29GYWN0b3JBdXRoZW50aWNhdGlvbigpOiBib29sZWFuIHsKICAgICAgICByZXR1cm4gdGhpcy5mZWF0dXJlVG9nZ2xlLmlzQWN0aXZlKEZFQVRVUkVfMkZBKTsKICAgIH0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5pc1Nob3dpbmdUd29GYWN0b3JBdXRoZW50aWNhdGlvbkNvZGVJbnB1dCA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMudHdvRmFjdG9yQXV0aGVudGljYXRpb25JbnB1dC5uYXRpdmVFbGVtZW50LmZvY3VzKCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpc1Nob3dpbmdUd29GYWN0b3JBdXRoZW50aWNhdGlvbigpOiBib29sZWFuIHsKICAgICAgICByZXR1cm4gdGhpcy5mZWF0dXJlVG9nZ2xlLmlzQWN0aXZlKEZFQVRVUkVfMkZBKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/tradingRecordDoesNotMatterInThisTest/emptyList()/g</text>
