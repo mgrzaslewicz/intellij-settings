@@ -138,6 +138,11 @@
         <mark key="^" line="44" column="14" />
         <mark key="." line="47" column="38" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/wallet/XchangeWalletService.kt" timestamp="1546022328955">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/feature.toogle.service.ts" timestamp="1544006242934">
         <mark key="[" line="31" column="36" />
       </file>
@@ -246,11 +251,6 @@
         <mark key="]" line="35" column="25" />
         <mark key="^" line="33" column="8" />
         <mark key="." line="35" column="25" />
-      </file>
-      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/pom.xml" timestamp="1546006469278">
-        <mark key="'" line="32" column="32" />
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="26" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/test/config/SampleMarketDataService.kt" timestamp="1545926890803">
         <mark key="'" line="22" column="62" />
@@ -452,32 +452,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjEuMS4wPC92ZXJzaW9uPgo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">QFByb2ZpbGUoUFJPRCkK</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">dmFsIHRpY2tlckxpc3RlbmVyUmVnaXN0cmFyMiA9IA==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoIWF2YWlsYWJsZUN1cnJlbmN5LmNvbnRhaW5zS2V5KGN1cnJlbmN5Q29kZSkpIHsKICAgICAgICAgICAgYXZhaWxhYmxlQ3VycmVuY3lbY3VycmVuY3lDb2RlXSA9IGRlZmF1bHRBbW91bnRPZkFueUN1cnJlbmN5CiAgICAgICAgfQogICAgICAgIHJldHVybiBhdmFpbGFibGVDdXJyZW5jeVtjdXJyZW5jeUNvZGVdISEK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ZXhjaGFuZ2VOYW1lICsgZXhjaGFuZ2VVc2VySWQgKyA=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IHsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAub3JpZ2luYWxBbW91bnQodGhpcy5vcmRlcmVkQW1vdW50KQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAub3JpZ2luYWxBbW91bnQodGhpcy5vcmRlcmVkQW1vdW50KQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>tradingRecord.currentTrade.get</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAub3JpZ2luYWxBbW91bnQodGhpcy5vcmRlcmVkQW1vdW50KQo=</text>
       </register>
       <register name="9" type="4">
-        <text>tradingRecord.currentTrade.getEntries().</text>
+        <text>tradingRecord.currentTrade.get</text>
       </register>
       <register name=":" type="4">
         <text>%s/tradingRecordDoesNotMatterInThisTest/emptyList()/g</text>
