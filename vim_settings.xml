@@ -77,6 +77,7 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/user-account.service.spec.ts" timestamp="1545038195469">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-core/4.3.12/xchange-core-4.3.12-sources.jar!/org/knowm/xchange/dto/account/Balance.java" timestamp="1546185829805" />
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/Extensions.kt" timestamp="1545995632468">
         <mark key="[" line="13" column="100" />
         <mark key="]" line="13" column="4" />
@@ -218,6 +219,12 @@
         <mark key="]" line="55" column="15" />
         <mark key="." line="55" column="15" />
         <mark key="^" line="55" column="15" />
+      </file>
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/account/AccountService.kt" timestamp="1546185673503">
+        <mark key="[" line="53" column="27" />
+        <mark key="]" line="53" column="26" />
+        <mark key="^" line="53" column="26" />
+        <mark key="." line="53" column="26" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/order/ExchangeOrderService.kt" timestamp="1545995683620">
         <mark key="[" line="47" column="1" />
@@ -375,7 +382,7 @@
         <text>-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
-        <text>rede</text>
+        <text>Balance</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBNb2NrQmVhbgogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgZXhjaGFuZ2VPcmRlclNlcnZpY2U6IEV4Y2hhbmdlT3JkZXJTZXJ2aWNlCg==</text>
@@ -412,9 +419,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rede</last-search>
+      <last-search>Balance</last-search>
       <last-offset />
-      <last-pattern>rede</last-pattern>
+      <last-pattern>Balance</last-pattern>
       <last-replace>emptyList()</last-replace>
       <last-substitute>tradingRecordDoesNotMatterInThisTest</last-substitute>
       <last-dir>1</last-dir>
@@ -422,7 +429,6 @@
     </search>
     <history>
       <history-search>
-        <entry>curr</entry>
         <entry encoding="base64">XDx0cmFkZVNlcnZpY2VcPg==</entry>
         <entry>BI</entry>
         <entry>Sell</entry>
@@ -442,6 +448,7 @@
         <entry>because</entry>
         <entry>cur</entry>
         <entry>rede</entry>
+        <entry>Balance</entry>
       </history-search>
       <history-cmd>
         <entry>%s/BOOLEAN/BIT/g</entry>
