@@ -87,11 +87,11 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/feature.toogle.service.ts" timestamp="1544006242934">
         <mark key="[" line="31" column="36" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" timestamp="1546167372074">
-        <mark key="[" line="315" column="47" />
-        <mark key="]" line="315" column="39" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" timestamp="1546169185825">
+        <mark key="[" line="293" column="58" />
+        <mark key="]" line="293" column="58" />
         <mark key="^" line="315" column="39" />
-        <mark key="." line="315" column="39" />
+        <mark key="." line="293" column="58" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/models/order.ts" timestamp="1542988028695">
         <mark key="[" line="3" column="10" />
@@ -143,8 +143,8 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyWithTrailingStopStrategyProvider.kt" timestamp="1545383600432">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1546166227837">
-        <mark key="'" line="41" column="11" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1546169368577">
+        <mark key="'" line="174" column="0" />
         <mark key="[" line="84" column="29" />
         <mark key="]" line="62" column="15" />
         <mark key="^" line="62" column="15" />
@@ -337,10 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="46" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
-      <jump line="32" column="19" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
-      <jump line="122" column="30" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
-      <jump line="136" column="28" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
       <jump line="150" column="63" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
       <jump line="59" column="71" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountService.kt" />
       <jump line="56" column="63" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
@@ -437,16 +433,20 @@
       <jump line="51" column="21" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/config/TestAutocoinExchangesConfig.kt" />
       <jump line="317" column="7" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/StrategyOrderServiceTest.kt" />
       <jump line="41" column="11" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
+      <jump line="123" column="94" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
+      <jump line="133" column="58" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
+      <jump line="174" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>Growing</text>
+        <text>any(</text>
       </register>
       <register name="/" type="4">
-        <text>saveOpen</text>
+        <text>getOpen</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGFkZFRpY2tzV2l0aEdyb3dpbmdQcmljZXMoKSB7CiAgICAgICAgYWRkVGlja3Moc2FtcGxlVGlja3NXaXRoR3Jvd2luZ1ByaWNlcykK</text>
@@ -483,9 +483,9 @@
       </register>
     </registers>
     <search>
-      <last-search>saveOpen</last-search>
+      <last-search>getOpen</last-search>
       <last-offset />
-      <last-pattern>saveOpen</last-pattern>
+      <last-pattern>getOpen</last-pattern>
       <last-replace>emptyList()</last-replace>
       <last-substitute>tradingRecordDoesNotMatterInThisTest</last-substitute>
       <last-dir>1</last-dir>
@@ -493,9 +493,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbmRleFw+</entry>
-        <entry>maxBaseCurrencyPercentForSelling</entry>
-        <entry>cance</entry>
         <entry>loadOpenO</entry>
         <entry>.currencyPai</entry>
         <entry>Ge</entry>
@@ -513,6 +510,9 @@
         <entry>auto</entry>
         <entry>O</entry>
         <entry>saveOpen</entry>
+        <entry>isOrderCom</entry>
+        <entry>getOpenOrders</entry>
+        <entry>getOpen</entry>
       </history-search>
       <history-cmd>
         <entry>%s/BOOLEAN/BIT/g</entry>
