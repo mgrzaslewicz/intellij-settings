@@ -92,10 +92,11 @@
       <file name="/fragment.kt" timestamp="1544802900355">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinTradeService.kt" timestamp="1546010373223">
-        <mark key="[" line="43" column="57" />
-        <mark key="]" line="47" column="93" />
-        <mark key="." line="47" column="93" />
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinTradeService.kt" timestamp="1546352130019">
+        <mark key="[" line="51" column="32" />
+        <mark key="]" line="51" column="32" />
+        <mark key="." line="51" column="32" />
+        <mark key="^" line="51" column="33" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchangeFactory.kt" timestamp="1546019846157">
         <mark key="[" line="40" column="67" />
@@ -168,6 +169,9 @@
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/StrategyExecutionTest.kt" timestamp="1545613741560">
         <mark key="[" line="29" column="109" />
+      </file>
+      <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/order/OrderService.kt" timestamp="1546351973392">
+        <mark key="[" line="122" column="116" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/scripts/release.sh" timestamp="1546273470896" />
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/OrdersFromLastStrategyExecutionService.kt" timestamp="1545505708093">
@@ -256,6 +260,7 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrderService.kt" timestamp="1545503537415">
         <mark key="[" line="6" column="40" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-core/4.3.12/xchange-core-4.3.12-sources.jar!/org/knowm/xchange/service/trade/TradeService.java" timestamp="1546352093182" />
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/BaseTickerListenerRegistrarsTest.kt" timestamp="1546005673208">
         <mark key="[" line="25" column="57" />
         <mark key="]" line="28" column="84" />
@@ -382,37 +387,37 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>-SNAPSHOT</text>
+        <text encoding="base64">IHJldHVybiA=</text>
       </register>
       <register name="/" type="4">
-        <text>Balance</text>
+        <text>wr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBNb2NrQmVhbgogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgZXhjaGFuZ2VPcmRlclNlcnZpY2U6IEV4Y2hhbmdlT3JkZXJTZXJ2aWNlCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHNhbXBsZVRpY2tzV2l0aERyb3BwaW5nUHJpY2VzOiBMaXN0PEF1dG9jb2luVGljaz4gPSBlbXB0eUxpc3QoKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHJldHVybiA=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHNhbXBsZVRpY2tzV2l0aERyb3BwaW5nUHJpY2VzOiBMaXN0PEF1dG9jb2luVGljaz4gPSBlbXB0eUxpc3QoKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">QFByb2ZpbGUoUFJPRCkK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">dmFsIHRpY2tlckxpc3RlbmVyUmVnaXN0cmFyMiA9IA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoIWF2YWlsYWJsZUN1cnJlbmN5LmNvbnRhaW5zS2V5KGN1cnJlbmN5Q29kZSkpIHsKICAgICAgICAgICAgYXZhaWxhYmxlQ3VycmVuY3lbY3VycmVuY3lDb2RlXSA9IGRlZmF1bHRBbW91bnRPZkFueUN1cnJlbmN5CiAgICAgICAgfQogICAgICAgIHJldHVybiBhdmFpbGFibGVDdXJyZW5jeVtjdXJyZW5jeUNvZGVdISEK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ZXhjaGFuZ2VOYW1lICsgZXhjaGFuZ2VVc2VySWQgKyA=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IHsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAub3JpZ2luYWxBbW91bnQodGhpcy5vcmRlcmVkQW1vdW50KQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAub3JpZ2luYWxBbW91bnQodGhpcy5vcmRlcmVkQW1vdW50KQo=</text>
@@ -422,9 +427,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Balance</last-search>
+      <last-search>wr</last-search>
       <last-offset />
-      <last-pattern>Balance</last-pattern>
+      <last-pattern>wr</last-pattern>
       <last-replace>emptyList()</last-replace>
       <last-substitute>tradingRecordDoesNotMatterInThisTest</last-substitute>
       <last-dir>1</last-dir>
@@ -432,7 +437,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFkZVNlcnZpY2VcPg==</entry>
         <entry>BI</entry>
         <entry>Sell</entry>
         <entry>Buy</entry>
@@ -452,6 +456,7 @@
         <entry>cur</entry>
         <entry>rede</entry>
         <entry>Balance</entry>
+        <entry>wr</entry>
       </history-search>
       <history-cmd>
         <entry>%s/BOOLEAN/BIT/g</entry>
