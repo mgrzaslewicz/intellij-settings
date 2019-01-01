@@ -107,6 +107,9 @@
         <mark key="]" line="37" column="19" />
         <mark key="." line="37" column="19" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-core/4.3.12/xchange-core-4.3.12-sources.jar!/org/knowm/xchange/ExchangeSpecification.java" timestamp="1546371930318">
+        <mark key="'" line="31" column="18" />
+      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" timestamp="1546007329073">
         <mark key="[" line="27" column="49" />
         <mark key="]" line="25" column="105" />
@@ -245,7 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="64" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
       <jump line="59" column="78" filename="E:/prj/autocoin-trader-frontend/src/app/services/api/exchangeusers/exchange-users.service.ts" />
       <jump line="20" column="29" filename="E:/prj/autocoin-trader-frontend/src/app/services/user-account.service.ts" />
       <jump line="11" column="4" filename="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.ts" />
@@ -345,6 +347,7 @@
       <jump line="84" column="22" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealthService.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealthService.kt" />
       <jump line="133" column="65" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
+      <jump line="31" column="18" filename="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-core/4.3.12/xchange-core-4.3.12-sources.jar!/org/knowm/xchange/ExchangeSpecification.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -354,7 +357,7 @@
         <text encoding="base64">IHJldHVybiA=</text>
       </register>
       <register name="/" type="4">
-        <text>wr</text>
+        <text encoding="base64">XDxzaG91bGRMb2FkUmVtb3RlTWV0YURhdGFcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBNb2NrQmVhbgogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgZXhjaGFuZ2VPcmRlclNlcnZpY2U6IEV4Y2hhbmdlT3JkZXJTZXJ2aWNlCg==</text>
@@ -391,9 +394,9 @@
       </register>
     </registers>
     <search>
-      <last-search>wr</last-search>
+      <last-search encoding="base64">XDxzaG91bGRMb2FkUmVtb3RlTWV0YURhdGFcPg==</last-search>
       <last-offset />
-      <last-pattern>wr</last-pattern>
+      <last-pattern encoding="base64">XDxzaG91bGRMb2FkUmVtb3RlTWV0YURhdGFcPg==</last-pattern>
       <last-replace>emptyList()</last-replace>
       <last-substitute>tradingRecordDoesNotMatterInThisTest</last-substitute>
       <last-dir>1</last-dir>
@@ -401,7 +404,6 @@
     </search>
     <history>
       <history-search>
-        <entry>BI</entry>
         <entry>Sell</entry>
         <entry>Buy</entry>
         <entry encoding="base64">XDxhcmdzXD4=</entry>
@@ -421,6 +423,7 @@
         <entry>rede</entry>
         <entry>Balance</entry>
         <entry>wr</entry>
+        <entry encoding="base64">XDxzaG91bGRMb2FkUmVtb3RlTWV0YURhdGFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/BOOLEAN/BIT/g</entry>
