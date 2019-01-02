@@ -19,7 +19,7 @@
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.4/autocoin-exchange-engine-1.0.4-sources.jar!/automate/profit/autocoin/exchange/AutocoinExchange.kt" timestamp="1545988851644">
         <mark key="[" line="47" column="8" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1546178034008">
+      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1546461501359">
         <mark key="[" line="29" column="26" />
         <mark key="]" line="29" column="26" />
         <mark key="." line="29" column="26" />
@@ -119,6 +119,9 @@
         <mark key="[" line="14" column="6" />
       </file>
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.5/autocoin-exchange-engine-1.0.5-sources.jar!/automate/profit/autocoin/exchange/AutocoinExchangeFactory.kt" timestamp="1546358285214" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/config/TestExchangeMetadata.kt" timestamp="1546462827735">
+        <mark key="[" line="32" column="0" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/StrategyExecutionTest.kt" timestamp="1545613741560">
         <mark key="[" line="29" column="109" />
       </file>
@@ -132,7 +135,7 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/OrdersFromLastStrategyExecutionService.kt" timestamp="1545505708093">
         <mark key="[" line="18" column="83" />
       </file>
-      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/metadata/AutocoinExchangeMetadataProvider.kt" timestamp="1546460739172">
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/metadata/AutocoinExchangeMetadataProvider.kt" timestamp="1546461887923">
         <mark key="[" line="15" column="69" />
         <mark key="]" line="15" column="85" />
         <mark key="^" line="15" column="85" />
@@ -174,18 +177,18 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyWithTrailingStopStrategyProvider.kt" timestamp="1545383600432">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1546375491921">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1546462724069">
         <mark key="'" line="133" column="65" />
-        <mark key="[" line="84" column="29" />
+        <mark key="[" line="44" column="82" />
         <mark key="]" line="62" column="15" />
         <mark key="^" line="62" column="15" />
         <mark key="." line="62" column="15" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsService.kt" timestamp="1546358787074">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="58" />
-        <mark key="." line="63" column="58" />
-        <mark key="^" line="63" column="58" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsService.kt" timestamp="1546462577355">
+        <mark key="[" line="89" column="40" />
+        <mark key="]" line="89" column="40" />
+        <mark key="." line="89" column="40" />
+        <mark key="^" line="89" column="31" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrderService.kt" timestamp="1545503537415">
         <mark key="[" line="6" column="40" />
@@ -311,7 +314,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;&quot;, &quot;&quot;, null</text>
+        <text encoding="base64">UGFpcnMg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG91bGRMb2FkUmVtb3RlTWV0YURhdGFcPg==</text>
@@ -319,32 +322,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBNb2NrQmVhbgogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgZXhjaGFuZ2VPcmRlclNlcnZpY2U6IEV4Y2hhbmdlT3JkZXJTZXJ2aWNlCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgOiBLTG9nZ2luZygpCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">IHJldHVybiA=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHNhbXBsZVRpY2tzV2l0aERyb3BwaW5nUHJpY2VzOiBMaXN0PEF1dG9jb2luVGljaz4gPSBlbXB0eUxpc3QoKQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">QFByb2ZpbGUoUFJPRCkK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">dmFsIHRpY2tlckxpc3RlbmVyUmVnaXN0cmFyMiA9IA==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoIWF2YWlsYWJsZUN1cnJlbmN5LmNvbnRhaW5zS2V5KGN1cnJlbmN5Q29kZSkpIHsKICAgICAgICAgICAgYXZhaWxhYmxlQ3VycmVuY3lbY3VycmVuY3lDb2RlXSA9IGRlZmF1bHRBbW91bnRPZkFueUN1cnJlbmN5CiAgICAgICAgfQogICAgICAgIHJldHVybiBhdmFpbGFibGVDdXJyZW5jeVtjdXJyZW5jeUNvZGVdISEK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ZXhjaGFuZ2VOYW1lICsgZXhjaGFuZ2VVc2VySWQgKyA=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IHsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAub3JpZ2luYWxBbW91bnQodGhpcy5vcmRlcmVkQW1vdW50KQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/tradingRecordDoesNotMatterInThisTest/emptyList()/g</text>
