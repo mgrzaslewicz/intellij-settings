@@ -41,6 +41,7 @@
         <mark key="]" line="29" column="26" />
         <mark key="." line="29" column="26" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-core/4.3.12/xchange-core-4.3.12-sources.jar!/org/knowm/xchange/dto/meta/CurrencyPairMetaData.java" timestamp="1546552221593" />
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWithTrailingStopStrategyProvider.kt" timestamp="1545341870849">
         <mark key="[" line="19" column="4" />
       </file>
@@ -189,11 +190,12 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/OrdersFromLastStrategyExecutionService.kt" timestamp="1545505708093">
         <mark key="[" line="18" column="83" />
       </file>
-      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/metadata/AutocoinExchangeMetadataProvider.kt" timestamp="1546461887923">
-        <mark key="[" line="15" column="69" />
-        <mark key="]" line="15" column="85" />
-        <mark key="^" line="15" column="85" />
-        <mark key="." line="15" column="85" />
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/metadata/AutocoinExchangeMetadataProvider.kt" timestamp="1546552165382">
+        <mark key="'" line="29" column="10" />
+        <mark key="[" line="35" column="67" />
+        <mark key="]" line="25" column="11" />
+        <mark key="^" line="25" column="11" />
+        <mark key="." line="25" column="11" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1546010136217">
         <mark key="[" line="24" column="52" />
@@ -300,8 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="4" filename="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.ts" />
-      <jump line="51" column="46" filename="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.ts" />
       <jump line="33" column="12" filename="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.ts" />
       <jump line="3" column="57" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.html" />
       <jump line="24" column="30" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.html" />
@@ -400,16 +400,18 @@
       <jump line="31" column="18" filename="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-core/4.3.12/xchange-core-4.3.12-sources.jar!/org/knowm/xchange/ExchangeSpecification.java" />
       <jump line="26" column="8" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/log/autocoin-strategy-executor.log" />
+      <jump line="25" column="12" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/metadata/AutocoinExchangeMetadataProvider.kt" />
+      <jump line="29" column="10" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/metadata/AutocoinExchangeMetadataProvider.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>: StrategyParameters</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>SN</text>
+        <text>else</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBNb2NrQmVhbgogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgZXhjaGFuZ2VPcmRlclNlcnZpY2U6IEV4Y2hhbmdlT3JkZXJTZXJ2aWNlCg==</text>
@@ -446,9 +448,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SN</last-search>
+      <last-search>else</last-search>
       <last-offset />
-      <last-pattern>SN</last-pattern>
+      <last-pattern>else</last-pattern>
       <last-replace>emptyList()</last-replace>
       <last-substitute>tradingRecordDoesNotMatterInThisTest</last-substitute>
       <last-dir>1</last-dir>
@@ -456,7 +458,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Buy</entry>
         <entry encoding="base64">XDxhcmdzXD4=</entry>
         <entry encoding="base64">XDxhdXRvY29pbkV4Y2hhbmdlc1w+</entry>
         <entry>toDate</entry>
@@ -476,6 +477,7 @@
         <entry>wr</entry>
         <entry encoding="base64">XDxzaG91bGRMb2FkUmVtb3RlTWV0YURhdGFcPg==</entry>
         <entry>SN</entry>
+        <entry>else</entry>
       </history-search>
       <history-cmd>
         <entry>%s/BOOLEAN/BIT/g</entry>
