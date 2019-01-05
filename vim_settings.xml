@@ -66,6 +66,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0-sources.jar!/com/fasterxml/jackson/annotation/JsonProperty.java" timestamp="1546635822099" />
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.7/jackson-databind-2.9.7-sources.jar!/com/fasterxml/jackson/databind/PropertyNamingStrategy.java" timestamp="1546684691348" />
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/TestExchangeMetadataProvider.kt" timestamp="1545926465665">
         <mark key="[" line="5" column="0" />
       </file>
@@ -92,6 +93,11 @@
         <mark key="]" line="238" column="57" />
         <mark key="^" line="238" column="57" />
         <mark key="." line="238" column="57" />
+      </file>
+      <file name="E:/prj/autocoin-order-service/pom.xml" timestamp="1546182805488">
+        <mark key="[" line="26" column="38" />
+        <mark key="]" line="26" column="39" />
+        <mark key="." line="26" column="39" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/main/kotlin/automate/profit/autocoin/ticker/TickerListenerScheduler.kt" timestamp="1546006401719">
         <mark key="[" line="17" column="24" />
@@ -197,11 +203,10 @@
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/AutocoinTradeServiceTest.kt" timestamp="1546173023979">
         <mark key="[" line="21" column="9" />
       </file>
-      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/Metadata.kt" timestamp="1546637013292">
-        <mark key="[" line="31" column="33" />
-        <mark key="]" line="31" column="32" />
-        <mark key="^" line="31" column="32" />
-        <mark key="." line="31" column="32" />
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/Metadata.kt" timestamp="1546685428679">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="12" />
+        <mark key="." line="24" column="12" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/order/ExchangeOrderService.kt" timestamp="1545995683620">
         <mark key="[" line="47" column="1" />
@@ -329,7 +334,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>BittrexExchange.java</text>
+        <text>metadataJsonString</text>
       </register>
       <register name="/" type="4">
         <text>else</text>
