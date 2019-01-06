@@ -13,11 +13,12 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWithTrailingStopStrategyProvider.kt" timestamp="1545341870849">
         <mark key="[" line="19" column="4" />
       </file>
-      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/LoadingMetadataManualTest.kt" timestamp="1546704516201">
-        <mark key="[" line="51" column="40" />
-        <mark key="]" line="41" column="19" />
-        <mark key="^" line="41" column="19" />
-        <mark key="." line="41" column="19" />
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/LoadingMetadataManualTest.kt" timestamp="1546772119944">
+        <mark key="'" line="9" column="32" />
+        <mark key="[" line="40" column="91" />
+        <mark key="]" line="9" column="32" />
+        <mark key="^" line="9" column="32" />
+        <mark key="." line="9" column="32" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/target/test-classes/empty-xchange-metadata.json" timestamp="1546704276604">
         <mark key="[" line="0" column="0" />
@@ -72,10 +73,11 @@
       <file name="/Client [autocoin_client_log@138.201.226.51]" timestamp="1544789544503">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/resources/logback.xml" timestamp="1546698337635">
-        <mark key="[" line="3" column="42" />
-        <mark key="]" line="3" column="42" />
-        <mark key="." line="3" column="42" />
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/resources/logback.xml" timestamp="1546771721766">
+        <mark key="'" line="9" column="29" />
+        <mark key="[" line="6" column="174" />
+        <mark key="]" line="6" column="174" />
+        <mark key="." line="6" column="174" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0-sources.jar!/com/fasterxml/jackson/annotation/JsonProperty.java" timestamp="1546635822099" />
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.7/jackson-databind-2.9.7-sources.jar!/com/fasterxml/jackson/databind/PropertyNamingStrategy.java" timestamp="1546684691348" />
@@ -83,6 +85,9 @@
         <mark key="[" line="5" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/RunLocal.kt" timestamp="1546254727634" />
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/pom.xml" timestamp="1546771394924">
+        <mark key="[" line="83" column="0" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealthService.kt" timestamp="1546180331037">
         <mark key="'" line="0" column="0" />
       </file>
@@ -112,6 +117,12 @@
       </file>
       <file name="E:/prj/autocoin-strategy-executor/log/autocoin-strategy-executor.log" timestamp="1546470597434">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1546470331001">
+        <mark key="'" line="26" column="8" />
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="29" column="26" />
+        <mark key="." line="29" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-core/4.3.12/xchange-core-4.3.12-sources.jar!/org/knowm/xchange/dto/meta/CurrencyPairMetaData.java" timestamp="1546552221593" />
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/BaseTickerListenerRegistrarFactoryTest.kt" timestamp="1546005810394">
@@ -217,8 +228,6 @@
       <file name="E:/prj/autocoin-strategy-executor/scripts/release-local.sh" timestamp="1546273450909" />
     </filemarks>
     <jumps>
-      <jump line="31" column="75" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.html" />
-      <jump line="48" column="47" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.html" />
       <jump line="73" column="34" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.html" />
       <jump line="76" column="34" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.html" />
       <jump line="9" column="157" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.html" />
@@ -317,16 +326,18 @@
       <jump line="22" column="15" filename="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-bittrex/4.3.12/xchange-bittrex-4.3.12.jar!/bittrex.json" />
       <jump line="192" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.2.RELEASE/spring-core-5.1.2.RELEASE-sources.jar!/org/springframework/core/io/ClassPathResource.java" />
       <jump line="7" column="4" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/target/test-classes/empty-xchange-metadata.json" />
+      <jump line="9" column="29" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/resources/logback.xml" />
+      <jump line="9" column="32" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/LoadingMetadataManualTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>autocoin-strategy-executor</text>
+        <text>${LOG_EXCEPTION_CONVERSION_WORD:-%wEx}</text>
       </register>
       <register name="/" type="4">
-        <text>else</text>
+        <text>Error</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBNb2NrQmVhbgogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgZXhjaGFuZ2VPcmRlclNlcnZpY2U6IEV4Y2hhbmdlT3JkZXJTZXJ2aWNlCg==</text>
@@ -363,9 +374,9 @@
       </register>
     </registers>
     <search>
-      <last-search>else</last-search>
+      <last-search>Error</last-search>
       <last-offset />
-      <last-pattern>else</last-pattern>
+      <last-pattern>Error</last-pattern>
       <last-replace>emptyList()</last-replace>
       <last-substitute>tradingRecordDoesNotMatterInThisTest</last-substitute>
       <last-dir>1</last-dir>
@@ -373,9 +384,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcmdzXD4=</entry>
-        <entry encoding="base64">XDxhdXRvY29pbkV4Y2hhbmdlc1w+</entry>
-        <entry>toDate</entry>
         <entry>corou</entry>
         <entry>-X</entry>
         <entry>auto</entry>
@@ -393,6 +401,9 @@
         <entry encoding="base64">XDxzaG91bGRMb2FkUmVtb3RlTWV0YURhdGFcPg==</entry>
         <entry>SN</entry>
         <entry>else</entry>
+        <entry>remote</entry>
+        <entry>Remo</entry>
+        <entry>Error</entry>
       </history-search>
       <history-cmd>
         <entry>%s/BOOLEAN/BIT/g</entry>
