@@ -89,13 +89,15 @@
         <mark key="[" line="5" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/RunLocal.kt" timestamp="1546254727634" />
-      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/pom.xml" timestamp="1546771394924">
-        <mark key="[" line="83" column="0" />
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/pom.xml" timestamp="1546785621966">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyWithTrailingStopStrategyProvider.kt" timestamp="1545383600432">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1546784655287">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1546785788875">
         <mark key="'" line="133" column="65" />
         <mark key="[" line="176" column="69" />
         <mark key="]" line="176" column="76" />
@@ -247,6 +249,11 @@
         <mark key="." line="130" column="127" />
         <mark key="^" line="130" column="127" />
       </file>
+      <file name="E:/prj/autocoin-ticker-service/pom.xml" timestamp="1546785290677">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrderService.kt" timestamp="1545503537415">
         <mark key="[" line="6" column="40" />
       </file>
@@ -364,7 +371,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>penBuyOrder!!</text>
+        <text>8-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text>\/\/ ok</text>
