@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/UserExchangeWalletService.kt" timestamp="1546869078103">
+        <mark key="[" line="28" column="52" />
+        <mark key="]" line="35" column="47" />
+        <mark key="^" line="35" column="47" />
+        <mark key="." line="35" column="47" />
+      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinAccountService.kt" timestamp="1546858212350">
         <mark key="[" line="39" column="63" />
         <mark key="]" line="25" column="79" />
@@ -168,8 +174,8 @@
       <file name="/fragment.kt" timestamp="1544802900355">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchangeFactory.kt" timestamp="1546858244594">
-        <mark key="[" line="176" column="35" />
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchangeFactory.kt" timestamp="1546868539040">
+        <mark key="[" line="30" column="18" />
         <mark key="]" line="176" column="14" />
         <mark key="." line="176" column="14" />
         <mark key="^" line="176" column="14" />
@@ -372,7 +378,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Currency</text>
       </register>
       <register name="/" type="4">
         <text>ExchangeBalanceResult</text>
