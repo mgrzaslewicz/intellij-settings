@@ -67,6 +67,9 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/apikey/ExchangeKeyService.kt" timestamp="1547995241471">
         <mark key="[" line="14" column="35" />
       </file>
+      <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/pom.xml" timestamp="1548191830921">
+        <mark key="'" line="74" column="32" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/RestTickerService.kt" timestamp="1547236323718">
         <mark key="[" line="61" column="80" />
         <mark key="]" line="61" column="78" />
@@ -97,8 +100,8 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/utils/MockMarketDataService.kt" timestamp="1547072425420">
         <mark key="[" line="2" column="46" />
       </file>
-      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/XchangeUserExchangeTradeServiceTest.kt" timestamp="1546902025346">
-        <mark key="[" line="32" column="31" />
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/XchangeUserExchangeTradeServiceTest.kt" timestamp="1548191648803">
+        <mark key="[" line="38" column="32" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/UserExchangeTradeService.kt" timestamp="1547072583153">
         <mark key="[" line="15" column="18" />
@@ -260,6 +263,9 @@
         <mark key="." line="48" column="15" />
         <mark key="^" line="48" column="15" />
       </file>
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/pom.xml" timestamp="1548191890966">
+        <mark key="'" line="139" column="32" />
+      </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/account/AccountService.kt" timestamp="1548000035149">
         <mark key="[" line="2" column="41" />
         <mark key="]" line="21" column="50" />
@@ -294,8 +300,8 @@
         <mark key="." line="66" column="26" />
         <mark key="^" line="75" column="24" />
       </file>
-      <file name="E:/prj/autocoin-ticker-service/pom.xml" timestamp="1548005819645">
-        <mark key="'" line="84" column="43" />
+      <file name="E:/prj/autocoin-ticker-service/pom.xml" timestamp="1548191877462">
+        <mark key="'" line="141" column="47" />
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="19" />
@@ -342,12 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="40" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
-      <jump line="161" column="93" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
-      <jump line="180" column="211" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
-      <jump line="225" column="174" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
-      <jump line="250" column="131" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
-      <jump line="259" column="52" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
       <jump line="243" column="48" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
       <jump line="69" column="55" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealthService.kt" />
       <jump line="27" column="51" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" />
@@ -371,11 +371,8 @@
       <jump line="78" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" />
       <jump line="12" column="7" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" />
       <jump line="8" column="0" filename="E:/prj/autocoin-ticker-service/pom.xml" />
-      <jump line="90" column="36" filename="E:/prj/autocoin-ticker-service/pom.xml" />
       <jump line="10" column="11" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/pom.xml" />
-      <jump line="32" column="32" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/pom.xml" />
       <jump line="177" column="30" filename="E:/prj/autocoin-ticker-service/autocoin-ticker-service/pom.xml" />
-      <jump line="74" column="32" filename="E:/prj/autocoin-ticker-service/autocoin-ticker-service/pom.xml" />
       <jump line="51" column="21" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/config/TestAutocoinExchangesConfig.kt" />
       <jump line="317" column="7" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/StrategyOrderServiceTest.kt" />
       <jump line="41" column="11" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
@@ -442,6 +439,15 @@
       <jump line="109" column="51" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" />
       <jump line="50" column="8" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
       <jump line="84" column="43" filename="E:/prj/autocoin-ticker-service/pom.xml" />
+      <jump line="10" column="24" filename="E:/prj/autocoin-ticker-service/pom.xml" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-ticker-service/autocoin-ticker-service/pom.xml" />
+      <jump line="74" column="32" filename="E:/prj/autocoin-ticker-service/autocoin-ticker-service/pom.xml" />
+      <jump line="26" column="8" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/pom.xml" />
+      <jump line="32" column="32" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/pom.xml" />
+      <jump line="90" column="47" filename="E:/prj/autocoin-ticker-service/pom.xml" />
+      <jump line="32" column="18" filename="E:/prj/autocoin-ticker-service/pom.xml" />
+      <jump line="141" column="47" filename="E:/prj/autocoin-ticker-service/pom.xml" />
+      <jump line="139" column="32" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -451,7 +457,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>9.</text>
+        <text>expe</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgY29tcGFuaW9uIG9iamVjdCA6IEtMb2dnaW5nKCkK</text>
@@ -488,9 +494,9 @@
       </register>
     </registers>
     <search>
-      <last-search>9.</last-search>
+      <last-search>expe</last-search>
       <last-offset />
-      <last-pattern>9.</last-pattern>
+      <last-pattern>expe</last-pattern>
       <last-replace>ExchangeKey</last-replace>
       <last-substitute>ExchangeKeyDto</last-substitute>
       <last-dir>1</last-dir>
@@ -498,10 +504,6 @@
     </search>
     <history>
       <history-search>
-        <entry>remote</entry>
-        <entry>Remo</entry>
-        <entry>Error</entry>
-        <entry>map</entry>
         <entry>when em</entry>
         <entry>null</entry>
         <entry>\/\/ ok</entry>
@@ -518,6 +520,10 @@
         <entry>toXchange</entry>
         <entry>ExchangeKeyDto</entry>
         <entry>9.</entry>
+        <entry>corou</entry>
+        <entry>co</entry>
+        <entry>Co</entry>
+        <entry>expe</entry>
       </history-search>
       <history-cmd>
         <entry>%s/5.2.0/5.2.4/g</entry>
