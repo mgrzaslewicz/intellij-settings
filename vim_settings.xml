@@ -12,11 +12,11 @@
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.4/autocoin-exchange-engine-1.0.4-sources.jar!/automate/profit/autocoin/exchange/AutocoinExchange.kt" timestamp="1545988851644">
         <mark key="[" line="47" column="8" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1548009652453">
-        <mark key="'" line="50" column="8" />
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="29" column="27" />
-        <mark key="." line="29" column="27" />
+      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1548500668318">
+        <mark key="'" line="85" column="8" />
+        <mark key="[" line="88" column="25" />
+        <mark key="]" line="88" column="26" />
+        <mark key="." line="88" column="26" />
         <mark key="^" line="29" column="35" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWithTrailingStopStrategyProvider.kt" timestamp="1545341870849">
@@ -222,7 +222,7 @@
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1548356014256">
         <mark key="[" line="28" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548499028838">
+      <file name="/Dummy.txt" timestamp="1548501178597">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/TestExchangeMetadataProvider.kt" timestamp="1545926465665">
@@ -254,12 +254,17 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyWithTrailingStopStrategyProvider.kt" timestamp="1545383600432">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="E:/prj/autocoin-order-service/pom.xml" timestamp="1548193254708">
+      <file name="E:/prj/autocoin-order-service/pom.xml" timestamp="1548500784385">
         <mark key="'" line="24" column="8" />
-        <mark key="[" line="26" column="40" />
-        <mark key="]" line="26" column="40" />
-        <mark key="." line="26" column="40" />
-        <mark key="^" line="75" column="24" />
+        <mark key="[" line="66" column="25" />
+        <mark key="]" line="66" column="26" />
+        <mark key="." line="66" column="26" />
+        <mark key="^" line="25" column="29" />
+      </file>
+      <file name="E:/prj/autocoin-ticker-service/pom.xml" timestamp="1548500659599">
+        <mark key="[" line="91" column="29" />
+        <mark key="]" line="91" column="30" />
+        <mark key="." line="91" column="30" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrderService.kt" timestamp="1545503537415">
         <mark key="[" line="6" column="40" />
@@ -292,7 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="51" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" />
       <jump line="34" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeKeyService.kt" />
       <jump line="171" column="36" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" />
@@ -392,19 +396,20 @@
       <jump line="139" column="32" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/pom.xml" />
       <jump line="268" column="12" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="266" column="64" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
+      <jump line="85" column="8" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>Instant</text>
+        <text>11</text>
       </register>
       <register name="/" type="4">
-        <text>Limi</text>
+        <text>0</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjaGFuZ2VOYW1lID0gS1VDT0lOLmV4Y2hhbmdlTmFtZSwKICAgICAgICAgICAgZXhjaGFuZ2VVc2VySWQgPSBleGNoYW5nZVVzZXJJZCwK</text>
+      <register name="0" type="4">
+        <text>jackson-module-kotlin</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi5leGNoYW5nZS5wZXJ1c2VyLkF1dG9jb2luQ2FuY2VsT3JkZXJQYXJhbXMKaW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi5leGNoYW5nZS5wZXJ1c2VyLkF1dG9jb2luT3JkZXJUeXBlCg==</text>
@@ -438,17 +443,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Limi</last-search>
+      <last-search>0</last-search>
       <last-offset />
-      <last-pattern>Limi</last-pattern>
+      <last-pattern>0</last-pattern>
       <last-replace>ExchangeKey</last-replace>
       <last-substitute>ExchangeKeyDto</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>null</entry>
         <entry>\/\/ ok</entry>
         <entry encoding="base64">XDx0aWNrZXJQcm92aWRlclw+</entry>
         <entry>Li</entry>
@@ -468,6 +472,7 @@
         <entry>Co</entry>
         <entry>expe</entry>
         <entry>Limi</entry>
+        <entry>0</entry>
       </history-search>
       <history-cmd>
         <entry>%s/5.2.0/5.2.4/g</entry>
