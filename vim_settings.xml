@@ -200,8 +200,11 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/OrdersFromLastStrategyExecutionService.kt" timestamp="1546903110106">
         <mark key="[" line="24" column="58" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1548886721933">
-        <mark key="[" line="29" column="140" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1548888200242">
+        <mark key="[" line="40" column="86" />
+        <mark key="]" line="37" column="27" />
+        <mark key="^" line="37" column="27" />
+        <mark key="." line="37" column="27" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyNowStrategyProvider.kt" timestamp="1545340744271">
         <mark key="[" line="13" column="4" />
@@ -226,7 +229,7 @@
         <mark key="]" line="31" column="67" />
         <mark key="." line="31" column="67" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548714463500">
+      <file name="/Dummy.txt" timestamp="1548888527135">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="29" />
@@ -249,6 +252,12 @@
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealthService.kt" timestamp="1548714179669">
         <mark key="[" line="104" column="49" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/scripts/start.sh" timestamp="1548888522888">
+        <mark key="[" line="60" column="14" />
+        <mark key="]" line="60" column="15" />
+        <mark key="." line="60" column="15" />
+        <mark key="^" line="60" column="15" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/order/ExchangeOrderService.kt" timestamp="1548269630084">
         <mark key="[" line="34" column="25" />
@@ -424,7 +433,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>, move OrderService to library, bump jackson-module-kotlin, kotlin-logging, kotlinx-coroutines-core</text>
+        <text>always</text>
       </register>
       <register name="/" type="4">
         <text>0</text>
