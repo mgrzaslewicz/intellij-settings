@@ -95,6 +95,9 @@
         <mark key="]" line="79" column="70" />
         <mark key="." line="79" column="70" />
       </file>
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/peruser/BaseTickerListenerRegistrars.kt" timestamp="1549124632313">
+        <mark key="[" line="14" column="0" />
+      </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/order/OrderController.kt" timestamp="1548194085106">
         <mark key="[" line="91" column="35" />
       </file>
@@ -157,6 +160,10 @@
         <mark key="]" line="279" column="115" />
         <mark key="^" line="158" column="48" />
         <mark key="." line="279" column="122" />
+      </file>
+      <file name="/StrategyExecutorsHealthService.kt" timestamp="1549124452778">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="96" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/utils/MockTickerGenerationStrategyConstant.kt" timestamp="1547072229709">
         <mark key="[" line="2" column="46" />
@@ -273,11 +280,6 @@
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyWithTrailingStopStrategyProvider.kt" timestamp="1545383600432">
         <mark key="[" line="32" column="0" />
-      </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" timestamp="1548548245793">
-        <mark key="[" line="76" column="54" />
-        <mark key="]" line="75" column="49" />
-        <mark key="." line="75" column="49" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/StrategyOrderServiceTest.kt" timestamp="1548549009657">
         <mark key="[" line="73" column="50" />
@@ -439,7 +441,7 @@
         <text>0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGV4Y2hhbmdlSWQyTmFtZUNhY2hlOiBNdXRhYmxlTWFwPFN0cmluZywgU3RyaW5nPiA9IEhhc2hNYXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBoZWFsdGggY2hlY2tzIHNob3VsZCBub3QgYmUgZG9uZSBiYXNlZCBnZXRMaXN0ZW5lcnNPZkNsYXNzTGlzdCBtZXRob2QgcmVzdWx0Li4uCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi5leGNoYW5nZS5wZXJ1c2VyLkF1dG9jb2luQ2FuY2VsT3JkZXJQYXJhbXMKaW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi5leGNoYW5nZS5wZXJ1c2VyLkF1dG9jb2luT3JkZXJUeXBlCg==</text>
