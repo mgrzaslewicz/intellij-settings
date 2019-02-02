@@ -95,7 +95,7 @@
         <mark key="]" line="79" column="70" />
         <mark key="." line="79" column="70" />
       </file>
-      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/peruser/BaseTickerListenerRegistrars.kt" timestamp="1549127130965">
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/peruser/BaseTickerListenerRegistrars.kt" timestamp="1549134522033">
         <mark key="]" line="25" column="113" />
         <mark key="^" line="25" column="113" />
         <mark key="." line="25" column="113" />
@@ -235,7 +235,7 @@
         <mark key="]" line="31" column="67" />
         <mark key="." line="31" column="67" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548888527135">
+      <file name="/Dummy.txt" timestamp="1549134513729">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="29" />
@@ -290,10 +290,8 @@
         <mark key="." line="26" column="40" />
         <mark key="^" line="25" column="29" />
       </file>
-      <file name="E:/prj/autocoin-ticker-service/pom.xml" timestamp="1548713931960">
-        <mark key="[" line="22" column="30" />
-        <mark key="]" line="22" column="31" />
-        <mark key="." line="22" column="31" />
+      <file name="E:/prj/autocoin-ticker-service/pom.xml" timestamp="1549134479598">
+        <mark key="'" line="136" column="56" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrderService.kt" timestamp="1545503537415">
         <mark key="[" line="6" column="40" />
@@ -334,7 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeKeyService.kt" />
       <jump line="171" column="36" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" />
       <jump line="56" column="25" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/StrategyOrderServiceTest.kt" />
@@ -434,6 +431,7 @@
       <jump line="268" column="12" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="266" column="64" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="85" column="8" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
+      <jump line="136" column="56" filename="E:/prj/autocoin-ticker-service/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
