@@ -95,8 +95,10 @@
         <mark key="]" line="79" column="70" />
         <mark key="." line="79" column="70" />
       </file>
-      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/peruser/BaseTickerListenerRegistrars.kt" timestamp="1549124632313">
-        <mark key="[" line="14" column="0" />
+      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/peruser/BaseTickerListenerRegistrars.kt" timestamp="1549125442800">
+        <mark key="]" line="25" column="113" />
+        <mark key="^" line="25" column="113" />
+        <mark key="." line="25" column="113" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/order/OrderController.kt" timestamp="1548194085106">
         <mark key="[" line="91" column="35" />
@@ -207,9 +209,9 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/OrdersFromLastStrategyExecutionService.kt" timestamp="1546903110106">
         <mark key="[" line="24" column="58" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1548888200242">
-        <mark key="[" line="40" column="86" />
-        <mark key="]" line="37" column="27" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1549124776626">
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="27" column="88" />
         <mark key="^" line="37" column="27" />
         <mark key="." line="37" column="27" />
       </file>
@@ -440,8 +442,8 @@
       <register name="/" type="4">
         <text>0</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBoZWFsdGggY2hlY2tzIHNob3VsZCBub3QgYmUgZG9uZSBiYXNlZCBnZXRMaXN0ZW5lcnNPZkNsYXNzTGlzdCBtZXRob2QgcmVzdWx0Li4uCg==</text>
+      <register name="0" type="4">
+        <text>fun createTickerListenerRegistrar(supportedExchange: SupportedExchange</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi5leGNoYW5nZS5wZXJ1c2VyLkF1dG9jb2luQ2FuY2VsT3JkZXJQYXJhbXMKaW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi5leGNoYW5nZS5wZXJ1c2VyLkF1dG9jb2luT3JkZXJUeXBlCg==</text>
