@@ -36,6 +36,7 @@
         <mark key="[" line="9" column="41" />
       </file>
       <file name="/ExchangesConfig.kt" timestamp="1549320764717" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/DefaultAccessTokenConverter.java" timestamp="1549396468860" />
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/key/ExchangeKeyDto.kt" timestamp="1545995984715">
         <mark key="[" line="1" column="0" />
       </file>
@@ -59,6 +60,12 @@
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/feature.toogle.service.ts" timestamp="1544006242934">
         <mark key="[" line="31" column="36" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1549397535859">
+        <mark key="[" line="91" column="26" />
+        <mark key="]" line="90" column="7" />
+        <mark key="." line="90" column="7" />
+        <mark key="^" line="90" column="7" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/metadata/UserExchangeMetadataProvider.kt" timestamp="1549316732591">
         <mark key="[" line="16" column="11" />
@@ -84,6 +91,10 @@
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1546988959941">
         <mark key="[" line="11" column="17" />
+      </file>
+      <file name="/StrategyExecutorsHealthService.kt" timestamp="1549124452778">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="96" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/utils/MockTickerGenerationStrategyConstant.kt" timestamp="1547072229709">
         <mark key="[" line="2" column="46" />
@@ -201,6 +212,10 @@
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/peruser/BaseTickerListenerRegistrar.kt" timestamp="1549313237974">
         <mark key="[" line="32" column="11" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.4.RELEASE/spring-context-5.1.4.RELEASE-sources.jar!/org/springframework/context/annotation/ScopedProxyMode.java" timestamp="1549397134997">
+        <mark key="[" line="22" column="63" />
+        <mark key="]" line="23" column="14" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealthServiceTest.kt" timestamp="1546020108476">
         <mark key="[" line="31" column="44" />
@@ -478,34 +493,35 @@
         <text>logger.info</text>
       </register>
       <register name="0" type="4">
-        <text>fun createTickerListenerRegistrar(supportedExchange: SupportedExchange</text>
+        <text>Scoped beans as
+ * dependencies</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">bG9nZ2VyLmlzSW5mb0VuYWJsZWQpIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGZ1biBvYXV0aDJSZXN0VGVtcGxhdGUoQFF1YWxpZmllcigiYXV0b2NvaW5PYXV0aDJSZXNvdXJjZURldGFpbHMiKSByZXNvdXJjZTogQmFzZU9BdXRoMlByb3RlY3RlZFJlc291cmNlRGV0YWlscyk6IEF1dG9jb2luT2F1dGgyUmVzdFRlbXBsYXRlIHsK</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">bG9nZ2VyLmlzSW5mb0VuYWJsZWQpIA==</text>
+      </register>
+      <register name="3" type="4">
         <text>if (</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi5leGNoYW5nZS5wZXJ1c2VyLkF1dG9jb2luQ2FuY2VsT3JkZXJQYXJhbXMKaW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi5leGNoYW5nZS5wZXJ1c2VyLkF1dG9jb2luT3JkZXJUeXBlCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBnZXRDdXJyZW5jeU1ldGFkYXRhKGN1cnJlbmN5OiBDdXJyZW5jeSk6IEN1cnJlbmN5TWV0YURhdGEgewo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">bGlzdE9mKAogICAgICAgICAgICAgICAgICAgICAgICBDdXJyZW5jeUJhbGFuY2UoIkFSUyIsIDIuMy50b0JEKCksIDIuOS50b0JEKCksIDAuNi50b0JEKCkpLAogICAgICAgICAgICAgICAgICAgICAgICBDdXJyZW5jeUJhbGFuY2UoIkJDSCIsIDEuMy50b0JEKCksIDEuNC50b0JEKCksIDAuMS50b0JEKCkpCiAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBvcGVuQnV5T3JkZXIgPSBidXlPcmRlcgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ewogICJjdXJyZW5jeV9wYWlycyI6IHsKICB9LAogICJjdXJyZW5jaWVzIjogewogIH0sCiAgInB1YmxpY19yYXRlX2xpbWl0cyI6IFsKICAgIHsKICAgIH0KICBdCn0K</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgOiBLTG9nZ2luZygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/if (logger.isInfoEnabled) //g</text>
