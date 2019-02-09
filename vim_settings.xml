@@ -139,6 +139,9 @@
         <mark key="." line="120" column="140" />
         <mark key="^" line="120" column="140" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/ReentrantLock.java" timestamp="1549724521680">
+        <mark key="'" line="465" column="14" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/models/order.ts" timestamp="1542988028695">
         <mark key="[" line="3" column="10" />
       </file>
@@ -325,12 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="63" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
-      <jump line="103" column="32" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
-      <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
-      <jump line="168" column="134" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" />
-      <jump line="112" column="0" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/StrategyOrderServiceTest.kt" />
-      <jump line="84" column="22" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealthService.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealthService.kt" />
       <jump line="133" column="65" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
       <jump line="31" column="18" filename="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-core/4.3.12/xchange-core-4.3.12-sources.jar!/org/knowm/xchange/ExchangeSpecification.java" />
@@ -425,6 +422,12 @@
       <jump line="34" column="8" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" />
       <jump line="174" column="15" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
       <jump line="369" column="255" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/StrategyOrderServiceTest.kt" />
+      <jump line="105" column="13" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
+      <jump line="228" column="32" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
+      <jump line="466" column="24" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
+      <jump line="472" column="30" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
+      <jump line="476" column="53" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
+      <jump line="465" column="14" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -434,7 +437,7 @@
         <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>logger.info</text>
+        <text>wait(</text>
       </register>
       <register name="0" type="4">
         <text>Scoped beans as
@@ -472,9 +475,9 @@
       </register>
     </registers>
     <search>
-      <last-search>logger.info</last-search>
+      <last-search>wait(</last-search>
       <last-offset />
-      <last-pattern>logger.info</last-pattern>
+      <last-pattern>wait(</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">aWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKSA=</last-substitute>
       <last-dir>1</last-dir>
@@ -482,10 +485,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzYW1wbGVUaWNrZXJcPg==</entry>
-        <entry>SN</entry>
-        <entry>toDate</entry>
-        <entry>toXchange</entry>
         <entry>ExchangeKeyDto</entry>
         <entry>9.</entry>
         <entry>corou</entry>
@@ -502,6 +501,10 @@
         <entry>logger</entry>
         <entry encoding="base64">aWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKSA=</entry>
         <entry>logger.info</entry>
+        <entry>wait</entry>
+        <entry>notify</entry>
+        <entry>notify()</entry>
+        <entry>wait(</entry>
       </history-search>
       <history-cmd>
         <entry>%s/client/exchangeUser/g</entry>
