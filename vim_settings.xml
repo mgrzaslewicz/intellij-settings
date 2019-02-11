@@ -14,6 +14,12 @@
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.4/autocoin-exchange-engine-1.0.4-sources.jar!/automate/profit/autocoin/exchange/AutocoinExchange.kt" timestamp="1545988851644">
         <mark key="[" line="47" column="8" />
       </file>
+      <file name="E:/prj/autocoin-auth-service/pom.xml" timestamp="1549910652767">
+        <mark key="'" line="204" column="30" />
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWithTrailingStopStrategyProvider.kt" timestamp="1545341870849">
         <mark key="[" line="19" column="4" />
       </file>
@@ -40,6 +46,12 @@
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/models/exchange-key.ts" timestamp="1545173518247">
         <mark key="[" line="6" column="33" />
+      </file>
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/Oauth2Config.kt" timestamp="1549911070590">
+        <mark key="[" line="60" column="39" />
+        <mark key="]" line="66" column="56" />
+        <mark key="." line="66" column="38" />
+        <mark key="^" line="66" column="38" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/wallet/XchangeWalletService.kt" timestamp="1546902256714">
         <mark key="[" line="15" column="39" />
@@ -136,10 +148,6 @@
         <mark key="[" line="32" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/client/token/OAuth2AccessTokenSupport.java" timestamp="1549839142368" />
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/StrategyOrderServiceTest.kt" timestamp="1549321690410">
-        <mark key="'" line="369" column="255" />
-        <mark key="[" line="73" column="50" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/client/token/AccessTokenProviderChain.java" timestamp="1549839052336" />
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/BaseTickerListenerRegistrarsTest.kt" timestamp="1549127104601">
         <mark key="[" line="54" column="88" />
@@ -177,6 +185,12 @@
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/peruser/BaseTickerListenerRegistrar.kt" timestamp="1549313237974">
         <mark key="[" line="32" column="11" />
+      </file>
+      <file name="E:/prj/autocoin-auth-service/doc/requestOauthToken.sh" timestamp="1549911012125">
+        <mark key="[" line="12" column="174" />
+        <mark key="]" line="12" column="175" />
+        <mark key="^" line="12" column="217" />
+        <mark key="." line="12" column="175" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.4.RELEASE/spring-context-5.1.4.RELEASE-sources.jar!/org/springframework/context/annotation/ScopedProxyMode.java" timestamp="1549397134997">
         <mark key="[" line="22" column="63" />
@@ -257,7 +271,7 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/apikey/RestExchangeKeyService.kt" timestamp="1547998039222">
         <mark key="[" line="37" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549321867181">
+      <file name="/Dummy.txt" timestamp="1549911357455">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="29" />
@@ -310,7 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="65" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
       <jump line="31" column="18" filename="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-core/4.3.12/xchange-core-4.3.12-sources.jar!/org/knowm/xchange/ExchangeSpecification.java" />
       <jump line="26" column="8" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/log/autocoin-strategy-executor.log" />
@@ -410,19 +423,20 @@
       <jump line="476" column="53" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
       <jump line="465" column="14" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
       <jump line="24" column="21" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" />
+      <jump line="204" column="30" filename="E:/prj/autocoin-auth-service/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>oauthAuthentication</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>wait(</text>
+        <text>does not match</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">b3BlbiA=</text>
+        <text>client_credentials</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIke1RocmVhZC5uYX10ZXN0MSAkaSIpCg==</text>
@@ -456,9 +470,9 @@
       </register>
     </registers>
     <search>
-      <last-search>wait(</last-search>
+      <last-search>does not match</last-search>
       <last-offset />
-      <last-pattern>wait(</last-pattern>
+      <last-pattern>does not match</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">aWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKSA=</last-substitute>
       <last-dir>1</last-dir>
@@ -466,7 +480,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ExchangeKeyDto</entry>
         <entry>9.</entry>
         <entry>corou</entry>
         <entry>co</entry>
@@ -486,6 +499,7 @@
         <entry>notify</entry>
         <entry>notify()</entry>
         <entry>wait(</entry>
+        <entry>does not match</entry>
       </history-search>
       <history-cmd>
         <entry>%s/client/exchangeUser/g</entry>
