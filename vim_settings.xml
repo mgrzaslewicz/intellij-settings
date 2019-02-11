@@ -58,11 +58,11 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/feature.toogle.service.ts" timestamp="1544006242934">
         <mark key="[" line="31" column="36" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1549914736046">
-        <mark key="[" line="80" column="47" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="78" column="0" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1549917949219">
+        <mark key="[" line="91" column="24" />
+        <mark key="]" line="70" column="49" />
+        <mark key="." line="70" column="49" />
+        <mark key="^" line="70" column="0" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/OrderServiceTest.kt" timestamp="1548454757789">
         <mark key="[" line="84" column="45" />
@@ -85,11 +85,6 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/StrategiesController.kt" timestamp="1546903228886">
         <mark key="[" line="113" column="36" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ThreadTest.kt" timestamp="1549740694703">
-        <mark key="]" line="17" column="8" />
-        <mark key="^" line="17" column="8" />
-        <mark key="." line="17" column="8" />
-      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/api/StrategiesControllerTest.kt" timestamp="1546904327998">
         <mark key="[" line="142" column="35" />
       </file>
@@ -108,11 +103,11 @@
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/TestExchangeMetadataProvider.kt" timestamp="1545926465665">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealthService.kt" timestamp="1549839205316">
-        <mark key="[" line="34" column="28" />
-        <mark key="]" line="34" column="29" />
-        <mark key="^" line="28" column="8" />
-        <mark key="." line="34" column="29" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealthService.kt" timestamp="1549916797260">
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="30" column="29" />
+        <mark key="^" line="24" column="8" />
+        <mark key="." line="30" column="29" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/scripts/start.sh" timestamp="1548888522888">
         <mark key="[" line="60" column="14" />
@@ -130,7 +125,7 @@
         <mark key="." line="174" column="15" />
         <mark key="^" line="174" column="15" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/client/token/OAuth2AccessTokenSupport.java" timestamp="1549839142368" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/client/token/OAuth2AccessTokenSupport.java" timestamp="1549917139016" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/client/token/AccessTokenProviderChain.java" timestamp="1549839052336" />
       <file name="E:/prj/autocoin-order-service/pom.xml" timestamp="1549912899659" />
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/BaseTickerListenerRegistrarsTest.kt" timestamp="1549127104601">
@@ -208,6 +203,7 @@
         <mark key="^" line="29" column="121" />
         <mark key="." line="26" column="164" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/common/AuthenticationScheme.java" timestamp="1549916717922" />
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/peruser/TickerListenerRegistrars.kt" timestamp="1549316587459">
         <mark key="[" line="25" column="6" />
         <mark key="]" line="25" column="12" />
@@ -228,7 +224,7 @@
         <mark key="." line="52" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/client/token/auth/DefaultClientAuthenticationHandler.java" timestamp="1549839191978" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/client/token/grant/client/ClientCredentialsAccessTokenProvider.java" timestamp="1549838542025" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/client/token/grant/client/ClientCredentialsAccessTokenProvider.java" timestamp="1549916442029" />
       <file name="E:/prj/autocoin-auth-service/scripts/stop.sh" timestamp="1545051522893">
         <mark key="[" line="14" column="6" />
       </file>
@@ -304,6 +300,7 @@
         <mark key="[" line="6" column="0" />
       </file>
       <file name="E:/prj/autocoin-auth-service/scripts/release-local.sh" timestamp="1549912897185" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/client/resource/BaseOAuth2ProtectedResourceDetails.java" timestamp="1549916730007" />
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.12-SNAPSHOT/autocoin-exchange-engine-1.0.12-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" timestamp="1548000709348">
         <mark key="[" line="71" column="0" />
       </file>
@@ -428,7 +425,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>check</text>
+        <text encoding="base64">IC8vIHJlcXVlc3QgZnJvbSBmcm9udGVuZCB3aXRoIHVzZXIgaXMgZ29pbmcgdG8gaGF2ZSB0b2tlbiBhbHJlYWR5IHByb3ZpZGVk</text>
       </register>
       <register name="/" type="4">
         <text>does not match</text>
@@ -437,31 +434,31 @@
         <text>client_credentials</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIke1RocmVhZC5uYX10ZXN0MSAkaSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWNjZXNzVG9rZW5VcmkgPSBjb25maWcuY2hlY2tUb2tlblVybCAvLyByZXF1ZXN0IGZyb20gZnJvbnRlbmQgd2l0aCB1c2VyIGlzIGdvaW5nIHRvIGhhdmUgdG9rZW4gYWxyZWFkeSBwcm92aWRlZAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIke1RocmVhZC5uYX10ZXN0MSAkaSIpCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGZ1biBvYXV0aDJSZXN0VGVtcGxhdGUoQFF1YWxpZmllcigiYXV0b2NvaW5PYXV0aDJSZXNvdXJjZURldGFpbHMiKSByZXNvdXJjZTogQmFzZU9BdXRoMlByb3RlY3RlZFJlc291cmNlRGV0YWlscyk6IEF1dG9jb2luT2F1dGgyUmVzdFRlbXBsYXRlIHsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">bG9nZ2VyLmlzSW5mb0VuYWJsZWQpIA==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>if (</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi5leGNoYW5nZS5wZXJ1c2VyLkF1dG9jb2luQ2FuY2VsT3JkZXJQYXJhbXMKaW1wb3J0IGF1dG9tYXRlLnByb2ZpdC5hdXRvY29pbi5leGNoYW5nZS5wZXJ1c2VyLkF1dG9jb2luT3JkZXJUeXBlCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBnZXRDdXJyZW5jeU1ldGFkYXRhKGN1cnJlbmN5OiBDdXJyZW5jeSk6IEN1cnJlbmN5TWV0YURhdGEgewo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">bGlzdE9mKAogICAgICAgICAgICAgICAgICAgICAgICBDdXJyZW5jeUJhbGFuY2UoIkFSUyIsIDIuMy50b0JEKCksIDIuOS50b0JEKCksIDAuNi50b0JEKCkpLAogICAgICAgICAgICAgICAgICAgICAgICBDdXJyZW5jeUJhbGFuY2UoIkJDSCIsIDEuMy50b0JEKCksIDEuNC50b0JEKCksIDAuMS50b0JEKCkpCiAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuQnV5T3JkZXIgPSBidXlPcmRlcgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ewogICJjdXJyZW5jeV9wYWlycyI6IHsKICB9LAogICJjdXJyZW5jaWVzIjogewogIH0sCiAgInB1YmxpY19yYXRlX2xpbWl0cyI6IFsKICAgIHsKICAgIH0KICBdCn0K</text>
+        <text encoding="base64">ICAgICAgICBvcGVuQnV5T3JkZXIgPSBidXlPcmRlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/if (logger.isInfoEnabled) //g</text>
