@@ -1,5 +1,6 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -17,6 +18,7 @@
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_COLOR" value="cc6d00" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES">
