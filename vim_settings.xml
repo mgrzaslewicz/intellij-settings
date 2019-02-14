@@ -247,6 +247,9 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/StrategyProvider.kt" timestamp="1545383478009">
         <mark key="[" line="10" column="6" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/LinkedBlockingQueue.java" timestamp="1550134204537">
+        <mark key="'" line="378" column="34" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/AutocoinTradeServiceTest.kt" timestamp="1546173023979">
         <mark key="[" line="21" column="9" />
       </file>
@@ -335,7 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="12" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/metadata/AutocoinExchangeMetadataProvider.kt" />
       <jump line="29" column="10" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/metadata/AutocoinExchangeMetadataProvider.kt" />
       <jump line="22" column="15" filename="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-bittrex/4.3.12/xchange-bittrex-4.3.12.jar!/bittrex.json" />
       <jump line="192" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.2.RELEASE/spring-core-5.1.2.RELEASE-sources.jar!/org/springframework/core/io/ClassPathResource.java" />
@@ -435,6 +437,7 @@
       <jump line="23" column="30" filename="E:/prj/autocoin-order-service/src/main/resources/application.yml" />
       <jump line="39" column="23" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/order/ExchangeOrderService.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/scripts/start.sh" />
+      <jump line="378" column="34" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/LinkedBlockingQueue.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
