@@ -309,11 +309,11 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsService.kt" timestamp="1549925764263">
         <mark key="[" line="34" column="16" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/BracketsTest.kt" timestamp="1550136376770">
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="37" column="51" />
-        <mark key="^" line="37" column="51" />
-        <mark key="." line="37" column="51" />
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/BracketsTest.kt" timestamp="1550137886151">
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="8" column="47" />
+        <mark key="^" line="8" column="47" />
+        <mark key="." line="8" column="47" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrderService.kt" timestamp="1545503537415">
         <mark key="[" line="6" column="40" />
@@ -453,13 +453,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>Not</text>
       </register>
       <register name="/" type="4">
         <text>rest</text>
       </register>
-      <register name="0" type="4">
-        <text>bracketString</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgIHJldHVybiB0cnVlIAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYWNjZXNzVG9rZW5VcmkgPSBjb25maWcuY2hlY2tUb2tlblVybCAvLyByZXF1ZXN0IGZyb20gZnJvbnRlbmQgd2l0aCB1c2VyIGlzIGdvaW5nIHRvIGhhdmUgdG9rZW4gYWxyZWFkeSBwcm92aWRlZAo=</text>
