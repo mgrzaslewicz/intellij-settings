@@ -60,12 +60,9 @@
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/Test.java" timestamp="1550008766053">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/order/OrderController.kt" timestamp="1550240895956">
-        <mark key="'" line="82" column="16" />
-        <mark key="[" line="83" column="55" />
-        <mark key="]" line="82" column="7" />
-        <mark key="." line="82" column="7" />
-        <mark key="^" line="82" column="7" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/order/OrderController.kt" timestamp="1550241815232">
+        <mark key="'" line="77" column="16" />
+        <mark key="^" line="78" column="52" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/wallet/XchangeWalletService.kt" timestamp="1546902256714">
         <mark key="[" line="15" column="39" />
@@ -198,6 +195,13 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/XchangeTickerListenerRegistrars.kt" timestamp="1546899845674">
         <mark key="[" line="14" column="17" />
       </file>
+      <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/OrderControllerTest.kt" timestamp="1550241716640">
+        <mark key="'" line="114" column="20" />
+        <mark key="[" line="172" column="34" />
+        <mark key="]" line="172" column="8" />
+        <mark key="." line="172" column="91" />
+        <mark key="^" line="172" column="8" />
+      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/apikey/ExchangeKeyService.kt" timestamp="1547995241471">
         <mark key="[" line="14" column="35" />
       </file>
@@ -254,6 +258,11 @@
       </file>
       <file name="E:/prj/autocoin-auth-service/scripts/stop.sh" timestamp="1545051522893">
         <mark key="[" line="14" column="6" />
+      </file>
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/order/OrderService.kt" timestamp="1550241217990">
+        <mark key="[" line="81" column="74" />
+        <mark key="]" line="81" column="74" />
+        <mark key="." line="81" column="74" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/StrategyExecutionTest.kt" timestamp="1545613741560">
         <mark key="[" line="29" column="109" />
@@ -354,7 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="15" filename="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-bittrex/4.3.12/xchange-bittrex-4.3.12.jar!/bittrex.json" />
       <jump line="192" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.2.RELEASE/spring-core-5.1.2.RELEASE-sources.jar!/org/springframework/core/io/ClassPathResource.java" />
       <jump line="7" column="4" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/target/test-classes/empty-xchange-metadata.json" />
       <jump line="9" column="29" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/resources/logback.xml" />
@@ -454,16 +462,17 @@
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/scripts/start.sh" />
       <jump line="378" column="34" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/LinkedBlockingQueue.java" />
       <jump line="81" column="16" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/order/OrderController.kt" />
+      <jump line="113" column="20" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/OrderControllerTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>Post</text>
+        <text>. Currency pairs: ${if (currencyPairs.isNotEmpty(</text>
       </register>
       <register name="/" type="4">
-        <text>Po</text>
+        <text>ca</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgIHJldHVybiB0cnVlIAo=</text>
@@ -500,17 +509,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Po</last-search>
+      <last-search>ca</last-search>
       <last-offset />
-      <last-pattern>Po</last-pattern>
+      <last-pattern>ca</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">aWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKSA=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Co</entry>
         <entry>expe</entry>
         <entry>Limi</entry>
         <entry>0</entry>
@@ -530,6 +538,7 @@
         <entry>ch</entry>
         <entry>rest</entry>
         <entry>Po</entry>
+        <entry>ca</entry>
       </history-search>
       <history-cmd>
         <entry>%s/client/exchangeUser/g</entry>
