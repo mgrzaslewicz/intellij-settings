@@ -67,11 +67,8 @@
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/RestExchangeOrderService.kt" timestamp="1550333558124">
-        <mark key="[" line="49" column="29" />
-        <mark key="]" line="31" column="19" />
-        <mark key="." line="31" column="19" />
-        <mark key="^" line="31" column="19" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/RestExchangeOrderService.kt" timestamp="1550334827564">
+        <mark key="^" line="47" column="18" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealthServiceTest.kt" timestamp="1546020108476">
         <mark key="[" line="31" column="44" />
@@ -273,8 +270,8 @@
         <mark key="[" line="38" column="110" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/apikey/RestExchangeKeyService.kt" timestamp="1550326081620">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="82" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="82" />
       </file>
       <file name="/Dummy.txt" timestamp="1550324978696">
         <mark key="[" line="0" column="0" />
@@ -494,13 +491,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>when</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>Gate</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">b2JqZWN0IEV4Y2hhbmdlS2V5RHRvTGlzdFR5cGUgOiBQYXJhbWV0ZXJpemVkVHlwZVJlZmVyZW5jZTxMaXN0PEV4Y2hhbmdlS2V5RHRvPj4oKQo=</text>
+      <register name="0" type="4">
+        <text>currentTry = currentTry + 1, maxTries = maxTries, restRequest = restRequest</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
