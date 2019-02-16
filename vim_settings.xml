@@ -67,11 +67,11 @@
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/RestExchangeOrderService.kt" timestamp="1550326021248">
-        <mark key="[" line="26" column="8" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="25" column="99" />
-        <mark key="^" line="27" column="106" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/RestExchangeOrderService.kt" timestamp="1550332967210">
+        <mark key="[" line="43" column="29" />
+        <mark key="]" line="32" column="19" />
+        <mark key="." line="32" column="19" />
+        <mark key="^" line="32" column="19" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealthServiceTest.kt" timestamp="1546020108476">
         <mark key="[" line="31" column="44" />
@@ -236,6 +236,9 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/peruser/TickerListenerRegistrar.kt" timestamp="1549316515999">
         <mark key="[" line="32" column="11" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.4.RELEASE/spring-web-5.1.4.RELEASE-sources.jar!/org/springframework/web/client/HttpClientErrorException.java" timestamp="1550333043117">
+        <mark key="'" line="223" column="54" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4bdb39f5-9ab9-49e9-baf5-4dd7e9c87229/console.sql" timestamp="1546381851561">
         <mark key="[" line="87" column="98" />
       </file>
@@ -385,7 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="4" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/target/test-classes/empty-xchange-metadata.json" />
       <jump line="9" column="29" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/resources/logback.xml" />
       <jump line="9" column="32" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/LoadingMetadataManualTest.kt" />
       <jump line="198" column="0" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/AutocoinExchangeFactory.kt" />
@@ -485,16 +487,17 @@
       <jump line="81" column="16" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/order/OrderController.kt" />
       <jump line="113" column="20" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/OrderControllerTest.kt" />
       <jump line="63" column="32" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/OrderControllerTest.kt" />
+      <jump line="223" column="54" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.4.RELEASE/spring-web-5.1.4.RELEASE-sources.jar!/org/springframework/web/client/HttpClientErrorException.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>when</text>
       </register>
       <register name="/" type="4">
-        <text>get(</text>
+        <text>Gate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">b2JqZWN0IEV4Y2hhbmdlS2V5RHRvTGlzdFR5cGUgOiBQYXJhbWV0ZXJpemVkVHlwZVJlZmVyZW5jZTxMaXN0PEV4Y2hhbmdlS2V5RHRvPj4oKQo=</text>
@@ -531,9 +534,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get(</last-search>
+      <last-search>Gate</last-search>
       <last-offset />
-      <last-pattern>get(</last-pattern>
+      <last-pattern>Gate</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">aWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKSA=</last-substitute>
       <last-dir>1</last-dir>
@@ -541,8 +544,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Limi</entry>
-        <entry>0</entry>
         <entry>Impl</entry>
         <entry>TickerListenerRegistrarsImpl</entry>
         <entry>TickerListenerRegistrarProviderImpl</entry>
@@ -561,6 +562,8 @@
         <entry>Po</entry>
         <entry>ca</entry>
         <entry>get(</entry>
+        <entry>Time</entry>
+        <entry>Gate</entry>
       </history-search>
       <history-cmd>
         <entry>%s/client/exchangeUser/g</entry>
