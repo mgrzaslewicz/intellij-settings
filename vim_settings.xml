@@ -12,8 +12,8 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWhenSecondCurrencyGrowsStrategyProvider.kt" timestamp="1546904098495">
         <mark key="[" line="28" column="71" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-rest/pom.xml" timestamp="1550427247521">
-        <mark key="[" line="17" column="18" />
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-rest/pom.xml" timestamp="1550437125206">
+        <mark key="[" line="56" column="21" />
       </file>
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.4/autocoin-exchange-engine-1.0.4-sources.jar!/automate/profit/autocoin/exchange/AutocoinExchange.kt" timestamp="1545988851644">
         <mark key="[" line="47" column="8" />
@@ -30,8 +30,15 @@
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1550011811179">
         <mark key="[" line="52" column="19" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.17/autocoin-exchange-engine-1.0.17-sources.jar!/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" timestamp="1550436334732" />
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadata.kt" timestamp="1546904487326">
         <mark key="[" line="9" column="41" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom" timestamp="1550436964100">
+        <mark key="'" line="2651" column="35" />
+      </file>
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/ExchangeTickerService.kt" timestamp="1550434869507">
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/RunLocal.kt" timestamp="1550350445705">
         <mark key="[" line="5" column="0" />
@@ -81,17 +88,17 @@
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.15/autocoin-exchange-engine-1.0.15-sources.jar!/automate/profit/autocoin/exchange/order/ExchangeOrderService.kt" timestamp="1550012930679">
         <mark key="[" line="39" column="36" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/pom.xml" timestamp="1550427237806">
-        <mark key="[" line="22" column="18" />
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/pom.xml" timestamp="1550437066350">
+        <mark key="[" line="132" column="19" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/feature.toogle.service.ts" timestamp="1544006242934">
         <mark key="[" line="32" column="36" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/test/kotlin/automate/profit/autocoin/exchange/TickerListenerRegistrarTest.kt" timestamp="1550424920062">
-        <mark key="[" line="219" column="105" />
-        <mark key="]" line="219" column="105" />
-        <mark key="." line="219" column="105" />
-        <mark key="^" line="219" column="49" />
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/test/kotlin/automate/profit/autocoin/exchange/TickerListenerRegistrarTest.kt" timestamp="1550435115029">
+        <mark key="[" line="219" column="53" />
+        <mark key="]" line="219" column="53" />
+        <mark key="." line="219" column="53" />
+        <mark key="^" line="198" column="52" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1550011754190">
         <mark key="[" line="90" column="24" />
@@ -101,10 +108,6 @@
       </file>
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" timestamp="1550408640564">
         <mark key="'" line="48" column="35" />
-      </file>
-      <file name="E:/prj/autocoin-exchange-engine/pom.xml" timestamp="1550427123456">
-        <mark key="'" line="1" column="172" />
-        <mark key="[" line="19" column="34" />
       </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/UserExchangeMetadataProvider.kt" timestamp="1550432056094">
         <mark key="[" line="20" column="36" />
@@ -148,7 +151,7 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/peruser/TickerListenerRegistrar.kt" timestamp="1549316515999">
         <mark key="[" line="32" column="11" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/peruser/TickerListenerRegistrar.kt" timestamp="1550434122137">
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/peruser/TickerListenerRegistrar.kt" timestamp="1550435233003">
         <mark key="[" line="10" column="117" />
         <mark key="]" line="16" column="14" />
         <mark key="." line="16" column="14" />
@@ -166,16 +169,17 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1550340384180">
         <mark key="[" line="71" column="30" />
       </file>
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/pom.xml" timestamp="1550437075831">
+        <mark key="[" line="50" column="21" />
+      </file>
       <file name="/Client [autocoin_client_log@138.201.226.51]" timestamp="1544789544503">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/wallet/DefaultExchangeWalletService.kt" timestamp="1550436500985">
+        <mark key="[" line="8" column="13" />
+      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/test/kotlin/automate/profit/autocoin/ticker/csv/CsvTickerFolderManagerTest.kt" timestamp="1547074147280">
         <mark key="[" line="38" column="110" />
-      </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-xchange/pom.xml" timestamp="1550425384992">
-        <mark key="[" line="13" column="38" />
-        <mark key="]" line="13" column="38" />
-        <mark key="." line="13" column="38" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/TestExchangeMetadataProvider.kt" timestamp="1545926465665">
         <mark key="[" line="5" column="0" />
@@ -202,6 +206,9 @@
         <mark key="]" line="11" column="51" />
         <mark key="." line="11" column="51" />
         <mark key="^" line="11" column="51" />
+      </file>
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/peruser/UserExchangeTradeService.kt" timestamp="1550435387209">
+        <mark key="[" line="12" column="51" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/BaseTickerListenerRegistrarsTest.kt" timestamp="1549127104601">
         <mark key="[" line="54" column="88" />
@@ -237,6 +244,7 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/XchangeTickerListenerRegistrars.kt" timestamp="1546899845674">
         <mark key="[" line="14" column="17" />
       </file>
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/peruser/TickerListenerRegistrars.kt" timestamp="1550435294804" />
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/FeatureToggle.kt" timestamp="1550342871233">
         <mark key="[" line="32" column="40" />
         <mark key="]" line="32" column="40" />
@@ -279,7 +287,7 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/apikey/ExchangeService.kt" timestamp="1550411644871">
         <mark key="[" line="2" column="19" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.17/autocoin-exchange-engine-1.0.17-sources.jar!/automate/profit/autocoin/exchange/order/ExchangeOrderService.kt" timestamp="1550427467216" />
+      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.17/autocoin-exchange-engine-1.0.17-sources.jar!/automate/profit/autocoin/exchange/order/ExchangeOrderService.kt" timestamp="1550436356011" />
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" timestamp="1549316871678">
         <mark key="[" line="26" column="133" />
         <mark key="]" line="26" column="164" />
@@ -310,7 +318,7 @@
         <mark key="^" line="53" column="64" />
         <mark key="." line="53" column="64" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/order/ExchangeOrderService.kt" timestamp="1550411897012">
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/order/ExchangeOrderService.kt" timestamp="1550436375959">
         <mark key="[" line="23" column="2" />
       </file>
       <file name="E:/prj/autocoin-auth-service/scripts/stop.sh" timestamp="1545051522893">
@@ -331,8 +339,8 @@
         <mark key="." line="71" column="133" />
         <mark key="^" line="71" column="133" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/TickerListenerRegistrar.kt" timestamp="1550412242717">
-        <mark key="[" line="21" column="15" />
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/TickerListenerRegistrar.kt" timestamp="1550435012965">
+        <mark key="[" line="18" column="2" />
         <mark key="]" line="26" column="69" />
         <mark key="^" line="26" column="69" />
         <mark key="." line="26" column="69" />
@@ -355,11 +363,11 @@
         <mark key="." line="28" column="71" />
         <mark key="^" line="28" column="112" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.17/autocoin-exchange-engine-1.0.17-sources.jar!/automate/profit/autocoin/exchange/peruser/TickerListenerRegistrar.kt" timestamp="1550434296378" />
+      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.17/autocoin-exchange-engine-1.0.17-sources.jar!/automate/profit/autocoin/exchange/peruser/TickerListenerRegistrar.kt" timestamp="1550434882067" />
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/BaseStrategyOrderService.kt" timestamp="1545506107719">
         <mark key="[" line="35" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550425056598">
+      <file name="/Dummy.txt" timestamp="1550437405780">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="38" />
         <mark key="^" line="0" column="29" />
@@ -428,19 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="44" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/BaseTickerListenerRegistrarTest.kt" />
-      <jump line="31" column="85" filename="/BaseTickerListenerRegistrarTest.kt" />
-      <jump line="23" column="74" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/config/TestExtensions.kt" />
-      <jump line="381" column="52" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
-      <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
-      <jump line="74" column="38" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
-      <jump line="76" column="45" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
-      <jump line="78" column="43" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
-      <jump line="79" column="34" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
-      <jump line="168" column="52" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
-      <jump line="199" column="59" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
-      <jump line="254" column="59" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" />
-      <jump line="64" column="8" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" />
       <jump line="47" column="25" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" />
       <jump line="145" column="49" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/BaseTickerListenerRegistrarTest.kt" />
       <jump line="41" column="63" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/BaseTickerListenerRegistrar.kt" />
@@ -528,16 +523,29 @@
       <jump line="0" column="0" filename="E:/prj/autocoin-exchange-engine/pom.xml" />
       <jump line="51" column="37" filename="E:/prj/autocoin-exchange-engine/pom.xml" />
       <jump line="1" column="172" filename="E:/prj/autocoin-exchange-engine/pom.xml" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom" />
+      <jump line="95" column="50" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom" />
+      <jump line="122" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom" />
+      <jump line="123" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom" />
+      <jump line="456" column="48" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom" />
+      <jump line="1633" column="45" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom" />
+      <jump line="2297" column="42" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom" />
+      <jump line="2320" column="42" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom" />
+      <jump line="2645" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom" />
+      <jump line="2646" column="37" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom" />
+      <jump line="2647" column="27" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom" />
+      <jump line="2650" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom" />
+      <jump line="2651" column="35" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>xchange</text>
+        <text encoding="base64">QklUVFJFWCwg</text>
       </register>
       <register name="/" type="4">
-        <text>apache</text>
+        <text>slf</text>
       </register>
       <register name="0" type="4">
         <text>http://projectreactor.io/</text>
@@ -574,9 +582,9 @@
       </register>
     </registers>
     <search>
-      <last-search>apache</last-search>
+      <last-search>slf</last-search>
       <last-offset />
-      <last-pattern>apache</last-pattern>
+      <last-pattern>slf</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">aWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKSA=</last-substitute>
       <last-dir>1</last-dir>
@@ -584,8 +592,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">aWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKSA=</entry>
-        <entry>logger.info</entry>
         <entry>wait</entry>
         <entry>notify</entry>
         <entry>notify()</entry>
@@ -604,6 +610,8 @@
         <entry>cancelOrder(</entry>
         <entry>Timeout</entry>
         <entry>apache</entry>
+        <entry>log</entry>
+        <entry>slf</entry>
       </history-search>
       <history-cmd>
         <entry>%s/client/exchangeUser/g</entry>
