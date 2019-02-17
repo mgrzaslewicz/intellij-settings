@@ -97,6 +97,9 @@
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" timestamp="1550408640564">
         <mark key="'" line="48" column="35" />
       </file>
+      <file name="E:/prj/autocoin-exchange-engine/pom.xml" timestamp="1550411109926">
+        <mark key="'" line="1" column="172" />
+      </file>
       <file name="E:/prj/java-design-patterns/reactor/README.md" timestamp="1550407816617">
         <mark key="[" line="27" column="19" />
         <mark key="]" line="27" column="43" />
@@ -418,10 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="57" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/BaseTickerListenerRegistrarTest.kt" />
-      <jump line="18" column="0" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/UserExchangeTradeService.kt" />
-      <jump line="130" column="135" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoaderTest.kt" />
-      <jump line="134" column="12" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="168" column="44" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/BaseTickerListenerRegistrarTest.kt" />
       <jump line="31" column="85" filename="/BaseTickerListenerRegistrarTest.kt" />
       <jump line="23" column="74" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/config/TestExtensions.kt" />
@@ -518,6 +517,10 @@
       <jump line="56" column="25" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.1.1/kotlinx-coroutines-core-1.1.1-sources.jar!/DefaultExecutor.kt" />
       <jump line="177" column="32" filename="E:/prj/autocoin-ticker-service/autocoin-ticker-service/pom.xml" />
       <jump line="61" column="32" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/pom.xml" />
+      <jump line="62" column="0" filename="E:/prj/autocoin-exchange-engine/pom.xml" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-exchange-engine/pom.xml" />
+      <jump line="51" column="37" filename="E:/prj/autocoin-exchange-engine/pom.xml" />
+      <jump line="1" column="172" filename="E:/prj/autocoin-exchange-engine/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -527,7 +530,7 @@
         <text>exchange</text>
       </register>
       <register name="/" type="4">
-        <text>Timeout</text>
+        <text>apache</text>
       </register>
       <register name="0" type="4">
         <text>http://projectreactor.io/</text>
@@ -564,9 +567,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Timeout</last-search>
+      <last-search>apache</last-search>
       <last-offset />
-      <last-pattern>Timeout</last-pattern>
+      <last-pattern>apache</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">aWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKSA=</last-substitute>
       <last-dir>1</last-dir>
@@ -574,7 +577,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logger</entry>
         <entry encoding="base64">aWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKSA=</entry>
         <entry>logger.info</entry>
         <entry>wait</entry>
@@ -594,6 +596,7 @@
         <entry>cancel</entry>
         <entry>cancelOrder(</entry>
         <entry>Timeout</entry>
+        <entry>apache</entry>
       </history-search>
       <history-cmd>
         <entry>%s/client/exchangeUser/g</entry>
