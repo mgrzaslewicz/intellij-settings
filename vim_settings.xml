@@ -54,12 +54,11 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/key/ExchangeKeyDto.kt" timestamp="1545995984715">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1550696845020">
-        <mark key="'" line="194" column="108" />
-        <mark key="[" line="231" column="17" />
-        <mark key="]" line="81" column="61" />
-        <mark key="^" line="81" column="61" />
-        <mark key="." line="81" column="61" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1550699218419">
+        <mark key="'" line="224" column="109" />
+        <mark key="]" line="224" column="109" />
+        <mark key="^" line="224" column="109" />
+        <mark key="." line="224" column="109" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/XchangeTickerProvider.kt" timestamp="1546003657899">
         <mark key="[" line="15" column="16" />
@@ -88,6 +87,7 @@
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/Test.java" timestamp="1550008766053">
         <mark key="[" line="0" column="19" />
       </file>
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/order/OrderController.kt" timestamp="1550697879487" />
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/wallet/XchangeWalletService.kt" timestamp="1546902256714">
         <mark key="[" line="15" column="39" />
       </file>
@@ -109,11 +109,6 @@
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api-xchange/1.0.0/autocoin-exchange-api-xchange-1.0.0-sources.jar!/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" timestamp="1550518911620">
         <mark key="[" line="170" column="28" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/pom.xml" timestamp="1550531306968">
-        <mark key="'" line="73" column="37" />
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="26" />
-      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" timestamp="1550314801368">
         <mark key="[" line="137" column="50" />
       </file>
@@ -129,9 +124,9 @@
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1546988959941">
         <mark key="[" line="11" column="17" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/pom.xml" timestamp="1550645543848">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="26" column="43" />
+      <file name="E:/prj/autocoin-exchange-mediator/pom.xml" timestamp="1550699120457">
+        <mark key="'" line="11" column="44" />
+        <mark key="[" line="26" column="44" />
         <mark key="]" line="26" column="44" />
         <mark key="." line="26" column="44" />
       </file>
@@ -268,8 +263,12 @@
         <mark key="]" line="12" column="23" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/OrderControllerTest.kt" timestamp="1550528509354">
-        <mark key="[" line="43" column="102" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/OrderControllerTest.kt" timestamp="1550698306218">
+        <mark key="'" line="136" column="28" />
+        <mark key="[" line="111" column="44" />
+        <mark key="]" line="136" column="28" />
+        <mark key="^" line="136" column="28" />
+        <mark key="." line="136" column="28" />
       </file>
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/FeatureToggle.kt" timestamp="1550342871233">
         <mark key="[" line="32" column="40" />
@@ -382,7 +381,7 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/BaseStrategyOrderService.kt" timestamp="1545506107719">
         <mark key="[" line="35" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550696964445">
+      <file name="/Dummy.txt" timestamp="1550698860795">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="38" />
         <mark key="^" line="0" column="29" />
@@ -459,14 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="34" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" />
-      <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" />
-      <jump line="19" column="32" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchangekey/RestExchangeKeyService.kt" />
-      <jump line="8" column="52" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorMaxCounterCurrencyForBuyingIntegrationTest.kt" />
-      <jump line="26" column="67" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/config/ExchangeServiceConfig.kt" />
-      <jump line="109" column="51" filename="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" />
-      <jump line="50" column="8" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
-      <jump line="84" column="43" filename="E:/prj/autocoin-ticker-service/pom.xml" />
       <jump line="10" column="24" filename="E:/prj/autocoin-ticker-service/pom.xml" />
       <jump line="0" column="0" filename="E:/prj/autocoin-ticker-service/autocoin-ticker-service/pom.xml" />
       <jump line="74" column="32" filename="E:/prj/autocoin-ticker-service/autocoin-ticker-service/pom.xml" />
@@ -559,16 +550,24 @@
       <jump line="12" column="0" filename="E:/prj/autocoin-exchange-mediator/pom.xml" />
       <jump line="181" column="12" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="185" column="108" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
+      <jump line="42" column="52" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/OrderControllerTest.kt" />
+      <jump line="136" column="28" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/OrderControllerTest.kt" />
+      <jump line="14" column="29" filename="E:/prj/autocoin-exchange-mediator/pom.xml" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-exchange-mediator/pom.xml" />
+      <jump line="6" column="26" filename="E:/prj/autocoin-exchange-mediator/pom.xml" />
+      <jump line="10" column="20" filename="E:/prj/autocoin-exchange-mediator/pom.xml" />
+      <jump line="11" column="44" filename="E:/prj/autocoin-exchange-mediator/pom.xml" />
+      <jump line="224" column="109" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>EqualTo(null)</text>
+        <text>-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdXJyZW5jeU1ldGFkYXRhXD4=</text>
+        <text>xcha</text>
       </register>
       <register name="0" type="4">
         <text>1.0.1-SNAPSHOT</text>
@@ -605,9 +604,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdXJyZW5jeU1ldGFkYXRhXD4=</last-search>
+      <last-search>xcha</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdXJyZW5jeU1ldGFkYXRhXD4=</last-pattern>
+      <last-pattern>xcha</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">aWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKSA=</last-substitute>
       <last-dir>1</last-dir>
@@ -615,8 +614,6 @@
     </search>
     <history>
       <history-search>
-        <entry>notify()</entry>
-        <entry>wait(</entry>
         <entry>does not match</entry>
         <entry>ch</entry>
         <entry>Po</entry>
@@ -635,6 +632,8 @@
         <entry>slf</entry>
         <entry>-api-</entry>
         <entry encoding="base64">XDxjdXJyZW5jeU1ldGFkYXRhXD4=</entry>
+        <entry>engine</entry>
+        <entry>xcha</entry>
       </history-search>
       <history-cmd>
         <entry>%s/client/exchangeUser/g</entry>
