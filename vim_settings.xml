@@ -24,11 +24,11 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrder.kt" timestamp="1546903254871">
         <mark key="[" line="44" column="68" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" timestamp="1550529548851">
-        <mark key="[" line="117" column="57" />
-        <mark key="]" line="104" column="0" />
-        <mark key="^" line="105" column="60" />
-        <mark key="." line="104" column="0" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" timestamp="1550696952069">
+        <mark key="[" line="164" column="47" />
+        <mark key="]" line="164" column="52" />
+        <mark key="^" line="164" column="52" />
+        <mark key="." line="164" column="52" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1550011811179">
         <mark key="[" line="52" column="19" />
@@ -54,12 +54,12 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/key/ExchangeKeyDto.kt" timestamp="1545995984715">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1550645885306">
-        <mark key="'" line="185" column="108" />
-        <mark key="[" line="186" column="16" />
-        <mark key="]" line="185" column="119" />
-        <mark key="^" line="185" column="119" />
-        <mark key="." line="185" column="119" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1550696845020">
+        <mark key="'" line="194" column="108" />
+        <mark key="[" line="231" column="17" />
+        <mark key="]" line="81" column="61" />
+        <mark key="^" line="81" column="61" />
+        <mark key="." line="81" column="61" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/XchangeTickerProvider.kt" timestamp="1546003657899">
         <mark key="[" line="15" column="16" />
@@ -88,7 +88,6 @@
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/Test.java" timestamp="1550008766053">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/order/OrderController.kt" timestamp="1550517652995" />
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/wallet/XchangeWalletService.kt" timestamp="1546902256714">
         <mark key="[" line="15" column="39" />
       </file>
@@ -118,7 +117,6 @@
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" timestamp="1550314801368">
         <mark key="[" line="137" column="50" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api/1.0.0/autocoin-exchange-api-1.0.0-sources.jar!/automate/profit/autocoin/exchange/order/ExchangeOrderService.kt" timestamp="1550516354866" />
       <file name="E:/prj/autocoin-order-service/src/test/kotlin/automate/profit/autocoin/api/OrderServiceTest.kt" timestamp="1548454757789">
         <mark key="[" line="84" column="45" />
         <mark key="]" line="120" column="140" />
@@ -182,8 +180,8 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/pom.xml" timestamp="1550437075831">
         <mark key="[" line="50" column="21" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1550645607744">
-        <mark key="[" line="4" column="58" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1550697096119">
+        <mark key="[" line="16" column="44" />
         <mark key="]" line="24" column="19" />
         <mark key="^" line="24" column="19" />
         <mark key="." line="24" column="19" />
@@ -279,7 +277,9 @@
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/SupportedExchange.kt" timestamp="1550614490674" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/HealthExchangeKeys.kt" timestamp="1550696625228">
+        <mark key="[" line="28" column="0" />
+      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/apikey/ExchangeKeyService.kt" timestamp="1547995241471">
         <mark key="[" line="14" column="35" />
       </file>
@@ -331,7 +331,6 @@
         <mark key="^" line="35" column="15" />
         <mark key="." line="52" column="16" />
       </file>
-      <file name="/SupportedExchange.kt" timestamp="1550614928459" />
       <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Object.java" timestamp="1550008993786">
         <mark key="[" line="35" column="3" />
         <mark key="]" line="36" column="0" />
@@ -362,7 +361,6 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/apikey/ExchangeKeyService.kt" timestamp="1550427622012">
         <mark key="[" line="2" column="22" />
       </file>
-      <file name="/CurrencyPairMetadataApplier.kt" timestamp="1550616832673" />
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/ExchangeProperties.kt" timestamp="1549319085925">
         <mark key="[" line="6" column="112" />
       </file>
@@ -384,7 +382,7 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/BaseStrategyOrderService.kt" timestamp="1545506107719">
         <mark key="[" line="35" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550617169988">
+      <file name="/Dummy.txt" timestamp="1550696964445">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="38" />
         <mark key="^" line="0" column="29" />
@@ -423,7 +421,6 @@
         <mark key="]" line="24" column="56" />
         <mark key="." line="24" column="56" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/metadata/CurrencyMetadataApplier.kt" timestamp="1550531296962" />
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/BracketsTest.kt" timestamp="1550137886151">
         <mark key="[" line="28" column="29" />
         <mark key="]" line="8" column="47" />
@@ -568,7 +565,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>minimum</text>
+        <text>EqualTo(null)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW5jeU1ldGFkYXRhXD4=</text>
