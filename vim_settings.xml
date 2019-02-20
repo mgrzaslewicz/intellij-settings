@@ -54,8 +54,12 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/key/ExchangeKeyDto.kt" timestamp="1545995984715">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1550519322733">
-        <mark key="[" line="71" column="61" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1550645885306">
+        <mark key="'" line="185" column="108" />
+        <mark key="[" line="186" column="16" />
+        <mark key="]" line="185" column="119" />
+        <mark key="^" line="185" column="119" />
+        <mark key="." line="185" column="119" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/XchangeTickerProvider.kt" timestamp="1546003657899">
         <mark key="[" line="15" column="16" />
@@ -127,8 +131,11 @@
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1546988959941">
         <mark key="[" line="11" column="17" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/pom.xml" timestamp="1550531406889">
-        <mark key="[" line="26" column="40" />
+      <file name="E:/prj/autocoin-exchange-mediator/pom.xml" timestamp="1550645543848">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="26" column="43" />
+        <mark key="]" line="26" column="44" />
+        <mark key="." line="26" column="44" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/utils/MockTickerGenerationStrategyConstant.kt" timestamp="1547072229709">
         <mark key="[" line="2" column="46" />
@@ -175,11 +182,11 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/pom.xml" timestamp="1550437075831">
         <mark key="[" line="50" column="21" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1550531223030">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="24" column="18" />
-        <mark key="^" line="24" column="18" />
-        <mark key="." line="24" column="18" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1550645607744">
+        <mark key="[" line="4" column="58" />
+        <mark key="]" line="24" column="19" />
+        <mark key="^" line="24" column="19" />
+        <mark key="." line="24" column="19" />
       </file>
       <file name="/Client [autocoin_client_log@138.201.226.51]" timestamp="1544789544503">
         <mark key="[" line="0" column="0" />
@@ -455,9 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="19" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/BaseTickerListenerRegistrar.kt" />
-      <jump line="24" column="8" filename="E:/prj/autocoin-order-service/pom.xml" />
-      <jump line="60" column="159" filename="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.11/autocoin-exchange-engine-1.0.11-sources.jar!/automate/profit/autocoin/exchange/UserExchangeTradeService.kt" />
       <jump line="14" column="34" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" />
       <jump line="19" column="32" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchangekey/RestExchangeKeyService.kt" />
@@ -555,6 +559,9 @@
       <jump line="109" column="37" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/order/OrderController.kt" />
       <jump line="118" column="43" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/AccountServiceTest.kt" />
       <jump line="73" column="37" filename="E:/prj/autocoin-exchange-engine/pom.xml" />
+      <jump line="12" column="0" filename="E:/prj/autocoin-exchange-mediator/pom.xml" />
+      <jump line="181" column="12" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
+      <jump line="185" column="108" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -564,7 +571,7 @@
         <text>minimum</text>
       </register>
       <register name="/" type="4">
-        <text>slf</text>
+        <text encoding="base64">XDxjdXJyZW5jeU1ldGFkYXRhXD4=</text>
       </register>
       <register name="0" type="4">
         <text>1.0.1-SNAPSHOT</text>
@@ -601,9 +608,9 @@
       </register>
     </registers>
     <search>
-      <last-search>slf</last-search>
+      <last-search encoding="base64">XDxjdXJyZW5jeU1ldGFkYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern>slf</last-pattern>
+      <last-pattern encoding="base64">XDxjdXJyZW5jeU1ldGFkYXRhXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">aWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKSA=</last-substitute>
       <last-dir>1</last-dir>
@@ -611,8 +618,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wait</entry>
-        <entry>notify</entry>
         <entry>notify()</entry>
         <entry>wait(</entry>
         <entry>does not match</entry>
@@ -631,6 +636,8 @@
         <entry>apache</entry>
         <entry>log</entry>
         <entry>slf</entry>
+        <entry>-api-</entry>
+        <entry encoding="base64">XDxjdXJyZW5jeU1ldGFkYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/client/exchangeUser/g</entry>
