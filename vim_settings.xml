@@ -194,11 +194,12 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/pom.xml" timestamp="1550437075831">
         <mark key="[" line="50" column="21" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1550697096119">
-        <mark key="[" line="16" column="44" />
-        <mark key="]" line="24" column="19" />
-        <mark key="^" line="24" column="19" />
-        <mark key="." line="24" column="19" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1550946277558">
+        <mark key="'" line="30" column="45" />
+        <mark key="[" line="30" column="106" />
+        <mark key="]" line="30" column="161" />
+        <mark key="^" line="30" column="161" />
+        <mark key="." line="30" column="161" />
       </file>
       <file name="/Client [autocoin_client_log@138.201.226.51]" timestamp="1544789544503">
         <mark key="[" line="0" column="0" />
@@ -494,7 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="47" filename="E:/prj/autocoin-ticker-service/pom.xml" />
       <jump line="139" column="32" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/pom.xml" />
       <jump line="268" column="12" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="266" column="64" filename="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
@@ -594,6 +594,7 @@
       <jump line="49" column="45" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsService.kt" />
       <jump line="16" column="20" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/XchangeExchangeMetadataService.kt" />
       <jump line="19" column="12" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/UserExchangeMetadataProvider.kt" />
+      <jump line="30" column="45" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -603,10 +604,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>int</text>
+        <text>(</text>
       </register>
       <register name="0" type="4">
-        <text>@PathVariable exchangeUserId: String</text>
+        <text>exchangeKeyService: ExchangeKeyService</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgOiBLTG9nZ2luZygpCgogICAgcHJpdmF0ZSB2YWwgY3VycmVuY3lQYWlyTWV0YWRhdGFDYWNoZSA9IG11dGFibGVNYXBPZjxTdHJpbmcsIEN1cnJlbmN5UGFpck1ldGFkYXRhPigpCiAgICBwcml2YXRlIHZhbCBjdXJyZW5jeU1ldGFkYXRhQ2FjaGUgPSBtdXRhYmxlTWFwT2Y8U3RyaW5nLCBDdXJyZW5jeU1ldGFkYXRhPigpCg==</text>
@@ -640,9 +641,9 @@
       </register>
     </registers>
     <search>
-      <last-search>int</last-search>
+      <last-search>(</last-search>
       <last-offset />
-      <last-pattern>int</last-pattern>
+      <last-pattern>(</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">aWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKSA=</last-substitute>
       <last-dir>-1</last-dir>
@@ -650,7 +651,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Po</entry>
         <entry>ca</entry>
         <entry>get(</entry>
         <entry>Time</entry>
@@ -670,6 +670,7 @@
         <entry>engine</entry>
         <entry>exchange-</entry>
         <entry>int</entry>
+        <entry>(</entry>
       </history-search>
       <history-cmd>
         <entry>%s/client/exchangeUser/g</entry>
