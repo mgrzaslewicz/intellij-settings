@@ -67,10 +67,6 @@
         <mark key="^" line="191" column="51" />
         <mark key="." line="191" column="51" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/account/AccountController.kt" timestamp="1550937500753">
-        <mark key="[" line="34" column="55" />
-        <mark key="]" line="34" column="90" />
-      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/XchangeTickerProvider.kt" timestamp="1546003657899">
         <mark key="[" line="15" column="16" />
       </file>
@@ -98,9 +94,11 @@
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/Test.java" timestamp="1550008766053">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/order/OrderController.kt" timestamp="1551034944515">
-        <mark key="[" line="121" column="5" />
-        <mark key="]" line="61" column="41" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/order/OrderController.kt" timestamp="1551038481180">
+        <mark key="[" line="139" column="102" />
+        <mark key="]" line="143" column="44" />
+        <mark key="^" line="143" column="44" />
+        <mark key="." line="143" column="44" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/wallet/XchangeWalletService.kt" timestamp="1546902256714">
         <mark key="[" line="15" column="39" />
@@ -220,6 +218,7 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/test/kotlin/automate/profit/autocoin/ticker/csv/CsvTickerFolderManagerTest.kt" timestamp="1547074147280">
         <mark key="[" line="38" column="110" />
       </file>
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1551038638331" />
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/TestExchangeMetadataProvider.kt" timestamp="1545926465665">
         <mark key="[" line="5" column="0" />
       </file>
@@ -407,8 +406,8 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/TickerListenerRegistrar.kt" timestamp="1550732074622">
         <mark key="[" line="14" column="22" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/apikey/ExchangeKeyService.kt" timestamp="1550427622012">
-        <mark key="[" line="2" column="22" />
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/apikey/ExchangeKeyService.kt" timestamp="1551039023673">
+        <mark key="[" line="21" column="80" />
       </file>
       <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/MetadataControllerTest.kt" timestamp="1551034147447">
         <mark key="[" line="72" column="5" />
@@ -617,13 +616,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>cancelOrdersRequestDto: CancelOrdersRequestDto</text>
       </register>
       <register name="/" type="4">
         <text>strict</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBNb2NrQmVhbgogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgZXhjaGFuZ2VTZXJ2aWNlOiBFeGNoYW5nZVNlcnZpY2UK</text>
+      <register name="0" type="4">
+        <text>authentication: Authentication, @RequestBody cancelOrdersRequestDto: CancelOrdersRequestDto</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgOiBLTG9nZ2luZygpCgogICAgcHJpdmF0ZSB2YWwgY3VycmVuY3lQYWlyTWV0YWRhdGFDYWNoZSA9IG11dGFibGVNYXBPZjxTdHJpbmcsIEN1cnJlbmN5UGFpck1ldGFkYXRhPigpCiAgICBwcml2YXRlIHZhbCBjdXJyZW5jeU1ldGFkYXRhQ2FjaGUgPSBtdXRhYmxlTWFwT2Y8U3RyaW5nLCBDdXJyZW5jeU1ldGFkYXRhPigpCg==</text>
