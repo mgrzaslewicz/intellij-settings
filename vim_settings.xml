@@ -123,11 +123,11 @@
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api-xchange/1.0.0/autocoin-exchange-api-xchange-1.0.0-sources.jar!/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" timestamp="1550518911620">
         <mark key="[" line="170" column="28" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/UserExchangeMetadataProvider.kt" timestamp="1550962231687">
-        <mark key="'" line="6" column="12" />
-        <mark key="[" line="6" column="100" />
-        <mark key="]" line="6" column="61" />
-        <mark key="." line="6" column="61" />
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/UserExchangeMetadataProvider.kt" timestamp="1551030339058">
+        <mark key="'" line="11" column="12" />
+        <mark key="[" line="11" column="100" />
+        <mark key="]" line="11" column="61" />
+        <mark key="." line="11" column="61" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/StrategyExecutorIntegrationTest.kt" timestamp="1550314801368">
         <mark key="[" line="137" column="50" />
@@ -184,7 +184,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4bdb39f5-9ab9-49e9-baf5-4dd7e9c87229/console.sql" timestamp="1546381851561">
         <mark key="[" line="87" column="98" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api/1.0.3-SNAPSHOT/autocoin-exchange-api-1.0.3-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/metadata/ExchangeMetadata.kt" timestamp="1550961981181" />
+      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api/1.0.3-SNAPSHOT/autocoin-exchange-api-1.0.3-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/metadata/ExchangeMetadata.kt" timestamp="1551030097061" />
       <file name="E:/prj/autocoin-exchange-mediator/scripts/start.sh" timestamp="1550098165538">
         <mark key="[" line="60" column="14" />
         <mark key="]" line="60" column="15" />
@@ -354,6 +354,7 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/apikey/ExchangeService.kt" timestamp="1550411644871">
         <mark key="[" line="2" column="19" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api-xchange/1.0.3-SNAPSHOT/autocoin-exchange-api-xchange-1.0.3-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/peruser/UserExchangeServicesFactory.kt" timestamp="1551030015889" />
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" timestamp="1549316871678">
         <mark key="[" line="26" column="133" />
         <mark key="]" line="26" column="164" />
@@ -408,7 +409,12 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/ExchangeProperties.kt" timestamp="1550782786772">
         <mark key="[" line="6" column="112" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/MetadataControllerTest.kt" timestamp="1550961947117" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/MetadataControllerTest.kt" timestamp="1551030213699">
+        <mark key="[" line="48" column="43" />
+        <mark key="]" line="45" column="81" />
+        <mark key="^" line="45" column="80" />
+        <mark key="." line="45" column="81" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyNowStrategyProvider.kt" timestamp="1545340744271">
         <mark key="[" line="13" column="4" />
       </file>
@@ -604,13 +610,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>any</text>
+        <text>: UserExchangeServicesFactory</text>
       </register>
       <register name="/" type="4">
         <text>(</text>
       </register>
-      <register name="0" type="4">
-        <text>exchangeKeyService: ExchangeKeyService</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBNb2NrQmVhbgogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgZXhjaGFuZ2VTZXJ2aWNlOiBFeGNoYW5nZVNlcnZpY2UK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgOiBLTG9nZ2luZygpCgogICAgcHJpdmF0ZSB2YWwgY3VycmVuY3lQYWlyTWV0YWRhdGFDYWNoZSA9IG11dGFibGVNYXBPZjxTdHJpbmcsIEN1cnJlbmN5UGFpck1ldGFkYXRhPigpCiAgICBwcml2YXRlIHZhbCBjdXJyZW5jeU1ldGFkYXRhQ2FjaGUgPSBtdXRhYmxlTWFwT2Y8U3RyaW5nLCBDdXJyZW5jeU1ldGFkYXRhPigpCg==</text>
