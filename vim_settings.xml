@@ -57,6 +57,12 @@
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="50" />
       </file>
+      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" timestamp="1551047906040">
+        <mark key="[" line="381" column="12" />
+        <mark key="]" line="381" column="48" />
+        <mark key="^" line="381" column="48" />
+        <mark key="." line="381" column="48" />
+      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/key/ExchangeKeyDto.kt" timestamp="1545995984715">
         <mark key="[" line="1" column="0" />
       </file>
@@ -218,8 +224,12 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/test/kotlin/automate/profit/autocoin/ticker/csv/CsvTickerFolderManagerTest.kt" timestamp="1547074147280">
         <mark key="[" line="38" column="110" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1551040615762">
-        <mark key="[" line="243" column="0" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1551048001048">
+        <mark key="'" line="242" column="0" />
+        <mark key="[" line="243" column="61" />
+        <mark key="]" line="248" column="76" />
+        <mark key="^" line="248" column="76" />
+        <mark key="." line="248" column="21" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/TestExchangeMetadataProvider.kt" timestamp="1545926465665">
         <mark key="[" line="5" column="0" />
@@ -411,9 +421,6 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/apikey/ExchangeKeyService.kt" timestamp="1551039023673">
         <mark key="[" line="21" column="80" />
       </file>
-      <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/ExchangeProperties.kt" timestamp="1550782786772">
-        <mark key="[" line="6" column="112" />
-      </file>
       <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/MetadataControllerTest.kt" timestamp="1551034147447">
         <mark key="[" line="72" column="5" />
         <mark key="]" line="55" column="14" />
@@ -441,7 +448,7 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/BaseStrategyOrderService.kt" timestamp="1545506107719">
         <mark key="[" line="35" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551034664999">
+      <file name="/Dummy.txt" timestamp="1551047995357">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="38" />
         <mark key="^" line="0" column="29" />
@@ -515,8 +522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="8" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
-      <jump line="136" column="56" filename="E:/prj/autocoin-ticker-service/pom.xml" />
       <jump line="42" column="31" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" />
       <jump line="196" column="38" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/peruser/UserExchangeServicesFactory.kt" />
       <jump line="68" column="62" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/TickerListenerRegistrarsTestImpl.kt" />
@@ -615,16 +620,18 @@
       <jump line="74" column="1" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/MetadataControllerTest.kt" />
       <jump line="194" column="25" filename="$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.4.RELEASE/spring-test-5.1.4.RELEASE-sources.jar!/org/springframework/test/web/servlet/result/ContentResultMatchers.java" />
       <jump line="199" column="48" filename="$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.4.RELEASE/spring-test-5.1.4.RELEASE-sources.jar!/org/springframework/test/web/servlet/result/ContentResultMatchers.java" />
+      <jump line="247" column="19" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" />
+      <jump line="242" column="0" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>cancelOrdersRequestDto: CancelOrdersRequestDto</text>
+        <text>, &quot;bittrex&quot;))</text>
       </register>
       <register name="/" type="4">
-        <text>strict</text>
+        <text>info</text>
       </register>
       <register name="0" type="4">
         <text>authentication: Authentication, @RequestBody cancelOrdersRequestDto: CancelOrdersRequestDto</text>
@@ -661,9 +668,9 @@
       </register>
     </registers>
     <search>
-      <last-search>strict</last-search>
+      <last-search>info</last-search>
       <last-offset />
-      <last-pattern>strict</last-pattern>
+      <last-pattern>info</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">aWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKSA=</last-substitute>
       <last-dir>1</last-dir>
@@ -671,8 +678,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Time</entry>
-        <entry>Gate</entry>
         <entry>place</entry>
         <entry>To c</entry>
         <entry>rest</entry>
@@ -691,6 +696,8 @@
         <entry>(</entry>
         <entry>strin</entry>
         <entry>strict</entry>
+        <entry>ino</entry>
+        <entry>info</entry>
       </history-search>
       <history-cmd>
         <entry>%s/selectedExchanges/selectedExchangesWithExchangeUsers/g</entry>
