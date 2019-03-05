@@ -39,6 +39,9 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadata.kt" timestamp="1546904487326">
         <mark key="[" line="9" column="41" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom" timestamp="1550700969852">
+        <mark key="'" line="637" column="39" />
+      </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/ExchangeTickerService.kt" timestamp="1550434869507">
         <mark key="[" line="3" column="0" />
       </file>
@@ -352,6 +355,9 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrderRepository.kt" timestamp="1545505890864">
         <mark key="[" line="13" column="78" />
       </file>
+      <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/OrderServiceTest.kt" timestamp="1551827269322">
+        <mark key="'" line="155" column="44" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/user-account.service.spec.ts" timestamp="1545038195469">
         <mark key="[" line="0" column="0" />
       </file>
@@ -366,6 +372,9 @@
       </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/apikey/ExchangeService.kt" timestamp="1550411644871">
         <mark key="[" line="2" column="19" />
+      </file>
+      <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/AccountServiceTest.kt" timestamp="1551826686577">
+        <mark key="'" line="128" column="8" />
       </file>
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api/1.0.3/autocoin-exchange-api-1.0.3-sources.jar!/automate/profit/autocoin/exchange/order/ExchangeOrderService.kt" timestamp="1551163384540" />
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/main/kotlin/automate/profit/autocoin/config/ApplicationConfig.kt" timestamp="1549316871678">
@@ -480,6 +489,9 @@
         <mark key="." line="57" column="54" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/XchangeMetadataService.kt" timestamp="1550783820638" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutorsService.kt" timestamp="1550731818495">
+        <mark key="'" line="49" column="45" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/BracketsTest.kt" timestamp="1550137886151">
         <mark key="[" line="28" column="29" />
         <mark key="]" line="8" column="47" />
@@ -526,8 +538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="48" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/TickerListenerRegistrarsTestImpl.kt" />
-      <jump line="36" column="71" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/TickerListenerRegistrarsTestImpl.kt" />
       <jump line="81" column="67" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
       <jump line="90" column="119" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
       <jump line="100" column="16" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyExecutor.kt" />
@@ -626,6 +636,8 @@
       <jump line="62" column="26" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" />
       <jump line="239" column="63" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/OrderControllerTest.kt" />
       <jump line="224" column="23" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/OrderControllerTest.kt" />
+      <jump line="128" column="8" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/AccountServiceTest.kt" />
+      <jump line="155" column="44" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/OrderServiceTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
