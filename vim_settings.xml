@@ -245,6 +245,12 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/peruser/BaseTickerListenerRegistrar.kt" timestamp="1549313237974">
         <mark key="[" line="32" column="11" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" timestamp="1552431291729">
+        <mark key="[" line="42" column="62" />
+        <mark key="]" line="42" column="63" />
+        <mark key="^" line="37" column="63" />
+        <mark key="." line="42" column="63" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/RestExchangeOrderService.kt" timestamp="1552259021005">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="91" column="30" />
@@ -282,13 +288,7 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoader.kt" timestamp="1552216057807">
         <mark key="[" line="43" column="47" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" timestamp="1552429867959">
-        <mark key="'" line="25" column="1" />
-        <mark key="[" line="159" column="7" />
-        <mark key="]" line="158" column="94" />
-        <mark key="^" line="158" column="94" />
-        <mark key="." line="158" column="94" />
-      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" timestamp="1552430840932" />
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/order/ExchangeOrderService.kt" timestamp="1550517250963">
         <mark key="[" line="57" column="40" />
       </file>
@@ -482,7 +482,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>, 0.02.toBigDecimal()</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
