@@ -282,9 +282,12 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoader.kt" timestamp="1552216057807">
         <mark key="[" line="43" column="47" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" timestamp="1552428138545">
+      <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" timestamp="1552429867959">
         <mark key="'" line="25" column="1" />
-        <mark key="[" line="203" column="5" />
+        <mark key="[" line="159" column="7" />
+        <mark key="]" line="158" column="94" />
+        <mark key="^" line="158" column="94" />
+        <mark key="." line="158" column="94" />
       </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/order/ExchangeOrderService.kt" timestamp="1550517250963">
         <mark key="[" line="57" column="40" />
@@ -479,7 +482,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>.map { it.toExchangeKey() }</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
