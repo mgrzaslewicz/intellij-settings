@@ -26,6 +26,12 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrder.kt" timestamp="1546903254871">
         <mark key="[" line="44" column="68" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/rule/Rules.kt" timestamp="1552588396342">
+        <mark key="[" line="94" column="43" />
+        <mark key="]" line="94" column="40" />
+        <mark key="." line="94" column="40" />
+        <mark key="^" line="94" column="40" />
+      </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1550011811179">
         <mark key="[" line="52" column="19" />
       </file>
@@ -373,7 +379,7 @@
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/config/OAuth2ServerTestConfig.kt" timestamp="1552514015301">
         <mark key="[" line="69" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1552514166471">
+      <file name="E:/prj/autocoin-strategy-executor/src/main/resources/application.yml" timestamp="1552588469043">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="4" column="3" />
         <mark key="." line="4" column="3" />
@@ -531,7 +537,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>-SNAPSHOT</text>
+        <text>notUsed</text>
       </register>
       <register name="/" type="4">
         <text>SNA</text>
