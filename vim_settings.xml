@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/ScheduledTickerListeners.kt" timestamp="1552216261950">
+        <mark key="[" line="12" column="94" />
+        <mark key="]" line="12" column="94" />
+        <mark key="." line="12" column="94" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWhenSecondCurrencyGrowsStrategyProvider.kt" timestamp="1546904098495">
         <mark key="[" line="28" column="71" />
       </file>
@@ -49,6 +54,11 @@
         <mark key="^" line="18" column="84" />
         <mark key="." line="18" column="84" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/ticker/RestTickerService.kt" timestamp="1552166928402">
+        <mark key="[" line="56" column="36" />
+        <mark key="]" line="56" column="36" />
+        <mark key="." line="56" column="36" />
+      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/key/ExchangeKeyDto.kt" timestamp="1545995984715">
         <mark key="[" line="1" column="0" />
       </file>
@@ -72,6 +82,11 @@
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/Test.java" timestamp="1550008766053">
         <mark key="[" line="0" column="19" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.ts" timestamp="1552738741996">
+        <mark key="[" line="55" column="15" />
+        <mark key="]" line="55" column="15" />
+        <mark key="." line="55" column="15" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/wallet/XchangeWalletService.kt" timestamp="1546902256714">
         <mark key="[" line="15" column="39" />
@@ -245,6 +260,12 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/BaseTickerListenerRegistrarFactoryTest.kt" timestamp="1546005810394">
         <mark key="[" line="9" column="24" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.html" timestamp="1552739030482">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/XchangeTickerListenerRegistrars.kt" timestamp="1546899845674">
         <mark key="[" line="14" column="17" />
       </file>
@@ -334,6 +355,11 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/test/kotlin/automate/profit/autocoin/exchange/LoadingMetadataManualTest.kt" timestamp="1550615086454">
         <mark key="[" line="39" column="30" />
       </file>
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/TickerListener.kt" timestamp="1552516729380">
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="12" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/BaseStrategyOrderService.kt" timestamp="1545506107719">
         <mark key="[" line="35" column="49" />
       </file>
@@ -349,6 +375,9 @@
         <mark key="]" line="22" column="118" />
         <mark key="^" line="22" column="118" />
         <mark key="." line="22" column="118" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-delete/exchange-user-delete.component.ts" timestamp="1552738950669">
+        <mark key="[" line="31" column="7" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/StrategyProvider.kt" timestamp="1545383478009">
         <mark key="[" line="10" column="6" />
@@ -405,6 +434,11 @@
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.12-SNAPSHOT/autocoin-exchange-engine-1.0.12-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" timestamp="1548000709348">
         <mark key="[" line="71" column="0" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParameters.kt" timestamp="1552167895055">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="25" column="4" />
+        <mark key="." line="25" column="4" />
+      </file>
       <file name="E:/prj/autocoin-exchange-mediator/src/main/resources/application.yml" timestamp="1552592610115">
         <mark key="[" line="31" column="1" />
       </file>
@@ -416,9 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="21" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" />
-      <jump line="204" column="30" filename="E:/prj/autocoin-auth-service/pom.xml" />
-      <jump line="23" column="30" filename="E:/prj/autocoin-order-service/src/main/resources/application.yml" />
       <jump line="39" column="23" filename="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/order/ExchangeOrderService.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/scripts/start.sh" />
       <jump line="378" column="34" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/LinkedBlockingQueue.java" />
@@ -516,16 +547,19 @@
       <jump line="90" column="49" filename="E:/prj/autocoin-exchange-mediator/pom.xml" />
       <jump line="91" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.4.RELEASE/spring-web-5.1.4.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java" />
       <jump line="33" column="12" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.4.RELEASE/spring-web-5.1.4.RELEASE-sources.jar!/org/springframework/http/HttpStatus.java" />
+      <jump line="6" column="9" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.html" />
+      <jump line="18" column="25" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.html" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>-SNAPSHOT</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>404</text>
+        <text>onSelect</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHJpdmF0ZSB2YWwgbG9nZ2VyID0gS290bGluTG9nZ2luZy5sb2dnZXIge30K</text>
@@ -562,9 +596,9 @@
       </register>
     </registers>
     <search>
-      <last-search>404</last-search>
+      <last-search>onSelect</last-search>
       <last-offset />
-      <last-pattern>404</last-pattern>
+      <last-pattern>onSelect</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">aWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKSA=</last-substitute>
       <last-dir>1</last-dir>
@@ -572,8 +606,6 @@
     </search>
     <history>
       <history-search>
-        <entry>info</entry>
-        <entry>whe</entry>
         <entry>engine</entry>
         <entry>engin</entry>
         <entry>exchange-</entry>
@@ -592,6 +624,8 @@
         <entry>timeout</entry>
         <entry>Timeo</entry>
         <entry>404</entry>
+        <entry>selected</entry>
+        <entry>onSelect</entry>
       </history-search>
       <history-cmd>
         <entry>%s/selectedExchanges/selectedExchangesWithExchangeUsers/g</entry>
