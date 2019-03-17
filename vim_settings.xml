@@ -13,7 +13,7 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWhenSecondCurrencyGrowsStrategyProvider.kt" timestamp="1546904098495">
         <mark key="[" line="28" column="71" />
       </file>
-      <file name="/a.dummy" timestamp="1552762893113">
+      <file name="/a.dummy" timestamp="1552826867214">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.4/autocoin-exchange-engine-1.0.4-sources.jar!/automate/profit/autocoin/exchange/AutocoinExchange.kt" timestamp="1545988851644">
@@ -37,11 +37,6 @@
         <mark key="." line="94" column="40" />
         <mark key="^" line="94" column="40" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-delete/exchange-user-delete.component.html" timestamp="1552740106869">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="2" column="39" />
-        <mark key="." line="2" column="39" />
-      </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1550011811179">
         <mark key="[" line="52" column="19" />
       </file>
@@ -63,12 +58,6 @@
         <mark key="]" line="18" column="84" />
         <mark key="^" line="18" column="84" />
         <mark key="." line="18" column="84" />
-      </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/exchangeusers/exchange-users.service.ts" timestamp="1552756765812">
-        <mark key="'" line="37" column="12" />
-        <mark key="]" line="37" column="11" />
-        <mark key="^" line="37" column="11" />
-        <mark key="." line="37" column="11" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/key/ExchangeKeyDto.kt" timestamp="1545995984715">
         <mark key="[" line="1" column="0" />
@@ -219,11 +208,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api/1.0.5-SNAPSHOT/autocoin-exchange-api-1.0.5-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/ticker/TickerListenerRegistrar.kt" timestamp="1552258387364">
         <mark key="[" line="18" column="0" />
-      </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1552516521945">
-        <mark key="[" line="31" column="43" />
-        <mark key="]" line="31" column="43" />
-        <mark key="." line="31" column="43" />
       </file>
       <file name="/Client [autocoin_client_log@138.201.226.51]" timestamp="1544789544503">
         <mark key="[" line="0" column="0" />
@@ -412,6 +396,13 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/apikey/ExchangeKeyService.kt" timestamp="1551039023673">
         <mark key="[" line="21" column="80" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/health/health-panel/health-panel.component.html" timestamp="1552826489792">
+        <mark key="'" line="11" column="53" />
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="11" column="53" />
+        <mark key="." line="11" column="53" />
+        <mark key="^" line="5" column="17" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyNowStrategyProvider.kt" timestamp="1545340744271">
         <mark key="[" line="13" column="4" />
       </file>
@@ -443,6 +434,9 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="13" column="28" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/health.service.ts" timestamp="1552826613346">
+        <mark key="[" line="62" column="12" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/StrategyProvider.kt" timestamp="1545383478009">
         <mark key="[" line="10" column="6" />
       </file>
@@ -454,6 +448,9 @@
         <mark key="]" line="28" column="55" />
         <mark key="." line="28" column="55" />
         <mark key="^" line="28" column="55" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/health/health-panel/health-panel.component.ts" timestamp="1552826508096">
+        <mark key="[" line="36" column="14" />
       </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/metadata/CurrencyPairMetadataApplier.kt" timestamp="1552506875758">
         <mark key="'" line="44" column="0" />
@@ -480,6 +477,9 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/ExchangeService.kt" timestamp="1547843272075">
         <mark key="[" line="7" column="0" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/health/health-panel/health-panel.component.scss" timestamp="1552826557360">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/util/Extensions.kt" timestamp="1547995719320">
         <mark key="[" line="6" column="0" />
       </file>
@@ -492,11 +492,6 @@
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.12-SNAPSHOT/autocoin-exchange-engine-1.0.12-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" timestamp="1548000709348">
         <mark key="[" line="71" column="0" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/services/key-validity.service.ts" timestamp="1552756753413">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="E:/prj/autocoin-exchange-mediator/src/main/resources/application.yml" timestamp="1552825883414">
         <mark key="[" line="31" column="1" />
       </file>
@@ -506,15 +501,8 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/UserExchangeServicesFactory.kt" timestamp="1546988519947">
         <mark key="[" line="44" column="21" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/XchangeExchangeMetadataService.kt" timestamp="1552517146515">
-        <mark key="[" line="11" column="77" />
-        <mark key="]" line="11" column="77" />
-        <mark key="." line="11" column="77" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom" />
-      <jump line="123" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom" />
       <jump line="456" column="48" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom" />
       <jump line="1633" column="45" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom" />
       <jump line="2297" column="42" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom" />
@@ -613,16 +601,18 @@
       <jump line="33" column="36" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/exchangekey/ExchangeKeyCapabilityController.kt" />
       <jump line="76" column="30" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/ExchangeKeyCapabilityControllerTest.kt" />
       <jump line="46" column="47" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/ExchangeKeyCapabilityControllerTest.kt" />
+      <jump line="5" column="17" filename="E:/prj/autocoin-trader-frontend/src/app/layout/health/health-panel/health-panel.component.html" />
+      <jump line="11" column="53" filename="E:/prj/autocoin-trader-frontend/src/app/layout/health/health-panel/health-panel.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>? = null</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
-        <text>exchange-user-id</text>
+        <text>this</text>
       </register>
       <register name="0" type="4">
         <text>exchange-user-id&quot;</text>
@@ -659,9 +649,9 @@
       </register>
     </registers>
     <search>
-      <last-search>exchange-user-id</last-search>
+      <last-search>this</last-search>
       <last-offset />
-      <last-pattern>exchange-user-id</last-pattern>
+      <last-pattern>this</last-pattern>
       <last-replace>exchange-user-1</last-replace>
       <last-substitute>exchange-user-id</last-substitute>
       <last-dir>1</last-dir>
@@ -669,9 +659,6 @@
     </search>
     <history>
       <history-search>
-        <entry>selected</entry>
-        <entry>onSelect</entry>
-        <entry encoding="base64">PA==</entry>
         <entry>fa</entry>
         <entry>font</entry>
         <entry>check</entry>
@@ -689,6 +676,9 @@
         <entry>Vali</entry>
         <entry>-1&quot;</entry>
         <entry>exchange-user-id</entry>
+        <entry>toggle</entry>
+        <entry>this.</entry>
+        <entry>this</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Client1/ExchangeUser1/g</entry>
