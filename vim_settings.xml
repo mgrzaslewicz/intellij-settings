@@ -357,6 +357,12 @@
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/account/AccountController.kt" timestamp="1552169443495">
         <mark key="[" line="29" column="13" />
       </file>
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1553021035018">
+        <mark key="[" line="90" column="16" />
+        <mark key="]" line="74" column="34" />
+        <mark key="^" line="74" column="34" />
+        <mark key="." line="74" column="34" />
+      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/XchangeTickerProvider.kt" timestamp="1546003657899">
         <mark key="[" line="15" column="16" />
       </file>
@@ -467,6 +473,12 @@
         <mark key="." line="185" column="42" />
         <mark key="^" line="185" column="42" />
       </file>
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" timestamp="1553021023004">
+        <mark key="'" line="5" column="10" />
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="30" />
+        <mark key="." line="15" column="30" />
+      </file>
       <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/WalletControllerTest.kt" timestamp="1552942624028">
         <mark key="[" line="97" column="22" />
         <mark key="]" line="36" column="55" />
@@ -504,6 +516,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.4.RELEASE/spring-web-5.1.4.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java" timestamp="1552591849034">
         <mark key="'" line="91" column="13" />
+      </file>
+      <file name="/Kotlin Console" timestamp="1553020907401">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/HealthExchangeKeys.kt" timestamp="1550696625228">
         <mark key="[" line="28" column="0" />
@@ -635,6 +650,12 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation-routing.module.ts" timestamp="1552841790822">
         <mark key="[" line="10" column="15" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/DefaultTickerListenerRegistrarProvider.kt" timestamp="1552594381967">
+        <mark key="'" line="40" column="44" />
+        <mark key="[" line="14" column="64" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrderService.kt" timestamp="1545503537415">
         <mark key="[" line="6" column="40" />
       </file>
@@ -655,7 +676,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="26" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" />
       <jump line="239" column="63" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/OrderControllerTest.kt" />
       <jump line="224" column="23" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/OrderControllerTest.kt" />
       <jump line="128" column="8" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/AccountServiceTest.kt" />
@@ -755,16 +775,17 @@
       <jump line="0" column="0" filename="E:/prj/autocoin-exchange-mediator/src/main/resources/application.yml" />
       <jump line="8" column="2" filename="E:/prj/autocoin-exchange-mediator/src/main/resources/application.yml" />
       <jump line="19" column="0" filename="E:/prj/autocoin-exchange-mediator/pom.xml" />
+      <jump line="5" column="10" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>-SNAPSHOT</text>
+        <text>? = null</text>
       </register>
       <register name="/" type="4">
-        <text>SN</text>
+        <text>var</text>
       </register>
       <register name="0" type="4">
         <text>autocoin-apps/autocoin-exchange-mediator/</text>
@@ -797,21 +818,20 @@
         <text>HTMLUseful for copying and pasting into your HTML (Webfont with CSS or SVG with JS).</text>
       </register>
       <register name=":" type="4">
-        <text>%s/makeOrderForm/createStrategyExecutionForm/g</text>
+        <text>%s/var/val/g</text>
       </register>
     </registers>
     <search>
-      <last-search>SN</last-search>
+      <last-search>var</last-search>
       <last-offset />
-      <last-pattern>SN</last-pattern>
-      <last-replace>createStrategyExecutionForm</last-replace>
-      <last-substitute>makeOrderForm</last-substitute>
+      <last-pattern>var</last-pattern>
+      <last-replace>val</last-replace>
+      <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console.</entry>
         <entry>Validity</entry>
         <entry>capabi</entry>
         <entry>vali</entry>
@@ -831,9 +851,9 @@
         <entry>cu</entry>
         <entry>secur</entry>
         <entry>SN</entry>
+        <entry>var</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/client-portfolio-balances-/exchange-user-portfolio-balances-/g</entry>
         <entry>%s/client-/exchange-user-/g</entry>
         <entry>%s/client-of-the-same-user-/exchange-user-of-the-same-user-account/g</entry>
         <entry>%s/clientId/exchangeUserId/g</entry>
@@ -853,6 +873,7 @@
         <entry>%s/exchange-user-id/exchange-user-1/g</entry>
         <entry>%s/makeOrderForm/createStrategyExecutionForm</entry>
         <entry>%s/makeOrderForm/createStrategyExecutionForm/g</entry>
+        <entry>%s/var/val/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
