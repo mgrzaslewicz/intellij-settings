@@ -372,11 +372,11 @@
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/account/AccountController.kt" timestamp="1552169443495">
         <mark key="[" line="29" column="13" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1553030385050">
-        <mark key="'" line="185" column="35" />
-        <mark key="]" line="185" column="69" />
-        <mark key="." line="185" column="69" />
-        <mark key="^" line="185" column="69" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1553033254469">
+        <mark key="'" line="186" column="35" />
+        <mark key="]" line="186" column="69" />
+        <mark key="." line="186" column="69" />
+        <mark key="^" line="186" column="69" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/XchangeTickerProvider.kt" timestamp="1546003657899">
         <mark key="[" line="15" column="16" />
@@ -491,11 +491,11 @@
         <mark key="^" line="185" column="42" />
       </file>
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api-xchange/1.0.8/autocoin-exchange-api-xchange-1.0.8-sources.jar!/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" timestamp="1552937190767" />
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" timestamp="1553029619406">
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" timestamp="1553032256390">
         <mark key="'" line="8" column="10" />
-        <mark key="[" line="20" column="37" />
-        <mark key="]" line="20" column="43" />
-        <mark key="." line="20" column="43" />
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="12" />
+        <mark key="." line="13" column="12" />
         <mark key="^" line="20" column="43" />
       </file>
       <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/WalletControllerTest.kt" timestamp="1552942624028">
@@ -810,7 +810,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>buy</text>
+        <text>canReadOpenOrdersWithCurrencyList</text>
       </register>
       <register name="/" type="4">
         <text>bu</text>
