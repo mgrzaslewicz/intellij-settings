@@ -22,11 +22,11 @@
         <mark key="." line="94" column="40" />
         <mark key="^" line="94" column="40" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" timestamp="1553107306779">
-        <mark key="[" line="111" column="50" />
-        <mark key="]" line="110" column="44" />
-        <mark key="^" line="110" column="43" />
-        <mark key="." line="110" column="44" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" timestamp="1553110998337">
+        <mark key="[" line="115" column="50" />
+        <mark key="]" line="114" column="44" />
+        <mark key="^" line="114" column="43" />
+        <mark key="." line="114" column="44" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1550011811179">
         <mark key="[" line="52" column="19" />
@@ -378,12 +378,12 @@
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/account/AccountController.kt" timestamp="1552169443495">
         <mark key="[" line="29" column="13" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1553035296142">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="244" column="5" />
-        <mark key="]" line="186" column="43" />
-        <mark key="." line="186" column="43" />
-        <mark key="^" line="186" column="43" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1553111166402">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="166" />
+        <mark key="]" line="147" column="40" />
+        <mark key="." line="147" column="40" />
+        <mark key="^" line="147" column="40" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/XchangeTickerProvider.kt" timestamp="1546003657899">
         <mark key="[" line="15" column="16" />
@@ -718,8 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="18" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/config/TestExchangeServiceConfig.kt" />
-      <jump line="25" column="1" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" />
       <jump line="169" column="48" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" />
       <jump line="154" column="48" filename="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" />
       <jump line="114" column="43" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/test/kotlin/automate/profit/autocoin/exchange/metadata/CurrencyPairMetadataApplierTest.kt" />
@@ -814,10 +812,12 @@
       <jump line="74" column="51" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="162" column="18" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="66" column="0" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
-      <jump line="0" column="0" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="181" column="35" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="54" column="0" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="3" column="0" filename="E:/prj/autocoin-exchange-mediator/src/test/resources/health-exchange-keys/dummy-exchange-health-keys.properties" />
+      <jump line="150" column="12" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
+      <jump line="223" column="25" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -827,7 +827,7 @@
         <text>ETH_BTC</text>
       </register>
       <register name="/" type="4">
-        <text>bu</text>
+        <text>Found</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGN1cnJlbmN5UGFpclRvVGVzdEJ1eWluZyA9ICJCVEMvRVRIIiwK</text>
@@ -864,9 +864,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bu</last-search>
+      <last-search>Found</last-search>
       <last-offset />
-      <last-pattern>bu</last-pattern>
+      <last-pattern>Found</last-pattern>
       <last-replace>val</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -874,8 +874,6 @@
     </search>
     <history>
       <history-search>
-        <entry>-1&quot;</entry>
-        <entry>exchange-user-id</entry>
         <entry>toggle</entry>
         <entry>this.</entry>
         <entry>this</entry>
@@ -894,6 +892,8 @@
         <entry>ex</entry>
         <entry>.of(</entry>
         <entry>bu</entry>
+        <entry>Could not get all</entry>
+        <entry>Found</entry>
       </history-search>
       <history-cmd>
         <entry>%s/client-/exchange-user-/g</entry>
