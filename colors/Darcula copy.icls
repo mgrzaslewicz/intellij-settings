@@ -122,7 +122,12 @@
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="ff5b34" />
+        <option name="FOREGROUND" value="2196f3" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="d773" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
@@ -137,7 +142,17 @@
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="d4d649" />
+        <option name="FOREGROUND" value="e8ea50" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="c31f15" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="a67bf" />
       </value>
     </option>
   </attributes>
