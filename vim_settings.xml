@@ -355,8 +355,9 @@
         <mark key="^" line="32" column="13" />
         <mark key="." line="148" column="29" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/peruser/UserExchangeTradeService.kt" timestamp="1552935826394">
-        <mark key="[" line="74" column="18" />
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/peruser/UserExchangeTradeService.kt" timestamp="1553458353406">
+        <mark key="'" line="48" column="11" />
+        <mark key="[" line="113" column="38" />
         <mark key="]" line="74" column="21" />
         <mark key="^" line="74" column="21" />
         <mark key="." line="74" column="21" />
@@ -682,7 +683,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="9" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.html" />
       <jump line="6" column="0" filename="E:/prj/autocoin-trader-frontend/package.json" />
       <jump line="20" column="16" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.html" />
       <jump line="5" column="23" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.html" />
@@ -782,6 +782,7 @@
       <jump line="226" column="30" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="36" column="1" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/test/kotlin/automate/profit/autocoin/exchange/metadata/CurrencyPairMetadataApplierTest.kt" />
       <jump line="136" column="26" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
+      <jump line="48" column="11" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/peruser/UserExchangeTradeService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -791,7 +792,7 @@
         <text>buying</text>
       </register>
       <register name="/" type="4">
-        <text>Ticker for</text>
+        <text>completed:</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaWNlU2NhbGUgPSBwcmljZVNjYWxlLAo=</text>
@@ -828,9 +829,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Ticker for</last-search>
+      <last-search>completed:</last-search>
       <last-offset />
-      <last-pattern>Ticker for</last-pattern>
+      <last-pattern>completed:</last-pattern>
       <last-replace />
       <last-substitute>, exchange</last-substitute>
       <last-dir>1</last-dir>
@@ -838,7 +839,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SN</entry>
         <entry>var</entry>
         <entry>canReadWallet</entry>
         <entry>.of(</entry>
@@ -858,6 +858,7 @@
         <entry>chain</entry>
         <entry>buy</entry>
         <entry>Ticker for</entry>
+        <entry>completed:</entry>
       </history-search>
       <history-cmd>
         <entry>%s/clientId/exchangeUserId/g</entry>
