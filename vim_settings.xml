@@ -46,12 +46,12 @@
         <mark key="." line="94" column="40" />
         <mark key="^" line="94" column="40" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" timestamp="1553468954702">
-        <mark key="'" line="133" column="28" />
-        <mark key="[" line="48" column="33" />
-        <mark key="]" line="133" column="28" />
-        <mark key="^" line="133" column="28" />
-        <mark key="." line="133" column="28" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" timestamp="1553535906572">
+        <mark key="'" line="151" column="28" />
+        <mark key="[" line="138" column="46" />
+        <mark key="]" line="138" column="47" />
+        <mark key="^" line="135" column="43" />
+        <mark key="." line="138" column="47" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-binance/4.3.16/xchange-binance-4.3.16-sources.jar!/org/knowm/xchange/binance/BinanceErrorAdapter.java" timestamp="1553463200112" />
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1550011811179">
@@ -84,12 +84,12 @@
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/account/AccountController.kt" timestamp="1552169443495">
         <mark key="[" line="29" column="13" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1553468569754">
-        <mark key="'" line="136" column="26" />
-        <mark key="[" line="99" column="30" />
-        <mark key="]" line="126" column="15" />
-        <mark key="." line="126" column="15" />
-        <mark key="^" line="126" column="15" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1553535969199">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="85" column="50" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+        <mark key="^" line="142" column="0" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.module.ts" timestamp="1552841820252">
         <mark key="[" line="17" column="44" />
@@ -599,7 +599,7 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/apikey/RestExchangeKeyService.kt" timestamp="1552165289023">
         <mark key="[" line="15" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553467740459">
+      <file name="/Dummy.txt" timestamp="1553536321669">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/prices/CoinMarketCapService.kt" timestamp="1553436267501" />
@@ -687,7 +687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="23" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.html" />
       <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.html" />
       <jump line="68" column="26" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.ts" />
       <jump line="18" column="15" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.html" />
@@ -779,7 +778,6 @@
       <jump line="98" column="39" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/test/kotlin/automate/profit/autocoin/exchange/metadata/CurrencyPairMetadataApplierTest.kt" />
       <jump line="18" column="12" filename="E:/prj/autocoin-exchange-mediator/pom.xml" />
       <jump line="91" column="20" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
-      <jump line="0" column="0" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="84" column="19" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="226" column="30" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="36" column="1" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/test/kotlin/automate/profit/autocoin/exchange/metadata/CurrencyPairMetadataApplierTest.kt" />
@@ -787,16 +785,18 @@
       <jump line="48" column="11" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/peruser/UserExchangeTradeService.kt" />
       <jump line="234" column="32" filename="E:/prj/autocoin-exchange-mediator/pom.xml" />
       <jump line="131" column="28" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" />
+      <jump line="142" column="0" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>-SNAPSHOT</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>blocking</text>
+        <text>Ticker for buying</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXhpbXVtUHJpY2VNdWx0aXBsaWVyRG93biA9IDAuMS50b0JpZ0RlY2ltYWwoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXhpbXVtUHJpY2VNdWx0aXBsaWVyVXAgPSBCaWdEZWNpbWFsLlRFTgo=</text>
@@ -833,9 +833,9 @@
       </register>
     </registers>
     <search>
-      <last-search>blocking</last-search>
+      <last-search>Ticker for buying</last-search>
       <last-offset />
-      <last-pattern>blocking</last-pattern>
+      <last-pattern>Ticker for buying</last-pattern>
       <last-replace />
       <last-substitute>, exchange</last-substitute>
       <last-dir>1</last-dir>
@@ -843,7 +843,6 @@
     </search>
     <history>
       <history-search>
-        <entry>canReadWallet</entry>
         <entry>.of(</entry>
         <entry>bu</entry>
         <entry>Could not get all</entry>
@@ -863,6 +862,7 @@
         <entry>Ticker for</entry>
         <entry>completed:</entry>
         <entry>blocking</entry>
+        <entry>Ticker for buying</entry>
       </history-search>
       <history-cmd>
         <entry>%s/clientId/exchangeUserId/g</entry>
