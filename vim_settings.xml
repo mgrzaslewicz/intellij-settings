@@ -207,6 +207,13 @@
         <mark key="^" line="80" column="239" />
         <mark key="." line="80" column="239" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/auth.service.ts" timestamp="1553631448745">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="80" column="15" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="80" column="20" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/validators/curreny-pair-symbol-validator.directive.ts" timestamp="1552839597813">
         <mark key="[" line="17" column="17" />
       </file>
@@ -478,6 +485,12 @@
         <mark key="^" line="87" column="41" />
         <mark key="." line="87" column="41" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/shared/guard/guest.guard.ts" timestamp="1553631413661">
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="20" column="47" />
+        <mark key="^" line="20" column="47" />
+        <mark key="." line="20" column="47" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/health/StrategyExecutorsHealthServiceTest.kt" timestamp="1546020108476">
         <mark key="[" line="31" column="44" />
       </file>
@@ -684,6 +697,9 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation-routing.module.ts" timestamp="1552841790822">
         <mark key="[" line="10" column="15" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/settings/settings.component.ts" timestamp="1553631483290">
+        <mark key="[" line="13" column="80" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/OrderStatusAttributeConverter.kt" timestamp="1552165850134">
         <mark key="[" line="9" column="54" />
       </file>
@@ -708,9 +724,6 @@
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.12-SNAPSHOT/autocoin-exchange-engine-1.0.12-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" timestamp="1548000709348">
         <mark key="[" line="71" column="0" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-rest/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadata.kt" timestamp="1553536926542">
-        <mark key="[" line="12" column="1" />
-      </file>
       <file name="/fragment.java" timestamp="1553536514256">
         <mark key="[" line="0" column="0" />
       </file>
@@ -719,7 +732,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="26" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.ts" />
       <jump line="18" column="15" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.html" />
       <jump line="19" column="19" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.html" />
       <jump line="22" column="89" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.html" />
@@ -819,13 +831,14 @@
       <jump line="142" column="0" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="17" column="37" filename="E:/prj/autocoin-exchange-mediator/pom.xml" />
+      <jump line="4" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/services/auth.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>-SNAPSHOT</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>SN</text>
