@@ -22,11 +22,12 @@
         <mark key="^" line="135" column="43" />
         <mark key="." line="138" column="47" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" timestamp="1553718772210">
-        <mark key="[" line="25" column="1" />
-        <mark key="]" line="25" column="1" />
-        <mark key="^" line="22" column="48" />
-        <mark key="." line="25" column="1" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" timestamp="1553724141023">
+        <mark key="'" line="50" column="12" />
+        <mark key="[" line="73" column="23" />
+        <mark key="]" line="72" column="47" />
+        <mark key="^" line="72" column="47" />
+        <mark key="." line="72" column="47" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-binance/4.3.16/xchange-binance-4.3.16-sources.jar!/org/knowm/xchange/binance/BinanceErrorAdapter.java" timestamp="1553463200112" />
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1550011811179">
@@ -351,7 +352,7 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/trading-strategies.component.ts" timestamp="1552842332961">
         <mark key="[" line="10" column="19" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" timestamp="1553719553758">
+      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" timestamp="1553723758196">
         <mark key="'" line="168" column="172" />
         <mark key="[" line="190" column="55" />
         <mark key="]" line="190" column="55" />
@@ -579,27 +580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="27" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.html" />
-      <jump line="28" column="63" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.html" />
-      <jump line="31" column="87" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.html" />
-      <jump line="34" column="63" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.html" />
-      <jump line="35" column="67" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.html" />
-      <jump line="37" column="12" filename="E:/prj/autocoin-trader-frontend/src/app/services/api/exchangeusers/exchange-users.service.ts" />
-      <jump line="83" column="8" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.ts" />
-      <jump line="6" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.ts" />
-      <jump line="4" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.ts" />
-      <jump line="27" column="33" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-edit/exchange-user-edit.component.html" />
-      <jump line="23" column="41" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.ts" />
-      <jump line="64" column="8" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.ts" />
-      <jump line="69" column="12" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.ts" />
-      <jump line="18" column="48" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.ts" />
-      <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.ts" />
-      <jump line="5" column="89" filename="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-users.component.ts" />
-      <jump line="33" column="36" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/exchangekey/ExchangeKeyCapabilityController.kt" />
-      <jump line="76" column="30" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/ExchangeKeyCapabilityControllerTest.kt" />
-      <jump line="46" column="47" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/ExchangeKeyCapabilityControllerTest.kt" />
-      <jump line="5" column="17" filename="E:/prj/autocoin-trader-frontend/src/app/layout/health/health-panel/health-panel.component.html" />
-      <jump line="11" column="53" filename="E:/prj/autocoin-trader-frontend/src/app/layout/health/health-panel/health-panel.component.html" />
       <jump line="3" column="24" filename="E:/prj/autocoin-trader-frontend/src/app/layout/health/health-panel/health-panel.component.html" />
       <jump line="22" column="14" filename="E:/prj/autocoin-trader-frontend/src/app/layout/health/health-panel/health-panel.component.html" />
       <jump line="23" column="46" filename="E:/prj/autocoin-trader-frontend/src/app/layout/health/health-panel/health-panel.component.html" />
@@ -679,16 +659,37 @@
       <jump line="21" column="17" filename="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.html" />
       <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.html" />
       <jump line="167" column="172" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
+      <jump line="73" column="19" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="54" column="12" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="60" column="12" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="66" column="16" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="74" column="12" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="80" column="16" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="89" column="12" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="100" column="20" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="114" column="12" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="125" column="20" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="45" column="90" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="61" column="115" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="75" column="115" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="90" column="103" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="94" column="91" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="102" column="95" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="115" column="104" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="119" column="81" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="127" column="16" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="51" column="12" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>True()</text>
+        <text encoding="base64">R2VuZXJhdGluZyAyRkEgc2VjcmV0IGNvZGUgZm9yIHVzZXIg</text>
       </register>
       <register name="/" type="4">
-        <text>is ena</text>
+        <text>logger.error</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIG9uZVRpbWVQYXNzd29yZDogVGltZUJhc2VkT25lVGltZVBhc3N3b3JkCg==</text>
@@ -721,26 +722,20 @@
         <text encoding="base64">ewogICAgZnVuIGN1cnJlbmNpZXMoKSA9IGN1cnJlbmN5TWV0YWRhdGEua2V5cwoKICAgIGZ1biBjdXJyZW5jeVBhaXJzKCkgPSBjdXJyZW5jeVBhaXJNZXRhZGF0YS5rZXlzCn0K</text>
       </register>
       <register name=":" type="4">
-        <text>%s/, exchange//g</text>
+        <text>%s/logger.error(/logger.error {/g</text>
       </register>
     </registers>
     <search>
-      <last-search>is ena</last-search>
+      <last-search>logger.error</last-search>
       <last-offset />
-      <last-pattern>is ena</last-pattern>
-      <last-replace />
-      <last-substitute>, exchange</last-substitute>
+      <last-pattern>logger.error</last-pattern>
+      <last-replace>logger.error {</last-replace>
+      <last-substitute>logger.error(</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>checkIfCan</entry>
-        <entry>he</entry>
-        <entry>Cannot read</entry>
-        <entry>Could not read</entry>
-        <entry>Buy</entry>
-        <entry>ex</entry>
         <entry>Cutting</entry>
         <entry>apply</entry>
         <entry>getMini</entry>
@@ -755,11 +750,14 @@
         <entry>value</entry>
         <entry>h5</entry>
         <entry>is ena</entry>
+        <entry>logger.info(</entry>
+        <entry>logger.info</entry>
+        <entry>logger.warn(</entry>
+        <entry>logger.warn</entry>
+        <entry>logger.error(</entry>
+        <entry>logger.error</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/clientId/exchangeUserId/g</entry>
-        <entry>%s/clientId =/exchangeUserId =/g</entry>
-        <entry>%s/timeSeries, //g</entry>
         <entry>%s/tradingRecordDoesNotMatterInThisTest/emptyList()/g</entry>
         <entry>%s/\/\/ ok//g</entry>
         <entry>%s/ExchangeBalanceResult/CurrencyBalance/g</entry>
@@ -777,6 +775,9 @@
         <entry>%s/var/val/g</entry>
         <entry>%s/checkIfCan/can/g</entry>
         <entry>%s/, exchange//g</entry>
+        <entry>%s/logger.info(/logger.info {/g</entry>
+        <entry>%s/logger.warn(/logger.warn {/g</entry>
+        <entry>%s/logger.error(/logger.error {/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
