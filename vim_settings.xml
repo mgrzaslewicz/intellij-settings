@@ -22,12 +22,12 @@
         <mark key="^" line="135" column="43" />
         <mark key="." line="138" column="47" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" timestamp="1553724141023">
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" timestamp="1553726476327">
         <mark key="'" line="50" column="12" />
-        <mark key="[" line="73" column="23" />
-        <mark key="]" line="72" column="47" />
-        <mark key="^" line="72" column="47" />
-        <mark key="." line="72" column="47" />
+        <mark key="[" line="92" column="102" />
+        <mark key="]" line="92" column="102" />
+        <mark key="^" line="92" column="83" />
+        <mark key="." line="92" column="102" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-binance/4.3.16/xchange-binance-4.3.16-sources.jar!/org/knowm/xchange/binance/BinanceErrorAdapter.java" timestamp="1553463200112" />
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1550011811179">
@@ -196,6 +196,13 @@
       <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/AccountServiceTest.kt" timestamp="1552939974198">
         <mark key="[" line="40" column="37" />
       </file>
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountService.kt" timestamp="1553726525272">
+        <mark key="'" line="73" column="73" />
+        <mark key="[" line="90" column="22" />
+        <mark key="]" line="93" column="111" />
+        <mark key="." line="93" column="111" />
+        <mark key="^" line="93" column="111" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/FakeExchange.kt" timestamp="1553538301670">
         <mark key="[" line="31" column="31" />
         <mark key="]" line="31" column="31" />
@@ -208,7 +215,7 @@
         <mark key="^" line="22" column="45" />
         <mark key="." line="22" column="45" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/services/user-account.service.ts" timestamp="1553718646967">
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/user-account.service.ts" timestamp="1553727217040">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="38" column="136" />
         <mark key="^" line="38" column="136" />
@@ -249,7 +256,7 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/apikey/RestExchangeKeyService.kt" timestamp="1552165289023">
         <mark key="[" line="15" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553641123889">
+      <file name="/Dummy.txt" timestamp="1553727236241">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.component.ts" timestamp="1552842039189">
@@ -352,12 +359,12 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/trading-strategies.component.ts" timestamp="1552842332961">
         <mark key="[" line="10" column="19" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" timestamp="1553723758196">
-        <mark key="'" line="168" column="172" />
-        <mark key="[" line="190" column="55" />
-        <mark key="]" line="190" column="55" />
-        <mark key="^" line="190" column="50" />
-        <mark key="." line="190" column="55" />
+      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" timestamp="1553726599174">
+        <mark key="'" line="169" column="100" />
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="162" column="8" />
+        <mark key="^" line="162" column="34" />
+        <mark key="." line="162" column="8" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/settings/user-account-password/user-account-password.component.ts" timestamp="1553718338853">
         <mark key="[" line="61" column="59" />
@@ -580,9 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="24" filename="E:/prj/autocoin-trader-frontend/src/app/layout/health/health-panel/health-panel.component.html" />
-      <jump line="22" column="14" filename="E:/prj/autocoin-trader-frontend/src/app/layout/health/health-panel/health-panel.component.html" />
-      <jump line="23" column="46" filename="E:/prj/autocoin-trader-frontend/src/app/layout/health/health-panel/health-panel.component.html" />
       <jump line="46" column="47" filename="E:/prj/autocoin-trader-frontend/src/app/layout/orders/orders.component.html" />
       <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
       <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
@@ -658,7 +662,6 @@
       <jump line="9" column="58" filename="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.html" />
       <jump line="21" column="17" filename="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.html" />
       <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.html" />
-      <jump line="167" column="172" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
       <jump line="73" column="19" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
       <jump line="54" column="12" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
       <jump line="60" column="12" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
@@ -680,55 +683,59 @@
       <jump line="119" column="81" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
       <jump line="127" column="16" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
       <jump line="51" column="12" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
+      <jump line="66" column="72" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountService.kt" />
+      <jump line="73" column="73" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountService.kt" />
+      <jump line="167" column="130" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
+      <jump line="168" column="100" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">R2VuZXJhdGluZyAyRkEgc2VjcmV0IGNvZGUgZm9yIHVzZXIg</text>
+        <text>userAccountRepository.</text>
       </register>
       <register name="/" type="4">
-        <text>logger.error</text>
+        <text>toIn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIG9uZVRpbWVQYXNzd29yZDogVGltZUJhc2VkT25lVGltZVBhc3N3b3JkCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdXNlckFjY291bnQgPSB1c2VyQWNjb3VudFJlcG9zaXRvcnkuZmluZEJ5RW1haWxBZGRyZXNzKGVtYWlsQWRkcmVzcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYXJlSW5wdXRzVmFsaWRUb0NoYW5nZVBhc3N3b3JkOiAnICsgcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGltZUJhc2VkT25lVGltZVBhc3N3b3JkLnZhbGlkYXRlQ3VycmVudE51bWJlcih1c2VyQWNjb3VudC5zZWNyZXRDb2RlMmZhISEsIHR3b0ZhY3RvckF1dGhlbnRpY2F0aW9uQ29kZSkpIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYXJlSW5wdXRzVmFsaWRUb0NoYW5nZVBhc3N3b3JkOiAnKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYXJlSW5wdXRzVmFsaWRUb0NoYW5nZVBhc3N3b3JkOiAnICsgcmVzdWx0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sIGlzLTIgcHItMCI+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYXJlSW5wdXRzVmFsaWRUb0NoYW5nZVBhc3N3b3JkOiAnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoNT5Zb3Ugc2hvdWxkIGNoYW5nZSB5b3VyIGxvZ2luIHBhc3N3b3JkIG5vdzwvaDU+CiAgICAgICAgICAgICAgICA8aW5wdXQgWyhuZ01vZGVsKV09ImN1cnJlbnQyRkFDb2RlIiB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sIGlzLTIgcHItMCI+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoNT5Zb3Ugc2hvdWxkIGNoYW5nZSB5b3VyIGxvZ2luIHBhc3N3b3JkIG5vdzwvaDU+CiAgICAgICAgICAgICAgICA8aW5wdXQgWyhuZ01vZGVsKV09ImN1cnJlbnQyRkFDb2RlIiB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIj4K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CiAgICBwcml2YXRlIHNlcnZlckVycm9yT3JNZXNzYWdlKGVycm9yLCBtZXNzYWdlOiBzdHJpbmcpOiBzdHJpbmcgewogICAgICAgIGlmIChlcnJvci5lcnJvcikgewogICAgICAgICAgICByZXR1cm4gZXJyb3IuZXJyb3I7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcmV0dXJuIG1lc3NhZ2U7CiAgICAgICAgfQogICAgfQoKICAgIHB1YmxpYyBkaXNhYmxlVHdvRmFjdG9yQXV0aGVudGljYXRpb24oKSB7CiAgICAgICAgdGhpcy5vcGVyYXRpb25JblByb2dyZXNzID0gdHJ1ZTsKICAgICAgICB0aGlzLnVzZXJBY2NvdW50U2VydmljZS5kaXNhYmxlVHdvRmFjdG9yQXV0aGVudGljYXRpb24odGhpcy5jdXJyZW50MkZBQ29kZSkuc3Vic2NyaWJlKCgpID0+IHsKICAgICAgICAgICAgICAgIHRoaXMub3BlcmF0aW9uSW5Qcm9ncmVzcyA9IGZhbHNlOwogICAgICAgICAgICAgICAgdGhpcy50d29GYWN0b3JBdXRoZW50aWNhdGlvblN0YXRlID0gJ2Rpc2FibGVkJzsKICAgICAgICAgICAgICAgIHRoaXMuY3VycmVudDJGQUNvZGUgPSBudWxsOwogICAgICAgICAgICAgICAgdGhpcy5vcGVyYXRpb25JblByb2dyZXNzID0gZmFsc2U7CiAgICAgICAgICAgICAgICB0aGlzLnRvYXN0U2VydmljZS5zdWNjZXNzKCcyRkEgZGlzYWJsZWQnKTsKICAgICAgICAgICAgfSwKICAgICAgICAgICAgZXJyb3IgPT4gewogICAgICAgICAgICAgICAgdGhpcy5vcGVyYXRpb25JblByb2dyZXNzID0gZmFsc2U7CiAgICAgICAgICAgICAgICB0aGlzLnRvYXN0U2VydmljZS5kYW5nZXIodGhpcy5zZXJ2ZXJFcnJvck9yTWVzc2FnZShlcnJvciwgJ0NvdWxkIG5vdCBkaXNhYmxlIDJGQScpKTsKICAgICAgICAgICAgfQogICAgICAgICk7CgogICAgfQoKICAgIHB1YmxpYyBlbmFibGVUd29GYWN0b3JBdXRoZW50aWNhdGlvbigpIHsKICAgICAgICB0aGlzLm9wZXJhdGlvbkluUHJvZ3Jlc3MgPSB0cnVlOwogICAgICAgIHRoaXMudXNlckFjY291bnRTZXJ2aWNlLmVuYWJsZVR3b0ZhY3RvckF1dGhlbnRpY2F0aW9uKHRoaXMuY3VycmVudDJGQUNvZGUpLnN1YnNjcmliZSgoKSA9PiB7CiAgICAgICAgICAgICAgICB0aGlzLm9wZXJhdGlvbkluUHJvZ3Jlc3MgPSBmYWxzZTsKICAgICAgICAgICAgICAgIHRoaXMudHdvRmFjdG9yQXV0aGVudGljYXRpb25TdGF0ZSA9ICdlbmFibGVkJzsKICAgICAgICAgICAgICAgIHRoaXMuY3VycmVudDJGQUNvZGUgPSBudWxsOwogICAgICAgICAgICAgICAgdGhpcy50b2FzdFNlcnZpY2Uuc3VjY2VzcygnMkZBIGVuYWJsZWQnKTsKICAgICAgICAgICAgfSwKICAgICAgICAgICAgZXJyb3IgPT4gewogICAgICAgICAgICAgICAgdGhpcy5vcGVyYXRpb25JblByb2dyZXNzID0gZmFsc2U7CiAgICAgICAgICAgICAgICB0aGlzLnRvYXN0U2VydmljZS5kYW5nZXIodGhpcy5zZXJ2ZXJFcnJvck9yTWVzc2FnZShlcnJvciwgJ0NvdWxkIG5vdCBlbmFibGUgMkZBJykpOwogICAgICAgICAgICB9CiAgICAgICAgKTsKICAgIH0KCiAgICBwdWJsaWMgc2hvd0dlbmVyYXRlU2VjcmV0Q29kZVN0ZXAoKSB7CiAgICAgICAgdGhpcy5vcGVyYXRpb25JblByb2dyZXNzID0gdHJ1ZTsKICAgICAgICB0aGlzLnVzZXJBY2NvdW50U2VydmljZS5nZW5lcmF0ZVNlY3JldDJGQUNvZGUoKS5zdWJzY3JpYmUoc2VjcmV0Q29kZSA9PiB7CiAgICAgICAgICAgICAgICB0aGlzLm9wZXJhdGlvbkluUHJvZ3Jlc3MgPSBmYWxzZTsKICAgICAgICAgICAgICAgIHRoaXMuc2VjcmV0MkZBQ29kZSA9IHNlY3JldENvZGU7CiAgICAgICAgICAgICAgICB0aGlzLnNlY3JldDJGQUNvZGVRckNvZGVJbWFnZVVybCA9IHRoaXMuZ2V0R29vZ2xlQ2hhcnRRckNvZGVJbWFnZVVybChzZWNyZXRDb2RlKTsKICAgICAgICAgICAgICAgIHRoaXMudHdvRmFjdG9yQXV0aGVudGljYXRpb25TdGF0ZSA9ICdnZW5lcmF0ZVNlY3JldENvZGUnOwogICAgICAgICAgICB9LAogICAgICAgICAgICBlcnJvciA9PiB7CiAgICAgICAgICAgICAgICB0aGlzLm9wZXJhdGlvbkluUHJvZ3Jlc3MgPSBmYWxzZTsKICAgICAgICAgICAgICAgIHRoaXMudG9hc3RTZXJ2aWNlLmRhbmdlcihlcnJvcik7CiAgICAgICAgICAgIH0KICAgICAgICApOwogICAgfQoKICAgIHB1YmxpYyBjb3B5SW5wdXRUb0NsaXBib2FyZChpbnB1dEVsZW1lbnQpIHsKICAgICAgICBpbnB1dEVsZW1lbnQuc2VsZWN0KCk7CiAgICAgICAgZG9jdW1lbnQuZXhlY0NvbW1hbmQoJ2NvcHknKTsKICAgICAgICBpbnB1dEVsZW1lbnQuc2V0U2VsZWN0aW9uUmFuZ2UoMCwgMCk7CiAgICB9CgogICAgcHJpdmF0ZSBnZXRHb29nbGVDaGFydFFyQ29kZUltYWdlVXJsKHNlY3JldENvZGU6IHN0cmluZykgewogICAgICAgIGNvbnN0IGtleU5hbWUgPSAnQXV0b2NvaW4nOwogICAgICAgIHJldHVybiBgaHR0cHM6Ly9jaGFydC5nb29nbGVhcGlzLmNvbS9jaGFydD9jaHM9MjAweDIwMCZjaHQ9cXImY2hsPTIwMHgyMDAmY2hsZD1NfDAmY2h0PXFyJmNobD1vdHBhdXRoOi8vdG90cC8ke2tleU5hbWV9JTNGc2VjcmV0JTNEJHtzZWNyZXRDb2RlfWA7CiAgICB9Cgp9Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">bG9nZ2VyLmluZm8geyAiUmVxdWVzdGluZyBjdXJyZW5jeSBiYWxhbmNlIGZvciBldmVyeSBleGNoYW5nZSBmb3IgdXNlciAkZXhjaGFuZ2VVc2VySWQiIH0KICAgICAgICB2YWwgdXJsID0gIiR3YWxsZXRBcGlVcmwvd2FsbGV0L2N1cnJlbmN5LWJhbGFuY2VzLyRleGNoYW5nZVVzZXJJZCIKICAgICAgICB2YWwgY3VycmVuY3lCYWxhbmNlc0R0byA9IHJ1bkJsb2NraW5nIHsKICAgICAgICAgICAgYXN5bmMgewogICAgICAgICAgICAgICAgcmVxdWVzdFdpdGhSZXRyeSh1cmwgPSB1cmwpIHsgcmVzdFRlbXBsYXRlLmdldEZvckVudGl0eTxDdXJyZW5jeUJhbGFuY2VzRHRvPih1cmwpIH0KICAgICAgICAgICAgfQogICAgICAgIH0uZ2V0Q29tcGxldGVkKCkKICAgICAgICByZXR1cm4gaWYgKGN1cnJlbmN5QmFsYW5jZXNEdG8uZXJyb3JNZXNzYWdlICE9IG51bGwpIHsKICAgICAgICAgICAgbG9nZ2VyLmVycm9yIHsgIkNvdWxkIG5vdCBnZXQgY3VycmVuY3kgYmFsYW5jZSBmb3IgZXhjaGFuZ2U9JGV4Y2hhbmdlTmFtZSwgZXhjaGFuZ2VVc2VyPSRleGNoYW5nZVVzZXJJZCxlcnJvcj0ke2N1cnJlbmN5QmFsYW5jZXNEdG8uZXJyb3JNZXNzYWdlfSIgfQogICAgICAgICAgICB0aHJvdyBSdW50aW1lRXhjZXB0aW9uKGN1cnJlbmN5QmFsYW5jZXNEdG8uZXJyb3JNZXNzYWdlKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGN1cnJlbmN5QmFsYW5jZXNEdG8udG9DdXJyZW5jeUJhbGFuY2UoKQogICAgICAgIH0=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ewogICAgZnVuIGN1cnJlbmNpZXMoKSA9IGN1cnJlbmN5TWV0YWRhdGEua2V5cwoKICAgIGZ1biBjdXJyZW5jeVBhaXJzKCkgPSBjdXJyZW5jeVBhaXJNZXRhZGF0YS5rZXlzCn0K</text>
+        <text encoding="base64">ICAgICAgICBETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/logger.error(/logger.error {/g</text>
       </register>
     </registers>
     <search>
-      <last-search>logger.error</last-search>
+      <last-search>toIn</last-search>
       <last-offset />
-      <last-pattern>logger.error</last-pattern>
+      <last-pattern>toIn</last-pattern>
       <last-replace>logger.error {</last-replace>
       <last-substitute>logger.error(</last-substitute>
       <last-dir>1</last-dir>
@@ -736,8 +743,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Cutting</entry>
-        <entry>apply</entry>
         <entry>getMini</entry>
         <entry>, exchange</entry>
         <entry>chain</entry>
@@ -756,6 +761,8 @@
         <entry>logger.warn</entry>
         <entry>logger.error(</entry>
         <entry>logger.error</entry>
+        <entry>Int</entry>
+        <entry>toIn</entry>
       </history-search>
       <history-cmd>
         <entry>%s/tradingRecordDoesNotMatterInThisTest/emptyList()/g</entry>
