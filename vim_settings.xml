@@ -211,8 +211,11 @@
       <file name="E:/prj/autocoin-exchange-engine/scripts/install.sh" timestamp="1550411313398">
         <mark key="[" line="6" column="22" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/login/login.component.ts" timestamp="1553815707873">
-        <mark key="[" line="29" column="30" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/login/login.component.ts" timestamp="1553889645357">
+        <mark key="[" line="30" column="62" />
+        <mark key="]" line="34" column="86" />
+        <mark key="^" line="34" column="86" />
+        <mark key="." line="34" column="86" />
       </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/test/kotlin/automate/profit/autocoin/exchange/wallet/AccountServiceTest.kt" timestamp="1552939928915">
         <mark key="[" line="37" column="9" />
@@ -261,10 +264,11 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrderRepository.kt" timestamp="1545505890864">
         <mark key="[" line="13" column="78" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/shared/guard/allow-only-when-should-not-change-password.service.ts" timestamp="1553815886668">
-        <mark key="]" line="6" column="25" />
-        <mark key="^" line="6" column="25" />
-        <mark key="." line="6" column="25" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/shared/guard/allow-only-when-should-not-change-password.service.ts" timestamp="1553889551451">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="88" />
+        <mark key="^" line="13" column="84" />
+        <mark key="." line="13" column="84" />
       </file>
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.10-SNAPSHOT/autocoin-exchange-engine-1.0.10-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/UserExchangeServicesFactory.kt" timestamp="1546988498960">
         <mark key="[" line="44" column="8" />
@@ -317,6 +321,9 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" timestamp="1553638771062" />
       <file name="E:/prj/autocoin-auth-service/scripts/stop.sh" timestamp="1545051522893">
         <mark key="[" line="14" column="6" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/shared/guard/allow-only-not-logged-in-guard.service.ts" timestamp="1553889563280">
+        <mark key="[" line="17" column="50" />
       </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/TickerListenerRegistrar.kt" timestamp="1553361963063">
         <mark key="[" line="14" column="22" />
@@ -420,8 +427,11 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/ExchangeTickerService.kt" timestamp="1550434869507">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/app-routing.module.ts" timestamp="1553816346645">
-        <mark key="[" line="5" column="24" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/app-routing.module.ts" timestamp="1553889471245">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+        <mark key="." line="12" column="12" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/shared/guard/allow-only-logged-in-guard.service.ts" timestamp="1553816045200" />
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/account/AccountController.kt" timestamp="1552169443495">
@@ -836,7 +846,7 @@
         <text>.log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXNlckFjY291bnQgPSB1c2VyQWNjb3VudFJlcG9zaXRvcnkuZmluZEJ5RW1haWxBZGRyZXNzKGVtYWlsQWRkcmVzcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0FsbG93T25seVNob3VsZE5vdENoYW5nZVBhc3N3b3JkR3VhcmQuY2FuQWN0aXZhdGU6IC9zZXR0aW5ncycpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiAodGltZUJhc2VkT25lVGltZVBhc3N3b3JkLnZhbGlkYXRlQ3VycmVudE51bWJlcih1c2VyQWNjb3VudC5zZWNyZXRDb2RlMmZhISEsIHR3b0ZhY3RvckF1dGhlbnRpY2F0aW9uQ29kZSkpIHsK</text>
