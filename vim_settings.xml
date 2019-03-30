@@ -181,6 +181,12 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/test/kotlin/automate/profit/autocoin/ticker/csv/CsvTickerFolderManagerTest.kt" timestamp="1547074147280">
         <mark key="[" line="38" column="110" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/package.json" timestamp="1553937502492">
+        <mark key="'" line="18" column="29" />
+        <mark key="[" line="43" column="30" />
+        <mark key="]" line="43" column="31" />
+        <mark key="." line="43" column="31" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/RunLocal.kt" timestamp="1550340564597">
         <mark key="[" line="6" column="19" />
       </file>
@@ -302,8 +308,10 @@
         <mark key="." line="31" column="31" />
         <mark key="^" line="198" column="157" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/shared/guard/index.ts" timestamp="1553816148853">
+      <file name="E:/prj/autocoin-trader-frontend/src/app/shared/guard/index.ts" timestamp="1553937221407">
         <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/TestExchangeMetadataService.kt" timestamp="1553538437803">
         <mark key="[" line="22" column="49" />
@@ -355,7 +363,7 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/apikey/RestExchangeKeyService.kt" timestamp="1552165289023">
         <mark key="[" line="15" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553816282103">
+      <file name="/Dummy.txt" timestamp="1553937370080">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.component.ts" timestamp="1552842039189">
@@ -427,11 +435,11 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/ExchangeTickerService.kt" timestamp="1550434869507">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/app-routing.module.ts" timestamp="1553889471245">
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="12" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/app-routing.module.ts" timestamp="1553937178777">
+        <mark key="[" line="3" column="79" />
+        <mark key="]" line="3" column="79" />
         <mark key="^" line="12" column="12" />
-        <mark key="." line="12" column="12" />
+        <mark key="." line="3" column="79" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/shared/guard/allow-only-logged-in-guard.service.ts" timestamp="1553816045200" />
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/account/AccountController.kt" timestamp="1552169443495">
@@ -554,8 +562,10 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/currency/CurrencyPair.kt" timestamp="1550427359839">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/app.module.ts" timestamp="1553816107782">
-        <mark key="[" line="43" column="34" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/app.module.ts" timestamp="1553937206805">
+        <mark key="[" line="15" column="79" />
+        <mark key="]" line="15" column="79" />
+        <mark key="." line="15" column="79" />
       </file>
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" timestamp="1553438098068">
         <mark key="'" line="8" column="10" />
@@ -734,8 +744,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
-      <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
       <jump line="51" column="23" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
       <jump line="175" column="26" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
       <jump line="113" column="12" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
@@ -834,16 +842,18 @@
       <jump line="167" column="130" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
       <jump line="168" column="100" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
       <jump line="39" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/services/user-account.service.ts" />
+      <jump line="11" column="22" filename="E:/prj/autocoin-trader-frontend/package.json" />
+      <jump line="18" column="29" filename="E:/prj/autocoin-trader-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>not-</text>
+        <text>when-</text>
       </register>
       <register name="/" type="4">
-        <text>.log</text>
+        <text>7.0.4</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0FsbG93T25seVNob3VsZE5vdENoYW5nZVBhc3N3b3JkR3VhcmQuY2FuQWN0aXZhdGU6IC9zZXR0aW5ncycpOwo=</text>
@@ -876,23 +886,20 @@
         <text encoding="base64">ICAgICAgICBETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/logger.error(/logger.error {/g</text>
+        <text>%s/7.0.4/7.2.11/g</text>
       </register>
     </registers>
     <search>
-      <last-search>.log</last-search>
+      <last-search>7.0.4</last-search>
       <last-offset />
-      <last-pattern>.log</last-pattern>
-      <last-replace>logger.error {</last-replace>
-      <last-substitute>logger.error(</last-substitute>
+      <last-pattern>7.0.4</last-pattern>
+      <last-replace>7.2.11</last-replace>
+      <last-substitute>7.0.4</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>buy</entry>
-        <entry>Ticker for</entry>
-        <entry>completed:</entry>
         <entry>blocking</entry>
         <entry>Ticker for buying</entry>
         <entry>SN</entry>
@@ -910,9 +917,11 @@
         <entry>concole</entry>
         <entry>console</entry>
         <entry>.log</entry>
+        <entry>angular-cli</entry>
+        <entry>core</entry>
+        <entry>7.0.4</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/tradingRecordDoesNotMatterInThisTest/emptyList()/g</entry>
         <entry>%s/\/\/ ok//g</entry>
         <entry>%s/ExchangeBalanceResult/CurrencyBalance/g</entry>
         <entry>%s/userTradeService/tradeService/g</entry>
@@ -932,6 +941,7 @@
         <entry>%s/logger.info(/logger.info {/g</entry>
         <entry>%s/logger.warn(/logger.warn {/g</entry>
         <entry>%s/logger.error(/logger.error {/g</entry>
+        <entry>%s/7.0.4/7.2.11/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
