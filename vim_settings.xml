@@ -106,7 +106,7 @@
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/auth.service.ts" timestamp="1553815796905">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="81" column="15" />
+        <mark key="[" line="80" column="15" />
         <mark key="]" line="28" column="25" />
         <mark key="^" line="28" column="25" />
         <mark key="." line="28" column="25" />
@@ -331,7 +331,12 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" timestamp="1553638771062" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" timestamp="1553943604689">
+        <mark key="'" line="31" column="32" />
+        <mark key="[" line="145" column="23" />
+        <mark key="]" line="31" column="33" />
+        <mark key="." line="31" column="33" />
+      </file>
       <file name="E:/prj/autocoin-auth-service/scripts/stop.sh" timestamp="1545051522893">
         <mark key="[" line="14" column="6" />
       </file>
@@ -374,7 +379,7 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/layout-routing.module.ts" timestamp="1553939964745">
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553940374263">
+      <file name="/Dummy.txt" timestamp="1553943647537">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.component.ts" timestamp="1552842039189">
@@ -400,6 +405,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.12-SNAPSHOT/autocoin-exchange-engine-1.0.12-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" timestamp="1548000709348">
         <mark key="[" line="71" column="0" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/trading-strategies.component.html" timestamp="1553943327197">
+        <mark key="[" line="1" column="57" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/buy-now-parameters/buy-now-parameters.component.ts" timestamp="1553632258186" />
       <file name="/fragment.java" timestamp="1553536514256">
@@ -509,8 +517,10 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1552591946927">
         <mark key="[" line="88" column="234" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/trading-strategies.component.ts" timestamp="1552842332961">
-        <mark key="[" line="10" column="19" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/trading-strategies.component.ts" timestamp="1553943282740">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="42" />
+        <mark key="." line="19" column="42" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" timestamp="1553726599174">
         <mark key="'" line="169" column="100" />
@@ -749,15 +759,14 @@
         <mark key="." line="48" column="47" />
         <mark key="^" line="48" column="47" />
       </file>
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-rest/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadata.kt" timestamp="1553536926542">
+        <mark key="[" line="12" column="1" />
+      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/UserExchangeServicesFactory.kt" timestamp="1546988519947">
         <mark key="[" line="44" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="23" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
-      <jump line="175" column="26" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
-      <jump line="113" column="12" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.ts" />
-      <jump line="4" column="30" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
       <jump line="30" column="24" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
       <jump line="33" column="28" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
       <jump line="38" column="24" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
@@ -854,16 +863,20 @@
       <jump line="39" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/services/user-account.service.ts" />
       <jump line="11" column="22" filename="E:/prj/autocoin-trader-frontend/package.json" />
       <jump line="18" column="29" filename="E:/prj/autocoin-trader-frontend/package.json" />
+      <jump line="149" column="24" filename="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" />
+      <jump line="2" column="17" filename="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" />
+      <jump line="31" column="32" filename="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>createUrlTree([</text>
+        <text>, 'bittrex', 'kucoin'</text>
       </register>
       <register name="/" type="4">
-        <text>7.0.4</text>
+        <text>Users</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0FsbG93T25seVNob3VsZE5vdENoYW5nZVBhc3N3b3JkR3VhcmQuY2FuQWN0aXZhdGU6IC9zZXR0aW5ncycpOwo=</text>
@@ -900,9 +913,9 @@
       </register>
     </registers>
     <search>
-      <last-search>7.0.4</last-search>
+      <last-search>Users</last-search>
       <last-offset />
-      <last-pattern>7.0.4</last-pattern>
+      <last-pattern>Users</last-pattern>
       <last-replace>7.2.11</last-replace>
       <last-substitute>7.0.4</last-substitute>
       <last-dir>1</last-dir>
@@ -910,9 +923,6 @@
     </search>
     <history>
       <history-search>
-        <entry>blocking</entry>
-        <entry>Ticker for buying</entry>
-        <entry>SN</entry>
         <entry>value</entry>
         <entry>h5</entry>
         <entry>is ena</entry>
@@ -930,6 +940,9 @@
         <entry>angular-cli</entry>
         <entry>core</entry>
         <entry>7.0.4</entry>
+        <entry>descri</entry>
+        <entry>Name</entry>
+        <entry>Users</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/\/ ok//g</entry>
