@@ -351,6 +351,10 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="8" column="12" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" timestamp="1557084154570">
+        <mark key="'" line="91" column="27" />
+        <mark key="[" line="47" column="23" />
+      </file>
       <file name="E:/prj/autocoin-auth-service/scripts/stop.sh" timestamp="1545051522893">
         <mark key="[" line="14" column="6" />
       </file>
@@ -700,6 +704,12 @@
         <mark key="^" line="8" column="41" />
         <mark key="." line="8" column="41" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.ts" timestamp="1557083953527">
+        <mark key="[" line="166" column="46" />
+        <mark key="]" line="190" column="11" />
+        <mark key="^" line="194" column="10" />
+        <mark key="." line="190" column="11" />
+      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/peruser/BaseTickerListenerRegistrar.kt" timestamp="1549313237974">
         <mark key="[" line="32" column="11" />
       </file>
@@ -854,7 +864,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="32" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
       <jump line="106" column="98" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
       <jump line="143" column="24" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
       <jump line="167" column="2" filename="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.html" />
@@ -954,16 +963,17 @@
       <jump line="0" column="0" filename="E:/prj/autocoin-puppet/Vagrantfile" />
       <jump line="0" column="0" filename="E:/prj/autocoin-puppet/ubuntu-bionic-18.04-cloudimg-console.log" />
       <jump line="678" column="46" filename="E:/prj/autocoin-puppet/ubuntu-bionic-18.04-cloudimg-console.log" />
+      <jump line="91" column="27" filename="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHYyMDE5MDUwMy4wLjA=</text>
+        <text encoding="base64">Z2V0IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ver</text>
+        <text>buy or sel</text>
       </register>
       <register name="0" type="4">
         <text>20190314.0.0</text>
@@ -1000,9 +1010,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ver</last-search>
+      <last-search>buy or sel</last-search>
       <last-offset />
-      <last-pattern>ver</last-pattern>
+      <last-pattern>buy or sel</last-pattern>
       <last-replace>7.2.11</last-replace>
       <last-substitute>7.0.4</last-substitute>
       <last-dir>1</last-dir>
@@ -1010,7 +1020,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logger.warn(</entry>
         <entry>logger.warn</entry>
         <entry>logger.error(</entry>
         <entry>logger.error</entry>
@@ -1030,6 +1039,7 @@
         <entry>$</entry>
         <entry>userP</entry>
         <entry>ver</entry>
+        <entry>buy or sel</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/\/ ok//g</entry>
