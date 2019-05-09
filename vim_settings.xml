@@ -309,6 +309,13 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/currency/CurrencyPair.kt" timestamp="1552516755035">
         <mark key="[" line="25" column="44" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1557437089837">
+        <mark key="'" line="9" column="50" />
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="29" />
+        <mark key="." line="22" column="29" />
+        <mark key="^" line="22" column="29" />
+      </file>
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/metadata/MetadataController.kt" timestamp="1553537310699">
         <mark key="[" line="16" column="105" />
       </file>
@@ -508,7 +515,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>maxBuyPrice</text>
+        <text>20</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
