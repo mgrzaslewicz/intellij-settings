@@ -69,12 +69,12 @@
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/account/AccountController.kt" timestamp="1552169443495">
         <mark key="[" line="29" column="13" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1558265934121">
-        <mark key="'" line="67" column="76" />
-        <mark key="[" line="103" column="16" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
-        <mark key="^" line="141" column="0" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1558276530532">
+        <mark key="'" line="99" column="8" />
+        <mark key="[" line="107" column="110" />
+        <mark key="]" line="107" column="174" />
+        <mark key="." line="107" column="174" />
+        <mark key="^" line="107" column="174" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/XchangeTickerProvider.kt" timestamp="1546003657899">
         <mark key="[" line="15" column="16" />
@@ -412,8 +412,11 @@
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/config/OAuth2ServerTestConfig.kt" timestamp="1552514015301">
         <mark key="[" line="69" column="0" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/metadata/CurrencyPairMetadataApplier.kt" timestamp="1558274646409">
-        <mark key="[" line="33" column="9" />
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/metadata/CurrencyPairMetadataApplier.kt" timestamp="1558276401850">
+        <mark key="[" line="27" column="99" />
+        <mark key="]" line="27" column="102" />
+        <mark key="^" line="27" column="102" />
+        <mark key="." line="27" column="102" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation-routing.module.ts" timestamp="1552841790822">
         <mark key="[" line="10" column="15" />
@@ -456,7 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="55" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/wallet/ExchangeCurrencyPairsInWalletService.kt" />
       <jump line="19" column="11" filename="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api/1.0.9/autocoin-exchange-api-1.0.9-sources.jar!/automate/profit/autocoin/exchange/metadata/ExchangeMetadata.kt" />
       <jump line="75" column="23" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" />
       <jump line="116" column="24" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" />
@@ -556,16 +558,17 @@
       <jump line="68" column="76" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="40" column="52" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/test/kotlin/automate/profit/autocoin/exchange/metadata/CurrencyPairMetadataApplierTest.kt" />
       <jump line="40" column="11" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadata.kt" />
+      <jump line="99" column="8" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>Buy</text>
+        <text>buy</text>
       </register>
       <register name="/" type="4">
-        <text>Big</text>
+        <text>Placing</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnVuIGdldEJ1eUZlZU11bHRpcGxpZXIoc3VwcG9ydGVkRXhjaGFuZ2U6IFN1cHBvcnRlZEV4Y2hhbmdlKTogQmlnRGVjaW1hbCB7CiAgICByZXR1cm4gd2hlbiAoc3VwcG9ydGVkRXhjaGFuZ2UpIHsKICAgICAgICBCSVRUUkVYIC0+IEJpZ0RlY2ltYWwoIjAuMDAyNSIpCiAgICAgICAgZWxzZSAtPiBCaWdEZWNpbWFsLlpFUk8KICAgIH0KfQo=</text>
@@ -602,9 +605,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Big</last-search>
+      <last-search>Placing</last-search>
       <last-offset />
-      <last-pattern>Big</last-pattern>
+      <last-pattern>Placing</last-pattern>
       <last-replace>adjustAmount</last-replace>
       <last-substitute>adjustSellAmount</last-substitute>
       <last-dir>1</last-dir>
@@ -612,7 +615,6 @@
     </search>
     <history>
       <history-search>
-        <entry>concole</entry>
         <entry>console</entry>
         <entry>.log</entry>
         <entry>angular-cli</entry>
@@ -632,6 +634,7 @@
         <entry>for health order</entry>
         <entry>adjustSellAmount</entry>
         <entry>Big</entry>
+        <entry>Placing</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ExchangeBalanceResult/CurrencyBalance/g</entry>
