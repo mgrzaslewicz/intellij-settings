@@ -590,7 +590,7 @@
         <text>-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
-        <text>adjust</text>
+        <text>ApiKey</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnVuIGdldEJ1eUZlZU11bHRpcGxpZXIoc3VwcG9ydGVkRXhjaGFuZ2U6IFN1cHBvcnRlZEV4Y2hhbmdlKTogQmlnRGVjaW1hbCB7CiAgICByZXR1cm4gd2hlbiAoc3VwcG9ydGVkRXhjaGFuZ2UpIHsKICAgICAgICBCSVRUUkVYIC0+IEJpZ0RlY2ltYWwoIjAuMDAyNSIpCiAgICAgICAgZWxzZSAtPiBCaWdEZWNpbWFsLlpFUk8KICAgIH0KfQo=</text>
@@ -627,9 +627,9 @@
       </register>
     </registers>
     <search>
-      <last-search>adjust</last-search>
+      <last-search>ApiKey</last-search>
       <last-offset />
-      <last-pattern>adjust</last-pattern>
+      <last-pattern>ApiKey</last-pattern>
       <last-replace>adjustAmount</last-replace>
       <last-substitute>adjustSellAmount</last-substitute>
       <last-dir>1</last-dir>
@@ -637,7 +637,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.log</entry>
         <entry>angular-cli</entry>
         <entry>core</entry>
         <entry>7.0.4</entry>
@@ -657,6 +656,7 @@
         <entry>Big</entry>
         <entry>Placing</entry>
         <entry>adjust</entry>
+        <entry>ApiKey</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ExchangeBalanceResult/CurrencyBalance/g</entry>
