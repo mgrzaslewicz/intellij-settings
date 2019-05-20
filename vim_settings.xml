@@ -90,6 +90,13 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/XchangeTickerProvider.kt" timestamp="1546003657899">
         <mark key="[" line="15" column="16" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api-xchange/1.0.14/autocoin-exchange-api-xchange-1.0.14-sources.jar!/automate/profit/autocoin/exchange/peruser/UserExchangeServicesFactory.kt" timestamp="1558366848038">
+        <mark key="'" line="277" column="37" />
+        <mark key="[" line="277" column="38" />
+        <mark key="]" line="277" column="37" />
+        <mark key="^" line="277" column="37" />
+        <mark key="." line="277" column="37" />
+      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/utils/MockMarketDataService.kt" timestamp="1547072425420">
         <mark key="[" line="2" column="46" />
       </file>
@@ -481,7 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="24" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" />
       <jump line="38" column="7" filename="E:/prj/autocoin-exchange-mediator/src/main/resources/application.yml" />
       <jump line="0" column="0" filename="E:/prj/autocoin-exchange-mediator/src/main/resources/application.yml" />
       <jump line="8" column="2" filename="E:/prj/autocoin-exchange-mediator/src/main/resources/application.yml" />
@@ -581,6 +587,7 @@
       <jump line="99" column="8" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="78" column="59" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" />
+      <jump line="277" column="37" filename="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api-xchange/1.0.14/autocoin-exchange-api-xchange-1.0.14-sources.jar!/automate/profit/autocoin/exchange/peruser/UserExchangeServicesFactory.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
