@@ -18,8 +18,8 @@
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.4/autocoin-exchange-engine-1.0.4-sources.jar!/automate/profit/autocoin/exchange/AutocoinExchange.kt" timestamp="1545988851644">
         <mark key="[" line="47" column="8" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/pom.xml" timestamp="1558373988245">
-        <mark key="'" line="204" column="50" />
+      <file name="E:/prj/autocoin-auth-service/pom.xml" timestamp="1558378095612">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWithTrailingStopStrategyProvider.kt" timestamp="1545341870849">
         <mark key="[" line="19" column="4" />
@@ -56,8 +56,11 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/ExchangeTickerService.kt" timestamp="1550434869507">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" timestamp="1553952864888">
-        <mark key="[" line="71" column="69" />
+      <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/exchange/ExchangeControllerTest.kt" timestamp="1558378412870">
+        <mark key="[" line="437" column="93" />
+        <mark key="]" line="437" column="93" />
+        <mark key="^" line="437" column="93" />
+        <mark key="." line="437" column="93" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/key/ExchangeKeyDto.kt" timestamp="1545995984715">
         <mark key="[" line="1" column="0" />
@@ -175,11 +178,11 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-rest/src/main/kotlin/automate/profit/autocoin/currency/CurrencyBalancesDto.kt" timestamp="1552590428624">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeRepository.kt" timestamp="1558376090298">
-        <mark key="[" line="59" column="53" />
-        <mark key="]" line="73" column="19" />
-        <mark key="^" line="73" column="19" />
-        <mark key="." line="73" column="19" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeRepository.kt" timestamp="1558378078300">
+        <mark key="[" line="75" column="73" />
+        <mark key="]" line="75" column="79" />
+        <mark key="^" line="75" column="79" />
+        <mark key="." line="75" column="79" />
       </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/currency/CurrencyBalance.kt" timestamp="1550411701333">
         <mark key="[" line="4" column="22" />
@@ -214,7 +217,8 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/test/kotlin/automate/profit/autocoin/ticker/csv/CsvTickerFolderManagerTest.kt" timestamp="1547074147280">
         <mark key="[" line="38" column="110" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1558376157802">
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1558378202737">
+        <mark key="'" line="37" column="72" />
         <mark key="[" line="20" column="29" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/TestExchangeMetadataProvider.kt" timestamp="1545926465665">
@@ -421,10 +425,7 @@
         <mark key="[" line="10" column="15" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeKeyService.kt" timestamp="1558374110201">
-        <mark key="[" line="10" column="83" />
-        <mark key="]" line="6" column="51" />
-        <mark key="^" line="6" column="51" />
-        <mark key="." line="6" column="51" />
+        <mark key="[" line="9" column="83" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/OrderStatusAttributeConverter.kt" timestamp="1552165850134">
         <mark key="[" line="9" column="54" />
@@ -461,8 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/prj/autocoin-exchange-mediator/src/main/resources/application.yml" />
-      <jump line="8" column="2" filename="E:/prj/autocoin-exchange-mediator/src/main/resources/application.yml" />
       <jump line="19" column="0" filename="E:/prj/autocoin-exchange-mediator/pom.xml" />
       <jump line="5" column="10" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangeHealth.kt" />
       <jump line="72" column="0" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
@@ -561,13 +560,15 @@
       <jump line="0" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/calculator/OrderAmountCalculator.kt" />
       <jump line="277" column="37" filename="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api-xchange/1.0.14/autocoin-exchange-api-xchange-1.0.14-sources.jar!/automate/profit/autocoin/exchange/peruser/UserExchangeServicesFactory.kt" />
       <jump line="204" column="50" filename="E:/prj/autocoin-auth-service/pom.xml" />
+      <jump line="37" column="72" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-auth-service/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>-SNAPSHOT</text>
+        <text encoding="base64">TWFwPFN0cmluZywgU3RyaW5nPjo6Y2xhc3MuamF2YQ==</text>
       </register>
       <register name="/" type="4">
         <text>ApiKey</text>
