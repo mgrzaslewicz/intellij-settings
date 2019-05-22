@@ -102,6 +102,10 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/XchangeTickerProvider.kt" timestamp="1546003657899">
         <mark key="[" line="15" column="16" />
       </file>
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/UserAccountTokenEnhancer.kt" timestamp="1558556841627">
+        <mark key="'" line="11" column="29" />
+        <mark key="[" line="13" column="115" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-bittrex/4.3.18/xchange-bittrex-4.3.18-sources.jar!/org/knowm/xchange/bittrex/BittrexExchange.java" timestamp="1558197645705" />
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api-xchange/1.0.14/autocoin-exchange-api-xchange-1.0.14-sources.jar!/automate/profit/autocoin/exchange/peruser/UserExchangeServicesFactory.kt" timestamp="1558366848038">
         <mark key="'" line="277" column="37" />
@@ -279,12 +283,12 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/test/kotlin/automate/profit/autocoin/ticker/csv/CsvTickerFolderManagerTest.kt" timestamp="1547074147280">
         <mark key="[" line="38" column="110" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1558474745474">
-        <mark key="'" line="37" column="72" />
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="37" column="62" />
+      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1558557276593">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="203" column="43" />
+        <mark key="]" line="203" column="43" />
         <mark key="^" line="37" column="62" />
-        <mark key="." line="37" column="62" />
+        <mark key="." line="203" column="43" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/TestExchangeMetadataProvider.kt" timestamp="1545926465665">
         <mark key="[" line="5" column="0" />
@@ -505,7 +509,7 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/layout-routing.module.ts" timestamp="1553939964745">
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558555970160">
+      <file name="/Dummy.txt" timestamp="1558556919716">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/Oauth2TokenClient.kt" timestamp="1553945061012">
@@ -584,8 +588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
-      <jump line="181" column="35" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="54" column="0" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="3" column="0" filename="E:/prj/autocoin-exchange-mediator/src/test/resources/health-exchange-keys/dummy-exchange-health-keys.properties" />
       <jump line="150" column="12" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
@@ -684,13 +686,15 @@
       <jump line="46" column="0" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/peruser/UserExchangeServicesFactory.kt" />
       <jump line="17" column="4" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadata.kt" />
       <jump line="33" column="48" filename="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api-xchange/1.0.15-SNAPSHOT/autocoin-exchange-api-xchange-1.0.15-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/metadata/ExchangeMetadata.kt" />
+      <jump line="11" column="29" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/UserAccountTokenEnhancer.kt" />
+      <jump line="108" column="0" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>-SNAPSHOT</text>
+        <text encoding="base64">ZXhpc3RlbmNlIA==</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
