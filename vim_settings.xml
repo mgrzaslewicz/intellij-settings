@@ -432,6 +432,12 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/shared/guard/auth.guard.ts" timestamp="1553815125797">
         <mark key="[" line="6" column="13" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/exchange-key-capability.service.ts" timestamp="1558551081458">
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="10" column="39" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="10" column="39" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-edit/exchange-user-edit.component.ts" timestamp="1558547452241">
         <mark key="]" line="105" column="94" />
         <mark key="^" line="105" column="94" />
@@ -494,7 +500,7 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/layout-routing.module.ts" timestamp="1553939964745">
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558550443597">
+      <file name="/Dummy.txt" timestamp="1558550723980">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/Oauth2TokenClient.kt" timestamp="1553945061012">
@@ -686,7 +692,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>'https://users-apiv2.autocoin-trader.com/oauth/</text>
+        <text>s://orders-api.autocoin-trader.com</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
