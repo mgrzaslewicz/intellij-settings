@@ -384,6 +384,11 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/ExchangeTickerService.kt" timestamp="1550434869507">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/price.service.ts" timestamp="1558721184354">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+      </file>
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/account/AccountController.kt" timestamp="1552169443495">
         <mark key="[" line="29" column="13" />
       </file>
@@ -543,6 +548,11 @@
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/CorsConfig.kt" timestamp="1558549655130" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/sell-when-second-currency-grows-parameters/sell-when-second-currency-grows-parameters.component.html" timestamp="1557347423600">
         <mark key="[" line="19" column="23" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/exchange-wallet.service.ts" timestamp="1558720784861">
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="10" column="43" />
+        <mark key="." line="10" column="43" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderPriceCalculatorTest.kt" timestamp="1558280118832">
         <mark key="[" line="29" column="59" />
@@ -743,7 +753,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>orders-api.autocoin-trader.com</text>
       </register>
       <register name="/" type="4">
         <text>RequestFa</text>
