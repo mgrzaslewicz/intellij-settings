@@ -6,7 +6,8 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.component.html" timestamp="1552841760709">
         <mark key="[" line="8" column="78" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/exchangekey/RestExchangeService.kt" timestamp="1558648699285">
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/exchangekey/RestExchangeService.kt" timestamp="1558980796485">
+        <mark key="[" line="27" column="13" />
         <mark key="^" line="29" column="5" />
       </file>
       <file name="/a.dummy" timestamp="1553809904567">
@@ -132,7 +133,7 @@
         <mark key="^" line="18" column="25" />
         <mark key="." line="18" column="26" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1558797722003">
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1558982322132">
         <mark key="[" line="32" column="34" />
         <mark key="]" line="32" column="34" />
         <mark key="^" line="32" column="34" />
@@ -188,11 +189,15 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/settings/settings.module.ts" timestamp="1553632214033">
         <mark key="[" line="18" column="70" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE-sources.jar!/org/springframework/web/context/request/RequestContextListener.java" timestamp="1558983105966" />
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.8/autocoin-exchange-engine-1.0.8-sources.jar!/automate/profit/autocoin/exchange/AutocoinTradeService.kt" timestamp="1546797728808">
         <mark key="[" line="50" column="46" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/BaseTickerListenerRegistrarFactoryTest.kt" timestamp="1546005810394">
         <mark key="[" line="9" column="24" />
+      </file>
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/RequestContextListener.kt" timestamp="1558982808574">
+        <mark key="[" line="7" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderAmountCalculatorTest.kt" timestamp="1558280104704">
         <mark key="[" line="48" column="75" />
@@ -321,12 +326,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.4/autocoin-exchange-engine-1.0.4-sources.jar!/automate/profit/autocoin/exchange/AutocoinExchange.kt" timestamp="1545988851644">
         <mark key="[" line="47" column="8" />
-      </file>
-      <file name="E:/prj/autocoin-auth-service/pom.xml" timestamp="1558641475247">
-        <mark key="'" line="3" column="18" />
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="16" column="22" />
-        <mark key="." line="16" column="22" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWithTrailingStopStrategyProvider.kt" timestamp="1545341870849">
         <mark key="[" line="19" column="4" />
@@ -713,7 +712,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>orders-api.autocoin-trader.com</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>RequestFa</text>
