@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="copy" type="PLAIN_TEXT" />
       <mapping ext="tab" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
