@@ -342,7 +342,13 @@
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/account/AccountController.kt" timestamp="1552169443495">
         <mark key="[" line="29" column="13" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1559070074737" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" timestamp="1559154158940">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="115" column="173" />
+        <mark key="]" line="115" column="173" />
+        <mark key="^" line="115" column="141" />
+        <mark key="." line="115" column="178" />
+      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/XchangeTickerProvider.kt" timestamp="1546003657899">
         <mark key="[" line="15" column="16" />
       </file>
@@ -582,7 +588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="6" filename="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api/1.0.10/autocoin-exchange-api-1.0.10-sources.jar!/automate/profit/autocoin/exchange/metadata/CurrencyPairMetadataApplier.kt" />
       <jump line="98" column="0" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="122" column="17" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="124" column="49" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
@@ -653,7 +658,6 @@
       <jump line="13" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWhenSecondCurrencyGrowsStrategyProvider.kt" />
       <jump line="23" column="0" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="53" column="45" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
-      <jump line="0" column="0" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="68" column="76" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="40" column="52" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/test/kotlin/automate/profit/autocoin/exchange/metadata/CurrencyPairMetadataApplierTest.kt" />
       <jump line="40" column="11" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadata.kt" />
@@ -682,16 +686,18 @@
       <jump line="14" column="21" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
       <jump line="18" column="53" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="14" column="25" filename="E:/prj/autocoin-exchange-engine/pom.xml" />
+      <jump line="85" column="8" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Selling</text>
       </register>
       <register name="/" type="4">
-        <text>target</text>
+        <text>Creating buy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIGxhdGVpbml0IHZhciB1c2VyRXhjaGFuZ2VTZXJ2aWNlc0ZhY3Rvcnk6IFVzZXJFeGNoYW5nZVNlcnZpY2VzRmFjdG9yeQo=</text>
@@ -728,9 +734,9 @@
       </register>
     </registers>
     <search>
-      <last-search>target</last-search>
+      <last-search>Creating buy</last-search>
       <last-offset />
-      <last-pattern>target</last-pattern>
+      <last-pattern>Creating buy</last-pattern>
       <last-replace>adjustAmount</last-replace>
       <last-substitute>adjustSellAmount</last-substitute>
       <last-dir>1</last-dir>
@@ -738,7 +744,6 @@
     </search>
     <history>
       <history-search>
-        <entry>$</entry>
         <entry>userP</entry>
         <entry>ver</entry>
         <entry>buy or sel</entry>
@@ -758,6 +763,7 @@
         <entry>15</entry>
         <entry>getOpenOrder</entry>
         <entry>target</entry>
+        <entry>Creating buy</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ExchangeBalanceResult/CurrencyBalance/g</entry>
