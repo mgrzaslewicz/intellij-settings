@@ -89,8 +89,10 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/utils/MockTickerGenerationStrategyConstant.kt" timestamp="1547072229709">
         <mark key="[" line="2" column="46" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataProvider.kt" timestamp="1559333675783">
-        <mark key="[" line="4" column="0" />
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataProvider.kt" timestamp="1559333983814">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/api/account/AccountController.kt" timestamp="1547999999419">
         <mark key="[" line="44" column="46" />
@@ -265,6 +267,12 @@
         <mark key="^" line="8" column="62" />
         <mark key="." line="8" column="62" />
       </file>
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataFile.kt" timestamp="1559334444432">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+      </file>
       <file name="/fragment.ts" timestamp="1553640465238">
         <mark key="[" line="0" column="0" />
       </file>
@@ -364,6 +372,11 @@
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrder.kt" timestamp="1546903254871">
         <mark key="[" line="44" column="68" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellNowStrategyProvider.kt" timestamp="1557346772686">
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="24" column="39" />
+        <mark key="." line="24" column="39" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyExecution.kt" timestamp="1558375946895" />
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/peruser/ExchangeKeyVerifier.java" timestamp="1558468756629">
@@ -484,6 +497,11 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/login/login.component.scss" timestamp="1557255000778">
         <mark key="[" line="108" column="5" />
       </file>
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-rest/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataDto.kt" timestamp="1558279212837">
+        <mark key="[" line="22" column="62" />
+        <mark key="]" line="22" column="62" />
+        <mark key="." line="22" column="62" />
+      </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/pom.xml" timestamp="1550437075831">
         <mark key="[" line="50" column="21" />
       </file>
@@ -551,11 +569,11 @@
       </file>
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/CorsConfig.kt" timestamp="1558549655130" />
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api-xchange/1.0.18-SNAPSHOT/autocoin-exchange-api-xchange-1.0.18-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/wallet/XchangeExchangeWalletService.kt" timestamp="1559066881672" />
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataFileProducer.kt" timestamp="1559333748466">
-        <mark key="[" line="10" column="60" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="6" column="2" />
-        <mark key="." line="11" column="0" />
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataFileProducer.kt" timestamp="1559334050354">
+        <mark key="[" line="11" column="49" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/sell-when-second-currency-grows-parameters/sell-when-second-currency-grows-parameters.component.html" timestamp="1557347423600">
         <mark key="[" line="19" column="23" />
@@ -602,11 +620,11 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/shared/guard/allow-only-not-logged-in.guard.spec.ts" timestamp="1553816198822">
         <mark key="[" line="2" column="54" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/test/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataProviderTest.kt" timestamp="1559333673914">
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="23" column="12" />
-        <mark key="." line="23" column="12" />
-        <mark key="^" line="29" column="51" />
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/test/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataProviderTest.kt" timestamp="1559334612045">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="12" />
+        <mark key="." line="28" column="12" />
+        <mark key="^" line="34" column="51" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/BaseStrategyOrderService.kt" timestamp="1545506107719">
         <mark key="[" line="35" column="49" />
@@ -762,7 +780,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>Path</text>
       </register>
       <register name="/" type="4">
         <text>markets</text>
@@ -771,31 +789,31 @@
         <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIGxhdGVpbml0IHZhciB1c2VyRXhjaGFuZ2VTZXJ2aWNlc0ZhY3Rvcnk6IFVzZXJFeGNoYW5nZVNlcnZpY2VzRmFjdG9yeQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBmZXRjaEV4Y2hhbmdlTWV0YWRhdGFUb0ZpbGUoKSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgZnVuIHNob3VsZENyZWF0ZVRpY2tlckxpc3RlbmVyUmVnaXN0cmFyRnJvbVZhbGlkTmFtZSgpIHsKICAgICAgICAvLyB3aGVuCiAgICAgICAgdmFsIGF1dG9jb2luRXhjaGFuZ2UgPSB1c2VyRXhjaGFuZ2VTZXJ2aWNlc0ZhY3RvcnkuY3JlYXRlVGlja2VyTGlzdGVuZXJSZWdpc3RyYXIoQklUVFJFWC5leGNoYW5nZU5hbWUpCiAgICAgICAgLy8gdGhlbgogICAgICAgIGFzc2VydFRoYXQoYXV0b2NvaW5FeGNoYW5nZSkuaXNOb3ROdWxsCiAgICB9CgogICAgQFRlc3QKICAgIGZ1biBzaG91bGRUaHJvd1doZW5DcmVhdGVUaWNrZXJMaXN0ZW5lclJlZ2lzdHJhckZyb21JbnZhbGlkTmFtZSgpIHsKICAgICAgICAvLyBnaXZlbgogICAgICAgIHZhbCBpbnZhbGlkRXhjaGFuZ2VOYW1lID0gImludmFsaWROYW1lIgogICAgICAgIGFzc2VydEZhaWxzV2l0aChSdW50aW1lRXhjZXB0aW9uOjpjbGFzcykgewogICAgICAgICAgICAvLyB3aGVuCiAgICAgICAgICAgIHVzZXJFeGNoYW5nZVNlcnZpY2VzRmFjdG9yeS5jcmVhdGVUaWNrZXJMaXN0ZW5lclJlZ2lzdHJhcihpbnZhbGlkRXhjaGFuZ2VOYW1lKQogICAgICAgIH0KICAgIH0KCiAgICBAVGVzdAogICAgZnVuIHNob3VsZFJldHVybkNhY2hlZEF1dG9jb2luRXhjaGFuZ2VXaGVuVXNpbmdOb0FwaUtleXMoKSB7CiAgICAgICAgLy8gd2hlbgogICAgICAgIHVzZXJFeGNoYW5nZVNlcnZpY2VzRmFjdG9yeS5jcmVhdGVUaWNrZXJMaXN0ZW5lclJlZ2lzdHJhcihCSVRUUkVYLmV4Y2hhbmdlTmFtZSkKICAgICAgICB1c2VyRXhjaGFuZ2VTZXJ2aWNlc0ZhY3RvcnkuY3JlYXRlVGlja2VyTGlzdGVuZXJSZWdpc3RyYXIoQklUVFJFWC5leGNoYW5nZU5hbWUpCiAgICAgICAgLy8gdGhlbgogICAgICAgIHZlcmlmeSh4Y2hhbmdlRmFjdG9yeSwgdGltZXMoMSkpLmNyZWF0ZUV4Y2hhbmdlKGFueSgpKQogICAgfQoKICAgIEBUZXN0CiAgICBmdW4gc2hvdWxkTm90VXNlQ2FjaGVkWGNoYW5nZUZhY3RvcnlXaGVuVXNpbmdOb0FwaUtleXNBbmQyRGlmZmVyZW50RXhjaGFuZ2VzKCkgewogICAgICAgIC8vIHdoZW4KICAgICAgICB1c2VyRXhjaGFuZ2VTZXJ2aWNlc0ZhY3RvcnkuY3JlYXRlVGlja2VyTGlzdGVuZXJSZWdpc3RyYXIoQklUVFJFWC5leGNoYW5nZU5hbWUpCiAgICAgICAgdXNlckV4Y2hhbmdlU2VydmljZXNGYWN0b3J5LmNyZWF0ZVRpY2tlckxpc3RlbmVyUmVnaXN0cmFyKEJJTkFOQ0UuZXhjaGFuZ2VOYW1lKQogICAgICAgIC8vIHRoZW4KICAgICAgICB2ZXJpZnkoeGNoYW5nZUZhY3RvcnksIHRpbWVzKDIpKS5jcmVhdGVFeGNoYW5nZShhbnkoKSkKICAgIH0KCiAgICBAVGVzdAogICAgZnVuIHNob3VsZFJldHVybk1ldGFkYXRhUHJvdmlkZXIoKSB7CiAgICAgICAgLy8gd2hlbgogICAgICAgIHVzZXJFeGNoYW5nZVNlcnZpY2VzRmFjdG9yeS5jcmVhdGVNZXRhZGF0YVByb3ZpZGVyKEJJVFRSRVguZXhjaGFuZ2VOYW1lKQogICAgICAgIC8vIHRoZW4KICAgICAgICB2ZXJpZnkoeGNoYW5nZUZhY3RvcnksIHRpbWVzKDEpKS5jcmVhdGVFeGNoYW5nZShhbnkoKSkKICAgIH0KCiAgICBAVGVzdAogICAgZnVuIHNob3VsZFVzZUNhY2hlZFhjaGFuZ2VGYWN0b3J5V2hlblVzaW5nS2V5cygpIHsKICAgICAgICAvLyB3aGVuCiAgICAgICAgdXNlckV4Y2hhbmdlU2VydmljZXNGYWN0b3J5LmNyZWF0ZVRyYWRlU2VydmljZShCSVRUUkVYLmV4Y2hhbmdlTmFtZSwgInB1YmxpYy1rZXkiLCAic2VjcmV0LWtleSIsIG51bGwsIGVtcHR5TWFwKCkpCiAgICAgICAgdXNlckV4Y2hhbmdlU2VydmljZXNGYWN0b3J5LmNyZWF0ZVRyYWRlU2VydmljZShCSVRUUkVYLmV4Y2hhbmdlTmFtZSwgInB1YmxpYy1rZXkiLCAic2VjcmV0LWtleSIsIG51bGwsIGVtcHR5TWFwKCkpCiAgICAgICAgLy8gdGhlbgogICAgICAgIHZlcmlmeSh4Y2hhbmdlRmFjdG9yeSwgdGltZXMoMSkpLmNyZWF0ZUV4Y2hhbmdlKGFueSgpKQogICAgfQoKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgS1VDT0lOLAo=</text>
+        <text encoding="base64">ICAgIGZ1biBnZXRFeGNoYW5nZU1ldGFkYXRhKHN1cHBvcnRlZEV4Y2hhbmdlOiBTdXBwb3J0ZWRFeGNoYW5nZSkgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgS1VDT0lOLAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgS1VDT0lOLAo=</text>
+        <text encoding="base64">ICAgICAgICBPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aWNrZXJDb250cm9sbGVyLmdldFRpY2tlcihrZXkuZXhjaGFuZ2VOYW1lLCBrZXkuKQo=</text>
+        <text encoding="base64">CiAgICBAVGVzdAogICAgZnVuIHNob3VsZENyZWF0ZVRpY2tlckxpc3RlbmVyUmVnaXN0cmFyRnJvbVZhbGlkTmFtZSgpIHsKICAgICAgICAvLyB3aGVuCiAgICAgICAgdmFsIGF1dG9jb2luRXhjaGFuZ2UgPSB1c2VyRXhjaGFuZ2VTZXJ2aWNlc0ZhY3RvcnkuY3JlYXRlVGlja2VyTGlzdGVuZXJSZWdpc3RyYXIoQklUVFJFWC5leGNoYW5nZU5hbWUpCiAgICAgICAgLy8gdGhlbgogICAgICAgIGFzc2VydFRoYXQoYXV0b2NvaW5FeGNoYW5nZSkuaXNOb3ROdWxsCiAgICB9CgogICAgQFRlc3QKICAgIGZ1biBzaG91bGRUaHJvd1doZW5DcmVhdGVUaWNrZXJMaXN0ZW5lclJlZ2lzdHJhckZyb21JbnZhbGlkTmFtZSgpIHsKICAgICAgICAvLyBnaXZlbgogICAgICAgIHZhbCBpbnZhbGlkRXhjaGFuZ2VOYW1lID0gImludmFsaWROYW1lIgogICAgICAgIGFzc2VydEZhaWxzV2l0aChSdW50aW1lRXhjZXB0aW9uOjpjbGFzcykgewogICAgICAgICAgICAvLyB3aGVuCiAgICAgICAgICAgIHVzZXJFeGNoYW5nZVNlcnZpY2VzRmFjdG9yeS5jcmVhdGVUaWNrZXJMaXN0ZW5lclJlZ2lzdHJhcihpbnZhbGlkRXhjaGFuZ2VOYW1lKQogICAgICAgIH0KICAgIH0KCiAgICBAVGVzdAogICAgZnVuIHNob3VsZFJldHVybkNhY2hlZEF1dG9jb2luRXhjaGFuZ2VXaGVuVXNpbmdOb0FwaUtleXMoKSB7CiAgICAgICAgLy8gd2hlbgogICAgICAgIHVzZXJFeGNoYW5nZVNlcnZpY2VzRmFjdG9yeS5jcmVhdGVUaWNrZXJMaXN0ZW5lclJlZ2lzdHJhcihCSVRUUkVYLmV4Y2hhbmdlTmFtZSkKICAgICAgICB1c2VyRXhjaGFuZ2VTZXJ2aWNlc0ZhY3RvcnkuY3JlYXRlVGlja2VyTGlzdGVuZXJSZWdpc3RyYXIoQklUVFJFWC5leGNoYW5nZU5hbWUpCiAgICAgICAgLy8gdGhlbgogICAgICAgIHZlcmlmeSh4Y2hhbmdlRmFjdG9yeSwgdGltZXMoMSkpLmNyZWF0ZUV4Y2hhbmdlKGFueSgpKQogICAgfQoKICAgIEBUZXN0CiAgICBmdW4gc2hvdWxkTm90VXNlQ2FjaGVkWGNoYW5nZUZhY3RvcnlXaGVuVXNpbmdOb0FwaUtleXNBbmQyRGlmZmVyZW50RXhjaGFuZ2VzKCkgewogICAgICAgIC8vIHdoZW4KICAgICAgICB1c2VyRXhjaGFuZ2VTZXJ2aWNlc0ZhY3RvcnkuY3JlYXRlVGlja2VyTGlzdGVuZXJSZWdpc3RyYXIoQklUVFJFWC5leGNoYW5nZU5hbWUpCiAgICAgICAgdXNlckV4Y2hhbmdlU2VydmljZXNGYWN0b3J5LmNyZWF0ZVRpY2tlckxpc3RlbmVyUmVnaXN0cmFyKEJJTkFOQ0UuZXhjaGFuZ2VOYW1lKQogICAgICAgIC8vIHRoZW4KICAgICAgICB2ZXJpZnkoeGNoYW5nZUZhY3RvcnksIHRpbWVzKDIpKS5jcmVhdGVFeGNoYW5nZShhbnkoKSkKICAgIH0KCiAgICBAVGVzdAogICAgZnVuIHNob3VsZFJldHVybk1ldGFkYXRhUHJvdmlkZXIoKSB7CiAgICAgICAgLy8gd2hlbgogICAgICAgIHVzZXJFeGNoYW5nZVNlcnZpY2VzRmFjdG9yeS5jcmVhdGVNZXRhZGF0YVByb3ZpZGVyKEJJVFRSRVguZXhjaGFuZ2VOYW1lKQogICAgICAgIC8vIHRoZW4KICAgICAgICB2ZXJpZnkoeGNoYW5nZUZhY3RvcnksIHRpbWVzKDEpKS5jcmVhdGVFeGNoYW5nZShhbnkoKSkKICAgIH0KCiAgICBAVGVzdAogICAgZnVuIHNob3VsZFVzZUNhY2hlZFhjaGFuZ2VGYWN0b3J5V2hlblVzaW5nS2V5cygpIHsKICAgICAgICAvLyB3aGVuCiAgICAgICAgdXNlckV4Y2hhbmdlU2VydmljZXNGYWN0b3J5LmNyZWF0ZVRyYWRlU2VydmljZShCSVRUUkVYLmV4Y2hhbmdlTmFtZSwgInB1YmxpYy1rZXkiLCAic2VjcmV0LWtleSIsIG51bGwsIGVtcHR5TWFwKCkpCiAgICAgICAgdXNlckV4Y2hhbmdlU2VydmljZXNGYWN0b3J5LmNyZWF0ZVRyYWRlU2VydmljZShCSVRUUkVYLmV4Y2hhbmdlTmFtZSwgInB1YmxpYy1rZXkiLCAic2VjcmV0LWtleSIsIG51bGwsIGVtcHR5TWFwKCkpCiAgICAgICAgLy8gdGhlbgogICAgICAgIHZlcmlmeSh4Y2hhbmdlRmFjdG9yeSwgdGltZXMoMSkpLmNyZWF0ZUV4Y2hhbmdlKGFueSgpKQogICAgfQoKfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIG9yZGVyU2VydmljZTogVXNlckV4Y2hhbmdlU2VydmljZXNGYWN0b3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgS1VDT0lOLAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>'https://users-apiv2.autocoin-trader.com/oauth/</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgS1VDT0lOLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/adjustSellAmount/adjustAmount/g</text>
