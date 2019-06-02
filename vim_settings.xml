@@ -24,6 +24,9 @@
         <mark key="." line="114" column="40" />
         <mark key="^" line="114" column="40" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api/1.0.15-SNAPSHOT/autocoin-exchange-api-1.0.15-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/metadata/ExchangeMetadata.kt" timestamp="1558553753857">
+        <mark key="'" line="24" column="11" />
+      </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1550011811179">
         <mark key="[" line="52" column="19" />
       </file>
@@ -34,8 +37,9 @@
         <mark key="^" line="437" column="93" />
         <mark key="." line="437" column="93" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadata.kt" timestamp="1559472342399">
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadata.kt" timestamp="1559474820863">
         <mark key="'" line="26" column="19" />
+        <mark key="[" line="18" column="1" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
@@ -112,6 +116,9 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/make-strategy-execution/make-strategy-execution.component.scss" timestamp="1552840675510">
         <mark key="[" line="20" column="0" />
       </file>
+      <file name="/autocoin-exchange-api-xchange-effective-pom.xml" timestamp="1559476019378">
+        <mark key="'" line="118" column="25" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/api/StrategiesController.kt" timestamp="1546903228886">
         <mark key="[" line="113" column="36" />
       </file>
@@ -172,9 +179,6 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/TickerListenerRegistrars.kt" timestamp="1558265475328">
         <mark key="[" line="10" column="56" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataService.kt" timestamp="1559068091340">
-        <mark key="[" line="6" column="40" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4bdb39f5-9ab9-49e9-baf5-4dd7e9c87229/console.sql" timestamp="1558474672128">
         <mark key="[" line="47" column="76" />
         <mark key="]" line="47" column="76" />
@@ -183,9 +187,6 @@
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyWithTrailingStopStrategyProvider.kt" timestamp="1545383600432">
         <mark key="[" line="32" column="0" />
-      </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/RunLocal.kt" timestamp="1558641600383">
-        <mark key="[" line="8" column="17" />
       </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/peruser/UserExchangeTradeService.kt" timestamp="1558263593190">
         <mark key="[" line="118" column="24" />
@@ -196,12 +197,12 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/apikey/RestExchangeService.kt" timestamp="1552165526205">
         <mark key="[" line="18" column="46" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadata.kt" timestamp="1559473941503">
-        <mark key="'" line="27" column="4" />
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="50" column="31" />
-        <mark key="^" line="50" column="31" />
-        <mark key="." line="50" column="31" />
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadata.kt" timestamp="1559475844086">
+        <mark key="'" line="46" column="4" />
+        <mark key="[" line="35" column="42" />
+        <mark key="]" line="35" column="46" />
+        <mark key="^" line="35" column="46" />
+        <mark key="." line="35" column="46" />
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/main/kotlin/automate/profit/autocoin/ticker/TickerListenerScheduler.kt" timestamp="1546006401719">
         <mark key="[" line="17" column="24" />
@@ -218,9 +219,6 @@
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/BaseTickerListenerRegistrarFactoryTest.kt" timestamp="1546005810394">
         <mark key="[" line="9" column="24" />
-      </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/RequestContextListener.kt" timestamp="1558982808574">
-        <mark key="[" line="8" column="0" />
       </file>
       <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/OrderControllerTest.kt" timestamp="1558994524343">
         <mark key="[" line="37" column="45" />
@@ -257,9 +255,6 @@
         <mark key="[" line="40" column="37" />
       </file>
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api-xchange/1.0.18-SNAPSHOT/autocoin-exchange-api-xchange-1.0.18-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/metadata/XchangeExchangeMetadataService.kt" timestamp="1559068020036" />
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1558643396498">
-        <mark key="[" line="86" column="65" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE-sources.jar!/org/springframework/web/context/WebApplicationContext.java" timestamp="1558646435902" />
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/TestExchangeMetadataService.kt" timestamp="1558280064139">
         <mark key="[" line="22" column="67" />
@@ -306,9 +301,6 @@
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/layout-routing.module.ts" timestamp="1553939964745">
         <mark key="[" line="8" column="35" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1559155189968">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/Oauth2TokenClient.kt" timestamp="1553945061012">
         <mark key="[" line="20" column="25" />
@@ -376,9 +368,6 @@
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeKeyService.kt" timestamp="1550445159546">
         <mark key="[" line="14" column="162" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/peruser/ExchangeKeyVerifier.kt" timestamp="1558468835984">
-        <mark key="[" line="5" column="0" />
-      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrder.kt" timestamp="1546903254871">
         <mark key="[" line="44" column="68" />
       </file>
@@ -393,6 +382,9 @@
       </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-rest/src/main/kotlin/automate/profit/autocoin/ticker/TickerDto.kt" timestamp="1552591061735">
         <mark key="[" line="21" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE-sources.jar!/org/springframework/security/oauth2/client/OAuth2RestTemplate.java" timestamp="1558643286346">
+        <mark key="'" line="56" column="11" />
       </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-rest/src/main/kotlin/automate/profit/autocoin/exchange/metadata/CurrencyPairMetadata.kt" timestamp="1558265693211">
         <mark key="[" line="10" column="74" />
@@ -427,9 +419,6 @@
         <mark key="]" line="13" column="33" />
         <mark key="^" line="35" column="87" />
         <mark key="." line="35" column="4" />
-      </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/models/exchange-key.ts" timestamp="1558544618193">
-        <mark key="[" line="3" column="22" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/Oauth2Config.kt" timestamp="1553945292872">
         <mark key="[" line="48" column="52" />
@@ -491,9 +480,6 @@
         <mark key="^" line="16" column="36" />
         <mark key="." line="16" column="36" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api/1.0.14/autocoin-exchange-api-1.0.14-sources.jar!/automate/profit/autocoin/exchange/apikey/ExchangeKeyService.kt" timestamp="1558467920210">
-        <mark key="[" line="7" column="36" />
-      </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/currency/CurrencyBalance.kt" timestamp="1550411701333">
         <mark key="[" line="4" column="22" />
       </file>
@@ -544,8 +530,10 @@
         <mark key="[" line="34" column="40" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/RunLocal.kt" timestamp="1558549286506" />
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/currency/CurrencyPair.kt" timestamp="1552516755035">
-        <mark key="[" line="25" column="44" />
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/currency/CurrencyPair.kt" timestamp="1559474886721">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="29" column="5" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1558990914190">
         <mark key="'" line="14" column="21" />
@@ -675,9 +663,6 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation-routing.module.ts" timestamp="1552841790822">
         <mark key="[" line="10" column="15" />
       </file>
-      <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeKeyService.kt" timestamp="1558374110201">
-        <mark key="[" line="9" column="83" />
-      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrderService.kt" timestamp="1545503537415">
         <mark key="[" line="6" column="40" />
       </file>
@@ -699,29 +684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="49" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
-      <jump line="90" column="55" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
-      <jump line="121" column="39" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/test/kotlin/automate/profit/autocoin/exchange/metadata/CurrencyPairMetadataApplierTest.kt" />
-      <jump line="72" column="14" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/test/kotlin/automate/profit/autocoin/exchange/metadata/CurrencyPairMetadataApplierTest.kt" />
-      <jump line="98" column="39" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/test/kotlin/automate/profit/autocoin/exchange/metadata/CurrencyPairMetadataApplierTest.kt" />
-      <jump line="18" column="12" filename="E:/prj/autocoin-exchange-mediator/pom.xml" />
-      <jump line="91" column="20" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
-      <jump line="84" column="19" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
-      <jump line="226" column="30" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
-      <jump line="36" column="1" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/test/kotlin/automate/profit/autocoin/exchange/metadata/CurrencyPairMetadataApplierTest.kt" />
-      <jump line="136" column="26" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
-      <jump line="48" column="11" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/peruser/UserExchangeTradeService.kt" />
-      <jump line="234" column="32" filename="E:/prj/autocoin-exchange-mediator/pom.xml" />
-      <jump line="131" column="28" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" />
-      <jump line="142" column="0" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
-      <jump line="17" column="37" filename="E:/prj/autocoin-exchange-mediator/pom.xml" />
-      <jump line="4" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/services/auth.service.ts" />
-      <jump line="9" column="58" filename="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.html" />
-      <jump line="21" column="17" filename="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.html" />
-      <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/settings/two-factor-authentication/two-factor-authentication.component.html" />
-      <jump line="73" column="19" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
-      <jump line="54" column="12" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
-      <jump line="60" column="12" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
       <jump line="66" column="16" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
       <jump line="74" column="12" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
       <jump line="80" column="16" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
@@ -799,43 +761,66 @@
       <jump line="0" column="0" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
       <jump line="65" column="33" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" />
       <jump line="28" column="19" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadata.kt" />
+      <jump line="6" column="35" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="190" column="29" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="191" column="18" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="247" column="38" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="248" column="81" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="249" column="79" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="250" column="75" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="251" column="79" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="255" column="73" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="261" column="36" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="0" column="0" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="9" column="44" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="18" column="26" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="23" column="36" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="25" column="30" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="28" column="110" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="29" column="117" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="30" column="19" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="31" column="93" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="39" column="99" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="40" column="29" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="89" column="28" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
+      <jump line="118" column="25" filename="/autocoin-exchange-api-xchange-effective-pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>timeProvider</text>
+        <text>.java</text>
       </register>
       <register name="/" type="4">
-        <text>markets</text>
+        <text>xchange</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIGxhdGVpbml0IHZhciB1c2VyRXhjaGFuZ2VTZXJ2aWNlc0ZhY3Rvcnk6IFVzZXJFeGNoYW5nZVNlcnZpY2VzRmFjdG9yeQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBjb21wYXJlVG8ob3RoZXI6IEN1cnJlbmN5UGFpcik6IEludCB7CiAgICAgICAgcmV0dXJuIHRvU3RyaW5nKCkuY29tcGFyZVRvKG90aGVyLnRvU3RyaW5nKCkpCiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBmZXRjaEV4Y2hhbmdlTWV0YWRhdGFUb0ZpbGUoKSB7CiAgICAgICAgCiAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBmZXRjaEV4Y2hhbmdlTWV0YWRhdGFUb0ZpbGUoKSB7CiAgICAgICAgCiAgICB9Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1biBnZXRFeGNoYW5nZU1ldGFkYXRhKHN1cHBvcnRlZEV4Y2hhbmdlOiBTdXBwb3J0ZWRFeGNoYW5nZSkgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGZ1biBnZXRFeGNoYW5nZU1ldGFkYXRhKHN1cHBvcnRlZEV4Y2hhbmdlOiBTdXBwb3J0ZWRFeGNoYW5nZSkgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgZnVuIHNob3VsZENyZWF0ZVRpY2tlckxpc3RlbmVyUmVnaXN0cmFyRnJvbVZhbGlkTmFtZSgpIHsKICAgICAgICAvLyB3aGVuCiAgICAgICAgdmFsIGF1dG9jb2luRXhjaGFuZ2UgPSB1c2VyRXhjaGFuZ2VTZXJ2aWNlc0ZhY3RvcnkuY3JlYXRlVGlja2VyTGlzdGVuZXJSZWdpc3RyYXIoQklUVFJFWC5leGNoYW5nZU5hbWUpCiAgICAgICAgLy8gdGhlbgogICAgICAgIGFzc2VydFRoYXQoYXV0b2NvaW5FeGNoYW5nZSkuaXNOb3ROdWxsCiAgICB9CgogICAgQFRlc3QKICAgIGZ1biBzaG91bGRUaHJvd1doZW5DcmVhdGVUaWNrZXJMaXN0ZW5lclJlZ2lzdHJhckZyb21JbnZhbGlkTmFtZSgpIHsKICAgICAgICAvLyBnaXZlbgogICAgICAgIHZhbCBpbnZhbGlkRXhjaGFuZ2VOYW1lID0gImludmFsaWROYW1lIgogICAgICAgIGFzc2VydEZhaWxzV2l0aChSdW50aW1lRXhjZXB0aW9uOjpjbGFzcykgewogICAgICAgICAgICAvLyB3aGVuCiAgICAgICAgICAgIHVzZXJFeGNoYW5nZVNlcnZpY2VzRmFjdG9yeS5jcmVhdGVUaWNrZXJMaXN0ZW5lclJlZ2lzdHJhcihpbnZhbGlkRXhjaGFuZ2VOYW1lKQogICAgICAgIH0KICAgIH0KCiAgICBAVGVzdAogICAgZnVuIHNob3VsZFJldHVybkNhY2hlZEF1dG9jb2luRXhjaGFuZ2VXaGVuVXNpbmdOb0FwaUtleXMoKSB7CiAgICAgICAgLy8gd2hlbgogICAgICAgIHVzZXJFeGNoYW5nZVNlcnZpY2VzRmFjdG9yeS5jcmVhdGVUaWNrZXJMaXN0ZW5lclJlZ2lzdHJhcihCSVRUUkVYLmV4Y2hhbmdlTmFtZSkKICAgICAgICB1c2VyRXhjaGFuZ2VTZXJ2aWNlc0ZhY3RvcnkuY3JlYXRlVGlja2VyTGlzdGVuZXJSZWdpc3RyYXIoQklUVFJFWC5leGNoYW5nZU5hbWUpCiAgICAgICAgLy8gdGhlbgogICAgICAgIHZlcmlmeSh4Y2hhbmdlRmFjdG9yeSwgdGltZXMoMSkpLmNyZWF0ZUV4Y2hhbmdlKGFueSgpKQogICAgfQoKICAgIEBUZXN0CiAgICBmdW4gc2hvdWxkTm90VXNlQ2FjaGVkWGNoYW5nZUZhY3RvcnlXaGVuVXNpbmdOb0FwaUtleXNBbmQyRGlmZmVyZW50RXhjaGFuZ2VzKCkgewogICAgICAgIC8vIHdoZW4KICAgICAgICB1c2VyRXhjaGFuZ2VTZXJ2aWNlc0ZhY3RvcnkuY3JlYXRlVGlja2VyTGlzdGVuZXJSZWdpc3RyYXIoQklUVFJFWC5leGNoYW5nZU5hbWUpCiAgICAgICAgdXNlckV4Y2hhbmdlU2VydmljZXNGYWN0b3J5LmNyZWF0ZVRpY2tlckxpc3RlbmVyUmVnaXN0cmFyKEJJTkFOQ0UuZXhjaGFuZ2VOYW1lKQogICAgICAgIC8vIHRoZW4KICAgICAgICB2ZXJpZnkoeGNoYW5nZUZhY3RvcnksIHRpbWVzKDIpKS5jcmVhdGVFeGNoYW5nZShhbnkoKSkKICAgIH0KCiAgICBAVGVzdAogICAgZnVuIHNob3VsZFJldHVybk1ldGFkYXRhUHJvdmlkZXIoKSB7CiAgICAgICAgLy8gd2hlbgogICAgICAgIHVzZXJFeGNoYW5nZVNlcnZpY2VzRmFjdG9yeS5jcmVhdGVNZXRhZGF0YVByb3ZpZGVyKEJJVFRSRVguZXhjaGFuZ2VOYW1lKQogICAgICAgIC8vIHRoZW4KICAgICAgICB2ZXJpZnkoeGNoYW5nZUZhY3RvcnksIHRpbWVzKDEpKS5jcmVhdGVFeGNoYW5nZShhbnkoKSkKICAgIH0KCiAgICBAVGVzdAogICAgZnVuIHNob3VsZFVzZUNhY2hlZFhjaGFuZ2VGYWN0b3J5V2hlblVzaW5nS2V5cygpIHsKICAgICAgICAvLyB3aGVuCiAgICAgICAgdXNlckV4Y2hhbmdlU2VydmljZXNGYWN0b3J5LmNyZWF0ZVRyYWRlU2VydmljZShCSVRUUkVYLmV4Y2hhbmdlTmFtZSwgInB1YmxpYy1rZXkiLCAic2VjcmV0LWtleSIsIG51bGwsIGVtcHR5TWFwKCkpCiAgICAgICAgdXNlckV4Y2hhbmdlU2VydmljZXNGYWN0b3J5LmNyZWF0ZVRyYWRlU2VydmljZShCSVRUUkVYLmV4Y2hhbmdlTmFtZSwgInB1YmxpYy1rZXkiLCAic2VjcmV0LWtleSIsIG51bGwsIGVtcHR5TWFwKCkpCiAgICAgICAgLy8gdGhlbgogICAgICAgIHZlcmlmeSh4Y2hhbmdlRmFjdG9yeSwgdGltZXMoMSkpLmNyZWF0ZUV4Y2hhbmdlKGFueSgpKQogICAgfQoKfQo=</text>
+        <text encoding="base64">ICAgICAgICBPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgS1VDT0lOLAo=</text>
+        <text encoding="base64">CiAgICBAVGVzdAogICAgZnVuIHNob3VsZENyZWF0ZVRpY2tlckxpc3RlbmVyUmVnaXN0cmFyRnJvbVZhbGlkTmFtZSgpIHsKICAgICAgICAvLyB3aGVuCiAgICAgICAgdmFsIGF1dG9jb2luRXhjaGFuZ2UgPSB1c2VyRXhjaGFuZ2VTZXJ2aWNlc0ZhY3RvcnkuY3JlYXRlVGlja2VyTGlzdGVuZXJSZWdpc3RyYXIoQklUVFJFWC5leGNoYW5nZU5hbWUpCiAgICAgICAgLy8gdGhlbgogICAgICAgIGFzc2VydFRoYXQoYXV0b2NvaW5FeGNoYW5nZSkuaXNOb3ROdWxsCiAgICB9CgogICAgQFRlc3QKICAgIGZ1biBzaG91bGRUaHJvd1doZW5DcmVhdGVUaWNrZXJMaXN0ZW5lclJlZ2lzdHJhckZyb21JbnZhbGlkTmFtZSgpIHsKICAgICAgICAvLyBnaXZlbgogICAgICAgIHZhbCBpbnZhbGlkRXhjaGFuZ2VOYW1lID0gImludmFsaWROYW1lIgogICAgICAgIGFzc2VydEZhaWxzV2l0aChSdW50aW1lRXhjZXB0aW9uOjpjbGFzcykgewogICAgICAgICAgICAvLyB3aGVuCiAgICAgICAgICAgIHVzZXJFeGNoYW5nZVNlcnZpY2VzRmFjdG9yeS5jcmVhdGVUaWNrZXJMaXN0ZW5lclJlZ2lzdHJhcihpbnZhbGlkRXhjaGFuZ2VOYW1lKQogICAgICAgIH0KICAgIH0KCiAgICBAVGVzdAogICAgZnVuIHNob3VsZFJldHVybkNhY2hlZEF1dG9jb2luRXhjaGFuZ2VXaGVuVXNpbmdOb0FwaUtleXMoKSB7CiAgICAgICAgLy8gd2hlbgogICAgICAgIHVzZXJFeGNoYW5nZVNlcnZpY2VzRmFjdG9yeS5jcmVhdGVUaWNrZXJMaXN0ZW5lclJlZ2lzdHJhcihCSVRUUkVYLmV4Y2hhbmdlTmFtZSkKICAgICAgICB1c2VyRXhjaGFuZ2VTZXJ2aWNlc0ZhY3RvcnkuY3JlYXRlVGlja2VyTGlzdGVuZXJSZWdpc3RyYXIoQklUVFJFWC5leGNoYW5nZU5hbWUpCiAgICAgICAgLy8gdGhlbgogICAgICAgIHZlcmlmeSh4Y2hhbmdlRmFjdG9yeSwgdGltZXMoMSkpLmNyZWF0ZUV4Y2hhbmdlKGFueSgpKQogICAgfQoKICAgIEBUZXN0CiAgICBmdW4gc2hvdWxkTm90VXNlQ2FjaGVkWGNoYW5nZUZhY3RvcnlXaGVuVXNpbmdOb0FwaUtleXNBbmQyRGlmZmVyZW50RXhjaGFuZ2VzKCkgewogICAgICAgIC8vIHdoZW4KICAgICAgICB1c2VyRXhjaGFuZ2VTZXJ2aWNlc0ZhY3RvcnkuY3JlYXRlVGlja2VyTGlzdGVuZXJSZWdpc3RyYXIoQklUVFJFWC5leGNoYW5nZU5hbWUpCiAgICAgICAgdXNlckV4Y2hhbmdlU2VydmljZXNGYWN0b3J5LmNyZWF0ZVRpY2tlckxpc3RlbmVyUmVnaXN0cmFyKEJJTkFOQ0UuZXhjaGFuZ2VOYW1lKQogICAgICAgIC8vIHRoZW4KICAgICAgICB2ZXJpZnkoeGNoYW5nZUZhY3RvcnksIHRpbWVzKDIpKS5jcmVhdGVFeGNoYW5nZShhbnkoKSkKICAgIH0KCiAgICBAVGVzdAogICAgZnVuIHNob3VsZFJldHVybk1ldGFkYXRhUHJvdmlkZXIoKSB7CiAgICAgICAgLy8gd2hlbgogICAgICAgIHVzZXJFeGNoYW5nZVNlcnZpY2VzRmFjdG9yeS5jcmVhdGVNZXRhZGF0YVByb3ZpZGVyKEJJVFRSRVguZXhjaGFuZ2VOYW1lKQogICAgICAgIC8vIHRoZW4KICAgICAgICB2ZXJpZnkoeGNoYW5nZUZhY3RvcnksIHRpbWVzKDEpKS5jcmVhdGVFeGNoYW5nZShhbnkoKSkKICAgIH0KCiAgICBAVGVzdAogICAgZnVuIHNob3VsZFVzZUNhY2hlZFhjaGFuZ2VGYWN0b3J5V2hlblVzaW5nS2V5cygpIHsKICAgICAgICAvLyB3aGVuCiAgICAgICAgdXNlckV4Y2hhbmdlU2VydmljZXNGYWN0b3J5LmNyZWF0ZVRyYWRlU2VydmljZShCSVRUUkVYLmV4Y2hhbmdlTmFtZSwgInB1YmxpYy1rZXkiLCAic2VjcmV0LWtleSIsIG51bGwsIGVtcHR5TWFwKCkpCiAgICAgICAgdXNlckV4Y2hhbmdlU2VydmljZXNGYWN0b3J5LmNyZWF0ZVRyYWRlU2VydmljZShCSVRUUkVYLmV4Y2hhbmdlTmFtZSwgInB1YmxpYy1rZXkiLCAic2VjcmV0LWtleSIsIG51bGwsIGVtcHR5TWFwKCkpCiAgICAgICAgLy8gdGhlbgogICAgICAgIHZlcmlmeSh4Y2hhbmdlRmFjdG9yeSwgdGltZXMoMSkpLmNyZWF0ZUV4Y2hhbmdlKGFueSgpKQogICAgfQoKfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgS1VDT0lOLAo=</text>
@@ -845,9 +830,9 @@
       </register>
     </registers>
     <search>
-      <last-search>markets</last-search>
+      <last-search>xchange</last-search>
       <last-offset />
-      <last-pattern>markets</last-pattern>
+      <last-pattern>xchange</last-pattern>
       <last-replace>adjustAmount</last-replace>
       <last-substitute>adjustSellAmount</last-substitute>
       <last-dir>1</last-dir>
@@ -855,8 +840,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ver</entry>
-        <entry>buy or sel</entry>
         <entry>default</entry>
         <entry>does not</entry>
         <entry>for health order</entry>
@@ -875,6 +858,8 @@
         <entry>target</entry>
         <entry>Creating buy</entry>
         <entry>markets</entry>
+        <entry>jackson</entry>
+        <entry>xchange</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ExchangeBalanceResult/CurrencyBalance/g</entry>
