@@ -139,7 +139,7 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/wallet/ExchangeCurrencyPairsInWalletService.kt" timestamp="1559165567048">
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/wallet/ExchangeCurrencyPairsInWalletService.kt" timestamp="1559507381993">
         <mark key="[" line="57" column="9" />
         <mark key="." line="26" column="12" />
       </file>
@@ -642,11 +642,11 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/shared/guard/allow-only-not-logged-in.guard.spec.ts" timestamp="1553816198822">
         <mark key="[" line="2" column="54" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/test/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataProviderTest.kt" timestamp="1559470329135">
-        <mark key="[" line="26" column="42" />
-        <mark key="]" line="12" column="11" />
-        <mark key="." line="12" column="11" />
-        <mark key="^" line="12" column="11" />
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/test/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataProviderTest.kt" timestamp="1559507690914">
+        <mark key="[" line="51" column="40" />
+        <mark key="]" line="51" column="40" />
+        <mark key="." line="51" column="40" />
+        <mark key="^" line="28" column="24" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/BaseStrategyOrderService.kt" timestamp="1545506107719">
         <mark key="[" line="35" column="49" />
@@ -694,9 +694,7 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/UserExchangeServicesFactory.kt" timestamp="1546988519947">
         <mark key="[" line="44" column="21" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/XchangeExchangeMetadataService.kt" timestamp="1559068098552">
-        <mark key="[" line="18" column="0" />
-      </file>
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/XchangeExchangeMetadataService.kt" timestamp="1559507330113" />
     </filemarks>
     <jumps>
       <jump line="66" column="16" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/useraccount/UserAccountController.kt" />
@@ -805,13 +803,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>sEqualTo(expectedExchangeMetadata)</text>
       </register>
       <register name="/" type="4">
         <text>xchange</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIGxhdGVpbml0IHZhciB1c2VyRXhjaGFuZ2VTZXJ2aWNlc0ZhY3Rvcnk6IFVzZXJFeGNoYW5nZVNlcnZpY2VzRmFjdG9yeQo=</text>
+      <register name="0" type="4">
+        <text>sampleExchangeMetadata</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBjb21wYXJlVG8ob3RoZXI6IEN1cnJlbmN5UGFpcik6IEludCB7CiAgICAgICAgcmV0dXJuIHRvU3RyaW5nKCkuY29tcGFyZVRvKG90aGVyLnRvU3RyaW5nKCkpCiAgICB9Cg==</text>
