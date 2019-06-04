@@ -175,7 +175,7 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/TickerListenerRegistrars.kt" timestamp="1558265475328">
         <mark key="[" line="10" column="56" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataFetcher.kt" timestamp="1559601458554">
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataFetcher.kt" timestamp="1559602198515">
         <mark key="'" line="27" column="76" />
         <mark key="[" line="81" column="20" />
         <mark key="]" line="81" column="20" />
@@ -532,6 +532,12 @@
         <mark key="[" line="34" column="40" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/RunLocal.kt" timestamp="1558549286506" />
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/test/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataFetcherManualTest.kt" timestamp="1559602108735">
+        <mark key="[" line="34" column="22" />
+        <mark key="]" line="34" column="27" />
+        <mark key="^" line="34" column="27" />
+        <mark key="." line="34" column="27" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1558990914190">
         <mark key="'" line="14" column="21" />
         <mark key="[" line="29" column="27" />
@@ -781,7 +787,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>Binance</text>
       </register>
       <register name="/" type="4">
         <text>xchange</text>
