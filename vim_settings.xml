@@ -63,11 +63,16 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1559637922079">
-        <mark key="[" line="36" column="45" />
-        <mark key="]" line="39" column="40" />
-        <mark key="^" line="39" column="40" />
-        <mark key="." line="39" column="40" />
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/wallet/ExchangeCurrencyPairsInWalletService.kt" timestamp="1559647861276">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="48" />
+        <mark key="." line="26" column="12" />
+      </file>
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1559647253659">
+        <mark key="[" line="30" column="89" />
+        <mark key="]" line="30" column="89" />
+        <mark key="^" line="30" column="88" />
+        <mark key="." line="30" column="89" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" timestamp="1558557276593">
         <mark key="'" line="108" column="0" />
@@ -108,11 +113,11 @@
         <mark key="]" line="24" column="44" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-core/4.3.18/xchange-core-4.3.18-sources.jar!/org/knowm/xchange/ExchangeSpecification.java" timestamp="1559579398558" />
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/FileExchangeMetadataRepository.kt" timestamp="1559633787570">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="48" column="64" />
-        <mark key="^" line="48" column="64" />
-        <mark key="." line="48" column="64" />
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/FileExchangeMetadataRepository.kt" timestamp="1559648075539">
+        <mark key="[" line="50" column="83" />
+        <mark key="]" line="50" column="83" />
+        <mark key="^" line="53" column="64" />
+        <mark key="." line="50" column="83" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE-sources.jar!/org/springframework/web/context/request/RequestContextListener.java" timestamp="1558983105966" />
       <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/OrderControllerTest.kt" timestamp="1558994524343">
@@ -122,6 +127,10 @@
         <mark key="." line="37" column="53" />
       </file>
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api-xchange/1.0.18-SNAPSHOT/autocoin-exchange-api-xchange-1.0.18-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/metadata/XchangeExchangeMetadataService.kt" timestamp="1559068020036" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1559647173239">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="75" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE-sources.jar!/org/springframework/web/context/WebApplicationContext.java" timestamp="1558646435902" />
       <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-core/4.3.18/xchange-core-4.3.18-sources.jar!/org/knowm/xchange/BaseExchange.java" timestamp="1559579289747" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/user-account.service.ts" timestamp="1558641738352">
@@ -140,11 +149,11 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="9" column="93" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/MetadataControllerTest.kt" timestamp="1559644591741">
-        <mark key="[" line="33" column="34" />
-        <mark key="]" line="38" column="56" />
-        <mark key="^" line="38" column="56" />
-        <mark key="." line="38" column="56" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/MetadataControllerTest.kt" timestamp="1559647360055">
+        <mark key="[" line="41" column="53" />
+        <mark key="]" line="41" column="56" />
+        <mark key="^" line="41" column="56" />
+        <mark key="." line="41" column="56" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-kucoin/4.3.18/xchange-kucoin-4.3.18-sources.jar!/org/knowm/xchange/kucoin/KucoinTradeService.java" timestamp="1559167601677" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/orders.service.ts" timestamp="1558639040736">
@@ -391,13 +400,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>exchange-health-keys-location</text>
+        <text>Name</text>
       </register>
       <register name="/" type="4">
         <text>high</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhjaGFuZ2UtaGVhbHRoLWtleXMtbG9jYXRpb246IGZpbGU6JHtTRUNVUkVfUEFUSDpzZWN1cmV9L2F1dG9jb2luLWFwcHMvYXV0b2NvaW4tZXhjaGFuZ2UtbWVkaWF0b3IvZXhjaGFuZ2UtaGVhbHRoLWtleXMucHJvcGVydGllcwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGxvZ2dlciA9IEtvdGxpbkxvZ2dpbmcubG9nZ2VyIHt9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
