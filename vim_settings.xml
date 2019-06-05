@@ -169,12 +169,12 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/TickerListenerRegistrars.kt" timestamp="1558265475328">
         <mark key="[" line="10" column="56" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataFetcher.kt" timestamp="1559724073263">
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataFetcher.kt" timestamp="1559725296832">
         <mark key="'" line="28" column="76" />
-        <mark key="[" line="187" column="59" />
-        <mark key="]" line="187" column="59" />
-        <mark key="^" line="144" column="46" />
-        <mark key="." line="187" column="59" />
+        <mark key="[" line="271" column="54" />
+        <mark key="]" line="249" column="35" />
+        <mark key="^" line="249" column="35" />
+        <mark key="." line="249" column="35" />
       </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataService.kt" timestamp="1559068091340">
         <mark key="[" line="6" column="40" />
@@ -234,6 +234,9 @@
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/exchange/BaseTickerListenerRegistrarFactoryTest.kt" timestamp="1546005810394">
         <mark key="[" line="9" column="24" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-kucoin/4.3.18/xchange-kucoin-4.3.18-sources.jar!/org/knowm/xchange/kucoin/KucoinAdapters.java" timestamp="1559724564335">
+        <mark key="[" line="102" column="33" />
       </file>
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/RequestContextListener.kt" timestamp="1558982808574">
         <mark key="[" line="8" column="0" />
@@ -331,7 +334,7 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/layout-routing.module.ts" timestamp="1553939964745">
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559723204675">
+      <file name="/Dummy.txt" timestamp="1559725371092">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/Oauth2TokenClient.kt" timestamp="1553945061012">
@@ -790,13 +793,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>getMinimumOrderValue(currencyPair)</text>
       </register>
       <register name="/" type="4">
         <text>inline</text>
       </register>
       <register name="0" type="4">
-        <text>currencyPair</text>
+        <text>// not present in kucoin api</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
