@@ -132,6 +132,11 @@
         <mark key="^" line="74" column="60" />
         <mark key="." line="74" column="60" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/RequestWithRetry.kt" timestamp="1559774616538">
+        <mark key="[" line="14" column="66" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/XchangeOrderService.kt" timestamp="1558988756283">
         <mark key="'" line="31" column="21" />
         <mark key="[" line="39" column="50" />
@@ -172,6 +177,12 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/RunLocal.kt" timestamp="1550340564597">
         <mark key="[" line="6" column="19" />
       </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/RestWalletService.kt" timestamp="1559775026415">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="27" column="46" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/math/BigDecimal.java" timestamp="1559601682262" />
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/TickerListenerRegistrars.kt" timestamp="1558265475328">
         <mark key="[" line="10" column="56" />
@@ -195,11 +206,11 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/BuyWithTrailingStopStrategyProvider.kt" timestamp="1545383600432">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/RestExchangeMetadataService.kt" timestamp="1559723668704">
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="20" column="18" />
-        <mark key="^" line="20" column="18" />
-        <mark key="." line="20" column="18" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/RestExchangeMetadataService.kt" timestamp="1559774896470">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="14" />
+        <mark key="^" line="20" column="14" />
+        <mark key="." line="20" column="14" />
       </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/test/kotlin/automate/profit/autocoin/exchange/metadata/BittrexExchangeMetadataFetcherManualTest.kt" timestamp="1559571362549">
         <mark key="[" line="24" column="31" />
@@ -278,6 +289,10 @@
         <mark key="[" line="40" column="37" />
       </file>
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api-xchange/1.0.18-SNAPSHOT/autocoin-exchange-api-xchange-1.0.18-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/metadata/XchangeExchangeMetadataService.kt" timestamp="1559068020036" />
+      <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1559773990291">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="75" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE-sources.jar!/org/springframework/web/context/WebApplicationContext.java" timestamp="1558646435902" />
       <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-core/4.3.18/xchange-core-4.3.18-sources.jar!/org/knowm/xchange/BaseExchange.java" timestamp="1559579289747" />
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/TestExchangeMetadataService.kt" timestamp="1559723670819">
@@ -333,7 +348,7 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/layout-routing.module.ts" timestamp="1553939964745">
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559748080567">
+      <file name="/Dummy.txt" timestamp="1559775118162">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/Oauth2TokenClient.kt" timestamp="1553945061012">
@@ -341,6 +356,10 @@
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.component.ts" timestamp="1552842039189">
         <mark key="[" line="14" column="19" />
+      </file>
+      <file name="/ExchangeMetadata.kt" timestamp="1559650717889">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="44" />
       </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" timestamp="1559731711408">
         <mark key="'" line="65" column="33" />
@@ -356,6 +375,9 @@
       <file name="/ExchangeMetadataFetcher.kt" timestamp="1559730843795" />
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.12-SNAPSHOT/autocoin-exchange-engine-1.0.12-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" timestamp="1548000709348">
         <mark key="[" line="71" column="0" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/StrategyParameters.kt" timestamp="1559774375569">
+        <mark key="[" line="18" column="28" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/buy-now-parameters/buy-now-parameters.component.ts" timestamp="1557253688231">
         <mark key="[" line="27" column="0" />
@@ -464,8 +486,8 @@
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api-xchange/1.0.0/autocoin-exchange-api-xchange-1.0.0-sources.jar!/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" timestamp="1550518911620">
         <mark key="[" line="170" column="28" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1559651881851">
-        <mark key="[" line="88" column="20" />
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1559773999822">
+        <mark key="[" line="88" column="18" />
         <mark key="]" line="88" column="26" />
         <mark key="^" line="88" column="26" />
         <mark key="." line="88" column="26" />
@@ -547,9 +569,9 @@
         <mark key="^" line="23" column="10" />
         <mark key="." line="23" column="10" />
       </file>
-      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1559728612339">
+      <file name="E:/prj/autocoin-strategy-executor/pom.xml" timestamp="1559773917499">
         <mark key="'" line="14" column="21" />
-        <mark key="[" line="29" column="27" />
+        <mark key="[" line="29" column="26" />
         <mark key="]" line="29" column="27" />
         <mark key="." line="29" column="27" />
         <mark key="^" line="29" column="26" />
@@ -571,6 +593,12 @@
       </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/peruser/BaseTickerListenerRegistrar.kt" timestamp="1549313237974">
         <mark key="[" line="32" column="11" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/RestExchangeOrderService.kt" timestamp="1559774742872">
+        <mark key="[" line="44" column="45" />
+        <mark key="]" line="45" column="14" />
+        <mark key="." line="45" column="14" />
+        <mark key="^" line="45" column="14" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/user-account.service.spec.ts" timestamp="1545038195469">
         <mark key="[" line="0" column="0" />
@@ -667,6 +695,12 @@
       </file>
       <file name="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeKeyService.kt" timestamp="1558374110201">
         <mark key="[" line="9" column="83" />
+      </file>
+      <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/DefaultTickerListenerRegistrarProvider.kt" timestamp="1559774807065">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="22" />
+        <mark key="^" line="14" column="22" />
+        <mark key="." line="21" column="9" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/order/StrategyOrderService.kt" timestamp="1545503537415">
         <mark key="[" line="6" column="40" />
@@ -799,7 +833,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>-SNAPSHOT</text>
+        <text>runBlocking {</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRNZXRhZGF0YVw+</text>
@@ -807,34 +841,34 @@
       <register name="0" type="2">
         <text encoding="base64">QElnbm9yZQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5ydW5CbG9ja2luZwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5hc3luYwo=</text>
+      </register>
+      <register name="3" type="4">
         <text>?: emptyMap().also {
                     if (this.is)
                 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5JbGxlZ2FsU3RhdGVFeGNlcHRpb24K</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBleGNoYW5nZVNwZWMuZXhjaGFuZ2VOYW1lID0gbnVsbCAvKiogKi8K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgZnVuIHNob3VsZE5vdEZldGNoTWV0YWRhdGFXaGVuUmVwb3NpdG9yeUFscmVhZHlIYXNNZXRhZGF0YSgpIHsKICAgICAgICB2YWwgZXhwZWN0ZWRFeGNoYW5nZU1ldGFkYXRhID0gRXhjaGFuZ2VNZXRhZGF0YShlbXB0eU1hcCgpLCBlbXB0eU1hcCgpKQogICAgICAgIHZhbCBiaXR0cmV4TWV0YWRhdGFGZXRjaGVyID0gbW9jazxCaXR0cmV4RXhjaGFuZ2VNZXRhZGF0YUZldGNoZXI+KCkuYXBwbHkgewogICAgICAgICAgICB3aGVuZXZlcih0aGlzLmdldFN1cHBvcnRlZEV4Y2hhbmdlKCkpLnRoZW5SZXR1cm4oQklUVFJFWCkKICAgICAgICB9CiAgICAgICAgdmFsIG1ldGFkYXRhUmVwb3NpdG9yeSA9IG1vY2s8RmlsZUV4Y2hhbmdlTWV0YWRhdGFSZXBvc2l0b3J5PigpLmFwcGx5IHsKICAgICAgICAgICAgd2hlbmV2ZXIodGhpcy5nZXRMYXRlc3RFeGNoYW5nZU1ldGFkYXRhKEJJVFRSRVgpKS50aGVuUmV0dXJuKGV4cGVjdGVkRXhjaGFuZ2VNZXRhZGF0YSkKICAgICAgICB9CiAgICAgICAgdmFsIG1ldGFkYXRhUHJvdmlkZXIgPSBFeGNoYW5nZU1ldGFkYXRhUHJvdmlkZXIobGlzdE9mKGJpdHRyZXhNZXRhZGF0YUZldGNoZXIpLCBtZXRhZGF0YVJlcG9zaXRvcnkpCiAgICAgICAgLy8gd2hlbgogICAgICAgIG1ldGFkYXRhUHJvdmlkZXIuZ2V0RXhjaGFuZ2VNZXRhZGF0YShCSVRUUkVYKQogICAgICAgIC8vIHRoZW4KICAgICAgICB2ZXJpZnkoYml0dHJleE1ldGFkYXRhRmV0Y2hlciwgdGltZXMoMCkpLmZldGNoRXhjaGFuZ2VNZXRhZGF0YSgpCiAgICB9Cgp9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CiAgICBAVGVzdAogICAgZnVuIHNob3VsZE5vdEZldGNoTWV0YWRhdGFXaGVuUmVwb3NpdG9yeUFscmVhZHlIYXNNZXRhZGF0YSgpIHsKICAgICAgICB2YWwgZXhwZWN0ZWRFeGNoYW5nZU1ldGFkYXRhID0gRXhjaGFuZ2VNZXRhZGF0YShlbXB0eU1hcCgpLCBlbXB0eU1hcCgpKQogICAgICAgIHZhbCBiaXR0cmV4TWV0YWRhdGFGZXRjaGVyID0gbW9jazxCaXR0cmV4RXhjaGFuZ2VNZXRhZGF0YUZldGNoZXI+KCkuYXBwbHkgewogICAgICAgICAgICB3aGVuZXZlcih0aGlzLmdldFN1cHBvcnRlZEV4Y2hhbmdlKCkpLnRoZW5SZXR1cm4oQklUVFJFWCkKICAgICAgICB9CiAgICAgICAgdmFsIG1ldGFkYXRhUmVwb3NpdG9yeSA9IG1vY2s8RmlsZUV4Y2hhbmdlTWV0YWRhdGFSZXBvc2l0b3J5PigpLmFwcGx5IHsKICAgICAgICAgICAgd2hlbmV2ZXIodGhpcy5nZXRMYXRlc3RFeGNoYW5nZU1ldGFkYXRhKEJJVFRSRVgpKS50aGVuUmV0dXJuKGV4cGVjdGVkRXhjaGFuZ2VNZXRhZGF0YSkKICAgICAgICB9CiAgICAgICAgdmFsIG1ldGFkYXRhUHJvdmlkZXIgPSBFeGNoYW5nZU1ldGFkYXRhUHJvdmlkZXIobGlzdE9mKGJpdHRyZXhNZXRhZGF0YUZldGNoZXIpLCBtZXRhZGF0YVJlcG9zaXRvcnkpCiAgICAgICAgLy8gd2hlbgogICAgICAgIG1ldGFkYXRhUHJvdmlkZXIuZ2V0RXhjaGFuZ2VNZXRhZGF0YShCSVRUUkVYKQogICAgICAgIC8vIHRoZW4KICAgICAgICB2ZXJpZnkoYml0dHJleE1ldGFkYXRhRmV0Y2hlciwgdGltZXMoMCkpLmZldGNoRXhjaGFuZ2VNZXRhZGF0YSgpCiAgICB9Cgp9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/adjustSellAmount/adjustAmount/g</text>
