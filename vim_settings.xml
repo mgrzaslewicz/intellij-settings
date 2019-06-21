@@ -799,7 +799,7 @@
         <text>-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
-        <text>22</text>
+        <text>secure</text>
       </register>
       <register name="0" type="4">
         <text>multi</text>
@@ -838,9 +838,9 @@
       </register>
     </registers>
     <search>
-      <last-search>22</last-search>
+      <last-search>secure</last-search>
       <last-offset />
-      <last-pattern>22</last-pattern>
+      <last-pattern>secure</last-pattern>
       <last-replace>adjustAmount</last-replace>
       <last-substitute>adjustSellAmount</last-substitute>
       <last-dir>1</last-dir>
@@ -848,7 +848,6 @@
     </search>
     <history>
       <history-search>
-        <entry>adjust</entry>
         <entry>ApiKey</entry>
         <entry>userName</entry>
         <entry>'</entry>
@@ -868,6 +867,7 @@
         <entry encoding="base64">XDxnZXRNZXRhZGF0YVw+</entry>
         <entry>multi</entry>
         <entry>22</entry>
+        <entry>secure</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ExchangeBalanceResult/CurrencyBalance/g</entry>
