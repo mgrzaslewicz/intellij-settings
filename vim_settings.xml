@@ -199,12 +199,12 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/validators/curreny-pair-symbol-validator.directive.ts" timestamp="1552839597813">
         <mark key="[" line="17" column="17" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/pom.xml" timestamp="1560797861016">
+      <file name="E:/prj/autocoin-exchange-mediator/pom.xml" timestamp="1561106288735">
         <mark key="'" line="40" column="41" />
         <mark key="[" line="26" column="45" />
-        <mark key="]" line="26" column="53" />
+        <mark key="]" line="26" column="45" />
         <mark key="^" line="26" column="53" />
-        <mark key="." line="26" column="53" />
+        <mark key="." line="26" column="45" />
       </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/test/kotlin/automate/profit/autocoin/exchange/wallet/ExchangeCurrencyPairsInWalletServiceTest.kt" timestamp="1558265507775">
         <mark key="[" line="31" column="58" />
@@ -511,7 +511,7 @@
         <mark key="^" line="9" column="52" />
         <mark key="." line="9" column="52" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/order/ExchangeOrderService.kt" timestamp="1560797752916">
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/order/ExchangeOrderService.kt" timestamp="1561106200529">
         <mark key="[" line="15" column="14" />
         <mark key="]" line="15" column="14" />
         <mark key="." line="15" column="14" />
@@ -601,7 +601,7 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/layout-routing.module.ts" timestamp="1553939964745">
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561106139492">
+      <file name="/Dummy.txt" timestamp="1561106197553">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/Oauth2TokenClient.kt" timestamp="1553945061012">
@@ -631,7 +631,7 @@
         <mark key="." line="79" column="58" />
         <mark key="^" line="79" column="59" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" timestamp="1560797723772">
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/order/XchangeOrderService.kt" timestamp="1561106212054">
         <mark key="'" line="65" column="33" />
         <mark key="[" line="31" column="32" />
         <mark key="]" line="31" column="32" />
@@ -804,7 +804,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>_user</text>
+        <text>-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRNZXRhZGF0YVw+</text>
