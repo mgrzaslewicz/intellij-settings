@@ -25,11 +25,6 @@
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/Oauth2.kt" timestamp="1550011811179">
         <mark key="[" line="52" column="19" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/scripts/env.properties.template" timestamp="1561138753792">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/RunLocal.kt" timestamp="1561208787668">
         <mark key="[" line="7" column="59" />
       </file>
@@ -130,6 +125,12 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/apikey/RestExchangeService.kt" timestamp="1552165526205">
         <mark key="[" line="18" column="46" />
       </file>
+      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/peruser/UserExchangeWalletService.kt" timestamp="1561223065904">
+        <mark key="[" line="39" column="37" />
+        <mark key="]" line="37" column="47" />
+        <mark key="^" line="37" column="55" />
+        <mark key="." line="37" column="55" />
+      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-ticker-service/src/main/kotlin/automate/profit/autocoin/ticker/TickerListenerScheduler.kt" timestamp="1546006401719">
         <mark key="[" line="17" column="24" />
       </file>
@@ -189,7 +190,7 @@
       <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/AccountServiceTest.kt" timestamp="1552939974198">
         <mark key="[" line="40" column="37" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api-xchange/1.0.24-SNAPSHOT/autocoin-exchange-api-xchange-1.0.24-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/peruser/UserExchangeWalletService.kt" timestamp="1561221305603" />
+      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api-xchange/1.0.24-SNAPSHOT/autocoin-exchange-api-xchange-1.0.24-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/peruser/UserExchangeWalletService.kt" timestamp="1561223332581" />
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/TestExchangeMetadataService.kt" timestamp="1559723670819">
         <mark key="[" line="59" column="5" />
       </file>
@@ -460,11 +461,6 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/shared/guard/auth.guard.ts" timestamp="1553815125797">
         <mark key="[" line="6" column="13" />
       </file>
-      <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/order/ExchangeOrderService.kt" timestamp="1561106200529">
-        <mark key="[" line="15" column="14" />
-        <mark key="]" line="15" column="14" />
-        <mark key="." line="15" column="14" />
-      </file>
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/order/OrderService.kt" timestamp="1550517752415">
         <mark key="[" line="39" column="61" />
       </file>
@@ -491,11 +487,6 @@
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/sell-when-second-currency-grows-parameters/sell-when-second-currency-grows-parameters.component.ts" timestamp="1557347466334">
         <mark key="[" line="39" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7bcdd668-f76a-4c4e-aac4-cfa961ae4827/console.sql" timestamp="1561137398404">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/StrategyProvider.kt" timestamp="1545383478009">
         <mark key="[" line="10" column="6" />
@@ -633,13 +624,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>yPairs</text>
+        <text>ing</text>
       </register>
       <register name="/" type="4">
         <text>for he</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">TG9jYWxEYXRlVGltZSA=</text>
+        <text encoding="base64">ZXhwZWN0ZWRXYWxsZXROYW1lV2hlbk11bHRpcGxlRXhpc3Qg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuUHJlY29uZGl0aW9ucwo=</text>
