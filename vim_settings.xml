@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api-xchange/1.0.24-SNAPSHOT/autocoin-exchange-api-xchange-1.0.24-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/metadata/ExchangeMetadataFetcher.kt" timestamp="1561821563466" />
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.component.html" timestamp="1552841760709">
         <mark key="[" line="8" column="78" />
       </file>
@@ -45,6 +46,12 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.15/autocoin-exchange-engine-1.0.15-sources.jar!/automate/profit/autocoin/exchange/order/ExchangeOrderService.kt" timestamp="1550012930679">
         <mark key="[" line="39" column="36" />
+      </file>
+      <file name="E:/prj/autocoin-exchange-engine/pom.xml" timestamp="1561822211132">
+        <mark key="[" line="84" column="29" />
+        <mark key="]" line="84" column="30" />
+        <mark key="." line="84" column="30" />
+        <mark key="^" line="14" column="29" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-edit/exchange-user-edit.component.scss" timestamp="1552756120414">
         <mark key="[" line="3" column="0" />
@@ -216,6 +223,10 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/apikey/RestExchangeKeyService.kt" timestamp="1552165289023">
         <mark key="[" line="15" column="64" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-kucoin/4.3.19/xchange-kucoin-4.3.19-sources.jar!/org/knowm/xchange/kucoin/KucoinExchange.java" timestamp="1561822025416">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="23" column="55" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/layout-routing.module.ts" timestamp="1553939964745">
         <mark key="[" line="8" column="35" />
       </file>
@@ -258,6 +269,13 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.4/autocoin-exchange-engine-1.0.4-sources.jar!/automate/profit/autocoin/exchange/AutocoinExchange.kt" timestamp="1545988851644">
         <mark key="[" line="47" column="8" />
+      </file>
+      <file name="E:/prj/autocoin-auth-service/pom.xml" timestamp="1561822181835">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="24" column="28" />
+        <mark key="]" line="24" column="29" />
+        <mark key="." line="24" column="29" />
+        <mark key="^" line="24" column="29" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWithTrailingStopStrategyProvider.kt" timestamp="1545341870849">
         <mark key="[" line="19" column="4" />
@@ -333,12 +351,12 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/trading-strategies.component.ts" timestamp="1558281199468">
         <mark key="[" line="19" column="56" />
       </file>
-      <file name="E:/prj/autocoin-exchange-mediator/pom.xml" timestamp="1561217498340">
-        <mark key="'" line="40" column="41" />
-        <mark key="[" line="26" column="45" />
-        <mark key="]" line="26" column="53" />
-        <mark key="^" line="26" column="53" />
-        <mark key="." line="26" column="53" />
+      <file name="E:/prj/autocoin-exchange-mediator/pom.xml" timestamp="1561822177239">
+        <mark key="'" line="66" column="25" />
+        <mark key="[" line="66" column="25" />
+        <mark key="]" line="66" column="26" />
+        <mark key="^" line="25" column="29" />
+        <mark key="." line="66" column="26" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/ParenthesisTest.kt" timestamp="1550135542346">
         <mark key="[" line="4" column="0" />
@@ -510,7 +528,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/services/user-account.service.ts" />
       <jump line="11" column="22" filename="E:/prj/autocoin-trader-frontend/package.json" />
       <jump line="18" column="29" filename="E:/prj/autocoin-trader-frontend/package.json" />
       <jump line="149" column="24" filename="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" />
@@ -550,7 +567,6 @@
       <jump line="11" column="29" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/config/UserAccountTokenEnhancer.kt" />
       <jump line="108" column="0" filename="E:/prj/autocoin-auth-service/src/main/kotlin/autocoin/auth/api/exchange/ExchangeController.kt" />
       <jump line="205" column="0" filename="E:/prj/autocoin-auth-service/pom.xml" />
-      <jump line="0" column="0" filename="E:/prj/autocoin-auth-service/pom.xml" />
       <jump line="1" column="44" filename="E:/prj/autocoin-auth-service/pom.xml" />
       <jump line="2" column="97" filename="E:/prj/autocoin-auth-service/pom.xml" />
       <jump line="3" column="18" filename="E:/prj/autocoin-auth-service/pom.xml" />
@@ -601,7 +617,6 @@
       <jump line="115" column="8" filename="E:/prj/autocoin-auth-service/pom.xml" />
       <jump line="14" column="20" filename="E:/prj/autocoin-strategy-executor/pom.xml" />
       <jump line="13" column="1" filename="E:/prj/autocoin-db/schema.sql" />
-      <jump line="129" column="36" filename="E:/prj/autocoin-auth-service/pom.xml" />
       <jump line="8" column="0" filename="E:/prj/autocoin-auth-service/scripts/env.properties.template" />
       <jump line="14" column="133" filename="E:/prj/autocoin-exchange-mediator/src/main/resources/application.yml" />
       <jump line="482" column="19" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/time/format/DateTimeFormatter.java" />
@@ -610,19 +625,22 @@
       <jump line="0" column="0" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" />
       <jump line="229" column="106" filename="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/health/ExchangesHealthServiceTest.kt" />
       <jump line="66" column="55" filename="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/health/ExchangesHealthService.kt" />
+      <jump line="129" column="36" filename="E:/prj/autocoin-auth-service/pom.xml" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-auth-service/pom.xml" />
+      <jump line="66" column="25" filename="E:/prj/autocoin-exchange-mediator/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>ing</text>
+        <text>31</text>
       </register>
       <register name="/" type="4">
-        <text>for he</text>
+        <text>1.5</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">S3Vjb2luTWFya2V0RGF0YVNlcnZpY2Ug</text>
+        <text>kotlinx-coroutines-core</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuUHJlY29uZGl0aW9ucwo=</text>
@@ -656,9 +674,9 @@
       </register>
     </registers>
     <search>
-      <last-search>for he</last-search>
+      <last-search>1.5</last-search>
       <last-offset />
-      <last-pattern>for he</last-pattern>
+      <last-pattern>1.5</last-pattern>
       <last-replace>adjustAmount</last-replace>
       <last-substitute>adjustSellAmount</last-substitute>
       <last-dir>1</last-dir>
@@ -666,7 +684,6 @@
     </search>
     <history>
       <history-search>
-        <entry>engin</entry>
         <entry>15</entry>
         <entry>getOpenOrder</entry>
         <entry>target</entry>
@@ -686,6 +703,7 @@
         <entry encoding="base64">Zm9yIA==</entry>
         <entry>balances</entry>
         <entry>for he</entry>
+        <entry>1.5</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ExchangeBalanceResult/CurrencyBalance/g</entry>
