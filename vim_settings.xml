@@ -122,8 +122,8 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/exchange-users/exchange-user-edit/exchange-user-edit.component.scss" timestamp="1552756120414">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/trading-strategies.component.ts" timestamp="1558281199468">
-        <mark key="[" line="19" column="56" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/trading-strategies.component.ts" timestamp="1562091973478">
+        <mark key="[" line="19" column="67" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/models/order.ts" timestamp="1542988028695">
         <mark key="[" line="3" column="10" />
@@ -387,6 +387,9 @@
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/TestExchangeMetadataService.kt" timestamp="1559723670819">
         <mark key="[" line="59" column="5" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" timestamp="1562091952984">
+        <mark key="'" line="161" column="16" />
+      </file>
       <file name="E:/prj/autocoin-auth-service/scripts/stop.sh" timestamp="1545051522893">
         <mark key="[" line="14" column="6" />
       </file>
@@ -440,7 +443,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561918360871">
+      <file name="/Dummy.txt" timestamp="1562091983685">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/Oauth2TokenClient.kt" timestamp="1553945061012">
@@ -499,7 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="32" filename="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" />
       <jump line="2" column="0" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/Oauth2TokenTest.kt" />
       <jump line="73" column="17" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/Oauth2TokenTest.kt" />
       <jump line="74" column="24" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/Oauth2TokenTest.kt" />
@@ -599,6 +601,7 @@
       <jump line="185" column="28" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataFetcher.kt" />
       <jump line="262" column="20" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataFetcher.kt" />
       <jump line="306" column="28" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataFetcher.kt" />
+      <jump line="161" column="16" filename="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
