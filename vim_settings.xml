@@ -56,6 +56,7 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/ExchangeTickerService.kt" timestamp="1550434869507">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/exchangeusers/exchange-users.service.ts" timestamp="1562258458109" />
       <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/RunLocal.kt" timestamp="1561887673371">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="83" />
@@ -107,10 +108,13 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/wallet/XchangeWalletService.kt" timestamp="1546902256714">
         <mark key="[" line="15" column="39" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/services/services.module.ts" timestamp="1552756871595">
-        <mark key="[" line="27" column="31" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/services.module.ts" timestamp="1562257944341">
+        <mark key="[" line="26" column="44" />
+        <mark key="]" line="26" column="44" />
+        <mark key="." line="26" column="44" />
+        <mark key="^" line="26" column="41" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/services/feature.toogle.service.ts" timestamp="1544006242934">
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/feature.toogle.service.ts" timestamp="1562257825341">
         <mark key="[" line="32" column="36" />
       </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/test/kotlin/automate/profit/autocoin/exchange/TickerListenerRegistrarTest.kt" timestamp="1550732120701">
@@ -133,6 +137,9 @@
       </file>
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1546988959941">
         <mark key="[" line="11" column="17" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/auth.service.ts" timestamp="1562258426801">
+        <mark key="[" line="22" column="72" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/validators/curreny-pair-symbol-validator.directive.ts" timestamp="1552839597813">
         <mark key="[" line="17" column="17" />
@@ -172,6 +179,12 @@
       </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/currency/CurrencyBalance.kt" timestamp="1550411701333">
         <mark key="[" line="4" column="22" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/environments/environment.ts" timestamp="1562258382928">
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="9" column="55" />
+        <mark key="^" line="9" column="55" />
+        <mark key="." line="9" column="55" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/api/StrategiesControllerTest.kt" timestamp="1546904327998">
         <mark key="[" line="142" column="35" />
@@ -387,6 +400,9 @@
         <mark key="]" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/environments/endpoints.ts" timestamp="1562257684306">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/TestExchangeMetadataService.kt" timestamp="1559723670819">
         <mark key="[" line="59" column="5" />
       </file>
@@ -407,6 +423,9 @@
       </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/TickerListenerRegistrar.kt" timestamp="1553361963063">
         <mark key="[" line="14" column="22" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/environments/environment.defaults.ts" timestamp="1562258250128">
+        <mark key="[" line="0" column="13" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/settings/settings.component.html" timestamp="1553632188289">
         <mark key="[" line="0" column="76" />
@@ -454,6 +473,10 @@
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.component.ts" timestamp="1552842039189">
         <mark key="[" line="14" column="19" />
+      </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/environments/environment.prod.ts" timestamp="1562258398832">
+        <mark key="'" line="4" column="17" />
+        <mark key="[" line="4" column="20" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/StrategyProvider.kt" timestamp="1545383478009">
         <mark key="[" line="10" column="6" />
@@ -505,7 +528,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/Oauth2TokenTest.kt" />
       <jump line="73" column="17" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/Oauth2TokenTest.kt" />
       <jump line="74" column="24" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/Oauth2TokenTest.kt" />
       <jump line="53" column="0" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
@@ -605,19 +627,20 @@
       <jump line="262" column="20" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataFetcher.kt" />
       <jump line="306" column="28" filename="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataFetcher.kt" />
       <jump line="161" column="16" filename="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" />
+      <jump line="1" column="17" filename="E:/prj/autocoin-trader-frontend/src/environments/environment.prod.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>stop</text>
+        <text>Class</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidXlGZWVNdWx0aXBsaWVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">U0VSVklDRV9OQU1FPSJhdXRvY29pbi1zdHJhdGVneS1leGVjdXRvciIK</text>
+      <register name="0" type="4">
+        <text>https://users-apiv2.autocoin-trader.com/oauth/token</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIHRyYWlsaW5nU3RvcFBlcmNlbnRCZWxvd0dhaW46IDE1ICNOT1QgbWFuZGF0b3J5LCBkZWZhdWx0IDIwCiAgICAgICAgICB0cmFpbGluZ1N0b3BHYWluUGVyY2VudFN0YXJ0OiA1MCAjTk9UIG1hbmRhdG9yeSwgZGVmYXVsdCA2MAogICAgICAgICAgc3RvcExvc3NQZXJjZW50OiAxNiAjTk9UIG1hbmRhdG9yeSwgZGVmYXVsdCAtMSB3aGljaCBtZWFucyBzdG9wIGxvc3MgaXMgdHVybmVkIG9mZgogICAgICAgIGluaXRpYWxPcmRlcjoKICAgICAgICAgIGlzQnV5OiB0cnVlCiAgICAgICAgICBwcmljZTogMC4wMzkgI21hbmRhdG9yeSAjTk9UIG1hbmRhdG9yeSBpZiB0aGVyZSBpcyBlbnRyeSBsb2NhbCBvcmRlcgogICAgICAgICAgYW1vdW50OiA1ICNtYW5kYXRvcnkgI05PVCBtYW5kYXRvcnkgaWYgdGhlcmUgaXMgZW50cnkgbG9jYWwgb3JkZXIKICAgICAgICAgIGRhdGU6IDIwLjA3LjIwMTcgMjE6MzcgI05PVCBtYW5kYXRvcnkgaWYgdGhlcmUgaXMgZW50cnkgbG9jYWwgb3JkZXIKICAgIC0KICAgICAgYmFzZUN1cnJlbmN5Q29kZTogRU9TCiAgICAgIGNvdW50ZXJDdXJyZW5jeUNvZGU6IEJUQwogICAgICBzdHJhdGVneVByb3ZpZGVyOgogICAgICAgIG5hbWU6IFNlbGxXaXRoVHJhaWxpbmdTdG9wCiAgICAgICAgaW5pdGlhbE9yZGVyOgogICAgICAgICAgaXNCdXk6IHRydWUgIyB3aGVuIHN0YXJ0aW5nIHdpdGggYnV5IG9yZGVyIHN0cmF0ZWd5IGlzIGV4cGVjdGluZyBwcmljZXMgdG8gZ3JvdyBhbmQgdGhlbiBzZWxsLCBvdGhlcndpc2UgaXMgZXhwZWN0aW5nIHByaWNlcyB0byBmYWxsIGRvd24gYW5kIHRoZW4gYnV5IGNoZWFwZXIKICAgICAgICAgIHByaWNlOiAwLjAzOSAjIHN0YXJ0IHByaWNlIGluIHRlc3QgZGF0YSBpcyAwLjA3ODExODAwIHNvIHRyYWlsaW5nIHN0b3AgaXMgZ29pbmcgdG8gYmUgdXNlZAogICAgICAgICAgYW1vdW50OiA1CiAgICAgICAgICBkYXRlOiAyMDE3LTA4LTIzVDA4OjQ1ICMgZGF0ZSBhZnRlciBmaXJzdCBhdmFpbGFibGUgaGlzdG9yaWNhbCB0aWNrZXIKYGBgCg==</text>
