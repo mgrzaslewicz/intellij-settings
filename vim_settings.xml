@@ -76,6 +76,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/environments/endpoint-tokens.ts" timestamp="1562614126868" />
       <file name="E:/prj/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/exchangekey/ExchangeService.kt" timestamp="1550445283172">
         <mark key="[" line="22" column="46" />
       </file>
@@ -178,11 +179,11 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/currency/CurrencyBalance.kt" timestamp="1550411701333">
         <mark key="[" line="4" column="22" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/environments/environment.ts" timestamp="1562613780371">
-        <mark key="[" line="9" column="56" />
-        <mark key="]" line="9" column="55" />
-        <mark key="^" line="9" column="55" />
-        <mark key="." line="9" column="55" />
+      <file name="E:/prj/autocoin-trader-frontend/src/environments/environment.ts" timestamp="1562614165671">
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="10" column="48" />
+        <mark key="^" line="10" column="48" />
+        <mark key="." line="10" column="48" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/api/StrategiesControllerTest.kt" timestamp="1546904327998">
         <mark key="[" line="142" column="35" />
@@ -395,6 +396,11 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" timestamp="1562091952984">
         <mark key="'" line="161" column="16" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/user-account.service.ts" timestamp="1562614145809">
+        <mark key="[" line="25" column="101" />
+        <mark key="]" line="25" column="101" />
+        <mark key="." line="25" column="101" />
+      </file>
       <file name="E:/prj/autocoin-auth-service/scripts/stop.sh" timestamp="1545051522893">
         <mark key="[" line="14" column="6" />
       </file>
@@ -460,7 +466,7 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/automation/automation.component.ts" timestamp="1552842039189">
         <mark key="[" line="14" column="19" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/environments/environment.prod.ts" timestamp="1562258398832">
+      <file name="E:/prj/autocoin-trader-frontend/src/environments/environment.prod.ts" timestamp="1562614046252">
         <mark key="'" line="4" column="17" />
         <mark key="[" line="4" column="20" />
       </file>
@@ -620,7 +626,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>Class</text>
+        <text>FeatureToggle</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidXlGZWVNdWx0aXBsaWVyXD4=</text>
