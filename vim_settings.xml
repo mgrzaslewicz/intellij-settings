@@ -17,9 +17,9 @@
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/sell-higher-and-higher-specific-parameters/sell-higher-and-higher-specific-parameters.component.html" timestamp="1562872833719">
         <mark key="[" line="4" column="73" />
-        <mark key="]" line="22" column="79" />
-        <mark key="^" line="22" column="78" />
-        <mark key="." line="22" column="79" />
+        <mark key="]" line="19" column="79" />
+        <mark key="^" line="19" column="78" />
+        <mark key="." line="19" column="79" />
       </file>
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.4/autocoin-exchange-engine-1.0.4-sources.jar!/automate/profit/autocoin/exchange/AutocoinExchange.kt" timestamp="1545988851644">
         <mark key="[" line="47" column="8" />
@@ -229,8 +229,8 @@
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api/1.0.5-SNAPSHOT/autocoin-exchange-api-1.0.5-SNAPSHOT-sources.jar!/automate/profit/autocoin/exchange/ticker/TickerListenerRegistrar.kt" timestamp="1552258387364">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/buy-lower-and-lower-specific-parameters/buy-lower-and-lower-specific-parameters.component.html" timestamp="1562872904051">
-        <mark key="[" line="4" column="72" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/buy-lower-and-lower-specific-parameters/buy-lower-and-lower-specific-parameters.component.html" timestamp="1562880585709">
+        <mark key="[" line="5" column="32" />
       </file>
       <file name="/Client [autocoin_client_log@138.201.226.51]" timestamp="1544789544503">
         <mark key="[" line="0" column="0" />
@@ -269,7 +269,7 @@
         <mark key="[" line="10" column="56" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/buy-lower-and-lower-specific-parameters/buy-lower-and-lower-specific-parameters.component.ts" timestamp="1562873239795">
-        <mark key="[" line="37" column="0" />
+        <mark key="[" line="36" column="0" />
       </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/metadata/ExchangeMetadataService.kt" timestamp="1559068091340">
         <mark key="[" line="6" column="40" />
@@ -390,8 +390,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="17" column="48" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/sell-when-second-currency-grows-parameters/sell-when-second-currency-grows-parameters.component.html" timestamp="1562872700276">
-        <mark key="[" line="15" column="124" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/sell-when-second-currency-grows-parameters/sell-when-second-currency-grows-parameters.component.html" timestamp="1562880597488">
+        <mark key="[" line="15" column="73" />
+        <mark key="]" line="14" column="30" />
+        <mark key="^" line="14" column="30" />
+        <mark key="." line="14" column="30" />
       </file>
       <file name="E:/prj/autocoin-exchange-mediator/src/test/kotlin/automate/profit/autocoin/api/AccountServiceTest.kt" timestamp="1552939974198">
         <mark key="[" line="40" column="37" />
@@ -419,9 +422,9 @@
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/TestExchangeMetadataService.kt" timestamp="1559723670819">
         <mark key="[" line="59" column="5" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" timestamp="1562872616084">
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" timestamp="1562880321364">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="67" column="93" />
+        <mark key="[" line="68" column="41" />
         <mark key="]" line="176" column="33" />
         <mark key="^" line="176" column="33" />
         <mark key="." line="176" column="33" />
@@ -494,7 +497,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562618643480">
+      <file name="/Dummy.txt" timestamp="1562880617410">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/Oauth2TokenClient.kt" timestamp="1553945061012">
@@ -560,8 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
-      <jump line="121" column="34" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
       <jump line="75" column="43" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
       <jump line="76" column="63" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
       <jump line="77" column="19" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
@@ -659,6 +660,8 @@
       <jump line="161" column="16" filename="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" />
       <jump line="1" column="17" filename="E:/prj/autocoin-trader-frontend/src/environments/environment.prod.ts" />
       <jump line="176" column="33" filename="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" />
+      <jump line="78" column="67" filename="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" />
+      <jump line="138" column="44" filename="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" />
       <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" />
     </jumps>
     <registers>
@@ -666,10 +669,10 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{{getStep()}}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">TWF4IA==</text>
+        <text>Currency pair</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBASW5qZWN0KE9hdXRoRW5kcG9pbnRVcmxUb2tlbikgcHJpdmF0ZSBvYXV0aFRva2VuRW5kcG9pbnRVcmwsCg==</text>
@@ -706,9 +709,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">TWF4IA==</last-search>
+      <last-search>Currency pair</last-search>
       <last-offset />
-      <last-pattern encoding="base64">TWF4IA==</last-pattern>
+      <last-pattern>Currency pair</last-pattern>
       <last-replace>adjustAmount</last-replace>
       <last-substitute>adjustSellAmount</last-substitute>
       <last-dir>1</last-dir>
@@ -716,9 +719,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Creating buy</entry>
-        <entry>markets</entry>
-        <entry>jackson</entry>
         <entry>xchange</entry>
         <entry>Multiplier</entry>
         <entry>high</entry>
@@ -736,6 +736,9 @@
         <entry encoding="base64">XDxidXlGZWVNdWx0aXBsaWVyXD4=</entry>
         <entry>Max buy</entry>
         <entry encoding="base64">TWF4IA==</entry>
+        <entry>pattern</entry>
+        <entry>Add st</entry>
+        <entry>Currency pair</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ExchangeBalanceResult/CurrencyBalance/g</entry>
