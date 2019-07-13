@@ -24,6 +24,11 @@
       <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-engine/1.0.4/autocoin-exchange-engine-1.0.4-sources.jar!/automate/profit/autocoin/exchange/AutocoinExchange.kt" timestamp="1545988851644">
         <mark key="[" line="47" column="8" />
       </file>
+      <file name="E:/prj/autocoin-auth-service/pom.xml" timestamp="1563030140815">
+        <mark key="'" line="14" column="31" />
+        <mark key="[" line="179" column="28" />
+        <mark key="]" line="179" column="52" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWithTrailingStopStrategyProvider.kt" timestamp="1545341870849">
         <mark key="[" line="19" column="4" />
       </file>
@@ -32,6 +37,12 @@
       </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-xchange/src/main/kotlin/automate/profit/autocoin/exchange/peruser/ExchangeKeyVerifier.kt" timestamp="1558468835984">
         <mark key="[" line="5" column="0" />
+      </file>
+      <file name="E:/prj/autocoin-services-admin/src/main/resources/application.yml" timestamp="1563029937788">
+        <mark key="[" line="20" column="37" />
+        <mark key="]" line="20" column="53" />
+        <mark key="^" line="20" column="53" />
+        <mark key="." line="20" column="53" />
       </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/exchange/BaseAutocoinTradeServiceTest.kt" timestamp="1546901872045">
         <mark key="[" line="39" column="42" />
@@ -388,6 +399,13 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.java" timestamp="1549739850407">
         <mark key="[" line="1" column="34" />
       </file>
+      <file name="E:/prj/autocoin-services-admin/pom.xml" timestamp="1563030245511">
+        <mark key="'" line="69" column="39" />
+        <mark key="[" line="42" column="25" />
+        <mark key="]" line="42" column="26" />
+        <mark key="." line="42" column="26" />
+        <mark key="^" line="41" column="26" />
+      </file>
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-rest/src/main/kotlin/automate/profit/autocoin/exchange/metadata/CurrencyMetadata.kt" timestamp="1553537403630">
         <mark key="[" line="2" column="0" />
       </file>
@@ -574,10 +592,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="19" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
-      <jump line="94" column="39" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
-      <jump line="0" column="0" filename="E:/prj/autocoin-puppet/Vagrantfile" />
-      <jump line="0" column="0" filename="E:/prj/autocoin-puppet/ubuntu-bionic-18.04-cloudimg-console.log" />
       <jump line="678" column="46" filename="E:/prj/autocoin-puppet/ubuntu-bionic-18.04-cloudimg-console.log" />
       <jump line="91" column="27" filename="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" />
       <jump line="13" column="0" filename="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/provider/SellWhenSecondCurrencyGrowsStrategyProvider.kt" />
@@ -674,19 +688,23 @@
       <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" />
       <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.html" />
       <jump line="98" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
+      <jump line="24" column="54" filename="E:/prj/autocoin-services-admin/pom.xml" />
+      <jump line="68" column="28" filename="E:/prj/autocoin-services-admin/pom.xml" />
+      <jump line="69" column="39" filename="E:/prj/autocoin-services-admin/pom.xml" />
+      <jump line="14" column="31" filename="E:/prj/autocoin-auth-service/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>9999</text>
+        <text>.RELEASE</text>
       </register>
       <register name="/" type="4">
-        <text>prices-refresh-time</text>
+        <text>flower</text>
       </register>
       <register name="0" type="4">
-        <text>this.refreshTokenKey</text>
+        <text>spring-cloud-starter</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIHRyYWlsaW5nU3RvcFBlcmNlbnRCZWxvd0dhaW46IDE1ICNOT1QgbWFuZGF0b3J5LCBkZWZhdWx0IDIwCiAgICAgICAgICB0cmFpbGluZ1N0b3BHYWluUGVyY2VudFN0YXJ0OiA1MCAjTk9UIG1hbmRhdG9yeSwgZGVmYXVsdCA2MAogICAgICAgICAgc3RvcExvc3NQZXJjZW50OiAxNiAjTk9UIG1hbmRhdG9yeSwgZGVmYXVsdCAtMSB3aGljaCBtZWFucyBzdG9wIGxvc3MgaXMgdHVybmVkIG9mZgogICAgICAgIGluaXRpYWxPcmRlcjoKICAgICAgICAgIGlzQnV5OiB0cnVlCiAgICAgICAgICBwcmljZTogMC4wMzkgI21hbmRhdG9yeSAjTk9UIG1hbmRhdG9yeSBpZiB0aGVyZSBpcyBlbnRyeSBsb2NhbCBvcmRlcgogICAgICAgICAgYW1vdW50OiA1ICNtYW5kYXRvcnkgI05PVCBtYW5kYXRvcnkgaWYgdGhlcmUgaXMgZW50cnkgbG9jYWwgb3JkZXIKICAgICAgICAgIGRhdGU6IDIwLjA3LjIwMTcgMjE6MzcgI05PVCBtYW5kYXRvcnkgaWYgdGhlcmUgaXMgZW50cnkgbG9jYWwgb3JkZXIKICAgIC0KICAgICAgYmFzZUN1cnJlbmN5Q29kZTogRU9TCiAgICAgIGNvdW50ZXJDdXJyZW5jeUNvZGU6IEJUQwogICAgICBzdHJhdGVneVByb3ZpZGVyOgogICAgICAgIG5hbWU6IFNlbGxXaXRoVHJhaWxpbmdTdG9wCiAgICAgICAgaW5pdGlhbE9yZGVyOgogICAgICAgICAgaXNCdXk6IHRydWUgIyB3aGVuIHN0YXJ0aW5nIHdpdGggYnV5IG9yZGVyIHN0cmF0ZWd5IGlzIGV4cGVjdGluZyBwcmljZXMgdG8gZ3JvdyBhbmQgdGhlbiBzZWxsLCBvdGhlcndpc2UgaXMgZXhwZWN0aW5nIHByaWNlcyB0byBmYWxsIGRvd24gYW5kIHRoZW4gYnV5IGNoZWFwZXIKICAgICAgICAgIHByaWNlOiAwLjAzOSAjIHN0YXJ0IHByaWNlIGluIHRlc3QgZGF0YSBpcyAwLjA3ODExODAwIHNvIHRyYWlsaW5nIHN0b3AgaXMgZ29pbmcgdG8gYmUgdXNlZAogICAgICAgICAgYW1vdW50OiA1CiAgICAgICAgICBkYXRlOiAyMDE3LTA4LTIzVDA4OjQ1ICMgZGF0ZSBhZnRlciBmaXJzdCBhdmFpbGFibGUgaGlzdG9yaWNhbCB0aWNrZXIKYGBgCg==</text>
@@ -720,9 +738,9 @@
       </register>
     </registers>
     <search>
-      <last-search>prices-refresh-time</last-search>
+      <last-search>flower</last-search>
       <last-offset />
-      <last-pattern>prices-refresh-time</last-pattern>
+      <last-pattern>flower</last-pattern>
       <last-replace>adjustAmount</last-replace>
       <last-substitute>adjustSellAmount</last-substitute>
       <last-dir>1</last-dir>
@@ -730,9 +748,6 @@
     </search>
     <history>
       <history-search>
-        <entry>high</entry>
-        <entry>inline</entry>
-        <entry encoding="base64">XDxnZXRNZXRhZGF0YVw+</entry>
         <entry>multi</entry>
         <entry>22</entry>
         <entry>secure</entry>
@@ -750,6 +765,9 @@
         <entry>Currency pair</entry>
         <entry>Refresh</entry>
         <entry>prices-refresh-time</entry>
+        <entry>admin</entry>
+        <entry>admin.ver</entry>
+        <entry>flower</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ExchangeBalanceResult/CurrencyBalance/g</entry>
