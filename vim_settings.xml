@@ -138,11 +138,11 @@
       <file name="E:/prj/autocoin-order-service/src/main/kotlin/automate/profit/autocoin/config/ExchangesConfig.kt" timestamp="1546988959941">
         <mark key="[" line="11" column="17" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/services/auth.service.ts" timestamp="1563019356442">
-        <mark key="[" line="76" column="46" />
-        <mark key="]" line="76" column="53" />
-        <mark key="^" line="76" column="53" />
-        <mark key="." line="76" column="53" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/auth.service.ts" timestamp="1563023213003">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="28" />
+        <mark key="^" line="19" column="28" />
+        <mark key="." line="19" column="28" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/validators/curreny-pair-symbol-validator.directive.ts" timestamp="1552839597813">
         <mark key="[" line="17" column="17" />
@@ -401,6 +401,12 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/exchange-wallet.service.ts" timestamp="1562617579312">
         <mark key="[" line="12" column="16" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/api/interceptors.ts" timestamp="1563022934569">
+        <mark key="[" line="51" column="33" />
+        <mark key="]" line="50" column="79" />
+        <mark key="^" line="50" column="79" />
+        <mark key="." line="50" column="99" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/strategy/order/OrderPriceCalculatorTest.kt" timestamp="1558280118832">
         <mark key="[" line="29" column="59" />
       </file>
@@ -484,7 +490,7 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/layout-routing.module.ts" timestamp="1553939964745">
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562880617410">
+      <file name="/Dummy.txt" timestamp="1563023507005">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/Oauth2TokenClient.kt" timestamp="1553945061012">
@@ -656,13 +662,13 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>login</text>
+        <text encoding="base64">OiBPYnNlcnZhYmxlPFRva2VuUmVzcG9uc2VEdG8+IA==</text>
       </register>
       <register name="/" type="4">
         <text>Currency pair</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdTdWNjZXNzZnVsIHRva2VuIHJlcXVlc3QnKTsK</text>
+      <register name="0" type="4">
+        <text>this.refreshTokenKey</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIHRyYWlsaW5nU3RvcFBlcmNlbnRCZWxvd0dhaW46IDE1ICNOT1QgbWFuZGF0b3J5LCBkZWZhdWx0IDIwCiAgICAgICAgICB0cmFpbGluZ1N0b3BHYWluUGVyY2VudFN0YXJ0OiA1MCAjTk9UIG1hbmRhdG9yeSwgZGVmYXVsdCA2MAogICAgICAgICAgc3RvcExvc3NQZXJjZW50OiAxNiAjTk9UIG1hbmRhdG9yeSwgZGVmYXVsdCAtMSB3aGljaCBtZWFucyBzdG9wIGxvc3MgaXMgdHVybmVkIG9mZgogICAgICAgIGluaXRpYWxPcmRlcjoKICAgICAgICAgIGlzQnV5OiB0cnVlCiAgICAgICAgICBwcmljZTogMC4wMzkgI21hbmRhdG9yeSAjTk9UIG1hbmRhdG9yeSBpZiB0aGVyZSBpcyBlbnRyeSBsb2NhbCBvcmRlcgogICAgICAgICAgYW1vdW50OiA1ICNtYW5kYXRvcnkgI05PVCBtYW5kYXRvcnkgaWYgdGhlcmUgaXMgZW50cnkgbG9jYWwgb3JkZXIKICAgICAgICAgIGRhdGU6IDIwLjA3LjIwMTcgMjE6MzcgI05PVCBtYW5kYXRvcnkgaWYgdGhlcmUgaXMgZW50cnkgbG9jYWwgb3JkZXIKICAgIC0KICAgICAgYmFzZUN1cnJlbmN5Q29kZTogRU9TCiAgICAgIGNvdW50ZXJDdXJyZW5jeUNvZGU6IEJUQwogICAgICBzdHJhdGVneVByb3ZpZGVyOgogICAgICAgIG5hbWU6IFNlbGxXaXRoVHJhaWxpbmdTdG9wCiAgICAgICAgaW5pdGlhbE9yZGVyOgogICAgICAgICAgaXNCdXk6IHRydWUgIyB3aGVuIHN0YXJ0aW5nIHdpdGggYnV5IG9yZGVyIHN0cmF0ZWd5IGlzIGV4cGVjdGluZyBwcmljZXMgdG8gZ3JvdyBhbmQgdGhlbiBzZWxsLCBvdGhlcndpc2UgaXMgZXhwZWN0aW5nIHByaWNlcyB0byBmYWxsIGRvd24gYW5kIHRoZW4gYnV5IGNoZWFwZXIKICAgICAgICAgIHByaWNlOiAwLjAzOSAjIHN0YXJ0IHByaWNlIGluIHRlc3QgZGF0YSBpcyAwLjA3ODExODAwIHNvIHRyYWlsaW5nIHN0b3AgaXMgZ29pbmcgdG8gYmUgdXNlZAogICAgICAgICAgYW1vdW50OiA1CiAgICAgICAgICBkYXRlOiAyMDE3LTA4LTIzVDA4OjQ1ICMgZGF0ZSBhZnRlciBmaXJzdCBhdmFpbGFibGUgaGlzdG9yaWNhbCB0aWNrZXIKYGBgCg==</text>
