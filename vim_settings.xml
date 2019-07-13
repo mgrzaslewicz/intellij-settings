@@ -102,6 +102,11 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/validators/currency-pair-symbol-validator.directive.spec.ts" timestamp="1552840405610">
         <mark key="[" line="2" column="16" />
       </file>
+      <file name="E:/prj/autocoin-puppet/modules/autocoin/files/autocoin.nginx" timestamp="1563029776343">
+        <mark key="[" line="98" column="36" />
+        <mark key="]" line="98" column="36" />
+        <mark key="." line="98" column="36" />
+      </file>
       <file name="E:/prj/autocoin-strategy-executor/src/test/kotlin/automate/profit/autocoin/RunLocal.kt" timestamp="1561887676991">
         <mark key="[" line="4" column="12" />
       </file>
@@ -503,7 +508,7 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/layout-routing.module.ts" timestamp="1553939964745">
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563025134055">
+      <file name="/Dummy.txt" timestamp="1563029781167">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/Oauth2TokenClient.kt" timestamp="1553945061012">
@@ -675,7 +680,7 @@
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text>amounts</text>
+        <text>9999</text>
       </register>
       <register name="/" type="4">
         <text>prices-refresh-time</text>
