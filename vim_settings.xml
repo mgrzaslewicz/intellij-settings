@@ -12,7 +12,7 @@
       <file name="E:/prj/autocoin-exchange-engine/autocoin-exchange-api-rest/pom.xml" timestamp="1559471155754">
         <mark key="[" line="38" column="21" />
       </file>
-      <file name="/a.dummy" timestamp="1553809904567">
+      <file name="/a.dummy" timestamp="1563024042756">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/sell-higher-and-higher-specific-parameters/sell-higher-and-higher-specific-parameters.component.html" timestamp="1562872833719">
@@ -69,6 +69,12 @@
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/main/kotlin/automate/profit/autocoin/exchange/XchangeTickerProvider.kt" timestamp="1546003657899">
         <mark key="[" line="15" column="16" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.html" timestamp="1563024152081">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="69" />
+        <mark key="]" line="15" column="69" />
+        <mark key="." line="15" column="69" />
+      </file>
       <file name="E:/prj/autocoin-ticker-service/autocoin-exchange-engine/src/test/kotlin/automate/profit/autocoin/utils/MockMarketDataService.kt" timestamp="1547072425420">
         <mark key="[" line="2" column="46" />
       </file>
@@ -108,11 +114,11 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/exchange/wallet/XchangeWalletService.kt" timestamp="1546902256714">
         <mark key="[" line="15" column="39" />
       </file>
-      <file name="E:/prj/autocoin-trader-frontend/src/app/services/services.module.ts" timestamp="1562613863514">
-        <mark key="[" line="32" column="18" />
-        <mark key="]" line="31" column="44" />
-        <mark key="." line="31" column="44" />
-        <mark key="^" line="31" column="41" />
+      <file name="E:/prj/autocoin-trader-frontend/src/app/services/services.module.ts" timestamp="1563025119183">
+        <mark key="[" line="42" column="18" />
+        <mark key="]" line="35" column="44" />
+        <mark key="." line="35" column="44" />
+        <mark key="^" line="35" column="41" />
       </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/services/feature.toogle.service.ts" timestamp="1562257825341">
         <mark key="[" line="32" column="36" />
@@ -413,6 +419,13 @@
       <file name="E:/prj/autocoin-strategy-executor/src/main/kotlin/automate/profit/autocoin/strategy/initializer/InitialStrategyExecutorStateLoader.kt" timestamp="1552216057807">
         <mark key="[" line="43" column="47" />
       </file>
+      <file name="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" timestamp="1563024076084">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="141" column="64" />
+        <mark key="]" line="139" column="16" />
+        <mark key="^" line="139" column="16" />
+        <mark key="." line="139" column="16" />
+      </file>
       <file name="E:/prj/autocoin-trader-frontend/src/app/shared/guard/auth.guard.ts" timestamp="1553815125797">
         <mark key="[" line="6" column="13" />
       </file>
@@ -490,7 +503,7 @@
       <file name="E:/prj/autocoin-trader-frontend/src/app/layout/layout-routing.module.ts" timestamp="1553939964745">
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563023507005">
+      <file name="/Dummy.txt" timestamp="1563025134055">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/Oauth2TokenClient.kt" timestamp="1553945061012">
@@ -556,8 +569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="43" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
-      <jump line="76" column="63" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
       <jump line="77" column="19" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
       <jump line="94" column="39" filename="E:/prj/autocoin-auth-service/src/test/kotlin/autocoin/auth/api/useraccount/UserAccountControllerTest.kt" />
       <jump line="0" column="0" filename="E:/prj/autocoin-puppet/Vagrantfile" />
@@ -656,16 +667,18 @@
       <jump line="78" column="67" filename="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" />
       <jump line="138" column="44" filename="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" />
       <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/trading-automation/add-strategy-execution/add-strategy-execution.component.html" />
+      <jump line="0" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.html" />
+      <jump line="98" column="0" filename="E:/prj/autocoin-trader-frontend/src/app/layout/wallets/wallets.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>: a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiBPYnNlcnZhYmxlPFRva2VuUmVzcG9uc2VEdG8+IA==</text>
+        <text>amounts</text>
       </register>
       <register name="/" type="4">
-        <text>Currency pair</text>
+        <text>prices-refresh-time</text>
       </register>
       <register name="0" type="4">
         <text>this.refreshTokenKey</text>
@@ -702,9 +715,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Currency pair</last-search>
+      <last-search>prices-refresh-time</last-search>
       <last-offset />
-      <last-pattern>Currency pair</last-pattern>
+      <last-pattern>prices-refresh-time</last-pattern>
       <last-replace>adjustAmount</last-replace>
       <last-substitute>adjustSellAmount</last-substitute>
       <last-dir>1</last-dir>
@@ -712,8 +725,6 @@
     </search>
     <history>
       <history-search>
-        <entry>xchange</entry>
-        <entry>Multiplier</entry>
         <entry>high</entry>
         <entry>inline</entry>
         <entry encoding="base64">XDxnZXRNZXRhZGF0YVw+</entry>
@@ -732,6 +743,8 @@
         <entry>pattern</entry>
         <entry>Add st</entry>
         <entry>Currency pair</entry>
+        <entry>Refresh</entry>
+        <entry>prices-refresh-time</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ExchangeBalanceResult/CurrencyBalance/g</entry>
