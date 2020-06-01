@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="" password="">
+      <option name="address" value="localhost:5000" />
+      <option name="name" value="localhost" />
+      <option name="username" value="" />
+    </DockerRegistry>
+  </component>
+</application>
