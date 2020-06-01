@@ -108,6 +108,12 @@
         <mark key="." line="42" column="78" />
         <mark key="^" line="42" column="79" />
       </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/docker-compose.yml" timestamp="1591044770611">
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="10" />
+      </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/ServerBuilder.kt" timestamp="1590926090499">
         <mark key="[" line="42" column="34" />
         <mark key="]" line="42" column="42" />
@@ -193,11 +199,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyB7ICJDcmVhdGluZyB0cmFuc2FjdGlvbiBmb3IgY29pbiAkY29pbiIgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>redis</text>
       </register>
       <register name="-" type="4">
-        <text>TODO(&quot;Not yet implemented&quot;)</text>
+        <text>redis</text>
       </register>
       <register name="/" type="4">
         <text>spring</text>
@@ -206,31 +212,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFsIGVycm9yTWVzc2FnZSA9ICJDb3VsZCBub3QgZ2VuZXJhdGUgd2FsbGV0IGZvciBjb2luPSRjb2luLCBsYWJlbD0kd2FsbGV0TGFiZWwuIEJpdGdvIHJlc3BvbnNlIGNvZGU9JHtyZXNwb25zZS5jb2RlfSwgYm9keT0ke3Jlc3BvbnNlLmJvZHk/LnN0cmluZygpfSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyB7ICJDcmVhdGluZyB0cmFuc2FjdGlvbiBmb3IgY29pbiAkY29pbiIgfQo=</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gLjovY29kZQogICAgICAtIGxvZ3ZvbHVtZTAxOi92YXIvbG9nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyB7ICJDcmVhdGluZyAiIH0K</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyB7ICJDcmVhdGluZyB0cmFuc2FjdGlvbiBmb3IgY29pbiAkY29pbiIgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyB7ICJDcmVhdGluZyAiIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBDb250ZXh0LnNlcnZlci5zdGFydCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwganNvbiA9IHJlc3BvbnNlLmJvZHk/LnN0cmluZygpCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHBDb250ZXh0LnNlcnZlci5zdGFydCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBDb250ZXh0LnNlcnZlci5zdGFydCgpCiAgICAgICAgdmFsIHNlcnZlclVybCA9IGFwcENvbnRleHQuc2VydmVyLnNlcnZlckFkZHJlc3MoKQogICAgICAgIHZhbCByZXF1ZXN0ID0gUmVxdWVzdC5CdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5wb3N0KCkKICAgICAgICAgICAgICAgIC5idWlsZCgpCiAgICAgICAgYXBwQ29udGV4dC5odHRwQ2xpZW50V2l0aG91dEF1dGhvcml6YXRpb24ubmV3Q2FsbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwganNvbiA9IHJlc3BvbnNlLmJvZHk/LnN0cmluZygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2V5U3RvcmUubG9hZChpdCwga2V5c3RvcmVQYXNzd29yZCkK</text>
+        <text encoding="base64">ICAgICAgICBhcHBDb250ZXh0LnNlcnZlci5zdGFydCgpCiAgICAgICAgdmFsIHNlcnZlclVybCA9IGFwcENvbnRleHQuc2VydmVyLnNlcnZlckFkZHJlc3MoKQogICAgICAgIHZhbCByZXF1ZXN0ID0gUmVxdWVzdC5CdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5wb3N0KCkKICAgICAgICAgICAgICAgIC5idWlsZCgpCiAgICAgICAgYXBwQ29udGV4dC5odHRwQ2xpZW50V2l0aG91dEF1dGhvcml6YXRpb24ubmV3Q2FsbCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAga2V5U3RvcmUubG9hZChpdCwga2V5c3RvcmVQYXNzd29yZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSA9IAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
     </registers>
   </component>
