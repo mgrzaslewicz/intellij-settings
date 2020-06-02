@@ -96,6 +96,13 @@
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/HealthHandlerTest.kt" timestamp="1590919572392">
         <mark key="[" line="17" column="44" />
       </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/Dockerfile-full-build-in-container" timestamp="1591123191644">
+        <mark key="'" line="4" column="8" />
+        <mark key="[" line="0" column="42" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/repository/WalletRepository.kt" timestamp="1590924125370">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="6" column="32" />
@@ -108,11 +115,10 @@
         <mark key="." line="42" column="78" />
         <mark key="^" line="42" column="79" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/docker-compose.yml" timestamp="1591044999472">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="10" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/docker-compose.yml" timestamp="1591123030937">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="7" column="37" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/ServerBuilder.kt" timestamp="1590926090499">
         <mark key="[" line="42" column="34" />
@@ -152,7 +158,6 @@
         <mark key="^" line="57" column="21" />
         <mark key="." line="57" column="20" />
       </file>
-      <file name="/mnt/projects/repos/BitGoJS/modules/express/README.md" timestamp="1591025730481" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="/mnt/projects/repos/autocoin-strategy-executor/pom.xml" />
@@ -195,12 +200,13 @@
       <jump line="158" column="29" filename="/mnt/projects/repos/batm_public/server_extensions_extra/src/main/java/com/generalbytes/batm/server/extensions/extra/bitcoin/wallets/bitgo/v2/BitgoWallet.java" />
       <jump line="14" column="38" filename="/mnt/projects/repos/angeleo-wallet-service/pom.xml" />
       <jump line="246" column="32" filename="/mnt/projects/repos/angeleo-wallet-service/pom.xml" />
+      <jump line="2" column="8" filename="/mnt/projects/repos/angeleo-wallet-service/Dockerfile-full-build-in-container" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>3.3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkOiBEb2NrZXJmaWxlLWJ1aWxkLWFuZC1zdGFydAo=</text>
       </register>
       <register name="-" type="4">
         <text>3.3</text>
@@ -212,31 +218,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFsIGVycm9yTWVzc2FnZSA9ICJDb3VsZCBub3QgZ2VuZXJhdGUgd2FsbGV0IGZvciBjb2luPSRjb2luLCBsYWJlbD0kd2FsbGV0TGFiZWwuIEJpdGdvIHJlc3BvbnNlIGNvZGU9JHtyZXNwb25zZS5jb2RlfSwgYm9keT0ke3Jlc3BvbnNlLmJvZHk/LnN0cmluZygpfSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gLjovY29kZQogICAgICAtIGxvZ3ZvbHVtZTAxOi92YXIvbG9nCg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkOiBEb2NrZXJmaWxlLWJ1aWxkLWFuZC1zdGFydAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyB7ICJDcmVhdGluZyB0cmFuc2FjdGlvbiBmb3IgY29pbiAkY29pbiIgfQo=</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gLjovY29kZQogICAgICAtIGxvZ3ZvbHVtZTAxOi92YXIvbG9nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyB7ICJDcmVhdGluZyAiIH0K</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyB7ICJDcmVhdGluZyB0cmFuc2FjdGlvbiBmb3IgY29pbiAkY29pbiIgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyB7ICJDcmVhdGluZyAiIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBDb250ZXh0LnNlcnZlci5zdGFydCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwganNvbiA9IHJlc3BvbnNlLmJvZHk/LnN0cmluZygpCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHBDb250ZXh0LnNlcnZlci5zdGFydCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBDb250ZXh0LnNlcnZlci5zdGFydCgpCiAgICAgICAgdmFsIHNlcnZlclVybCA9IGFwcENvbnRleHQuc2VydmVyLnNlcnZlckFkZHJlc3MoKQogICAgICAgIHZhbCByZXF1ZXN0ID0gUmVxdWVzdC5CdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5wb3N0KCkKICAgICAgICAgICAgICAgIC5idWlsZCgpCiAgICAgICAgYXBwQ29udGV4dC5odHRwQ2xpZW50V2l0aG91dEF1dGhvcml6YXRpb24ubmV3Q2FsbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwganNvbiA9IHJlc3BvbnNlLmJvZHk/LnN0cmluZygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2V5U3RvcmUubG9hZChpdCwga2V5c3RvcmVQYXNzd29yZCkK</text>
+        <text encoding="base64">ICAgICAgICBhcHBDb250ZXh0LnNlcnZlci5zdGFydCgpCiAgICAgICAgdmFsIHNlcnZlclVybCA9IGFwcENvbnRleHQuc2VydmVyLnNlcnZlckFkZHJlc3MoKQogICAgICAgIHZhbCByZXF1ZXN0ID0gUmVxdWVzdC5CdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5wb3N0KCkKICAgICAgICAgICAgICAgIC5idWlsZCgpCiAgICAgICAgYXBwQ29udGV4dC5odHRwQ2xpZW50V2l0aG91dEF1dGhvcml6YXRpb24ubmV3Q2FsbCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAga2V5U3RvcmUubG9hZChpdCwga2V5c3RvcmVQYXNzd29yZCkK</text>
       </register>
     </registers>
   </component>
