@@ -20,6 +20,7 @@
         <entry>keychain</entry>
         <entry>var</entry>
         <entry>spring</entry>
+        <entry>latest</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -97,7 +98,9 @@
         <mark key="[" line="5" column="0" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/RunLocalSensitive.kt" timestamp="1591125058237" />
-      <file name="/mnt/projects/repos/BitGoJS/modules/express/README.md" timestamp="1591218641215" />
+      <file name="/mnt/projects/repos/BitGoJS/modules/express/README.md" timestamp="1591255745784">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" timestamp="1591128353212">
         <mark key="[" line="20" column="17" />
         <mark key="]" line="25" column="54" />
@@ -196,6 +199,8 @@
       <jump line="14" column="38" filename="/mnt/projects/repos/angeleo-wallet-service/pom.xml" />
       <jump line="246" column="32" filename="/mnt/projects/repos/angeleo-wallet-service/pom.xml" />
       <jump line="2" column="8" filename="/mnt/projects/repos/angeleo-wallet-service/Dockerfile-full-build-in-container" />
+      <jump line="122" column="41" filename="/mnt/projects/repos/BitGoJS/modules/express/README.md" />
+      <jump line="0" column="0" filename="/mnt/projects/repos/BitGoJS/modules/express/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -207,7 +212,7 @@
         <text>javaClass.getResource(&quot;/bitgoCreateWalletResponse.json&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>spring</text>
+        <text>latest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBjcmVhdGVUcmFuc2FjdGlvbkhhbmRsZXIgPSBDcmVhdGVUcmFuc2FjdGlvbkhhbmRsZXIoCiAgICAgICAgICAgIG9iamVjdE1hcHBlciA9IG9iamVjdE1hcHBlcgo=</text>
@@ -243,9 +248,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>spring</last-search>
+      <last-search>latest</last-search>
       <last-offset />
-      <last-pattern>spring</last-pattern>
+      <last-pattern>latest</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
