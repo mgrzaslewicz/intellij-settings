@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>63</entry>
         <entry>65</entry>
         <entry>orderBookE</entry>
         <entry encoding="base64">XDxtZXRyaWNzU2VydmljZVw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxzdGFja2V4Y2hhbmdlXD4=</entry>
         <entry>done</entry>
         <entry>getA</entry>
+        <entry>toRequestBO</entry>
       </history-search>
       <history-cmd>
         <entry>%s/done/finished/g</entry>
@@ -77,22 +77,25 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/TransactionController.kt" timestamp="1591637064233">
-        <mark key="'" line="25" column="16" />
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="30" />
-        <mark key="." line="12" column="29" />
-        <mark key="^" line="12" column="30" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/TransactionController.kt" timestamp="1591645892839">
+        <mark key="'" line="27" column="16" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="20" column="46" />
+        <mark key="." line="20" column="45" />
+        <mark key="^" line="20" column="46" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" timestamp="1591517831970">
-        <mark key="[" line="16" column="66" />
-        <mark key="]" line="72" column="60" />
-        <mark key="." line="71" column="0" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" timestamp="1591646843211">
+        <mark key="[" line="76" column="15" />
+        <mark key="]" line="76" column="15" />
+        <mark key="." line="76" column="15" />
         <mark key="^" line="70" column="67" />
       </file>
       <file name="/Dummy.txt" timestamp="1591125402977">
@@ -132,6 +135,9 @@
         <mark key="]" line="47" column="119" />
         <mark key="." line="47" column="119" />
       </file>
+      <file name="/" timestamp="1591646927586">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/ServerBuilder.kt" timestamp="1591636681272">
         <mark key="'" line="99" column="1" />
         <mark key="[" line="26" column="25" />
@@ -146,30 +152,25 @@
         <mark key="^" line="13" column="22" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppContext.kt" timestamp="1591636764807">
-        <mark key="[" line="42" column="60" />
+        <mark key="[" line="43" column="60" />
         <mark key="]" line="27" column="4" />
         <mark key="^" line="27" column="4" />
         <mark key="." line="27" column="3" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1591556104259">
-        <mark key="'" line="12" column="19" />
-        <mark key="[" line="36" column="57" />
-        <mark key="]" line="35" column="108" />
-        <mark key="." line="35" column="25" />
-        <mark key="^" line="35" column="25" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppConfig.kt" timestamp="1591125153165">
-        <mark key="[" line="12" column="82" />
-        <mark key="]" line="12" column="82" />
-        <mark key="." line="12" column="82" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1591646483130">
+        <mark key="'" line="162" column="38" />
+        <mark key="[" line="177" column="54" />
+        <mark key="]" line="177" column="54" />
+        <mark key="." line="177" column="54" />
+        <mark key="^" line="177" column="54" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/TestConfig.kt" timestamp="1591128348935">
         <mark key="[" line="5" column="19" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/repository/WalletService.kt" timestamp="1591555705547">
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="17" column="56" />
-        <mark key="." line="17" column="55" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/repository/WalletService.kt" timestamp="1591646045156">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
         <mark key="^" line="17" column="56" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/ObjectMapperProvider.kt" timestamp="1591127943327">
@@ -233,51 +234,52 @@
       <jump line="13" column="19" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
       <jump line="24" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/TransactionController.kt" />
       <jump line="95" column="1" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/ServerBuilder.kt" />
+      <jump line="164" column="38" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>transaction</text>
+        <text>eturnTransactionFeeForBtc</text>
       </register>
       <register name="-" type="4">
-        <text>transaction</text>
+        <text>eturnTransactionFeeForBtc</text>
       </register>
       <register name="/" type="4">
-        <text>getA</text>
+        <text>toRequestBO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgY29pbiA9IHNlcnZlckV4Y2hhbmdlLnBhdGhQYXJhbWV0ZXIoImNvaW4iKQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyB7ICJSZXF1ZXN0aW5nIHNlbmRjb2lucyBmcm9tIHdhbGxldDogY29pbj0kY29pbiwgd2FsbGV0QWRkcmVzcz0kd2FsbGV0QWRkcmVzcywgd2FsZXRJZD0ke3dhbGxldC5pZH0iIH0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHdhbGxldENhY2hlID0gQ29uY3VycmVudEhhc2hNYXA8U3RyaW5nLCBCaXRnb1dhbGxldFJlc3BvbnNlRHRvPigpCg==</text>
+      </register>
+      <register name="3" type="2">
         <text>data class ErrorResponseDto(
         val error: String,
         val code: String? = null
 )</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBiaXRnb1NlcnZpY2UgPSBCaXRnb1NlcnZpY2UoYmFzZUJpdGdvUHJveHlVcmwgPSBhcHBDb25maWcuYmFzZUJpdGdvUHJveHlVcmwsIG9iamVjdE1hcHBlciA9IG9iamVjdE1hcHBlciwgb2tIdHRwQ2xpZW50ID0gYml0Z29IdHRwQ2xpZW50KQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBiaXRnb1NlcnZpY2UgPSBCaXRnb1NlcnZpY2UoYmFzZUJpdGdvUHJveHlVcmwgPSBhcHBDb25maWcuYmFzZUJpdGdvUHJveHlVcmwsIG9iamVjdE1hcHBlciA9IG9iamVjdE1hcHBlciwgb2tIdHRwQ2xpZW50ID0gYml0Z29IdHRwQ2xpZW50KQo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCB3YWxsZXRTZXJ2aWNlID0gV2FsbGV0U2VydmljZShiaXRnb1NlcnZpY2UgPSBiaXRnb1NlcnZpY2UpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBiaXRnb1NlcnZpY2UgPSBCaXRnb1NlcnZpY2UoYmFzZUJpdGdvUHJveHlVcmwgPSBhcHBDb25maWcuYmFzZUJpdGdvUHJveHlVcmwsIG9iamVjdE1hcHBlciA9IG9iamVjdE1hcHBlciwgb2tIdHRwQ2xpZW50ID0gYml0Z29IdHRwQ2xpZW50KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGVycm9yOiBTdHJpbmcsIC8vIGh1bWFuIHJlYWRhYmxlIGVycm9yCg==</text>
+        <text encoding="base64">ICAgIHZhbCBiaXRnb1NlcnZpY2UgPSBCaXRnb1NlcnZpY2UoYmFzZUJpdGdvUHJveHlVcmwgPSBhcHBDb25maWcuYmFzZUJpdGdvUHJveHlVcmwsIG9iamVjdE1hcHBlciA9IG9iamVjdE1hcHBlciwgb2tIdHRwQ2xpZW50ID0gYml0Z29IdHRwQ2xpZW50KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgTm9XYWxsZXRXaXRoQWRkcmVzc0V4Y2VwdGlvbihwcml2YXRlIHZhbCB3YWxsZXRBZGRyZXNzOiBTdHJpbmcpIDogUnVudGltZUV4Y2VwdGlvbih3YWxsZXRBZGRyZXNzKQo=</text>
+        <text encoding="base64">ICAgIHZhbCB3YWxsZXRTZXJ2aWNlID0gV2FsbGV0U2VydmljZShiaXRnb1NlcnZpY2UgPSBiaXRnb1NlcnZpY2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGVycm9yOiBTdHJpbmcsIC8vIGh1bWFuIHJlYWRhYmxlIGVycm9yCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGVuCiAgICAgICAgYXNzZXJ0VGhhdCh0cmFuc2FjdGlvbkZlZSkuaXNFcXVhbFRvKCIwLjAwMzg2NSIpCg==</text>
+        <text encoding="base64">Y2xhc3MgTm9XYWxsZXRXaXRoQWRkcmVzc0V4Y2VwdGlvbihwcml2YXRlIHZhbCB3YWxsZXRBZGRyZXNzOiBTdHJpbmcpIDogUnVudGltZUV4Y2VwdGlvbih3YWxsZXRBZGRyZXNzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdHJhbnNhY3Rpb25GZWUgPSBiaXRnb1NlcnZpY2UuZ2V0VHJhbnNhY3Rpb25GZWUoImJ0YyIsICIyNS42OTgyIikK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name=":" type="4">
         <text>%s/done/finished/g</text>
@@ -286,9 +288,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>getA</last-search>
+      <last-search>toRequestBO</last-search>
       <last-offset />
-      <last-pattern>getA</last-pattern>
+      <last-pattern>toRequestBO</last-pattern>
       <last-replace>finished</last-replace>
       <last-substitute>done</last-substitute>
       <last-dir>1</last-dir>

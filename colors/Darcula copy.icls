@@ -17,6 +17,13 @@
         <option name="FOREGROUND" value="22af23" />
       </value>
     </option>
+    <option name="BRACE_ATTR">
+      <value>
+        <option name="FOREGROUND" value="d8ff5b" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="3c3f41" />
+      </value>
+    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="643f3f" />
@@ -35,6 +42,13 @@
     <option name="DEFAULT_PARAMETER">
       <value>
         <option name="FOREGROUND" value="ded023" />
+      </value>
+    </option>
+    <option name="DOUBLE_QUOTE_ATTR">
+      <value>
+        <option name="FOREGROUND" value="d8ff5b" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="1a62b7" />
       </value>
     </option>
     <option name="INHERITED_METHOD_ATTRIBUTES">
