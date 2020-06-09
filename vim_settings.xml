@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>add</entry>
         <entry encoding="base64">XDxwdWJsaXNoRXZlbnRcPg==</entry>
         <entry>jdbi</entry>
         <entry>Con</entry>
@@ -25,6 +24,7 @@
         <entry>Alice</entry>
         <entry>Bob</entry>
         <entry>amount</entry>
+        <entry>la</entry>
       </history-search>
       <history-cmd>
         <entry>%s/done/finished/g</entry>
@@ -113,9 +113,6 @@
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/test.puml" timestamp="1591724675890">
         <mark key="[" line="0" column="9" />
       </file>
-      <file name="/fragment.kt" timestamp="1591554408506">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BaseCoinUnitsConverterTest.kt" timestamp="1591649363228">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="12" column="43" />
@@ -135,6 +132,12 @@
         <mark key="^" line="0" column="44" />
         <mark key="." line="0" column="43" />
       </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoSessionUnlocker.kt" timestamp="1591733342416">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+        <mark key="." line="7" column="15" />
+      </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/WalletController.kt" timestamp="1591636577337">
         <mark key="[" line="47" column="121" />
         <mark key="]" line="47" column="119" />
@@ -145,6 +148,10 @@
       </file>
       <file name="/" timestamp="1591723793147">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.jdks/openjdk-14.0.1/lib/src.zip!/java.base/java/util/concurrent/ScheduledExecutorService.java" timestamp="1591733321195">
+        <mark key="[" line="163" column="30" />
+        <mark key="]" line="163" column="30" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/ServerBuilder.kt" timestamp="1591636681272">
         <mark key="'" line="99" column="1" />
@@ -168,15 +175,15 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="52" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1591730567793">
-        <mark key="'" line="224" column="38" />
-        <mark key="[" line="94" column="27" />
-        <mark key="]" line="94" column="50" />
-        <mark key="." line="94" column="49" />
-        <mark key="^" line="94" column="50" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1591733123763">
+        <mark key="'" line="25" column="25" />
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="101" column="28" />
+        <mark key="^" line="101" column="28" />
+        <mark key="." line="101" column="28" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppConfig.kt" timestamp="1591652606810">
-        <mark key="[" line="9" column="8" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppConfig.kt" timestamp="1591732933860">
+        <mark key="[" line="10" column="97" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="9" column="103" />
       </file>
@@ -185,9 +192,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="17" column="56" />
-      </file>
-      <file name="/fragment.java" timestamp="1591636553081">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -251,21 +255,22 @@
       <jump line="14" column="29" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" />
       <jump line="1" column="24" filename="/mnt/projects/repos/angeleo-wallet-service/doc/createTransaction.puml" />
       <jump line="2" column="0" filename="/mnt/projects/repos/angeleo-wallet-service/doc/createTransaction.puml" />
+      <jump line="24" column="25" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Requesting</text>
+        <text encoding="base64">IH0=</text>
       </register>
       <register name="-" type="4">
-        <text>Requesting</text>
+        <text encoding="base64">IH0=</text>
       </register>
       <register name="/" type="4">
-        <text>amount</text>
+        <text>la</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyB7ICJSZXF1ZXN0aW5nIHVubG9jayIgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8geyAiU2Vzc2lvbiBpcyBub3cgdW5sb2NrZWQiIH0K</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">Z2V0dGluZyB0cmFuc2FjdGlvbiBmZWU6IGNvaW49JGNvaW4sIA==</text>
@@ -304,12 +309,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>amount</last-search>
+      <last-search>la</last-search>
       <last-offset />
-      <last-pattern>amount</last-pattern>
+      <last-pattern>la</last-pattern>
       <last-replace>bitgoproxy</last-replace>
       <last-substitute>Bob</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
