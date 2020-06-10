@@ -140,6 +140,11 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="18" />
       </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/doc/bitgoUnlock.puml" timestamp="1591771701868">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+      </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" timestamp="1591735157221">
         <mark key="'" line="16" column="29" />
         <mark key="[" line="28" column="61" />
@@ -161,12 +166,6 @@
         <mark key="]" line="75" column="38" />
         <mark key="." line="75" column="38" />
         <mark key="^" line="75" column="38" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BaseCoinUnitsConverter.kt" timestamp="1591650350236">
-        <mark key="[" line="12" column="52" />
-        <mark key="]" line="12" column="53" />
-        <mark key="^" line="12" column="53" />
-        <mark key="." line="12" column="52" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1591736002980">
         <mark key="'" line="140" column="43" />
@@ -260,10 +259,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>bitgoproxy</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>bitgoproxy</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>toReq</text>
