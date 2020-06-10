@@ -102,6 +102,12 @@
         <mark key="^" line="2" column="64" />
         <mark key="." line="2" column="63" />
       </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoAuthInterceptor.kt" timestamp="1591814137971">
+        <mark key="[" line="5" column="53" />
+      </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" timestamp="1591814207380">
+        <mark key="[" line="47" column="111" />
+      </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/otp/TimeBasedOneTimePasswordTest.kt" timestamp="1591812099753">
         <mark key="[" line="4" column="36" />
       </file>
@@ -114,11 +120,6 @@
       <file name="/mnt/projects/repos/autocoin-auth-service/src/main/kotlin/autocoin/auth/twofactorauth/TimeBasedOneTimePassword.kt" timestamp="1591813097905">
         <mark key="[" line="184" column="0" />
         <mark key="]" line="184" column="44" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/doc/bitgoUnlock.puml" timestamp="1591771701868">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="1" column="21" />
-        <mark key="." line="1" column="21" />
       </file>
       <file name="/mnt/projects/repos/autocoin-auth-service/src/main/kotlin/autocoin/auth/twofactorauth/TimeProvider.kt" timestamp="1591810828607">
         <mark key="[" line="10" column="39" />
@@ -141,10 +142,10 @@
         <mark key="^" line="92" column="0" />
         <mark key="." line="93" column="31" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppContext.kt" timestamp="1591813503565">
-        <mark key="[" line="35" column="92" />
-        <mark key="]" line="28" column="4" />
-        <mark key="." line="28" column="3" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppContext.kt" timestamp="1591814186982">
+        <mark key="[" line="18" column="73" />
+        <mark key="]" line="18" column="73" />
+        <mark key="." line="18" column="73" />
         <mark key="^" line="28" column="4" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/otp/OneTimePasswordGeneratorTest.kt" timestamp="1591813210278">
@@ -160,7 +161,7 @@
         <mark key="^" line="108" column="14" />
         <mark key="." line="108" column="13" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppConfig.kt" timestamp="1591813323030">
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppConfig.kt" timestamp="1591814181245">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="98" />
         <mark key="." line="12" column="0" />
@@ -169,12 +170,6 @@
       <file name="/mnt/projects/repos/angeleo-wallet-service/target/trx.json" timestamp="1591808636980">
         <mark key="'" line="13" column="26" />
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/doc/createWallet.puml" timestamp="1591736889744">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="3" column="66" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/otp/FixedTimeBasedOneTimePasswordForTestingPurposes.kt" timestamp="1591811966131">
         <mark key="[" line="2" column="53" />
@@ -260,10 +255,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>coinS</text>
