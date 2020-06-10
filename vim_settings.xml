@@ -129,16 +129,18 @@
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="13" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/RunLocalSensitive.kt" timestamp="1591813981358">
+      <file name="/mnt/projects/repos/angeleo-wallet-service/docker-compose.yml" timestamp="1591820657978">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/RunLocalSensitive.kt" timestamp="1591820651543">
         <mark key="[" line="13" column="23" />
         <mark key="]" line="13" column="23" />
         <mark key="." line="13" column="23" />
       </file>
       <file name="/Dummy.txt" timestamp="1591813968928">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/otp/TimeBasedOneTimePasswordForTestingPurposes.kt" timestamp="1591811961874">
-        <mark key="[" line="2" column="6" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/otp/OneTimePasswordGenerator.kt" timestamp="1591813105881">
         <mark key="[" line="93" column="31" />
@@ -158,12 +160,12 @@
         <mark key="^" line="11" column="8" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1591819965323">
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1591820569733">
         <mark key="'" line="227" column="32" />
-        <mark key="[" line="231" column="33" />
-        <mark key="]" line="231" column="108" />
-        <mark key="^" line="231" column="108" />
-        <mark key="." line="231" column="107" />
+        <mark key="[" line="233" column="39" />
+        <mark key="]" line="244" column="27" />
+        <mark key="^" line="244" column="27" />
+        <mark key="." line="244" column="26" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppConfig.kt" timestamp="1591814181245">
         <mark key="[" line="12" column="17" />
@@ -271,11 +273,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Any</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLSBCSVRHT19PVFBfU0VDUkVUCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Any</text>
+        <text>BITGO_AUTH_TOKEN</text>
       </register>
       <register name="/" type="4">
         <text>history</text>
@@ -284,31 +286,31 @@
         <text encoding="base64">ICAgIHNldFByb3BlcnR5KCJCSVRHT19BVVRIX1RPS0VOIiwgInYyeGVmMzJjYzcyYzJhYWFiN2Y1MDhlMDExZmZiODA4ZmZiYmYzMDhiOGQxODYwNDA3ZmJjZjUzZjhhNDcxMmQxMmIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHByb3ZpZGUgT1RQIGZvciBwcm9kdWN0aW9uIGVudmlyb25tZW50Cg==</text>
+        <text encoding="base64">ICAgICAgLSBCSVRHT19PVFBfU0VDUkVUCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBiaXRnb09UUFNlY3JldDogQ2hhckFycmF5LAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHByb3ZpZGUgT1RQIGZvciBwcm9kdWN0aW9uIGVudmlyb25tZW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBiaXRnb09UUFNlY3JldDogQ2hhckFycmF5LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFNpbWlsYXIgdG8gWy52YWxpZGF0ZUN1cnJlbnROdW1iZXJdIGV4Y2VwdCBleHBvc2VzIG90aGVyIHBhcmFtZXRlcnMuIE1vc3RseSBmb3IgdGVzdGluZy4KICAgICAqCiAgICAgKiA8cD4KICAgICAqIFdBUk5JTkc6IFRoaXMgcmVxdWlyZXMgYSBzeXN0ZW0gY2xvY2sgdGhhdCBpcyBpbiBzeW5jIHdpdGggdGhlIHdvcmxkIGlmIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIHVzZWQuCiAgICAgKiA8L3A+CiAgICAgKgogICAgICogQHBhcmFtIGJhc2UzMlNlY3JldAogICAgICogU2VjcmV0IHN0cmluZyBlbmNvZGVkIHVzaW5nIGJhc2UtMzIgdGhhdCB3YXMgdXNlZCB0byBnZW5lcmF0ZSB0aGUgUVIgY29kZSBvciBzaGFyZWQgd2l0aCB0aGUgdXNlci4KICAgICAqIEBwYXJhbSBhdXRoTnVtYmVyCiAgICAgKiBUaW1lIGJhc2VkIG51bWJlciBwcm92aWRlZCBieSB0aGUgdXNlciBmcm9tIHRoZWlyIGF1dGhlbnRpY2F0b3IgYXBwbGljYXRpb24uCiAgICAgKiBAcGFyYW0gd2luZG93TWlsbGlzCiAgICAgKiBOdW1iZXIgb2YgbWlsbGlzZWNvbmRzIHRoYXQgdGhleSBhcmUgYWxsb3dlZCB0byBiZSBvZmYgYW5kIHN0aWxsIG1hdGNoLiBUaGlzIGNoZWNrcyBiZWZvcmUgYW5kIGFmdGVyCiAgICAgKiB0aGUgY3VycmVudCB0aW1lIHRvIGFjY291bnQgZm9yIGNsb2NrIHZhcmlhbmNlLiBTZXQgdG8gMCBmb3Igbm8gd2luZG93LgogICAgICogQHBhcmFtIHRpbWVNaWxsaXMKICAgICAqIFRpbWUgaW4gbWlsbGlzZWNvbmRzLgogICAgICogQHBhcmFtIHRpbWVTdGVwU2Vjb25kcwogICAgICogVGltZSBzdGVwIGluIHNlY29uZHMuIFRoZSBkZWZhdWx0IHZhbHVlIGlzIDMwIHNlY29uZHMgaGVyZS4gU2VlIFsuREVGQVVMVF9USU1FX1NURVBfU0VDT05EU10uCiAgICAgKiBAcmV0dXJuIFRydWUgaWYgdGhlIGF1dGhOdW1iZXIgbWF0Y2hlZCB0aGUgY2FsY3VsYXRlZCBudW1iZXIgd2l0aGluIHRoZSBzcGVjaWZpZWQgd2luZG93LgogICAgICovCiAgICBAVGhyb3dzKEdlbmVyYWxTZWN1cml0eUV4Y2VwdGlvbjo6Y2xhc3MpCiAgICBvcGVuIGZ1biB2YWxpZGF0ZUN1cnJlbnROdW1iZXIoYmFzZTMyU2VjcmV0OiBTdHJpbmcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0aE51bWJlcjogSW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpbmRvd01pbGxpczogSW50ID0gMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aW1lTWlsbGlzOiBMb25nID0gZ2V0Q3VycmVudFRpbWVNaWxsaXNGdW5jdGlvbigpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpbWVTdGVwU2Vjb25kczogSW50ID0gREVGQVVMVF9USU1FX1NURVBfU0VDT05EUyk6IEJvb2xlYW4gewogICAgICAgIHZhciBmcm9tID0gdGltZU1pbGxpcwogICAgICAgIHZhciB0byA9IHRpbWVNaWxsaXMKICAgICAgICBpZiAod2luZG93TWlsbGlzID4gMCkgewogICAgICAgICAgICBmcm9tIC09IHdpbmRvd01pbGxpcy50b0xvbmcoKQogICAgICAgICAgICB0byArPSB3aW5kb3dNaWxsaXMudG9Mb25nKCkKICAgICAgICB9CiAgICAgICAgdmFsIHRpbWVTdGVwTWlsbGlzID0gKHRpbWVTdGVwU2Vjb25kcyAqIDEwMDApLnRvTG9uZygpCiAgICAgICAgdmFyIG1pbGxpcyA9IGZyb20KICAgICAgICB3aGlsZSAobWlsbGlzIDw9IHRvKSB7CiAgICAgICAgICAgIHZhbCBjb21wYXJlID0gZ2VuZXJhdGVOdW1iZXIobWlsbGlzLCB0aW1lU3RlcFNlY29uZHMpCiAgICAgICAgICAgIGlmIChjb21wYXJlID09IGF1dGhOdW1iZXIudG9Mb25nKCkpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICAgICAgbWlsbGlzICs9IHRpbWVTdGVwTWlsbGlzCiAgICAgICAgfQogICAgICAgIHJldHVybiBmYWxzZQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CkBDb25maWd1cmF0aW9uCmNsYXNzIFRpbWVCYXNlZE9uZVRpbWVQYXNzd29yZENvbmYgewoKICAgIGNvbXBhbmlvbiBvYmplY3QgOiBLTG9nZ2luZygpCgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgdGltZVByb3ZpZGVyOiBUaW1lUHJvdmlkZXIKCiAgICBAQmVhbgogICAgZnVuIHRpbWVCYXNlZE9uZVRpbWVQYXNzd29yZChAVmFsdWUoIlwke3NhbXBsZUFsd2F5c0FjY2VwdGVkMkZBOm51bGx9IikgYWx3YXlzQWNjZXB0ZWQyRkE6IFN0cmluZz8pOiBUaW1lQmFzZWRPbmVUaW1lUGFzc3dvcmQgewogICAgICAgIHJldHVybiBpZiAoYWx3YXlzQWNjZXB0ZWQyRkEgIT0gbnVsbCAmJiBhbHdheXNBY2NlcHRlZDJGQS50b0ludE9yTnVsbCgpICE9IG51bGwpIHsKICAgICAgICAgICAgbG9nZ2VyLndhcm4oIlVzaW5nIHNhbXBsZUFsd2F5c0FjY2VwdGVkMkZBIikKICAgICAgICAgICAgVGltZUJhc2VkT25lVGltZVBhc3N3b3JkRm9yVGVzdGluZ1B1cnBvc2VzKHRpbWVQcm92aWRlciwgYWx3YXlzQWNjZXB0ZWQyRkEudG9JbnQoKSkKICAgICAgICB9IGVsc2UgVGltZUJhc2VkT25lVGltZVBhc3N3b3JkKHRpbWVQcm92aWRlcikKICAgIH0KfQo=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIFNpbWlsYXIgdG8gWy52YWxpZGF0ZUN1cnJlbnROdW1iZXJdIGV4Y2VwdCBleHBvc2VzIG90aGVyIHBhcmFtZXRlcnMuIE1vc3RseSBmb3IgdGVzdGluZy4KICAgICAqCiAgICAgKiA8cD4KICAgICAqIFdBUk5JTkc6IFRoaXMgcmVxdWlyZXMgYSBzeXN0ZW0gY2xvY2sgdGhhdCBpcyBpbiBzeW5jIHdpdGggdGhlIHdvcmxkIGlmIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIHVzZWQuCiAgICAgKiA8L3A+CiAgICAgKgogICAgICogQHBhcmFtIGJhc2UzMlNlY3JldAogICAgICogU2VjcmV0IHN0cmluZyBlbmNvZGVkIHVzaW5nIGJhc2UtMzIgdGhhdCB3YXMgdXNlZCB0byBnZW5lcmF0ZSB0aGUgUVIgY29kZSBvciBzaGFyZWQgd2l0aCB0aGUgdXNlci4KICAgICAqIEBwYXJhbSBhdXRoTnVtYmVyCiAgICAgKiBUaW1lIGJhc2VkIG51bWJlciBwcm92aWRlZCBieSB0aGUgdXNlciBmcm9tIHRoZWlyIGF1dGhlbnRpY2F0b3IgYXBwbGljYXRpb24uCiAgICAgKiBAcGFyYW0gd2luZG93TWlsbGlzCiAgICAgKiBOdW1iZXIgb2YgbWlsbGlzZWNvbmRzIHRoYXQgdGhleSBhcmUgYWxsb3dlZCB0byBiZSBvZmYgYW5kIHN0aWxsIG1hdGNoLiBUaGlzIGNoZWNrcyBiZWZvcmUgYW5kIGFmdGVyCiAgICAgKiB0aGUgY3VycmVudCB0aW1lIHRvIGFjY291bnQgZm9yIGNsb2NrIHZhcmlhbmNlLiBTZXQgdG8gMCBmb3Igbm8gd2luZG93LgogICAgICogQHBhcmFtIHRpbWVNaWxsaXMKICAgICAqIFRpbWUgaW4gbWlsbGlzZWNvbmRzLgogICAgICogQHBhcmFtIHRpbWVTdGVwU2Vjb25kcwogICAgICogVGltZSBzdGVwIGluIHNlY29uZHMuIFRoZSBkZWZhdWx0IHZhbHVlIGlzIDMwIHNlY29uZHMgaGVyZS4gU2VlIFsuREVGQVVMVF9USU1FX1NURVBfU0VDT05EU10uCiAgICAgKiBAcmV0dXJuIFRydWUgaWYgdGhlIGF1dGhOdW1iZXIgbWF0Y2hlZCB0aGUgY2FsY3VsYXRlZCBudW1iZXIgd2l0aGluIHRoZSBzcGVjaWZpZWQgd2luZG93LgogICAgICovCiAgICBAVGhyb3dzKEdlbmVyYWxTZWN1cml0eUV4Y2VwdGlvbjo6Y2xhc3MpCiAgICBvcGVuIGZ1biB2YWxpZGF0ZUN1cnJlbnROdW1iZXIoYmFzZTMyU2VjcmV0OiBTdHJpbmcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0aE51bWJlcjogSW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpbmRvd01pbGxpczogSW50ID0gMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aW1lTWlsbGlzOiBMb25nID0gZ2V0Q3VycmVudFRpbWVNaWxsaXNGdW5jdGlvbigpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpbWVTdGVwU2Vjb25kczogSW50ID0gREVGQVVMVF9USU1FX1NURVBfU0VDT05EUyk6IEJvb2xlYW4gewogICAgICAgIHZhciBmcm9tID0gdGltZU1pbGxpcwogICAgICAgIHZhciB0byA9IHRpbWVNaWxsaXMKICAgICAgICBpZiAod2luZG93TWlsbGlzID4gMCkgewogICAgICAgICAgICBmcm9tIC09IHdpbmRvd01pbGxpcy50b0xvbmcoKQogICAgICAgICAgICB0byArPSB3aW5kb3dNaWxsaXMudG9Mb25nKCkKICAgICAgICB9CiAgICAgICAgdmFsIHRpbWVTdGVwTWlsbGlzID0gKHRpbWVTdGVwU2Vjb25kcyAqIDEwMDApLnRvTG9uZygpCiAgICAgICAgdmFyIG1pbGxpcyA9IGZyb20KICAgICAgICB3aGlsZSAobWlsbGlzIDw9IHRvKSB7CiAgICAgICAgICAgIHZhbCBjb21wYXJlID0gZ2VuZXJhdGVOdW1iZXIobWlsbGlzLCB0aW1lU3RlcFNlY29uZHMpCiAgICAgICAgICAgIGlmIChjb21wYXJlID09IGF1dGhOdW1iZXIudG9Mb25nKCkpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICAgICAgbWlsbGlzICs9IHRpbWVTdGVwTWlsbGlzCiAgICAgICAgfQogICAgICAgIHJldHVybiBmYWxzZQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGpzb24gPSByZXNwb25zZS5ib2R5Py5zdHJpbmcoKQo=</text>
+        <text encoding="base64">CkBDb25maWd1cmF0aW9uCmNsYXNzIFRpbWVCYXNlZE9uZVRpbWVQYXNzd29yZENvbmYgewoKICAgIGNvbXBhbmlvbiBvYmplY3QgOiBLTG9nZ2luZygpCgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgdGltZVByb3ZpZGVyOiBUaW1lUHJvdmlkZXIKCiAgICBAQmVhbgogICAgZnVuIHRpbWVCYXNlZE9uZVRpbWVQYXNzd29yZChAVmFsdWUoIlwke3NhbXBsZUFsd2F5c0FjY2VwdGVkMkZBOm51bGx9IikgYWx3YXlzQWNjZXB0ZWQyRkE6IFN0cmluZz8pOiBUaW1lQmFzZWRPbmVUaW1lUGFzc3dvcmQgewogICAgICAgIHJldHVybiBpZiAoYWx3YXlzQWNjZXB0ZWQyRkEgIT0gbnVsbCAmJiBhbHdheXNBY2NlcHRlZDJGQS50b0ludE9yTnVsbCgpICE9IG51bGwpIHsKICAgICAgICAgICAgbG9nZ2VyLndhcm4oIlVzaW5nIHNhbXBsZUFsd2F5c0FjY2VwdGVkMkZBIikKICAgICAgICAgICAgVGltZUJhc2VkT25lVGltZVBhc3N3b3JkRm9yVGVzdGluZ1B1cnBvc2VzKHRpbWVQcm92aWRlciwgYWx3YXlzQWNjZXB0ZWQyRkEudG9JbnQoKSkKICAgICAgICB9IGVsc2UgVGltZUJhc2VkT25lVGltZVBhc3N3b3JkKHRpbWVQcm92aWRlcikKICAgIH0KfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYml0Z29BdXRoVG9rZW5DaGFyczogQ2hhckFycmF5ID0gZ2V0UHJvcGVydHlUaGVuRW52KCJCSVRHT19BVVRIX1RPS0VOIikudG9DaGFyQXJyYXkoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGpzb24gPSByZXNwb25zZS5ib2R5Py5zdHJpbmcoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBoZWFsdGhIYW5kZXIgPSBIZWFsdGhIYW5kbGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYml0Z29BdXRoVG9rZW5DaGFyczogQ2hhckFycmF5ID0gZ2V0UHJvcGVydHlUaGVuRW52KCJCSVRHT19BVVRIX1RPS0VOIikudG9DaGFyQXJyYXkoKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBiaXRnb1Nlc3Npb25VbmxvY2tlciA9IEJpdGdvU2Vzc2lvblVubG9ja2VyKCkK</text>
+        <text encoding="base64">ICAgIHZhbCBoZWFsdGhIYW5kZXIgPSBIZWFsdGhIYW5kbGVyKCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Bob/bitgoproxy/g</text>
