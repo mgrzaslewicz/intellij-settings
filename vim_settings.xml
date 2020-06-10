@@ -88,18 +88,14 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/TransactionController.kt" timestamp="1591651781901">
-        <mark key="'" line="24" column="16" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="17" column="46" />
-        <mark key="." line="17" column="45" />
-        <mark key="^" line="17" column="46" />
-      </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/test.puml" timestamp="1591724675890">
         <mark key="[" line="0" column="9" />
       </file>
@@ -110,6 +106,12 @@
         <mark key="." line="24" column="47" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/class.puml" timestamp="1591724651066" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/HealthHandlerTest.kt" timestamp="1591810467729">
+        <mark key="[" line="33" column="22" />
+        <mark key="]" line="32" column="67" />
+        <mark key="^" line="32" column="67" />
+        <mark key="." line="32" column="66" />
+      </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/doc/createTransaction.puml" timestamp="1591736424507">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="3" column="52" />
@@ -158,7 +160,7 @@
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/HealthHandler.kt" timestamp="1591733970151">
         <mark key="[" line="6" column="19" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppContext.kt" timestamp="1591734869203">
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppContext.kt" timestamp="1591810305248">
         <mark key="[" line="75" column="38" />
         <mark key="]" line="75" column="38" />
         <mark key="." line="75" column="38" />
@@ -262,10 +264,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>error</text>
+        <text>.setResponseCode(200).setBody(&quot;&quot;))</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>.setResponseCode(200).setBody(&quot;&quot;))</text>
       </register>
       <register name="/" type="4">
         <text>coinS</text>
