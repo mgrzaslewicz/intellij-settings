@@ -109,11 +109,8 @@
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" timestamp="1591814207380">
         <mark key="[" line="47" column="111" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/HealthHandlerTest.kt" timestamp="1591813704773">
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="32" />
-        <mark key="^" line="19" column="61" />
-        <mark key="." line="19" column="32" />
+      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api-xchange/pom.xml" timestamp="1591980858502">
+        <mark key="[" line="113" column="21" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoSendcoinsResponse.json" timestamp="1591818677900">
         <mark key="[" line="3" column="13" />
@@ -161,16 +158,11 @@
         <mark key="." line="18" column="73" />
         <mark key="^" line="28" column="4" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/otp/OneTimePasswordGeneratorTest.kt" timestamp="1591813210278">
-        <mark key="[" line="11" column="72" />
-        <mark key="]" line="8" column="27" />
-        <mark key="^" line="11" column="8" />
-        <mark key="." line="8" column="27" />
-      </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-mediator/pom.xml" timestamp="1591976349292">
+      <file name="/mnt/projects/repos/autocoin-exchange-mediator/pom.xml" timestamp="1591977881806">
+        <mark key="a" line="27" column="45" />
         <mark key="[" line="27" column="45" />
-        <mark key="]" line="27" column="54" />
-        <mark key="." line="27" column="53" />
+        <mark key="]" line="27" column="45" />
+        <mark key="." line="27" column="45" />
         <mark key="^" line="27" column="54" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1591820569733">
@@ -279,11 +271,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>-SNAPSHOT</text>
       </register>
       <register name="-" type="4">
-        <text>TODO(&quot;Not yet implemented&quot;)</text>
+        <text>-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text>onFirst</text>
