@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Bob</entry>
         <entry>amount</entry>
         <entry>la</entry>
         <entry>Int</entry>
@@ -25,6 +24,7 @@
         <entry>state</entry>
         <entry>tags</entry>
         <entry>history</entry>
+        <entry>onFirst</entry>
       </history-search>
       <history-cmd>
         <entry>%s/done/finished/g</entry>
@@ -99,20 +99,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/otp/FixedTimeBasedOneTimePassword.kt" timestamp="1591812009298">
-        <mark key="[" line="2" column="48" />
-        <mark key="]" line="2" column="64" />
-        <mark key="^" line="2" column="64" />
-        <mark key="." line="2" column="63" />
+      <file name="/Dummy.txt" timestamp="1591973416030">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/test/kotlin/automate/profit/autocoin/exchange/orderbook/OrderBookListenersTest.kt" timestamp="1591975956190">
+        <mark key="[" line="34" column="19" />
+        <mark key="." line="61" column="19" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoAuthInterceptor.kt" timestamp="1591814137971">
         <mark key="[" line="5" column="53" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" timestamp="1591814207380">
         <mark key="[" line="47" column="111" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/otp/TimeBasedOneTimePasswordTest.kt" timestamp="1591812099753">
-        <mark key="[" line="4" column="36" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/HealthHandlerTest.kt" timestamp="1591813704773">
         <mark key="[" line="19" column="16" />
@@ -124,6 +122,12 @@
         <mark key="[" line="184" column="0" />
         <mark key="]" line="184" column="44" />
       </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/otp/OneTimePasswordGenerator.kt" timestamp="1591813105881">
+        <mark key="[" line="93" column="31" />
+        <mark key="]" line="93" column="31" />
+        <mark key="^" line="92" column="0" />
+        <mark key="." line="93" column="31" />
+      </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoSendcoinsResponse.json" timestamp="1591818677900">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="13" />
@@ -133,20 +137,6 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/RunLocalSensitive.kt" timestamp="1591820883978">
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="23" />
-        <mark key="." line="13" column="23" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591813968928">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/otp/OneTimePasswordGenerator.kt" timestamp="1591813105881">
-        <mark key="[" line="93" column="31" />
-        <mark key="]" line="93" column="31" />
-        <mark key="^" line="92" column="0" />
-        <mark key="." line="93" column="31" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppContext.kt" timestamp="1591814186982">
         <mark key="[" line="18" column="73" />
@@ -159,6 +149,16 @@
         <mark key="]" line="8" column="27" />
         <mark key="^" line="11" column="8" />
         <mark key="." line="8" column="27" />
+      </file>
+      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/OrderBookListeners.kt" timestamp="1591976583158">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="81" column="5" />
+      </file>
+      <file name="/mnt/projects/repos/autocoin-exchange-mediator/pom.xml" timestamp="1591976349292">
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="27" column="54" />
+        <mark key="." line="27" column="53" />
+        <mark key="^" line="27" column="54" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1591820569733">
         <mark key="'" line="227" column="32" />
@@ -173,14 +173,22 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="9" column="41" />
       </file>
+      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/OrderBookFetchScheduler.kt" timestamp="1591976751021">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="48" column="0" />
+        <mark key="." line="48" column="62" />
+      </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/RunLocalSensitive.kt" timestamp="1591820883978">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+      </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/doc/createWallet.puml" timestamp="1591819085528">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="3" column="66" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/otp/FixedTimeBasedOneTimePasswordForTestingPurposes.kt" timestamp="1591811966131">
-        <mark key="[" line="2" column="53" />
       </file>
       <file name="/fragment.java" timestamp="1591813900867">
         <mark key="[" line="0" column="0" />
@@ -269,18 +277,19 @@
       <jump line="218" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
       <jump line="219" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
       <jump line="220" column="32" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
+      <jump line="23" column="0" filename="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/OrderBookListeners.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBCSVRHT19PVFBfU0VDUkVUCg==</text>
+      <register name="&quot;" type="4">
+        <text>TODO(&quot;Not yet implemented&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>BITGO_AUTH_TOKEN</text>
+        <text>TODO(&quot;Not yet implemented&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>history</text>
+        <text>onFirst</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNldFByb3BlcnR5KCJCSVRHT19BVVRIX1RPS0VOIiwgInYyeGVmMzJjYzcyYzJhYWFiN2Y1MDhlMDExZmZiODA4ZmZiYmYzMDhiOGQxODYwNDA3ZmJjZjUzZjhhNDcxMmQxMmIiKQo=</text>
@@ -319,9 +328,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>history</last-search>
+      <last-search>onFirst</last-search>
       <last-offset />
-      <last-pattern>history</last-pattern>
+      <last-pattern>onFirst</last-pattern>
       <last-replace>bitgoproxy</last-replace>
       <last-substitute>Bob</last-substitute>
       <last-dir>1</last-dir>
