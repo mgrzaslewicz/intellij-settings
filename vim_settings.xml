@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Int</entry>
         <entry>toReq</entry>
         <entry>conSP</entry>
         <entry>coinS</entry>
@@ -25,6 +24,7 @@
         <entry>onFirst</entry>
         <entry>stream</entry>
         <entry>),</entry>
+        <entry encoding="base64">XDxleGVjdXRvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/done/finished/g</entry>
@@ -137,8 +137,8 @@
         <mark key="^" line="116" column="12" />
         <mark key="." line="116" column="11" />
       </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/order/OrderBookListenerRegistrationController.kt" timestamp="1592077504870">
-        <mark key="[" line="31" column="68" />
+      <file name="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/order/OrderBookListenerRegistrationController.kt" timestamp="1592079269185">
+        <mark key="[" line="31" column="121" />
       </file>
       <file name="/mnt/projects/repos/autocoin-exchange-mediator/src/main/resources/application.yml" timestamp="1592057160115">
         <mark key="[" line="4" column="27" />
@@ -155,8 +155,8 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="17" />
       </file>
-      <file name="/mnt/projects/repos/autocoin-auth-service/log/autocoin-auth-service.log" timestamp="1591990398062">
-        <mark key="'" line="9" column="23" />
+      <file name="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/exchange/order/OrderBookSseStreamSenderService.kt" timestamp="1592079487358">
+        <mark key="'" line="79" column="20" />
       </file>
       <file name="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/exchange/TickerSseStreamConfig.kt" timestamp="1592077735433">
         <mark key="[" line="25" column="58" />
@@ -272,6 +272,7 @@
       <jump line="19" column="110" filename="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/RandomExchangeOrderBookService.kt" />
       <jump line="21" column="118" filename="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/RandomExchangeOrderBookService.kt" />
       <jump line="9" column="23" filename="/mnt/projects/repos/autocoin-auth-service/log/autocoin-auth-service.log" />
+      <jump line="79" column="20" filename="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/exchange/order/OrderBookSseStreamSenderService.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -283,7 +284,7 @@
         <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>),</text>
+        <text encoding="base64">XDxleGVjdXRvclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRlc3RlZC5nZXRUaWNrZXJMaXN0ZW5lcnMoQklOQU5DRSkpLmlzRXF1YWxUbyhtYXBPZigK</text>
@@ -322,9 +323,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>),</last-search>
+      <last-search encoding="base64">XDxleGVjdXRvclw+</last-search>
       <last-offset />
-      <last-pattern>),</last-pattern>
+      <last-pattern encoding="base64">XDxleGVjdXRvclw+</last-pattern>
       <last-replace>bitgoproxy</last-replace>
       <last-substitute>Bob</last-substitute>
       <last-dir>1</last-dir>
