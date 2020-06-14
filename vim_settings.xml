@@ -99,9 +99,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/TickerFetchScheduler.kt" timestamp="1592069271093">
-        <mark key="[" line="8" column="10" />
-      </file>
       <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/TickerListeners.kt" timestamp="1592085434617">
         <mark key="[" line="22" column="28" />
         <mark key="]" line="22" column="28" />
@@ -123,20 +120,6 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="54" />
       </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/OrderBookListeners.kt" timestamp="1592069547679">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="110" />
-      </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/exchange/TickerListenersConfig.kt" timestamp="1592070467553">
-        <mark key="[" line="10" column="42" />
-      </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/SynchronousTickerFetchScheduler.kt" timestamp="1592069805394">
-        <mark key="[" line="47" column="12" />
-        <mark key="]" line="29" column="29" />
-        <mark key="^" line="29" column="29" />
-        <mark key="." line="29" column="28" />
-      </file>
       <file name="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/exchange/ExchangesConfig.kt" timestamp="1592085796807">
         <mark key="'" line="111" column="16" />
         <mark key="[" line="154" column="68" />
@@ -147,11 +130,14 @@
       <file name="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/order/OrderBookListenerRegistrationController.kt" timestamp="1592079269185">
         <mark key="[" line="31" column="121" />
       </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-mediator/src/main/resources/application.yml" timestamp="1592057160115">
-        <mark key="[" line="4" column="27" />
-      </file>
       <file name="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/ticker/TickerListenerRegistrationController.kt" timestamp="1592077559719">
         <mark key="[" line="30" column="68" />
+      </file>
+      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/cache/CurrencyPairCache.kt" timestamp="1592166397847">
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="44" />
+        <mark key="^" line="5" column="44" />
+        <mark key="." line="5" column="43" />
       </file>
       <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/test/kotlin/automate/profit/autocoin/exchange/ticker/TickerListenersTest.kt" timestamp="1592085406598">
         <mark key="[" line="28" column="40" />
@@ -159,19 +145,25 @@
         <mark key="." line="28" column="40" />
         <mark key="^" line="65" column="17" />
       </file>
+      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/util/StringCache.kt" timestamp="1592160127133">
+        <mark key="[" line="14" column="13" />
+      </file>
+      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/cache/StringCache.kt" timestamp="1592165656305">
+        <mark key="[" line="9" column="13" />
+      </file>
+      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/currency/CurrencyPair.kt" timestamp="1592165253679">
+        <mark key="[" line="20" column="31" />
+      </file>
       <file name="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/exchange/order/OrderBookSseStreamSenderService.kt" timestamp="1592079487358">
         <mark key="'" line="79" column="20" />
       </file>
       <file name="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/exchange/TickerSseStreamConfig.kt" timestamp="1592077735433">
         <mark key="[" line="25" column="58" />
       </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/FeatureToggle.kt" timestamp="1592056743963">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="8" column="32" />
-        <mark key="." line="8" column="31" />
-        <mark key="^" line="8" column="32" />
+      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/cache/Cache.kt" timestamp="1592165425935">
+        <mark key="[" line="9" column="21" />
       </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-mediator/pom.xml" timestamp="1592085805209">
+      <file name="/mnt/projects/repos/autocoin-exchange-mediator/pom.xml" timestamp="1592167023069">
         <mark key="a" line="27" column="45" />
         <mark key="[" line="27" column="44" />
         <mark key="]" line="27" column="45" />
@@ -184,8 +176,8 @@
       <file name="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/exchange/OrderBookSseStreamConfig.kt" timestamp="1592077708383">
         <mark key="[" line="25" column="58" />
       </file>
-      <file name="/fragment.java" timestamp="1592066500171">
-        <mark key="[" line="0" column="0" />
+      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/RandomExchangeOrderBookService.kt" timestamp="1592166311917">
+        <mark key="[" line="17" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -287,10 +279,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGV4ZWN1dG9yU2VydmljZSA9IHRpY2tlckV4ZWN1dG9yU2VydmljZSA=</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGV4ZWN1dG9yU2VydmljZSA9IHRpY2tlckV4ZWN1dG9yU2VydmljZSA=</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>scheduler-th</text>
