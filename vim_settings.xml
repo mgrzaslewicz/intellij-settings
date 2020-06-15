@@ -171,6 +171,11 @@
         <mark key="]" line="149" column="43" />
         <mark key="." line="149" column="43" />
       </file>
+      <file name="/mnt/projects/repos/autocoin-arbitrage-monitor/pom.xml" timestamp="1592235848116">
+        <mark key="[" line="19" column="48" />
+        <mark key="]" line="19" column="48" />
+        <mark key="." line="19" column="48" />
+      </file>
       <file name="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/exchange/TickerSseStreamConfig.kt" timestamp="1592077735433">
         <mark key="[" line="25" column="58" />
       </file>
@@ -184,9 +189,6 @@
         <mark key="]" line="27" column="45" />
         <mark key="." line="27" column="45" />
         <mark key="^" line="27" column="54" />
-      </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/exchange/OrderBookSseStreamConfig.kt" timestamp="1592077708383">
-        <mark key="[" line="25" column="58" />
       </file>
       <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/RandomExchangeOrderBookService.kt" timestamp="1592166311917">
         <mark key="[" line="17" column="43" />
@@ -294,10 +296,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>isEqualTo</text>
+        <text>65</text>
       </register>
       <register name="-" type="4">
-        <text>isEqualTo</text>
+        <text>65</text>
       </register>
       <register name="/" type="4">
         <text>72</text>
