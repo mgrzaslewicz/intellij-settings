@@ -104,14 +104,12 @@
         <mark key="]" line="48" column="10" />
         <mark key="." line="48" column="10" />
       </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/TickerListeners.kt" timestamp="1592085434617">
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="22" column="28" />
-        <mark key="^" line="22" column="50" />
-        <mark key="." line="22" column="28" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/scheduled/BitgoSessionUnlockerScheduler.kt" timestamp="1592425337401">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="33" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api/1.0.70/autocoin-exchange-api-1.0.70-sources.jar!/automate/profit/autocoin/exchange/ticker/TickerListeners.kt" timestamp="1592085112297">
-        <mark key="'" line="23" column="41" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" timestamp="1592427016553">
+        <mark key="[" line="36" column="94" />
       </file>
       <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/OrderBook.kt" timestamp="1592169556132">
         <mark key="[" line="21" column="8" />
@@ -131,30 +129,20 @@
         <mark key="^" line="31" column="29" />
         <mark key="." line="31" column="28" />
       </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/exchange/ExchangesConfig.kt" timestamp="1592085796807">
-        <mark key="'" line="111" column="16" />
-        <mark key="[" line="154" column="68" />
-        <mark key="]" line="154" column="68" />
-        <mark key="^" line="154" column="30" />
-        <mark key="." line="154" column="68" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" timestamp="1592426717609">
+        <mark key="[" line="28" column="12" />
       </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/api/order/OrderBookListenerRegistrationController.kt" timestamp="1592079269185">
-        <mark key="[" line="31" column="121" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoUnlockInterceptor.kt" timestamp="1592425666666">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="23" column="36" />
+        <mark key="." line="23" column="36" />
+        <mark key="^" line="23" column="24" />
       </file>
       <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/cache/CurrencyPairCache.kt" timestamp="1592166397847">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="5" column="44" />
         <mark key="^" line="5" column="44" />
         <mark key="." line="5" column="43" />
-      </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/test/kotlin/automate/profit/autocoin/exchange/ticker/TickerListenersTest.kt" timestamp="1592085406598">
-        <mark key="[" line="28" column="40" />
-        <mark key="]" line="28" column="40" />
-        <mark key="." line="28" column="40" />
-        <mark key="^" line="65" column="17" />
-      </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/util/StringCache.kt" timestamp="1592160127133">
-        <mark key="[" line="14" column="13" />
       </file>
       <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/cache/StringCache.kt" timestamp="1592169660430">
         <mark key="[" line="14" column="42" />
@@ -176,8 +164,8 @@
         <mark key="]" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/exchange/TickerSseStreamConfig.kt" timestamp="1592077735433">
-        <mark key="[" line="25" column="58" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoUnlockSessionResponse.json" timestamp="1592426993697">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/cache/Cache.kt" timestamp="1592165425935">
         <mark key="[" line="9" column="21" />
@@ -190,8 +178,20 @@
         <mark key="." line="27" column="45" />
         <mark key="^" line="27" column="54" />
       </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppContext.kt" timestamp="1592426711899">
+        <mark key="[" line="33" column="43" />
+      </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1592426628018">
+        <mark key="[" line="22" column="57" />
+        <mark key="]" line="38" column="52" />
+        <mark key="^" line="38" column="52" />
+        <mark key="." line="38" column="51" />
+      </file>
       <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/RandomExchangeOrderBookService.kt" timestamp="1592166311917">
         <mark key="[" line="17" column="43" />
+      </file>
+      <file name="/fragment.java" timestamp="1592425059343">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -296,43 +296,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>65</text>
+        <text>AuthInterceptor</text>
       </register>
       <register name="-" type="4">
-        <text>65</text>
+        <text>AuthInterceptor</text>
       </register>
       <register name="/" type="4">
         <text>72</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnV5T3JkZXJzLmZvckVhY2hJbmRleGVkIHsgaW5kZXgsIGl0IC0+CiAgICAgICAgICAgICAgICBpZiAoaXQgIT0gb3RoZXIuYnV5T3JkZXJzW2luZGV4XSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcihlKSB7ICJBdHRlbXB0ICRjdXJyZW50QXR0ZW1wdC8kbWF4UmV0cmllcyBvZiB1bmxvY2tpbmcgc2Vzc2lvbiBmYWlsZWQiIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbWF4UmV0cmllcyA9IDUKICAgICAgICB2YWwgY3VycmVudEF0dGVtcHQgPSAxCiAgICAgICAgd2hpbGUgKCFiaXRnb1NlcnZpY2UuaXNTZXNzaW9uVW5sb2NrZWQoKSApCiAgICAgICAgaWYgKCFiaXRnb1NlcnZpY2UuaXNTZXNzaW9uVW5sb2NrZWQoKSkgewogICAgICAgICAgICAKICAgICAgICAgICAgYml0Z29TZXJ2aWNlLnVubG9ja1Nlc3Npb24oKQogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3VwcG9ydGVkRXhjaGFuZ2UudmFsdWVzKCkKICAgICAgICAgICAgICAgICAgICAuZmlsdGVyIHsgaXQgIWluIGFsbG93ZWRGcmVxdWVuY2llcy5rZXlzIH0KICAgICAgICAgICAgICAgICAgICAubWFwIHsgaXQgdG8gZGVmYXVsdEZyZXF1ZW5jeSB9CiAgICAgICAgICAgICAgICAgICAgLnRvTWFwKGFsbG93ZWRGcmVxdWVuY2llcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNoYWluLnByb2NlZWQocmVxdWVzdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFhjaGFuZ2VFeGNoYW5nZU9yZGVyQm9va1NlcnZpY2UoZmFjdG9yeSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2hhaW4ucHJvY2VlZChyZXF1ZXN0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSBCSVRHT19PVFBfU0VDUkVUCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3VwcG9ydGVkRXhjaGFuZ2UudmFsdWVzKCkKICAgICAgICAgICAgICAgICAgICAuZmlsdGVyIHsgaXQgIWluIGFsbG93ZWRGcmVxdWVuY2llcy5rZXlzIH0KICAgICAgICAgICAgICAgICAgICAubWFwIHsgaXQgdG8gZGVmYXVsdEZyZXF1ZW5jeSB9CiAgICAgICAgICAgICAgICAgICAgLnRvTWFwKGFsbG93ZWRGcmVxdWVuY2llcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHByb3ZpZGUgT1RQIGZvciBwcm9kdWN0aW9uIGVudmlyb25tZW50Cg==</text>
+        <text encoding="base64">ICAgIFhjaGFuZ2VFeGNoYW5nZU9yZGVyQm9va1NlcnZpY2UoZmFjdG9yeSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBiaXRnb09UUFNlY3JldDogQ2hhckFycmF5LAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBCSVRHT19PVFBfU0VDUkVUCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFNpbWlsYXIgdG8gWy52YWxpZGF0ZUN1cnJlbnROdW1iZXJdIGV4Y2VwdCBleHBvc2VzIG90aGVyIHBhcmFtZXRlcnMuIE1vc3RseSBmb3IgdGVzdGluZy4KICAgICAqCiAgICAgKiA8cD4KICAgICAqIFdBUk5JTkc6IFRoaXMgcmVxdWlyZXMgYSBzeXN0ZW0gY2xvY2sgdGhhdCBpcyBpbiBzeW5jIHdpdGggdGhlIHdvcmxkIGlmIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIHVzZWQuCiAgICAgKiA8L3A+CiAgICAgKgogICAgICogQHBhcmFtIGJhc2UzMlNlY3JldAogICAgICogU2VjcmV0IHN0cmluZyBlbmNvZGVkIHVzaW5nIGJhc2UtMzIgdGhhdCB3YXMgdXNlZCB0byBnZW5lcmF0ZSB0aGUgUVIgY29kZSBvciBzaGFyZWQgd2l0aCB0aGUgdXNlci4KICAgICAqIEBwYXJhbSBhdXRoTnVtYmVyCiAgICAgKiBUaW1lIGJhc2VkIG51bWJlciBwcm92aWRlZCBieSB0aGUgdXNlciBmcm9tIHRoZWlyIGF1dGhlbnRpY2F0b3IgYXBwbGljYXRpb24uCiAgICAgKiBAcGFyYW0gd2luZG93TWlsbGlzCiAgICAgKiBOdW1iZXIgb2YgbWlsbGlzZWNvbmRzIHRoYXQgdGhleSBhcmUgYWxsb3dlZCB0byBiZSBvZmYgYW5kIHN0aWxsIG1hdGNoLiBUaGlzIGNoZWNrcyBiZWZvcmUgYW5kIGFmdGVyCiAgICAgKiB0aGUgY3VycmVudCB0aW1lIHRvIGFjY291bnQgZm9yIGNsb2NrIHZhcmlhbmNlLiBTZXQgdG8gMCBmb3Igbm8gd2luZG93LgogICAgICogQHBhcmFtIHRpbWVNaWxsaXMKICAgICAqIFRpbWUgaW4gbWlsbGlzZWNvbmRzLgogICAgICogQHBhcmFtIHRpbWVTdGVwU2Vjb25kcwogICAgICogVGltZSBzdGVwIGluIHNlY29uZHMuIFRoZSBkZWZhdWx0IHZhbHVlIGlzIDMwIHNlY29uZHMgaGVyZS4gU2VlIFsuREVGQVVMVF9USU1FX1NURVBfU0VDT05EU10uCiAgICAgKiBAcmV0dXJuIFRydWUgaWYgdGhlIGF1dGhOdW1iZXIgbWF0Y2hlZCB0aGUgY2FsY3VsYXRlZCBudW1iZXIgd2l0aGluIHRoZSBzcGVjaWZpZWQgd2luZG93LgogICAgICovCiAgICBAVGhyb3dzKEdlbmVyYWxTZWN1cml0eUV4Y2VwdGlvbjo6Y2xhc3MpCiAgICBvcGVuIGZ1biB2YWxpZGF0ZUN1cnJlbnROdW1iZXIoYmFzZTMyU2VjcmV0OiBTdHJpbmcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0aE51bWJlcjogSW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpbmRvd01pbGxpczogSW50ID0gMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aW1lTWlsbGlzOiBMb25nID0gZ2V0Q3VycmVudFRpbWVNaWxsaXNGdW5jdGlvbigpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpbWVTdGVwU2Vjb25kczogSW50ID0gREVGQVVMVF9USU1FX1NURVBfU0VDT05EUyk6IEJvb2xlYW4gewogICAgICAgIHZhciBmcm9tID0gdGltZU1pbGxpcwogICAgICAgIHZhciB0byA9IHRpbWVNaWxsaXMKICAgICAgICBpZiAod2luZG93TWlsbGlzID4gMCkgewogICAgICAgICAgICBmcm9tIC09IHdpbmRvd01pbGxpcy50b0xvbmcoKQogICAgICAgICAgICB0byArPSB3aW5kb3dNaWxsaXMudG9Mb25nKCkKICAgICAgICB9CiAgICAgICAgdmFsIHRpbWVTdGVwTWlsbGlzID0gKHRpbWVTdGVwU2Vjb25kcyAqIDEwMDApLnRvTG9uZygpCiAgICAgICAgdmFyIG1pbGxpcyA9IGZyb20KICAgICAgICB3aGlsZSAobWlsbGlzIDw9IHRvKSB7CiAgICAgICAgICAgIHZhbCBjb21wYXJlID0gZ2VuZXJhdGVOdW1iZXIobWlsbGlzLCB0aW1lU3RlcFNlY29uZHMpCiAgICAgICAgICAgIGlmIChjb21wYXJlID09IGF1dGhOdW1iZXIudG9Mb25nKCkpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICAgICAgbWlsbGlzICs9IHRpbWVTdGVwTWlsbGlzCiAgICAgICAgfQogICAgICAgIHJldHVybiBmYWxzZQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHByb3ZpZGUgT1RQIGZvciBwcm9kdWN0aW9uIGVudmlyb25tZW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Bob/bitgoproxy/g</text>
