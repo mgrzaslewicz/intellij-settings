@@ -104,10 +104,19 @@
         <mark key="]" line="14" column="35" />
         <mark key="." line="14" column="35" />
       </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" timestamp="1592426717609">
+        <mark key="[" line="28" column="12" />
+      </file>
       <file name="/mnt/projects/repos/autocoin-arbitrage-monitor/scripts/start.sh" timestamp="1592235698422">
         <mark key="[" line="48" column="9" />
         <mark key="]" line="48" column="10" />
         <mark key="." line="48" column="10" />
+      </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoUnlockInterceptor.kt" timestamp="1592504745970">
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="30" column="24" />
+        <mark key="^" line="18" column="57" />
+        <mark key="." line="30" column="24" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/scheduled/BitgoSessionUnlockerScheduler.kt" timestamp="1592425337401">
         <mark key="[" line="12" column="0" />
@@ -118,33 +127,6 @@
         <mark key="]" line="23" column="109" />
         <mark key="^" line="23" column="109" />
         <mark key="." line="23" column="109" />
-      </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/OrderBook.kt" timestamp="1592169556132">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="18" />
-        <mark key="^" line="21" column="18" />
-        <mark key="." line="21" column="17" />
-      </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/SynchronousOrderBookFetchScheduler.kt" timestamp="1592235071425">
-        <mark key="[" line="90" column="66" />
-        <mark key="]" line="87" column="9" />
-        <mark key="^" line="87" column="9" />
-        <mark key="." line="87" column="8" />
-      </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/SynchronousTickerFetchScheduler.kt" timestamp="1592169669244">
-        <mark key="[" line="80" column="18" />
-        <mark key="]" line="31" column="29" />
-        <mark key="^" line="31" column="29" />
-        <mark key="." line="31" column="28" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" timestamp="1592426717609">
-        <mark key="[" line="28" column="12" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoUnlockInterceptor.kt" timestamp="1592429068998">
-        <mark key="[" line="20" column="47" />
-        <mark key="]" line="20" column="27" />
-        <mark key="." line="20" column="27" />
-        <mark key="^" line="18" column="23" />
       </file>
       <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/cache/CurrencyPairCache.kt" timestamp="1592166397847">
         <mark key="[" line="5" column="43" />
@@ -157,6 +139,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/OrderBook.kt" timestamp="1592169556132">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="18" />
+        <mark key="^" line="21" column="18" />
+        <mark key="." line="21" column="17" />
       </file>
       <file name="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/exchange/order/OrderBookSseStreamSenderService.kt" timestamp="1592167530542">
         <mark key="'" line="77" column="20" />
@@ -171,6 +159,12 @@
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoUnlockSessionResponse.json" timestamp="1592426993697">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/SynchronousOrderBookFetchScheduler.kt" timestamp="1592235071425">
+        <mark key="[" line="90" column="66" />
+        <mark key="]" line="87" column="9" />
+        <mark key="^" line="87" column="9" />
+        <mark key="." line="87" column="8" />
       </file>
       <file name="/mnt/projects/repos/autocoin-exchange-mediator/pom.xml" timestamp="1592235805709">
         <mark key="a" line="27" column="45" />
@@ -191,6 +185,12 @@
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoSessionLockedErrorResponse.json" timestamp="1592428068165">
         <mark key="[" line="0" column="1" />
+      </file>
+      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/SynchronousTickerFetchScheduler.kt" timestamp="1592169669244">
+        <mark key="[" line="80" column="18" />
+        <mark key="]" line="31" column="29" />
+        <mark key="^" line="31" column="29" />
+        <mark key="." line="31" column="28" />
       </file>
       <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/RandomExchangeOrderBookService.kt" timestamp="1592166311917">
         <mark key="[" line="17" column="43" />
@@ -301,10 +301,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Dto</text>
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>Dto</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>72</text>
