@@ -112,11 +112,10 @@
         <mark key="]" line="48" column="10" />
         <mark key="." line="48" column="10" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoUnlockInterceptor.kt" timestamp="1592504745970">
-        <mark key="[" line="24" column="20" />
-        <mark key="]" line="30" column="24" />
-        <mark key="^" line="18" column="57" />
-        <mark key="." line="30" column="24" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoUnlockInterceptor.kt" timestamp="1592513936976">
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="28" column="20" />
+        <mark key="." line="28" column="20" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/scheduled/BitgoSessionUnlockerScheduler.kt" timestamp="1592425337401">
         <mark key="[" line="12" column="0" />
@@ -177,11 +176,11 @@
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppContext.kt" timestamp="1592426711899">
         <mark key="[" line="33" column="43" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1592426628018">
-        <mark key="[" line="23" column="57" />
-        <mark key="]" line="39" column="52" />
-        <mark key="^" line="39" column="52" />
-        <mark key="." line="39" column="51" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1592514009755">
+        <mark key="[" line="264" column="73" />
+        <mark key="]" line="264" column="74" />
+        <mark key="^" line="264" column="74" />
+        <mark key="." line="264" column="73" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoSessionLockedErrorResponse.json" timestamp="1592428068165">
         <mark key="[" line="0" column="1" />
@@ -301,43 +300,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>?</text>
+        <text>.newBuilder().body(responseString?.toResponseBody(response.body?.contentType())).build()</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>.newBuilder().body(responseString?.toResponseBody(response.body?.contentType())).build()</text>
       </register>
       <register name="/" type="4">
         <text>72</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm4geyAiU2Vzc2lvbiB3YXMgbG9ja2VkLCB3aWxsIHRyeSB0byB1bmxvY2sgc2Vzc2lvbiBhbmQgcmV0cnkgdGhlIHJlcXVlc3QiIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYm9keSBzdHJlYW0gY2Fubm90IGJlIHJlYWQgdHdpY2Ugc28gY3JlYXRlIG5ldyBvbmUgd2l0aCB0aGUgc2FtZSBjb250ZW50CiAgICAgICAgICAgIHJlc3BvbnNlLm5ld0J1aWxkZXIoKS5ib2R5KHJlc3BvbnNlU3RyaW5nPy50b1Jlc3BvbnNlQm9keShyZXNwb25zZS5ib2R5Py5jb250ZW50VHlwZSgpKSkuYnVpbGQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrQml0Z29Qcm94eVNlcnZlci5lbnF1ZXVlKE1vY2tSZXNwb25zZSgpLnNldEJvZHkodGhpcy5qYXZhQ2xhc3MuZ2V0UmVzb3VyY2UoIi9iaXRnb1VubG9ja1Nlc3Npb25SZXNwb25zZS5qc29uIikucmVhZFRleHQoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzcG9uc2VTdHJpbmcgPSByZXNwb25zZS5ib2R5Py5zdHJpbmcoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
+        <text encoding="base64">ICAgICAgICBtb2NrQml0Z29Qcm94eVNlcnZlci5lbnF1ZXVlKE1vY2tSZXNwb25zZSgpLnNldEJvZHkodGhpcy5qYXZhQ2xhc3MuZ2V0UmVzb3VyY2UoIi9iaXRnb1VubG9ja1Nlc3Npb25SZXNwb25zZS5qc29uIikucmVhZFRleHQoKSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYWtlU3VyZVNlc3Npb25Jc1VubG9ja2VkKCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWF4UmV0cmllcyA9IDUKICAgICAgICB2YWwgY3VycmVudEF0dGVtcHQgPSAxCiAgICAgICAgd2hpbGUgKCFiaXRnb1NlcnZpY2UuaXNTZXNzaW9uVW5sb2NrZWQoKSApCiAgICAgICAgaWYgKCFiaXRnb1NlcnZpY2UuaXNTZXNzaW9uVW5sb2NrZWQoKSkgewogICAgICAgICAgICAKICAgICAgICAgICAgYml0Z29TZXJ2aWNlLnVubG9ja1Nlc3Npb24oKQogICAgICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNoYWluLnByb2NlZWQocmVxdWVzdCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2hhaW4ucHJvY2VlZChyZXF1ZXN0KQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtYWtlU3VyZVNlc3Npb25Jc1VubG9ja2VkKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgbWF4UmV0cmllcyA9IDUKICAgICAgICB2YWwgY3VycmVudEF0dGVtcHQgPSAxCiAgICAgICAgd2hpbGUgKCFiaXRnb1NlcnZpY2UuaXNTZXNzaW9uVW5sb2NrZWQoKSApCiAgICAgICAgaWYgKCFiaXRnb1NlcnZpY2UuaXNTZXNzaW9uVW5sb2NrZWQoKSkgewogICAgICAgICAgICAKICAgICAgICAgICAgYml0Z29TZXJ2aWNlLnVubG9ja1Nlc3Npb24oKQogICAgICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNoYWluLnByb2NlZWQocmVxdWVzdCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2hhaW4ucHJvY2VlZChyZXF1ZXN0KQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3VwcG9ydGVkRXhjaGFuZ2UudmFsdWVzKCkKICAgICAgICAgICAgICAgICAgICAuZmlsdGVyIHsgaXQgIWluIGFsbG93ZWRGcmVxdWVuY2llcy5rZXlzIH0KICAgICAgICAgICAgICAgICAgICAubWFwIHsgaXQgdG8gZGVmYXVsdEZyZXF1ZW5jeSB9CiAgICAgICAgICAgICAgICAgICAgLnRvTWFwKGFsbG93ZWRGcmVxdWVuY2llcykK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFhjaGFuZ2VFeGNoYW5nZU9yZGVyQm9va1NlcnZpY2UoZmFjdG9yeSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3VwcG9ydGVkRXhjaGFuZ2UudmFsdWVzKCkKICAgICAgICAgICAgICAgICAgICAuZmlsdGVyIHsgaXQgIWluIGFsbG93ZWRGcmVxdWVuY2llcy5rZXlzIH0KICAgICAgICAgICAgICAgICAgICAubWFwIHsgaXQgdG8gZGVmYXVsdEZyZXF1ZW5jeSB9CiAgICAgICAgICAgICAgICAgICAgLnRvTWFwKGFsbG93ZWRGcmVxdWVuY2llcykK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Bob/bitgoproxy/g</text>
