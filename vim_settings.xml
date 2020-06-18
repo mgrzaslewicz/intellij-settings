@@ -117,6 +117,9 @@
         <mark key="]" line="28" column="20" />
         <mark key="." line="28" column="20" />
       </file>
+      <file name="/Dummy.txt" timestamp="1592514784711">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/scheduled/BitgoSessionUnlockerScheduler.kt" timestamp="1592425337401">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="33" />
@@ -173,8 +176,11 @@
         <mark key="." line="27" column="45" />
         <mark key="^" line="27" column="54" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppContext.kt" timestamp="1592426711899">
-        <mark key="[" line="33" column="43" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppContext.kt" timestamp="1592514744713">
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="22" column="41" />
+        <mark key="^" line="22" column="54" />
+        <mark key="." line="22" column="41" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1592514009755">
         <mark key="[" line="264" column="73" />
@@ -190,9 +196,6 @@
         <mark key="]" line="31" column="29" />
         <mark key="^" line="31" column="29" />
         <mark key="." line="31" column="28" />
-      </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/RandomExchangeOrderBookService.kt" timestamp="1592166311917">
-        <mark key="[" line="17" column="43" />
       </file>
       <file name="/fragment.java" timestamp="1592425059343">
         <mark key="[" line="0" column="0" />
@@ -300,10 +303,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.newBuilder().body(responseString?.toResponseBody(response.body?.contentType())).build()</text>
+        <text>Temporal</text>
       </register>
       <register name="-" type="4">
-        <text>.newBuilder().body(responseString?.toResponseBody(response.body?.contentType())).build()</text>
+        <text>Temporal</text>
       </register>
       <register name="/" type="4">
         <text>72</text>
