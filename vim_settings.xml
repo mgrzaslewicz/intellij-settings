@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>tx</entry>
         <entry>hei</entry>
         <entry>date</entry>
         <entry>confi</entry>
@@ -25,6 +24,7 @@
         <entry>scheduler-th</entry>
         <entry>72</entry>
         <entry>Not impl</entry>
+        <entry encoding="base64">XDxodHRwQ2xpZW50V2l0aG91dEF1dGhvcml6YXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/done/finished/g</entry>
@@ -174,11 +174,12 @@
         <mark key="." line="27" column="45" />
         <mark key="^" line="27" column="54" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppContext.kt" timestamp="1592514824875">
-        <mark key="[" line="22" column="41" />
-        <mark key="]" line="23" column="20" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppContext.kt" timestamp="1592554591550">
+        <mark key="'" line="19" column="8" />
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="13" />
         <mark key="^" line="23" column="20" />
-        <mark key="." line="23" column="19" />
+        <mark key="." line="23" column="13" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BaseCoinUnitsConverter.kt" timestamp="1592517552294">
         <mark key="[" line="17" column="105" />
@@ -303,21 +304,22 @@
       <jump line="43" column="12" filename="/mnt/projects/repos/autocoin-exchange-mediator/pom.xml" />
       <jump line="57" column="30" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/TransactionController.kt" />
       <jump line="0" column="0" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/TransactionController.kt" />
+      <jump line="19" column="8" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppContext.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>read</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>read</text>
       </register>
       <register name="/" type="4">
-        <text>Not impl</text>
+        <text encoding="base64">XDxodHRwQ2xpZW50V2l0aG91dEF1dGhvcml6YXRpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYm9keSBzdHJlYW0gY2Fubm90IGJlIHJlYWQgdHdpY2Ugc28gY3JlYXRlIG5ldyBvbmUgd2l0aCB0aGUgc2FtZSBjb250ZW50CiAgICAgICAgICAgIHJlc3BvbnNlLm5ld0J1aWxkZXIoKS5ib2R5KHJlc3BvbnNlU3RyaW5nPy50b1Jlc3BvbnNlQm9keShyZXNwb25zZS5ib2R5Py5jb250ZW50VHlwZSgpKSkuYnVpbGQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnJlYWRUaW1lb3V0KER1cmF0aW9uLm9mKDMwLCBDaHJvbm9Vbml0LlNFQ09ORFMpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBiYXNlQ29pblVuaXRzQ29udmVydGVyLmZyb21TYXRvc2hpVG9BbW91bnQoZmVlRXN0aW1hKQo=</text>
@@ -353,9 +355,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Not impl</last-search>
+      <last-search encoding="base64">XDxodHRwQ2xpZW50V2l0aG91dEF1dGhvcml6YXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>Not impl</last-pattern>
+      <last-pattern encoding="base64">XDxodHRwQ2xpZW50V2l0aG91dEF1dGhvcml6YXRpb25cPg==</last-pattern>
       <last-replace>bitgoproxy</last-replace>
       <last-substitute>Bob</last-substitute>
       <last-dir>1</last-dir>
