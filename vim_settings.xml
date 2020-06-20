@@ -107,7 +107,7 @@
         <mark key="]" line="14" column="35" />
         <mark key="." line="14" column="35" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" timestamp="1592551743851">
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" timestamp="1592647077357">
         <mark key="[" line="63" column="46" />
         <mark key="]" line="53" column="50" />
         <mark key="." line="53" column="49" />
@@ -130,12 +130,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="33" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" timestamp="1592645652876">
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" timestamp="1592647149171">
         <mark key="'" line="83" column="51" />
-        <mark key="[" line="54" column="63" />
-        <mark key="]" line="54" column="82" />
-        <mark key="^" line="108" column="63" />
-        <mark key="." line="54" column="63" />
+        <mark key="[" line="99" column="65" />
+        <mark key="]" line="99" column="65" />
+        <mark key="." line="99" column="65" />
+        <mark key="^" line="103" column="82" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BaseCoinUnitsConverterTest.kt" timestamp="1592599376941">
         <mark key="[" line="27" column="14" />
@@ -148,7 +148,7 @@
         <mark key="]" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/WalletController.kt" timestamp="1592644700799">
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/WalletController.kt" timestamp="1592646599860">
         <mark key="[" line="99" column="6" />
         <mark key="]" line="115" column="15" />
         <mark key="^" line="116" column="55" />
@@ -157,11 +157,8 @@
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoUnlockSessionResponse.json" timestamp="1592426993697">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/SynchronousOrderBookFetchScheduler.kt" timestamp="1592235071425">
-        <mark key="[" line="90" column="66" />
-        <mark key="]" line="87" column="9" />
-        <mark key="^" line="87" column="9" />
-        <mark key="." line="87" column="8" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/ServerBuilder.kt" timestamp="1592647219065">
+        <mark key="[" line="51" column="23" />
       </file>
       <file name="/mnt/projects/repos/autocoin-exchange-mediator/pom.xml" timestamp="1592235805709">
         <mark key="a" line="27" column="45" />
@@ -184,6 +181,7 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="8" column="22" />
       </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetWalletTransactionDetailsResponse.json" timestamp="1592647344187" />
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1592644458557">
         <mark key="[" line="319" column="0" />
         <mark key="]" line="319" column="0" />
@@ -191,12 +189,6 @@
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoSessionLockedErrorResponse.json" timestamp="1592428068165">
         <mark key="[" line="0" column="1" />
-      </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/SynchronousTickerFetchScheduler.kt" timestamp="1592169669244">
-        <mark key="[" line="80" column="18" />
-        <mark key="]" line="31" column="29" />
-        <mark key="^" line="31" column="29" />
-        <mark key="." line="31" column="28" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1592581626185">
         <mark key="[" line="3" column="0" />
@@ -314,10 +306,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1, TimeUnit.SECONDS</text>
+        <text>CreateWalletResponseJson</text>
       </register>
       <register name="-" type="4">
-        <text>appContext.httpClientWithoutAuthorization.</text>
+        <text>CreateWalletResponseJson</text>
       </register>
       <register name="/" type="4">
         <text>takeRequest</text>
@@ -325,32 +317,32 @@
       <register name="0" type="4">
         <text>1, TimeUnit.SECONDS</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3BvbnNlLmlzU3VjY2Vzc2Z1bCkuaXNUcnVlKCkK</text>
+      </register>
+      <register name="2" type="4">
         <text>appContext.httpClientWithoutAuthorization.</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">bWFwIDxsZWFkZXI+ciA6YWN0aW9uIFJlcGxhY2U8Q1I+</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBiYXNlQ29pblVuaXRzQ29udmVydGVyLmZyb21TYXRvc2hpVG9BbW91bnQoZmVlRXN0aW1hKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgcmVzcG9uc2VTdHJpbmcgPSByZXNwb25zZS5ib2R5Py5zdHJpbmcoKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBtb2NrQml0Z29Qcm94eVNlcnZlci5lbnF1ZXVlKE1vY2tSZXNwb25zZSgpLnNldEJvZHkodGhpcy5qYXZhQ2xhc3MuZ2V0UmVzb3VyY2UoIi9iaXRnb1VubG9ja1Nlc3Npb25SZXNwb25zZS5qc29uIikucmVhZFRleHQoKSkpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYWtlU3VyZVNlc3Npb25Jc1VubG9ja2VkKCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWF4UmV0cmllcyA9IDUKICAgICAgICB2YWwgY3VycmVudEF0dGVtcHQgPSAxCiAgICAgICAgd2hpbGUgKCFiaXRnb1NlcnZpY2UuaXNTZXNzaW9uVW5sb2NrZWQoKSApCiAgICAgICAgaWYgKCFiaXRnb1NlcnZpY2UuaXNTZXNzaW9uVW5sb2NrZWQoKSkgewogICAgICAgICAgICAKICAgICAgICAgICAgYml0Z29TZXJ2aWNlLnVubG9ja1Nlc3Npb24oKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBtYWtlU3VyZVNlc3Npb25Jc1VubG9ja2VkKCkK</text>
       </register>
       <register name=":" type="4">
         <text>action $SelectAll</text>
