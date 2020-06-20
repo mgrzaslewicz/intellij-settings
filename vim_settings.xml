@@ -107,38 +107,16 @@
         <mark key="]" line="14" column="35" />
         <mark key="." line="14" column="35" />
       </file>
-      <file name="/mnt/projects/repos/autocoin-arbitrage-monitor/scripts/start.sh" timestamp="1592235698422">
-        <mark key="[" line="48" column="9" />
-        <mark key="]" line="48" column="10" />
-        <mark key="." line="48" column="10" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/scheduled/BitgoSessionUnlockerScheduler.kt" timestamp="1592425337401">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="33" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" timestamp="1592428853351">
-        <mark key="[" line="23" column="109" />
-        <mark key="]" line="23" column="109" />
-        <mark key="^" line="23" column="109" />
-        <mark key="." line="23" column="109" />
-      </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/SynchronousOrderBookFetchScheduler.kt" timestamp="1592235071425">
-        <mark key="[" line="90" column="66" />
-        <mark key="]" line="87" column="9" />
-        <mark key="^" line="87" column="9" />
-        <mark key="." line="87" column="8" />
-      </file>
-      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/SynchronousTickerFetchScheduler.kt" timestamp="1592169669244">
-        <mark key="[" line="80" column="18" />
-        <mark key="]" line="31" column="29" />
-        <mark key="^" line="31" column="29" />
-        <mark key="." line="31" column="28" />
-      </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" timestamp="1592551743851">
         <mark key="[" line="63" column="46" />
         <mark key="]" line="53" column="50" />
         <mark key="." line="53" column="49" />
         <mark key="^" line="53" column="50" />
+      </file>
+      <file name="/mnt/projects/repos/autocoin-arbitrage-monitor/scripts/start.sh" timestamp="1592235698422">
+        <mark key="[" line="48" column="9" />
+        <mark key="]" line="48" column="10" />
+        <mark key="." line="48" column="10" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoUnlockInterceptor.kt" timestamp="1592513936976">
         <mark key="[" line="28" column="20" />
@@ -147,6 +125,16 @@
       </file>
       <file name="/Dummy.txt" timestamp="1592517828342">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/scheduled/BitgoSessionUnlockerScheduler.kt" timestamp="1592425337401">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="33" />
+      </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" timestamp="1592641893730">
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="24" column="21" />
+        <mark key="^" line="96" column="55" />
+        <mark key="." line="24" column="21" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BaseCoinUnitsConverterTest.kt" timestamp="1592599376941">
         <mark key="[" line="27" column="14" />
@@ -159,14 +147,20 @@
         <mark key="]" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/WalletController.kt" timestamp="1592600194411">
-        <mark key="[" line="113" column="69" />
-        <mark key="]" line="113" column="69" />
-        <mark key="^" line="113" column="69" />
-        <mark key="." line="113" column="68" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/WalletController.kt" timestamp="1592642183483">
+        <mark key="[" line="122" column="45" />
+        <mark key="]" line="122" column="45" />
+        <mark key="^" line="112" column="61" />
+        <mark key="." line="122" column="45" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoUnlockSessionResponse.json" timestamp="1592426993697">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/SynchronousOrderBookFetchScheduler.kt" timestamp="1592235071425">
+        <mark key="[" line="90" column="66" />
+        <mark key="]" line="87" column="9" />
+        <mark key="^" line="87" column="9" />
+        <mark key="." line="87" column="8" />
       </file>
       <file name="/mnt/projects/repos/autocoin-exchange-mediator/pom.xml" timestamp="1592235805709">
         <mark key="a" line="27" column="45" />
@@ -196,6 +190,12 @@
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoSessionLockedErrorResponse.json" timestamp="1592428068165">
         <mark key="[" line="0" column="1" />
+      </file>
+      <file name="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/ticker/SynchronousTickerFetchScheduler.kt" timestamp="1592169669244">
+        <mark key="[" line="80" column="18" />
+        <mark key="]" line="31" column="29" />
+        <mark key="^" line="31" column="29" />
+        <mark key="." line="31" column="28" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1592581626185">
         <mark key="[" line="3" column="0" />
@@ -313,16 +313,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>, walletId=${wallet.id}</text>
+        <text>deleting wallet with address=$walletAddress</text>
       </register>
       <register name="-" type="4">
-        <text>, walletId=${wallet.id}</text>
+        <text>deleting wallet with address=$walletAddress</text>
       </register>
       <register name="/" type="4">
         <text>Marker</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVxdWVzdE1hcmtlciA9ICJjb2luPSRjb2luLCB3YWxsZXRBZGRyZXNzPSR3YWxsZXRBZGRyZXNzLCB3YWxsZXRJZD0ke3dhbGxldC5pZH0iCiAgICAgICAgbG9nZ2VyLmluZm8geyAiUmVxdWVzdGluZyBzZW5kY29pbnMgZnJvbSB3YWxsZXQ6ICRyZXF1ZXN0TWFya2VyIiB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGJpdGdvQ3JlYXRlV2FsbGV0UmVzcG9uc2VKc29uID0gdGhpcy5qYXZhQ2xhc3MuZ2V0UmVzb3VyY2UoIi9iaXRnb0NyZWF0ZVdhbGxldFJlc3BvbnNlLmpzb24iKS5yZWFkVGV4dCgpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bWFwIDxsZWFkZXI+ciA6YWN0aW9uIFJlcGxhY2U8Q1I+</text>
