@@ -159,11 +159,11 @@
         <mark key="]" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/WalletController.kt" timestamp="1592600151383">
-        <mark key="[" line="110" column="73" />
-        <mark key="]" line="111" column="70" />
-        <mark key="^" line="111" column="70" />
-        <mark key="." line="111" column="69" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/WalletController.kt" timestamp="1592600194411">
+        <mark key="[" line="113" column="69" />
+        <mark key="]" line="113" column="69" />
+        <mark key="^" line="113" column="69" />
+        <mark key="." line="113" column="68" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoUnlockSessionResponse.json" timestamp="1592426993697">
         <mark key="[" line="0" column="0" />
@@ -189,9 +189,9 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="8" column="22" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1592516658996">
-        <mark key="[" line="156" column="71" />
-        <mark key="]" line="157" column="16" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1592600173024">
+        <mark key="[" line="264" column="0" />
+        <mark key="]" line="265" column="74" />
         <mark key="." line="156" column="0" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoSessionLockedErrorResponse.json" timestamp="1592428068165">
@@ -313,16 +313,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>transacations</text>
+        <text>, walletId=${wallet.id}</text>
       </register>
       <register name="-" type="4">
-        <text>transacations</text>
+        <text>, walletId=${wallet.id}</text>
       </register>
       <register name="/" type="4">
         <text>Marker</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJlYWRUaW1lb3V0KER1cmF0aW9uLm9mKDMwLCBDaHJvbm9Vbml0LlNFQ09ORFMpKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVxdWVzdE1hcmtlciA9ICJjb2luPSRjb2luLCB3YWxsZXRBZGRyZXNzPSR3YWxsZXRBZGRyZXNzLCB3YWxsZXRJZD0ke3dhbGxldC5pZH0iCiAgICAgICAgbG9nZ2VyLmluZm8geyAiUmVxdWVzdGluZyBzZW5kY29pbnMgZnJvbSB3YWxsZXQ6ICRyZXF1ZXN0TWFya2VyIiB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bWFwIDxsZWFkZXI+ciA6YWN0aW9uIFJlcGxhY2U8Q1I+</text>
