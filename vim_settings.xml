@@ -130,12 +130,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="33" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" timestamp="1592647149171">
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" timestamp="1592770815310">
         <mark key="'" line="83" column="51" />
-        <mark key="[" line="99" column="65" />
-        <mark key="]" line="99" column="65" />
-        <mark key="." line="99" column="65" />
-        <mark key="^" line="103" column="82" />
+        <mark key="[" line="26" column="46" />
+        <mark key="]" line="96" column="35" />
+        <mark key="." line="96" column="34" />
+        <mark key="^" line="96" column="35" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BaseCoinUnitsConverterTest.kt" timestamp="1592599376941">
         <mark key="[" line="27" column="14" />
@@ -148,7 +148,7 @@
         <mark key="]" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/WalletController.kt" timestamp="1592646599860">
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/WalletController.kt" timestamp="1592770676980">
         <mark key="[" line="99" column="6" />
         <mark key="]" line="115" column="15" />
         <mark key="^" line="116" column="55" />
@@ -306,10 +306,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>CreateWalletResponseJson</text>
+        <text>History</text>
       </register>
       <register name="-" type="4">
-        <text>CreateWalletResponseJson</text>
+        <text>History</text>
       </register>
       <register name="/" type="4">
         <text>takeRequest</text>
