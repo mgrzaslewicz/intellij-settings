@@ -107,6 +107,27 @@
         <mark key="]" line="14" column="35" />
         <mark key="." line="14" column="35" />
       </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/scheduled/BitgoSessionUnlockerScheduler.kt" timestamp="1592425337401">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="33" />
+      </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" timestamp="1592943330394">
+        <mark key="'" line="147" column="24" />
+        <mark key="[" line="150" column="126" />
+        <mark key="]" line="147" column="25" />
+        <mark key="^" line="147" column="25" />
+        <mark key="." line="147" column="24" />
+      </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/README.md" timestamp="1592943676046">
+        <mark key="[" line="45" column="51" />
+      </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/ServerBuilder.kt" timestamp="1592647219065">
+        <mark key="[" line="51" column="23" />
+      </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferDetailsResponse.json" timestamp="1592864409311" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetWalletTransactionDetailsResponse.json" timestamp="1592846644570">
+        <mark key="'" line="20" column="18" />
+      </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" timestamp="1592647077357">
         <mark key="[" line="63" column="46" />
         <mark key="]" line="53" column="50" />
@@ -121,40 +142,21 @@
       <file name="/Dummy.txt" timestamp="1592517828342">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/scheduled/BitgoSessionUnlockerScheduler.kt" timestamp="1592425337401">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="33" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" timestamp="1592943330394">
-        <mark key="'" line="147" column="24" />
-        <mark key="[" line="150" column="126" />
-        <mark key="]" line="147" column="25" />
-        <mark key="^" line="147" column="25" />
-        <mark key="." line="147" column="24" />
-      </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BaseCoinUnitsConverterTest.kt" timestamp="1592599376941">
         <mark key="[" line="27" column="14" />
         <mark key="]" line="27" column="14" />
         <mark key="^" line="27" column="14" />
         <mark key="." line="27" column="13" />
       </file>
-      <file name="/mnt/projects/repos/autocoin-arbitrage-monitor/pom.xml" timestamp="1592235848116">
-        <mark key="[" line="19" column="48" />
-        <mark key="]" line="19" column="48" />
-        <mark key="." line="19" column="48" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/WalletController.kt" timestamp="1592943167020">
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/WalletController.kt" timestamp="1592944283391">
         <mark key="'" line="171" column="5" />
-        <mark key="[" line="115" column="19" />
-        <mark key="]" line="115" column="25" />
-        <mark key="^" line="115" column="25" />
-        <mark key="." line="115" column="24" />
+        <mark key="[" line="193" column="83" />
+        <mark key="]" line="189" column="78" />
+        <mark key="^" line="189" column="78" />
+        <mark key="." line="189" column="77" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoUnlockSessionResponse.json" timestamp="1592426993697">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/ServerBuilder.kt" timestamp="1592647219065">
-        <mark key="[" line="51" column="23" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppContext.kt" timestamp="1592937710144">
         <mark key="'" line="19" column="8" />
@@ -163,22 +165,18 @@
         <mark key="^" line="83" column="40" />
         <mark key="." line="83" column="62" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferDetailsResponse.json" timestamp="1592864409311" />
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BaseCoinUnitsConverter.kt" timestamp="1592517552294">
         <mark key="[" line="17" column="105" />
         <mark key="]" line="9" column="23" />
         <mark key="." line="9" column="23" />
         <mark key="^" line="8" column="22" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetWalletTransactionDetailsResponse.json" timestamp="1592846644570">
-        <mark key="'" line="20" column="18" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1592941639050">
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1592944264102">
         <mark key="'" line="262" column="23" />
-        <mark key="[" line="302" column="30" />
-        <mark key="]" line="302" column="31" />
-        <mark key="." line="302" column="30" />
-        <mark key="^" line="302" column="31" />
+        <mark key="[" line="353" column="71" />
+        <mark key="]" line="354" column="8" />
+        <mark key="." line="354" column="7" />
+        <mark key="^" line="354" column="8" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoSessionLockedErrorResponse.json" timestamp="1592428068165">
         <mark key="[" line="0" column="1" />
@@ -306,10 +304,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>input</text>
+        <text>&quot;$baseBitgoProxyUrl/api/v2/$coin/wallet/${wallet.id}/transfer&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>input</text>
+        <text>&quot;$baseBitgoProxyUrl/api/v2/$coin/wallet/${wallet.id}/transfer&quot;</text>
       </register>
       <register name="/" type="4">
         <text>wallet</text>
