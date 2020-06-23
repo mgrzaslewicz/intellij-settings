@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>scheduler-th</entry>
-        <entry>72</entry>
         <entry>Not impl</entry>
         <entry encoding="base64">XDxodHRwQ2xpZW50V2l0aG91dEF1dGhvcml6YXRpb25cPg==</entry>
         <entry>marker</entry>
@@ -25,6 +23,8 @@
         <entry>unconfirmed</entry>
         <entry>Re</entry>
         <entry>valueS</entry>
+        <entry encoding="base64">XDxlbnRyaWVzXD4=</entry>
+        <entry>wallet</entry>
       </history-search>
       <history-cmd>
         <entry>%s/done/finished/g</entry>
@@ -125,12 +125,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="33" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" timestamp="1592940472833">
-        <mark key="'" line="27" column="36" />
-        <mark key="[" line="146" column="5" />
-        <mark key="]" line="147" column="4" />
-        <mark key="^" line="147" column="4" />
-        <mark key="." line="147" column="3" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" timestamp="1592943330394">
+        <mark key="'" line="147" column="24" />
+        <mark key="[" line="150" column="126" />
+        <mark key="]" line="147" column="25" />
+        <mark key="^" line="147" column="25" />
+        <mark key="." line="147" column="24" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BaseCoinUnitsConverterTest.kt" timestamp="1592599376941">
         <mark key="[" line="27" column="14" />
@@ -143,12 +143,12 @@
         <mark key="]" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/WalletController.kt" timestamp="1592940095216">
-        <mark key="'" line="174" column="5" />
-        <mark key="[" line="200" column="36" />
-        <mark key="]" line="188" column="74" />
-        <mark key="^" line="188" column="74" />
-        <mark key="." line="188" column="73" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/WalletController.kt" timestamp="1592943167020">
+        <mark key="'" line="171" column="5" />
+        <mark key="[" line="115" column="19" />
+        <mark key="]" line="115" column="25" />
+        <mark key="^" line="115" column="25" />
+        <mark key="." line="115" column="24" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoUnlockSessionResponse.json" timestamp="1592426993697">
         <mark key="[" line="0" column="0" />
@@ -173,18 +173,22 @@
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetWalletTransactionDetailsResponse.json" timestamp="1592846644570">
         <mark key="'" line="20" column="18" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1592937204868">
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1592941639050">
         <mark key="'" line="262" column="23" />
-        <mark key="[" line="337" column="5" />
-        <mark key="]" line="336" column="40" />
-        <mark key="." line="336" column="39" />
-        <mark key="^" line="336" column="40" />
+        <mark key="[" line="302" column="30" />
+        <mark key="]" line="302" column="31" />
+        <mark key="." line="302" column="30" />
+        <mark key="^" line="302" column="31" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoSessionLockedErrorResponse.json" timestamp="1592428068165">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" timestamp="1592940334717">
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" timestamp="1592942781503">
+        <mark key="'" line="362" column="25" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="47" column="6" />
+        <mark key="^" line="47" column="6" />
+        <mark key="." line="47" column="5" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1592581626185">
         <mark key="[" line="3" column="0" />
@@ -197,26 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="366" column="10" filename="/mnt/projects/repos/BitGoJS/modules/express/src/clientRoutes.ts" />
-      <jump line="560" column="61" filename="/mnt/projects/repos/BitGoJS/modules/express/src/clientRoutes.ts" />
-      <jump line="797" column="9" filename="/mnt/projects/repos/BitGoJS/modules/express/src/clientRoutes.ts" />
-      <jump line="82" column="19" filename="/mnt/projects/repos/BitGoJS/modules/express/src/clientRoutes.ts" />
-      <jump line="381" column="12" filename="/mnt/projects/repos/BitGoJS/modules/express/src/clientRoutes.ts" />
-      <jump line="387" column="14" filename="/mnt/projects/repos/BitGoJS/modules/express/src/clientRoutes.ts" />
-      <jump line="741" column="20" filename="/mnt/projects/repos/BitGoJS/modules/express/src/clientRoutes.ts" />
-      <jump line="742" column="20" filename="/mnt/projects/repos/BitGoJS/modules/express/src/clientRoutes.ts" />
-      <jump line="799" column="12" filename="/mnt/projects/repos/BitGoJS/modules/express/src/clientRoutes.ts" />
-      <jump line="801" column="19" filename="/mnt/projects/repos/BitGoJS/modules/express/src/clientRoutes.ts" />
-      <jump line="74" column="19" filename="/mnt/projects/repos/BitGoJS/modules/express/src/clientRoutes.ts" />
-      <jump line="4" column="28" filename="/mnt/projects/repos/BitGoJS/Dockerfile" />
-      <jump line="0" column="0" filename="/mnt/projects/repos/BitGoJS/Dockerfile" />
-      <jump line="158" column="29" filename="/mnt/projects/repos/batm_public/server_extensions_extra/src/main/java/com/generalbytes/batm/server/extensions/extra/bitcoin/wallets/bitgo/v2/BitgoWallet.java" />
-      <jump line="14" column="38" filename="/mnt/projects/repos/angeleo-wallet-service/pom.xml" />
-      <jump line="246" column="32" filename="/mnt/projects/repos/angeleo-wallet-service/pom.xml" />
-      <jump line="2" column="8" filename="/mnt/projects/repos/angeleo-wallet-service/Dockerfile-full-build-in-container" />
-      <jump line="122" column="41" filename="/mnt/projects/repos/BitGoJS/modules/express/README.md" />
-      <jump line="0" column="0" filename="/mnt/projects/repos/BitGoJS/modules/express/README.md" />
-      <jump line="76" column="41" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
       <jump line="19" column="19" filename="/mnt/projects/repos/angeleo-wallet-service/README.md" />
       <jump line="12" column="95" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
       <jump line="120" column="87" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
@@ -297,21 +281,41 @@
       <jump line="28" column="0" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" />
       <jump line="174" column="5" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/WalletController.kt" />
       <jump line="27" column="36" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" />
+      <jump line="47" column="7" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
+      <jump line="145" column="7" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
+      <jump line="0" column="0" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
+      <jump line="6" column="7" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
+      <jump line="50" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
+      <jump line="55" column="9" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
+      <jump line="74" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
+      <jump line="87" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
+      <jump line="99" column="7" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
+      <jump line="148" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
+      <jump line="173" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
+      <jump line="186" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
+      <jump line="198" column="7" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
+      <jump line="242" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
+      <jump line="273" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
+      <jump line="286" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
+      <jump line="297" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
+      <jump line="309" column="7" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
+      <jump line="362" column="25" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
+      <jump line="147" column="24" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRyYW5zYWN0aW9uRGV0YWlscykuaXNFcXVhbFRvKEdldFdhbGxldFRyYW5zYWN0aW9uRGV0YWlsc1Jlc3BvbnNlRHRvKAogICAgICAgICAgICAgICAgdHlwZSA9ICJyZWNlaXZlIiwKICAgICAgICAgICAgICAgIGNvbmZpcm1lZFRpbWUgPSAiMjAyMC0wNi0xOVQyMDo1MTozNy44NTlaIiwKICAgICAgICAgICAgICAgIGNyZWF0ZWRUaW1lID0gIjIwMjAtMDYtMTlUMjA6NDk6NTEuOTA0WiIsCiAgICAgICAgICAgICAgICBhbW91bnQgPSAiMC4wMDAwNjU3OSIsCiAgICAgICAgICAgICAgICB0cmFuc2FjdGlvbklkID0gdHJhbnNhY3Rpb25JZCwKICAgICAgICAgICAgICAgIHNvdXJjZUFkZHJlc3MgPSAiMk5GdmgyaTlnNDRvV3dNZlpEdmJ0eXR2aHliTHhyeERvQ24iLAogICAgICAgICAgICAgICAgZGVzdGluYXRpb25BZGRyZXNzID0gIjJNdEplaVRKQzhuaXRybzdKbWJnV1hQaEZNd0d5VVRUdVV1IiwKICAgICAgICAgICAgICAgIGN1cnJlbmN5ID0gIkJUQyIKICAgICAgICApKQo=</text>
+      <register name="&quot;" type="4">
+        <text>input</text>
       </register>
       <register name="-" type="4">
-        <text>/$transactionId</text>
+        <text>input</text>
       </register>
       <register name="/" type="4">
-        <text>valueS</text>
+        <text>wallet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGJpdGdvQ3JlYXRlV2FsbGV0UmVzcG9uc2VKc29uID0gdGhpcy5qYXZhQ2xhc3MuZ2V0UmVzb3VyY2UoIi9iaXRnb0NyZWF0ZVdhbGxldFJlc3BvbnNlLmpzb24iKS5yZWFkVGV4dCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGlucHV0QWRkcmVzc2VzICs9IGVudHJ5LmFkZHJlc3MgCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRyYW5zYWN0aW9uRGV0YWlscykuaXNFcXVhbFRvKEdldFdhbGxldFRyYW5zYWN0aW9uRGV0YWlsc1Jlc3BvbnNlRHRvKAogICAgICAgICAgICAgICAgdHlwZSA9ICJyZWNlaXZlIiwKICAgICAgICAgICAgICAgIGNvbmZpcm1lZFRpbWUgPSAiMjAyMC0wNi0xOVQyMDo1MTozNy44NTlaIiwKICAgICAgICAgICAgICAgIGNyZWF0ZWRUaW1lID0gIjIwMjAtMDYtMTlUMjA6NDk6NTEuOTA0WiIsCiAgICAgICAgICAgICAgICBhbW91bnQgPSAiMC4wMDAwNjU3OSIsCiAgICAgICAgICAgICAgICB0cmFuc2FjdGlvbklkID0gdHJhbnNhY3Rpb25JZCwKICAgICAgICAgICAgICAgIHNvdXJjZUFkZHJlc3MgPSAiMk5GdmgyaTlnNDRvV3dNZlpEdmJ0eXR2aHliTHhyeERvQ24iLAogICAgICAgICAgICAgICAgZGVzdGluYXRpb25BZGRyZXNzID0gIjJNdEplaVRKQzhuaXRybzdKbWJnV1hQaEZNd0d5VVRUdVV1IiwKICAgICAgICAgICAgICAgIGN1cnJlbmN5ID0gIkJUQyIKICAgICAgICApKQo=</text>
@@ -347,9 +351,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>valueS</last-search>
+      <last-search>wallet</last-search>
       <last-offset />
-      <last-pattern>valueS</last-pattern>
+      <last-pattern>wallet</last-pattern>
       <last-replace>bitgoproxy</last-replace>
       <last-substitute>Bob</last-substitute>
       <last-dir>1</last-dir>
