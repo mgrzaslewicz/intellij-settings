@@ -104,14 +104,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/TransactionController.kt" timestamp="1593035858349">
+        <mark key="'" line="79" column="25" />
+        <mark key="[" line="59" column="83" />
+        <mark key="]" line="14" column="35" />
+        <mark key="." line="14" column="35" />
+      </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/metrics/AzureTelemetricClient.kt" timestamp="1593016404890">
         <mark key="[" line="8" column="20" />
         <mark key="]" line="16" column="80" />
         <mark key="." line="16" column="79" />
         <mark key="^" line="16" column="80" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" timestamp="1593034286797">
-        <mark key="'" line="143" column="33" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" timestamp="1593035809686">
+        <mark key="'" line="144" column="33" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/metrics/NoOpMetricsService.kt" timestamp="1593016790073">
         <mark key="[" line="7" column="8" />
@@ -126,7 +132,12 @@
         <mark key="^" line="16" column="17" />
         <mark key="." line="23" column="12" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/microsoft/azure/applicationinsights-core/2.6.1/applicationinsights-core-2.6.1-sources.jar!/com/microsoft/applicationinsights/TelemetryClient.java" timestamp="1593012087669" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/ServerBuilder.kt" timestamp="1593035924727">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="16" />
+        <mark key="^" line="29" column="16" />
+        <mark key="." line="29" column="15" />
+      </file>
       <file name="$USER_HOME$/.jdks/openjdk-14.0.1/lib/src.zip!/java.base/javax/net/ssl/HostnameVerifier.java" timestamp="1593033640986" />
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" timestamp="1593018149826">
         <mark key="'" line="83" column="32" />
@@ -135,7 +146,7 @@
         <mark key="." line="35" column="48" />
         <mark key="^" line="35" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593022279469">
+      <file name="/Dummy.txt" timestamp="1593035837796">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/Application.kt" timestamp="1593017330292">
@@ -146,6 +157,9 @@
       </file>
       <file name="kotlinDecompiled/WalletControllerTest.decompiled.java" timestamp="1593034407037">
         <mark key="'" line="68" column="77" />
+      </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppContext.kt" timestamp="1593035639362">
+        <mark key="[" line="122" column="22" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1593017934649">
         <mark key="'" line="262" column="23" />
@@ -276,10 +290,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cnVzdEFsbENlcnRzTWFuYWdlclw+</text>
