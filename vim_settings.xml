@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Not impl</entry>
         <entry encoding="base64">XDxodHRwQ2xpZW50V2l0aG91dEF1dGhvcml6YXRpb25cPg==</entry>
         <entry>marker</entry>
         <entry>Marker</entry>
@@ -25,6 +24,7 @@
         <entry>valueS</entry>
         <entry encoding="base64">XDxlbnRyaWVzXD4=</entry>
         <entry>wallet</entry>
+        <entry encoding="base64">XDx0cnVzdEFsbENlcnRzTWFuYWdlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/done/finished/g</entry>
@@ -110,21 +110,14 @@
         <mark key="." line="16" column="79" />
         <mark key="^" line="16" column="80" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" timestamp="1593033239904">
-        <mark key="'" line="142" column="33" />
-        <mark key="[" line="41" column="27" />
-        <mark key="]" line="41" column="39" />
-        <mark key="^" line="41" column="39" />
-        <mark key="." line="41" column="38" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" timestamp="1593034286797">
+        <mark key="'" line="143" column="33" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/metrics/NoOpMetricsService.kt" timestamp="1593016790073">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="60" />
         <mark key="^" line="7" column="60" />
         <mark key="." line="7" column="59" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/README.md" timestamp="1592943676046">
-        <mark key="[" line="45" column="51" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/metrics/AzureNonBlockingMetricsService.kt" timestamp="1593021002332">
         <mark key="'" line="0" column="16" />
@@ -134,6 +127,7 @@
         <mark key="." line="23" column="12" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/microsoft/azure/applicationinsights-core/2.6.1/applicationinsights-core-2.6.1-sources.jar!/com/microsoft/applicationinsights/TelemetryClient.java" timestamp="1593012087669" />
+      <file name="$USER_HOME$/.jdks/openjdk-14.0.1/lib/src.zip!/java.base/javax/net/ssl/HostnameVerifier.java" timestamp="1593033640986" />
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" timestamp="1593018149826">
         <mark key="'" line="83" column="32" />
         <mark key="[" line="34" column="45" />
@@ -150,12 +144,8 @@
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/metrics/MetricsService.kt" timestamp="1593016802739">
         <mark key="[" line="3" column="27" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/WalletController.kt" timestamp="1592944283391">
-        <mark key="'" line="171" column="5" />
-        <mark key="[" line="193" column="83" />
-        <mark key="]" line="189" column="78" />
-        <mark key="^" line="189" column="78" />
-        <mark key="." line="189" column="77" />
+      <file name="kotlinDecompiled/WalletControllerTest.decompiled.java" timestamp="1593034407037">
+        <mark key="'" line="68" column="77" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1593017934649">
         <mark key="'" line="262" column="23" />
@@ -181,9 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="19" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="24" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/TransactionController.kt" />
-      <jump line="95" column="1" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/ServerBuilder.kt" />
       <jump line="164" column="38" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
       <jump line="53" column="40" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" />
       <jump line="38" column="40" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" />
@@ -281,18 +268,21 @@
       <jump line="23" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/metrics/AzureNonBlockingMetricsService.kt" />
       <jump line="0" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/metrics/AzureNonBlockingMetricsService.kt" />
       <jump line="114" column="33" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" />
+      <jump line="59" column="33" filename="kotlinDecompiled/WalletControllerTest.decompiled.java" />
+      <jump line="63" column="86" filename="kotlinDecompiled/WalletControllerTest.decompiled.java" />
+      <jump line="68" column="77" filename="kotlinDecompiled/WalletControllerTest.decompiled.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>wallet</text>
+        <text encoding="base64">XDx0cnVzdEFsbENlcnRzTWFuYWdlclw+</text>
       </register>
       <register name="0" type="4">
         <text>s</text>
@@ -332,9 +322,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>wallet</last-search>
+      <last-search encoding="base64">XDx0cnVzdEFsbENlcnRzTWFuYWdlclw+</last-search>
       <last-offset />
-      <last-pattern>wallet</last-pattern>
+      <last-pattern encoding="base64">XDx0cnVzdEFsbENlcnRzTWFuYWdlclw+</last-pattern>
       <last-replace>bitgoproxy</last-replace>
       <last-substitute>Bob</last-substitute>
       <last-dir>1</last-dir>
