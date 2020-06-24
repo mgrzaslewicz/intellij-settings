@@ -101,15 +101,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/TransactionController.kt" timestamp="1592600048744">
-        <mark key="'" line="79" column="25" />
-        <mark key="[" line="52" column="23" />
-        <mark key="]" line="14" column="35" />
-        <mark key="." line="14" column="35" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/scheduled/BitgoSessionUnlockerScheduler.kt" timestamp="1592425337401">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="33" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/metrics/AzureTelemetricClient.kt" timestamp="1593016404890">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="16" column="80" />
+        <mark key="." line="16" column="79" />
+        <mark key="^" line="16" column="80" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" timestamp="1592943330394">
         <mark key="'" line="147" column="24" />
@@ -118,35 +114,37 @@
         <mark key="^" line="147" column="25" />
         <mark key="." line="147" column="24" />
       </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/metrics/NoOpMetricsService.kt" timestamp="1593016790073">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="60" />
+        <mark key="^" line="7" column="60" />
+        <mark key="." line="7" column="59" />
+      </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/README.md" timestamp="1592943676046">
         <mark key="[" line="45" column="51" />
+      </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/metrics/AzureNonBlockingMetricsService.kt" timestamp="1593017409242">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="18" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="16" column="17" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/ServerBuilder.kt" timestamp="1592647219065">
         <mark key="[" line="51" column="23" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/microsoft/azure/applicationinsights-core/2.6.1/applicationinsights-core-2.6.1-sources.jar!/com/microsoft/applicationinsights/TelemetryClient.java" timestamp="1593012087669" />
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferDetailsResponse.json" timestamp="1592864409311" />
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetWalletTransactionDetailsResponse.json" timestamp="1592846644570">
         <mark key="'" line="20" column="18" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" timestamp="1592647077357">
-        <mark key="[" line="63" column="46" />
-        <mark key="]" line="53" column="50" />
-        <mark key="." line="53" column="49" />
-        <mark key="^" line="53" column="50" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/pom.xml" timestamp="1592948050729">
+        <mark key="[" line="75" column="24" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoUnlockInterceptor.kt" timestamp="1592513936976">
-        <mark key="[" line="28" column="20" />
-        <mark key="]" line="28" column="20" />
-        <mark key="." line="28" column="20" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/Application.kt" timestamp="1593017330292">
+        <mark key="[" line="13" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592517828342">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BaseCoinUnitsConverterTest.kt" timestamp="1592599376941">
-        <mark key="[" line="27" column="14" />
-        <mark key="]" line="27" column="14" />
-        <mark key="^" line="27" column="14" />
-        <mark key="." line="27" column="13" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/metrics/MetricsService.kt" timestamp="1593016802739">
+        <mark key="[" line="3" column="27" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/WalletController.kt" timestamp="1592944283391">
         <mark key="'" line="171" column="5" />
@@ -155,31 +153,25 @@
         <mark key="^" line="189" column="78" />
         <mark key="." line="189" column="77" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoUnlockSessionResponse.json" timestamp="1592426993697">
-        <mark key="[" line="0" column="0" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppContext.kt" timestamp="1593017971874">
+        <mark key="'" line="23" column="8" />
+        <mark key="[" line="64" column="28" />
+        <mark key="]" line="50" column="4" />
+        <mark key="^" line="50" column="4" />
+        <mark key="." line="50" column="3" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppContext.kt" timestamp="1592937710144">
-        <mark key="'" line="19" column="8" />
-        <mark key="[" line="83" column="62" />
-        <mark key="]" line="83" column="62" />
-        <mark key="^" line="83" column="40" />
-        <mark key="." line="83" column="62" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BaseCoinUnitsConverter.kt" timestamp="1592517552294">
-        <mark key="[" line="17" column="105" />
-        <mark key="]" line="9" column="23" />
-        <mark key="." line="9" column="23" />
-        <mark key="^" line="8" column="22" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1592944264102">
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1593017934649">
         <mark key="'" line="262" column="23" />
-        <mark key="[" line="353" column="71" />
-        <mark key="]" line="354" column="8" />
-        <mark key="." line="354" column="7" />
-        <mark key="^" line="354" column="8" />
+        <mark key="[" line="31" column="60" />
+        <mark key="]" line="129" column="109" />
+        <mark key="." line="129" column="108" />
+        <mark key="^" line="129" column="109" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoSessionLockedErrorResponse.json" timestamp="1592428068165">
-        <mark key="[" line="0" column="1" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppConfig.kt" timestamp="1593017306698">
+        <mark key="[" line="30" column="137" />
+        <mark key="]" line="30" column="76" />
+        <mark key="." line="30" column="75" />
+        <mark key="^" line="30" column="76" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" timestamp="1592942781503">
         <mark key="'" line="362" column="25" />
@@ -188,13 +180,7 @@
         <mark key="^" line="47" column="6" />
         <mark key="." line="47" column="5" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1592581626185">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="33" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1592425059343">
+      <file name="/fragment.java" timestamp="1593012361548">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -303,44 +289,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;$baseBitgoProxyUrl/api/v2/$coin/wallet/${wallet.id}/transfer&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1aXJlKGFwcENvbmZpZy5henVyZUluc3RydW1lbnRhdGlvbktleS5pc05vdEVtcHR5KCkpIHsgIiIgfQogICAgICAgIEF6dXJlTm9uQmxvY2tpbmdNZXRyaWNzU2VydmljZS5jcmVhdGVUZWxlbWV0cnlDbGllbnQoYXBwQ29uZmlnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;$baseBitgoProxyUrl/api/v2/$coin/wallet/${wallet.id}/transfer&quot;</text>
+        <text>appConfig.</text>
       </register>
       <register name="/" type="4">
         <text>wallet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGlucHV0QWRkcmVzc2VzICs9IGVudHJ5LmFkZHJlc3MgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlKGFwcENvbmZpZy5henVyZUluc3RydW1lbnRhdGlvbktleS5pc05vdEVtcHR5KCkpIHsgIiIgfQogICAgICAgIEF6dXJlTm9uQmxvY2tpbmdNZXRyaWNzU2VydmljZS5jcmVhdGVUZWxlbWV0cnlDbGllbnQoYXBwQ29uZmlnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRyYW5zYWN0aW9uRGV0YWlscykuaXNFcXVhbFRvKEdldFdhbGxldFRyYW5zYWN0aW9uRGV0YWlsc1Jlc3BvbnNlRHRvKAogICAgICAgICAgICAgICAgdHlwZSA9ICJyZWNlaXZlIiwKICAgICAgICAgICAgICAgIGNvbmZpcm1lZFRpbWUgPSAiMjAyMC0wNi0xOVQyMDo1MTozNy44NTlaIiwKICAgICAgICAgICAgICAgIGNyZWF0ZWRUaW1lID0gIjIwMjAtMDYtMTlUMjA6NDk6NTEuOTA0WiIsCiAgICAgICAgICAgICAgICBhbW91bnQgPSAiMC4wMDAwNjU3OSIsCiAgICAgICAgICAgICAgICB0cmFuc2FjdGlvbklkID0gdHJhbnNhY3Rpb25JZCwKICAgICAgICAgICAgICAgIHNvdXJjZUFkZHJlc3MgPSAiMk5GdmgyaTlnNDRvV3dNZlpEdmJ0eXR2aHliTHhyeERvQ24iLAogICAgICAgICAgICAgICAgZGVzdGluYXRpb25BZGRyZXNzID0gIjJNdEplaVRKQzhuaXRybzdKbWJnV1hQaEZNd0d5VVRUdVV1IiwKICAgICAgICAgICAgICAgIGN1cnJlbmN5ID0gIkJUQyIKICAgICAgICApKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybiB7ICJVc2luZyBOb09wTWV0cmljc1NlcnZpY2UiIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbG9nVGFnID0gImNvaW49JGNvaW4sIHdhbGxldEFkZHJlc3M9JHdhbGxldEFkZHJlc3MsIHdhbGxldElkPSR7d2FsbGV0LmlkfSwgYmxvY2tjaGFpblRyYW5zYWN0aW9uSWQ9JGJsb2NrY2hhaW5UcmFuc2FjdGlvbklkIgo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3BvbnNlLmlzU3VjY2Vzc2Z1bCkuaXNUcnVlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRlbGVtZXRyeUNsaWVudCgpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>appContext.httpClientWithoutAuthorization.</text>
-      </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">bWFwIDxsZWFkZXI+ciA6YWN0aW9uIFJlcGxhY2U8Q1I+</text>
+        <text encoding="base64">ICAgICAgICB0ZWxlbWV0cnlDbGllbnQudHJhY2tEZXBlbmRlbmN5KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBiYXNlQ29pblVuaXRzQ29udmVydGVyLmZyb21TYXRvc2hpVG9BbW91bnQoZmVlRXN0aW1hKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRyYW5zYWN0aW9uRGV0YWlscykuaXNFcXVhbFRvKEdldFdhbGxldFRyYW5zYWN0aW9uRGV0YWlsc1Jlc3BvbnNlRHRvKAogICAgICAgICAgICAgICAgdHlwZSA9ICJyZWNlaXZlIiwKICAgICAgICAgICAgICAgIGNvbmZpcm1lZFRpbWUgPSAiMjAyMC0wNi0xOVQyMDo1MTozNy44NTlaIiwKICAgICAgICAgICAgICAgIGNyZWF0ZWRUaW1lID0gIjIwMjAtMDYtMTlUMjA6NDk6NTEuOTA0WiIsCiAgICAgICAgICAgICAgICBhbW91bnQgPSAiMC4wMDAwNjU3OSIsCiAgICAgICAgICAgICAgICB0cmFuc2FjdGlvbklkID0gdHJhbnNhY3Rpb25JZCwKICAgICAgICAgICAgICAgIHNvdXJjZUFkZHJlc3MgPSAiMk5GdmgyaTlnNDRvV3dNZlpEdmJ0eXR2aHliTHhyeERvQ24iLAogICAgICAgICAgICAgICAgZGVzdGluYXRpb25BZGRyZXNzID0gIjJNdEplaVRKQzhuaXRybzdKbWJnV1hQaEZNd0d5VVRUdVV1IiwKICAgICAgICAgICAgICAgIGN1cnJlbmN5ID0gIkJUQyIKICAgICAgICApKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVzcG9uc2VTdHJpbmcgPSByZXNwb25zZS5ib2R5Py5zdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbG9nVGFnID0gImNvaW49JGNvaW4sIHdhbGxldEFkZHJlc3M9JHdhbGxldEFkZHJlc3MsIHdhbGxldElkPSR7d2FsbGV0LmlkfSwgYmxvY2tjaGFpblRyYW5zYWN0aW9uSWQ9JGJsb2NrY2hhaW5UcmFuc2FjdGlvbklkIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrQml0Z29Qcm94eVNlcnZlci5lbnF1ZXVlKE1vY2tSZXNwb25zZSgpLnNldEJvZHkodGhpcy5qYXZhQ2xhc3MuZ2V0UmVzb3VyY2UoIi9iaXRnb1VubG9ja1Nlc3Npb25SZXNwb25zZS5qc29uIikucmVhZFRleHQoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3BvbnNlLmlzU3VjY2Vzc2Z1bCkuaXNUcnVlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>action $SelectAll</text>
