@@ -113,20 +113,11 @@
         <mark key="]" line="14" column="35" />
         <mark key="." line="14" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593263208950">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoUnlockInterceptor.kt" timestamp="1593263989818">
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="23" column="19" />
-        <mark key="^" line="23" column="19" />
-        <mark key="." line="23" column="18" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/wallet/AzureStorageWalletRepository.kt" timestamp="1593275777783">
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="10" column="26" />
-        <mark key="^" line="10" column="26" />
-        <mark key="." line="10" column="25" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/wallet/AzureStorageWalletRepository.kt" timestamp="1593277149868">
+        <mark key="[" line="14" column="52" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="68" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" timestamp="1593035809686">
         <mark key="'" line="118" column="33" />
@@ -136,6 +127,36 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="10" column="59" />
         <mark key="^" line="12" column="35" />
+      </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/metrics/AzureNonBlockingMetricsService.kt" timestamp="1593265864842">
+        <mark key="'" line="0" column="16" />
+        <mark key="[" line="28" column="40" />
+        <mark key="]" line="13" column="21" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/microsoft/azure/azure-storage/8.6.5/azure-storage-8.6.5-sources.jar!/com/microsoft/azure/storage/table/CloudTableClient.java" timestamp="1593276069092" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/pom.xml" timestamp="1593274053694">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="81" column="22" />
+        <mark key="]" line="81" column="23" />
+        <mark key="." line="81" column="22" />
+        <mark key="^" line="81" column="23" />
+      </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/RunLocalSensitive.kt" timestamp="1593110127268">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="30" />
+        <mark key="^" line="14" column="30" />
+        <mark key="." line="14" column="29" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593263208950">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoUnlockInterceptor.kt" timestamp="1593263989818">
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="23" column="19" />
+        <mark key="^" line="23" column="19" />
+        <mark key="." line="23" column="18" />
       </file>
       <file name="kotlinDecompiled/WalletControllerTest.decompiled.java" timestamp="1593034407037">
         <mark key="'" line="68" column="77" />
@@ -147,18 +168,11 @@
         <mark key="." line="38" column="45" />
         <mark key="^" line="38" column="46" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/metrics/AzureNonBlockingMetricsService.kt" timestamp="1593265864842">
-        <mark key="'" line="0" column="16" />
-        <mark key="[" line="28" column="40" />
-        <mark key="]" line="13" column="21" />
-        <mark key="^" line="13" column="21" />
-        <mark key="." line="13" column="21" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppContext.kt" timestamp="1593266640842">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="78" column="57" />
-        <mark key="^" line="78" column="57" />
-        <mark key="." line="78" column="56" />
+      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppContext.kt" timestamp="1593276046550">
+        <mark key="[" line="80" column="122" />
+        <mark key="]" line="80" column="71" />
+        <mark key="^" line="80" column="71" />
+        <mark key="." line="80" column="61" />
       </file>
       <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1593273860355">
         <mark key="'" line="120" column="50" />
@@ -172,25 +186,6 @@
         <mark key="]" line="26" column="33" />
         <mark key="^" line="26" column="33" />
         <mark key="." line="26" column="32" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/TestConfig.kt" timestamp="1593019285624">
-        <mark key="[" line="14" column="55" />
-        <mark key="]" line="14" column="56" />
-        <mark key="^" line="14" column="56" />
-        <mark key="." line="14" column="55" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/pom.xml" timestamp="1593274053694">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="81" column="22" />
-        <mark key="]" line="81" column="23" />
-        <mark key="." line="81" column="22" />
-        <mark key="^" line="81" column="23" />
-      </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/RunLocalSensitive.kt" timestamp="1593110127268">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="30" />
-        <mark key="^" line="14" column="30" />
-        <mark key="." line="14" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -298,8 +293,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLm1pY3Jvc29mdC5henVyZS9henVyZS1zdG9yYWdlIC0tPg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAJCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLm1pY3Jvc29mdC5henVyZS9henVyZS1zdG9yYWdlIC0tPg==</text>
@@ -311,32 +306,32 @@
         <text encoding="base64">ICAgICAgICB2YWwgbG9nVGFnID0gImNvaW49JGNvaW4sIHdhbGxldElkPSR7d2FsbGV0LmlkfSwgd2FsbGV0QWRkcmVzcz0ke3dhbGxldEFkZHJlc3N9Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIHN0b3JhZ2UgLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5taWNyb3NvZnQuYXp1cmU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmF6dXJlLXN0b3JhZ2U8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjguNi41PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIHN0b3JhZ2UgLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5taWNyb3NvZnQuYXp1cmU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmF6dXJlLXN0b3JhZ2U8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjguNi41PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIHN0b3JhZ2UgLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5taWNyb3NvZnQuYXp1cmU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmF6dXJlLXN0b3JhZ2U8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjguNi41PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLm1pY3Jvc29mdC5henVyZS9henVyZS1zdG9yYWdlIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIHN0b3JhZ2UgLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5taWNyb3NvZnQuYXp1cmU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmF6dXJlLXN0b3JhZ2U8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjguNi41PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLm1pY3Jvc29mdC5henVyZS9henVyZS1zdG9yYWdlIC0tPgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>}
     }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybiB7ICJVc2luZyBOb09wTWV0cmljc1NlcnZpY2UiIH0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRlbGVtZXRyeUNsaWVudCgpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRlbGVtZXRyeUNsaWVudCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action $SelectAll</text>
