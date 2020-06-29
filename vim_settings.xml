@@ -4,46 +4,18 @@
   </component>
   <component name="VimHistorySettings">
     <history>
-      <history-search>
-        <entry>handlers</entry>
-        <entry>po</entry>
-        <entry>With</entry>
-        <entry>new</entry>
-        <entry>takeRequest</entry>
-        <entry>Ignore</entry>
-        <entry>seq</entry>
-        <entry>comment</entry>
-        <entry>confirmedTime</entry>
-        <entry>label</entry>
-        <entry>uncofi</entry>
-        <entry>unconfirmed</entry>
-        <entry>Re</entry>
-        <entry>valueS</entry>
-        <entry encoding="base64">XDxlbnRyaWVzXD4=</entry>
-        <entry>wallet</entry>
-        <entry encoding="base64">XDx0cnVzdEFsbENlcnRzTWFuYWdlclw+</entry>
-        <entry>save(</entry>
-        <entry>delete</entry>
-        <entry>azure</entry>
-      </history-search>
       <history-cmd>
-        <entry>%s/done/finished/g</entry>
-        <entry>%s/Alice/angeleoWalletService/g</entry>
-        <entry>%s/Bob/bitgoproxy/g</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action $SelectAll</entry>
       </history-cmd>
-      <history-expr />
-      <history-input />
     </history>
   </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed T</text>
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed D</text>
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
@@ -52,300 +24,143 @@
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed O</text>
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed K</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed L</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed J</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed M</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/TransactionController.kt" timestamp="1593035858349">
-        <mark key="'" line="79" column="25" />
-        <mark key="[" line="59" column="83" />
-        <mark key="]" line="14" column="35" />
-        <mark key="." line="14" column="35" />
+      <file name="E:/repos/adobe-esign-service-sample/src/main/java/adobe/livesign/api/AgreementHandler.kt" timestamp="1590132972145">
+        <mark key="[" line="33" column="83" />
+        <mark key="]" line="16" column="39" />
+        <mark key="^" line="16" column="39" />
+        <mark key="." line="16" column="38" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/wallet/AzureStorageWalletRepository.kt" timestamp="1593277149868">
-        <mark key="[" line="14" column="52" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="68" />
-        <mark key="." line="13" column="0" />
+      <file name="E:/repos/adobe-esign-rest-api-sample/out/agreement.json" timestamp="1593145189024">
+        <mark key="'" line="26" column="5" />
+        <mark key="[" line="29" column="1" />
+        <mark key="]" line="29" column="2" />
+        <mark key="^" line="29" column="2" />
+        <mark key="." line="29" column="1" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" timestamp="1593035809686">
-        <mark key="'" line="118" column="33" />
+      <file name="E:/repos/adobe-esign-service-sample/pom.xml" timestamp="1590132816023">
+        <mark key="[" line="137" column="17" />
+        <mark key="]" line="63" column="21" />
+        <mark key="^" line="63" column="21" />
+        <mark key="." line="63" column="20" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/wallet/WalletService.kt" timestamp="1593266434472">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="10" column="59" />
-        <mark key="^" line="12" column="35" />
+      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/config/AppContext.kt" timestamp="1593468756039">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="7" />
+        <mark key="^" line="4" column="8" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/metrics/AzureNonBlockingMetricsService.kt" timestamp="1593265864842">
-        <mark key="'" line="0" column="16" />
-        <mark key="[" line="28" column="40" />
-        <mark key="]" line="13" column="21" />
-        <mark key="^" line="13" column="21" />
-        <mark key="." line="13" column="21" />
+      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/RunLocalSensitive.kt" timestamp="1593469576582">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="11" column="39" />
+        <mark key="." line="12" column="41" />
+        <mark key="^" line="11" column="39" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/microsoft/azure/azure-storage/8.6.5/azure-storage-8.6.5-sources.jar!/com/microsoft/azure/storage/table/CloudTableClient.java" timestamp="1593276069092" />
-      <file name="/mnt/projects/repos/angeleo-wallet-service/pom.xml" timestamp="1593274053694">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="81" column="22" />
-        <mark key="]" line="81" column="23" />
-        <mark key="." line="81" column="22" />
-        <mark key="^" line="81" column="23" />
+      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/Application.kt" timestamp="1593468745483">
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="15" column="25" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/RunLocalSensitive.kt" timestamp="1593110127268">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="30" />
-        <mark key="^" line="14" column="30" />
-        <mark key="." line="14" column="29" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1593468464141">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593263208950">
+      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/config/AppConfig.kt" timestamp="1593469501511">
+        <mark key="[" line="13" column="111" />
+        <mark key="]" line="13" column="111" />
+        <mark key="^" line="13" column="54" />
+        <mark key="." line="13" column="111" />
+      </file>
+      <file name="E:/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/Application.kt" timestamp="1593468582979" />
+      <file name="/Dummy.txt" timestamp="1590133108296">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoUnlockInterceptor.kt" timestamp="1593263989818">
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="23" column="19" />
-        <mark key="^" line="23" column="19" />
-        <mark key="." line="23" column="18" />
+      <file name="E:/repos/autocoin-arbitrage-bot/src/main/resources/logback.xml" timestamp="1593469169055">
+        <mark key="[" line="3" column="42" />
+        <mark key="]" line="3" column="64" />
+        <mark key="." line="3" column="63" />
+        <mark key="^" line="3" column="64" />
       </file>
-      <file name="kotlinDecompiled/WalletControllerTest.decompiled.java" timestamp="1593034407037">
-        <mark key="'" line="68" column="77" />
+      <file name="E:/repos/adobe-esign-service-sample/src/main/java/adobe/livesign/api/AgreementHandler2.java" timestamp="1590132684304">
+        <mark key="[" line="41" column="86" />
+        <mark key="]" line="41" column="86" />
+        <mark key="." line="41" column="86" />
+        <mark key="^" line="41" column="55" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/WalletController.kt" timestamp="1593266495360">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="38" column="43" />
-        <mark key="]" line="38" column="46" />
-        <mark key="." line="38" column="45" />
-        <mark key="^" line="38" column="46" />
+      <file name="/" timestamp="1593466524960">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppContext.kt" timestamp="1593276046550">
-        <mark key="[" line="80" column="122" />
-        <mark key="]" line="80" column="71" />
-        <mark key="^" line="80" column="71" />
-        <mark key="." line="80" column="61" />
+      <file name="E:/repos/autocoin-arbitrage-bot/src/test/kotlin/autocoin/arbitrage/bot/RunLocal.kt" timestamp="1593469576918" />
+      <file name="E:/repos/autocoin-arbitrage-bot/pom.xml" timestamp="1593468993299">
+        <mark key="[" line="183" column="47" />
+        <mark key="]" line="162" column="25" />
+        <mark key="^" line="162" column="25" />
+        <mark key="." line="162" column="24" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" timestamp="1593273860355">
-        <mark key="'" line="120" column="50" />
-        <mark key="[" line="252" column="52" />
-        <mark key="]" line="191" column="65" />
-        <mark key="." line="191" column="64" />
-        <mark key="^" line="191" column="65" />
+      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/AppConfig.kt" timestamp="1593468469093">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="22" />
       </file>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppConfig.kt" timestamp="1593109184755">
-        <mark key="[" line="26" column="32" />
-        <mark key="]" line="26" column="33" />
-        <mark key="^" line="26" column="33" />
-        <mark key="." line="26" column="32" />
+      <file name="E:/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppConfig.kt" timestamp="1593468656187" />
+      <file name="E:/repos/autocoin-arbitrage-bot/src/test/kotlin/autocoin/arbitrage/bot/TestConfig.kt" timestamp="1593468955694">
+        <mark key="[" line="7" column="53" />
+        <mark key="]" line="7" column="67" />
+        <mark key="^" line="7" column="67" />
+        <mark key="." line="7" column="66" />
+      </file>
+      <file name="/fragment.java" timestamp="1593468532596">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="40" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" />
-      <jump line="14" column="29" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" />
-      <jump line="1" column="24" filename="/mnt/projects/repos/angeleo-wallet-service/doc/createTransaction.puml" />
-      <jump line="2" column="0" filename="/mnt/projects/repos/angeleo-wallet-service/doc/createTransaction.puml" />
-      <jump line="24" column="25" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="12" column="120" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoSessionUnlocker.kt" />
-      <jump line="139" column="43" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="13" column="26" filename="/mnt/projects/repos/angeleo-wallet-service/target/trx.json" />
-      <jump line="199" column="15" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="359" column="31" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/otp/TimeBasedOneTimePassword.kt" />
-      <jump line="210" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="211" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="212" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="213" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="214" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="215" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="216" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="217" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="219" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="220" column="32" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="23" column="0" filename="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/OrderBookListeners.kt" />
-      <jump line="65" column="8" filename="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api-xchange/pom.xml" />
-      <jump line="0" column="0" filename="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api-xchange/pom.xml" />
-      <jump line="92" column="32" filename="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api-xchange/pom.xml" />
-      <jump line="102" column="32" filename="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api-xchange/pom.xml" />
-      <jump line="67" column="38" filename="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api-xchange/pom.xml" />
-      <jump line="14" column="27" filename="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/RandomExchangeOrderBookService.kt" />
-      <jump line="19" column="110" filename="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/RandomExchangeOrderBookService.kt" />
-      <jump line="21" column="118" filename="/mnt/projects/repos/autocoin-exchange-engine/autocoin-exchange-api/src/main/kotlin/automate/profit/autocoin/exchange/orderbook/RandomExchangeOrderBookService.kt" />
-      <jump line="9" column="23" filename="/mnt/projects/repos/autocoin-auth-service/log/autocoin-auth-service.log" />
-      <jump line="79" column="20" filename="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/exchange/order/OrderBookSseStreamSenderService.kt" />
-      <jump line="106" column="16" filename="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/exchange/ExchangesConfig.kt" />
-      <jump line="23" column="41" filename="$MAVEN_REPOSITORY$/automate/profit/autocoin-exchange-api/1.0.70/autocoin-exchange-api-1.0.70-sources.jar!/automate/profit/autocoin/exchange/ticker/TickerListeners.kt" />
-      <jump line="167" column="78" filename="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/exchange/ExchangesConfig.kt" />
-      <jump line="146" column="73" filename="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/exchange/ExchangesConfig.kt" />
-      <jump line="111" column="16" filename="/mnt/projects/repos/autocoin-exchange-mediator/src/main/kotlin/automate/profit/autocoin/config/exchange/ExchangesConfig.kt" />
-      <jump line="9" column="0" filename="/mnt/projects/repos/autocoin-exchange-mediator/pom.xml" />
-      <jump line="27" column="43" filename="/mnt/projects/repos/autocoin-exchange-mediator/pom.xml" />
-      <jump line="43" column="12" filename="/mnt/projects/repos/autocoin-exchange-mediator/pom.xml" />
-      <jump line="57" column="30" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/TransactionController.kt" />
-      <jump line="0" column="0" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/TransactionController.kt" />
-      <jump line="19" column="8" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/config/AppContext.kt" />
-      <jump line="79" column="25" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/TransactionController.kt" />
-      <jump line="100" column="86" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" />
-      <jump line="51" column="32" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" />
-      <jump line="105" column="23" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" />
-      <jump line="0" column="0" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" />
-      <jump line="54" column="81" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" />
-      <jump line="81" column="29" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" />
-      <jump line="82" column="29" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" />
-      <jump line="83" column="51" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" />
-      <jump line="300" column="3" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="310" column="25" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="222" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="243" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="20" column="18" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetWalletTransactionDetailsResponse.json" />
-      <jump line="218" column="0" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="0" column="0" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="267" column="22" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="312" column="32" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="263" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="307" column="41" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="308" column="22" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="101" column="43" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" />
-      <jump line="262" column="23" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="28" column="0" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" />
-      <jump line="174" column="5" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/WalletController.kt" />
-      <jump line="27" column="36" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" />
-      <jump line="47" column="7" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
-      <jump line="145" column="7" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
-      <jump line="0" column="0" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
-      <jump line="6" column="7" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
-      <jump line="50" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
-      <jump line="55" column="9" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
-      <jump line="74" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
-      <jump line="87" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
-      <jump line="99" column="7" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
-      <jump line="148" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
-      <jump line="173" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
-      <jump line="186" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
-      <jump line="198" column="7" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
-      <jump line="242" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
-      <jump line="273" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
-      <jump line="286" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
-      <jump line="297" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
-      <jump line="309" column="7" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
-      <jump line="362" column="25" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/resources/bitgoGetTransferListResponse.json" />
-      <jump line="147" column="24" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" />
-      <jump line="83" column="32" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" />
-      <jump line="23" column="11" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/metrics/AzureNonBlockingMetricsService.kt" />
-      <jump line="0" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/metrics/AzureNonBlockingMetricsService.kt" />
-      <jump line="114" column="33" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/api/WalletControllerTest.kt" />
-      <jump line="59" column="33" filename="kotlinDecompiled/WalletControllerTest.decompiled.java" />
-      <jump line="63" column="86" filename="kotlinDecompiled/WalletControllerTest.decompiled.java" />
-      <jump line="68" column="77" filename="kotlinDecompiled/WalletControllerTest.decompiled.java" />
-      <jump line="120" column="50" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="140" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/WalletController.kt" />
-      <jump line="2" column="0" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/api/WalletController.kt" />
-      <jump line="82" column="20" filename="/mnt/projects/repos/angeleo-wallet-service/pom.xml" />
-      <jump line="0" column="0" filename="/mnt/projects/repos/angeleo-wallet-service/pom.xml" />
+      <jump line="26" column="5" filename="E:/repos/adobe-esign-rest-api-sample/out/agreement.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAJCg==</text>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLm1pY3Jvc29mdC5henVyZS9henVyZS1zdG9yYWdlIC0tPg==</text>
-      </register>
-      <register name="/" type="4">
-        <text>azure</text>
-      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbG9nVGFnID0gImNvaW49JGNvaW4sIHdhbGxldElkPSR7d2FsbGV0LmlkfSwgd2FsbGV0QWRkcmVzcz0ke3dhbGxldEFkZHJlc3N9Igo=</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgOiBLTG9nZ2luZygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmVyUG9ydCA9IGFwcFNlcnZlclBvcnQsIGJhc2VCaXRnb1Byb3h5VXJsID0gbW9ja0Jhc2VCaXRnb1Byb3h5VXJsLAogICAgICAgICAgICBiaXRnb0F1dGhUb2tlbkNoYXJzID0gYml0Z29BdXRoVG9rZW4udG9DaGFyQXJyYXkoKSwKICAgICAgICAgICAgYml0Z29PVFBTZWNyZXQgPSAiaW52YWxpZE9UUCIudG9DaGFyQXJyYXkoKSwKICAgICAgICAgICAgdXNlVGVsZW1ldHJ5ID0gZmFsc2UK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIHN0b3JhZ2UgLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5taWNyb3NvZnQuYXp1cmU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmF6dXJlLXN0b3JhZ2U8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjguNi41PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIHN0b3JhZ2UgLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5taWNyb3NvZnQuYXp1cmU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmF6dXJlLXN0b3JhZ2U8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjguNi41PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">QEdldHRlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLm1pY3Jvc29mdC5henVyZS9henVyZS1zdG9yYWdlIC0tPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
-      </register>
-      <register name="6" type="4">
-        <text>}
-    }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybiB7ICJVc2luZyBOb09wTWV0cmljc1NlcnZpY2UiIH0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRlbGVtZXRyeUNsaWVudCgpCg==</text>
+        <text encoding="base64">cHJpdmF0ZSBmaW5hbCBTdHJpbmcgaWQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action $SelectAll</text>
+        <text>source ~/.ideavimrc</text>
+      </register>
+      <register name="-" type="4">
+        <text>}</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>azure</last-search>
-      <last-offset />
-      <last-pattern>azure</last-pattern>
-      <last-replace>bitgoproxy</last-replace>
-      <last-substitute>Bob</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
