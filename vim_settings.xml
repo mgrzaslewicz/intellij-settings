@@ -113,11 +113,12 @@
         <mark key="^" line="13" column="68" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/config/AppContext.kt" timestamp="1593791562649">
-        <mark key="[" line="9" column="48" />
-        <mark key="]" line="9" column="47" />
-        <mark key="." line="9" column="47" />
-        <mark key="^" line="12" column="19" />
+      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/config/AppContext.kt" timestamp="1593793855675">
+        <mark key="'" line="19" column="3" />
+        <mark key="[" line="19" column="40" />
+        <mark key="]" line="9" column="52" />
+        <mark key="." line="9" column="51" />
+        <mark key="^" line="9" column="52" />
       </file>
       <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/RunLocalSensitive.kt" timestamp="1593469576582">
         <mark key="[" line="12" column="25" />
@@ -159,11 +160,11 @@
       <file name="/" timestamp="1593640384831">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/binance/BinanceOrderBookStream.kt" timestamp="1593793813647">
+      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/binance/BinanceOrderBookStream.kt" timestamp="1593793927944">
         <mark key="[" line="46" column="81" />
-        <mark key="]" line="46" column="88" />
-        <mark key="^" line="46" column="88" />
-        <mark key="." line="46" column="87" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="30" />
       </file>
       <file name="E:/repos/autocoin-arbitrage-bot/pom.xml" timestamp="1593468993299">
         <mark key="[" line="183" column="47" />
@@ -191,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="29" filename="/mnt/projects/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" />
       <jump line="1" column="24" filename="/mnt/projects/repos/angeleo-wallet-service/doc/createTransaction.puml" />
       <jump line="2" column="0" filename="/mnt/projects/repos/angeleo-wallet-service/doc/createTransaction.puml" />
       <jump line="24" column="25" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
@@ -291,6 +291,7 @@
       <jump line="82" column="20" filename="/mnt/projects/repos/angeleo-wallet-service/pom.xml" />
       <jump line="0" column="0" filename="/mnt/projects/repos/angeleo-wallet-service/pom.xml" />
       <jump line="16" column="96" filename="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/httpclient/RequestLogInterceptor.kt" />
+      <jump line="19" column="3" filename="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/config/AppContext.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
