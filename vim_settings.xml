@@ -110,13 +110,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/wallet/AzureStorageWalletRepository.kt" timestamp="1593277149868">
-        <mark key="[" line="14" column="52" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="68" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/config/AppContext.kt" timestamp="1593883427852">
+      <file name="E:/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" timestamp="1593885085306" />
+      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/config/AppContext.kt" timestamp="1593895376888">
         <mark key="'" line="23" column="3" />
         <mark key="[" line="36" column="50" />
         <mark key="]" line="36" column="53" />
@@ -140,12 +135,6 @@
         <mark key="]" line="17" column="46" />
         <mark key="." line="17" column="45" />
         <mark key="^" line="17" column="46" />
-      </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1593468464141">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="5" />
       </file>
       <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/config/ExchangeName.kt" timestamp="1593882934334">
         <mark key="[" line="3" column="11" />
@@ -174,17 +163,17 @@
       <file name="/" timestamp="1593873586807">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/binance/BinanceOrderBookStream.kt" timestamp="1593883270458">
-        <mark key="[" line="46" column="111" />
-        <mark key="]" line="46" column="126" />
-        <mark key="." line="46" column="125" />
-        <mark key="^" line="46" column="126" />
+      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/binance/BinanceOrderBookStream.kt" timestamp="1593895818263">
+        <mark key="[" line="50" column="53" />
+        <mark key="]" line="50" column="53" />
+        <mark key="." line="50" column="53" />
+        <mark key="^" line="47" column="53" />
       </file>
-      <file name="E:/repos/autocoin-arbitrage-bot/pom.xml" timestamp="1593468993299">
-        <mark key="[" line="183" column="47" />
-        <mark key="]" line="162" column="25" />
-        <mark key="^" line="162" column="25" />
-        <mark key="." line="162" column="24" />
+      <file name="E:/repos/autocoin-arbitrage-bot/pom.xml" timestamp="1593894998965">
+        <mark key="[" line="121" column="21" />
+        <mark key="]" line="121" column="21" />
+        <mark key="^" line="121" column="21" />
+        <mark key="." line="121" column="20" />
       </file>
       <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/AppConfig.kt" timestamp="1593468469093">
         <mark key="[" line="14" column="23" />
@@ -192,20 +181,24 @@
         <mark key="^" line="14" column="23" />
         <mark key="." line="14" column="22" />
       </file>
-      <file name="E:/repos/autocoin-arbitrage-bot/src/test/kotlin/autocoin/arbitrage/bot/kraken/KrakenOrderBookStreamTest.kt" timestamp="1593884062264">
-        <mark key="[" line="4" column="33" />
+      <file name="E:/repos/autocoin-arbitrage-bot/src/test/kotlin/autocoin/arbitrage/bot/kraken/KrakenOrderBookStreamTest.kt" timestamp="1593895422709">
+        <mark key="[" line="43" column="9" />
+        <mark key="]" line="42" column="41" />
+        <mark key="^" line="42" column="60" />
+        <mark key="." line="42" column="41" />
       </file>
+      <file name="E:/repos/angeleo-wallet-service/pom.xml" timestamp="1593895188884" />
       <file name="E:/repos/autocoin-arbitrage-bot/src/test/kotlin/autocoin/arbitrage/bot/TestConfig.kt" timestamp="1593468955694">
         <mark key="[" line="7" column="53" />
         <mark key="]" line="7" column="67" />
         <mark key="^" line="7" column="67" />
         <mark key="." line="7" column="66" />
       </file>
-      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/kraken/KrakenOrderBookStream.kt" timestamp="1593883801186">
-        <mark key="[" line="29" column="70" />
-        <mark key="]" line="29" column="70" />
-        <mark key="." line="29" column="70" />
-        <mark key="^" line="29" column="180" />
+      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/kraken/KrakenOrderBookStream.kt" timestamp="1593895781362">
+        <mark key="[" line="24" column="51" />
+        <mark key="]" line="45" column="70" />
+        <mark key="." line="45" column="69" />
+        <mark key="^" line="45" column="70" />
       </file>
       <file name="E:/repos/autocoin-arbitrage-bot/target/test.json" timestamp="1593793173456">
         <mark key="[" line="0" column="0" />
@@ -320,43 +313,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>baseCurrency</text>
+        <text>webSocketApiBaseUrl</text>
       </register>
       <register name="-" type="4">
-        <text>baseCurrency</text>
+        <text>webSocketApiBaseUrl</text>
       </register>
       <register name="/" type="4">
         <text>azure</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvIHsgIiRsb2dUYWcgc3RyZWFtIG9wZW5lZCIgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdlYlNvY2tldC5zZW5kKCIiInsgImV2ZW50IjogInN1YnNjcmliZSIsICJwYWlyIjogWyIke2Jhc2VDdXJyZW5jeS50b1VwcGVyQ2FzZSgpfS8ke2NvdW50ZXJDdXJyZW5jeS50b1VwcGVyQ2FzZSgpfSJdLCAic3Vic2NyaXB0aW9uIjogeyAibmFtZSI6ICJib29rIiwgImRlcHRoIjogMjAgfX0iIiIpCg==</text>
+        <text encoding="base64">IGxvICAgICAgICAgICAgICBsb2dUYWcgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmluYW5jZU9yZGVyQm9vawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1cGVyLm9uRmFpbHVyZSh3ZWJTb2NrZXQsIHQsIHJlc3BvbnNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgb3JkZXJCb29rID0udG9PcmRlckJvaygpCgogICAgICAgICAgICAgICAgICAgIG9yZGVyQm9va0xpc3RlbmVyLm9uT3JkZXJCb29rKEV4Y2hhbmdlTmFtZS5CSU5BTkNFLCBiYXNlQ3VycmVuY3ksIGNvdW50ZXJDdXJyZW5jeSwgb3JkZXJCb29rKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdlYlNvY2tldC5zZW5kKCIiInsgImV2ZW50IjogInN1YnNjcmliZSIsICJwYWlyIjogWyIke2Jhc2VDdXJyZW5jeS50b1VwcGVyQ2FzZSgpfS8ke2NvdW50ZXJDdXJyZW5jeS50b1VwcGVyQ2FzZSgpfSJdLCAic3Vic2NyaXB0aW9uIjogeyAibmFtZSI6ICJib29rIiwgImRlcHRoIjogMjAgfX0iIiIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmluYW5jZU9yZGVyQm9vawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgb3JkZXJCb29rID0udG9PcmRlckJvaygpCgogICAgICAgICAgICAgICAgICAgIG9yZGVyQm9va0xpc3RlbmVyLm9uT3JkZXJCb29rKEV4Y2hhbmdlTmFtZS5CSU5BTkNFLCBiYXNlQ3VycmVuY3ksIGNvdW50ZXJDdXJyZW5jeSwgb3JkZXJCb29rKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIHN0b3JhZ2UgLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5taWNyb3NvZnQuYXp1cmU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmF6dXJlLXN0b3JhZ2U8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjguNi41PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIHN0b3JhZ2UgLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5taWNyb3NvZnQuYXp1cmU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmF6dXJlLXN0b3JhZ2U8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjguNi41PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAvLyAJCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLm1pY3Jvc29mdC5henVyZS9henVyZS1zdG9yYWdlIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIHN0b3JhZ2UgLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5taWNyb3NvZnQuYXp1cmU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmF6dXJlLXN0b3JhZ2U8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjguNi41PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIHN0b3JhZ2UgLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5taWNyb3NvZnQuYXp1cmU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmF6dXJlLXN0b3JhZ2U8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjguNi41PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name=":" type="4">
         <text>action $SelectAll</text>
