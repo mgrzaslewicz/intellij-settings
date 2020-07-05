@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>With</entry>
-        <entry>new</entry>
-        <entry>takeRequest</entry>
-        <entry>Ignore</entry>
-        <entry>seq</entry>
         <entry>comment</entry>
         <entry>confirmedTime</entry>
         <entry>label</entry>
@@ -25,6 +20,11 @@
         <entry>azure</entry>
         <entry>?</entry>
         <entry>ore</entry>
+        <entry>824457</entry>
+        <entry>824304</entry>
+        <entry>552892</entry>
+        <entry>1593943784</entry>
+        <entry>839127</entry>
       </history-search>
       <history-cmd>
         <entry>%s/done/finished/g</entry>
@@ -124,10 +124,18 @@
         <mark key="." line="29" column="73" />
         <mark key="^" line="29" column="74" />
       </file>
+      <file name="E:/repos/autocoin-arbitrage-bot/target/test2.json" timestamp="1593944503670">
+        <mark key="'" line="24" column="6" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="993" column="21" />
+        <mark key="^" line="993" column="21" />
+        <mark key="." line="993" column="20" />
+      </file>
       <file name="E:/repos/autocoin-arbitrage-bot/src/test/resources/kraken-stream-message-order-book-update.json" timestamp="1593898097875">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/repos/autocoin-arbitrage-bot/src/test/resources/kraken-stream-message-order-book-update2.json" timestamp="1593898107815" />
+      <file name="E:/repos/autocoin-arbitrage-bot/src/test/resources/kraken/kraken-stream-message-order-book-update2.json" timestamp="1593943749305" />
       <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/kraken/KrakenStreamMessageParser.kt" timestamp="1593943635931">
         <mark key="[" line="45" column="85" />
         <mark key="]" line="24" column="56" />
@@ -157,9 +165,6 @@
         <mark key="^" line="9" column="82" />
         <mark key="." line="9" column="82" />
       </file>
-      <file name="/" timestamp="1593873586807">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/binance/BinanceOrderBookStream.kt" timestamp="1593895818263">
         <mark key="[" line="50" column="53" />
         <mark key="]" line="50" column="53" />
@@ -186,13 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="/mnt/projects/repos/angeleo-wallet-service/doc/createTransaction.puml" />
-      <jump line="24" column="25" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="12" column="120" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoSessionUnlocker.kt" />
-      <jump line="139" column="43" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="13" column="26" filename="/mnt/projects/repos/angeleo-wallet-service/target/trx.json" />
-      <jump line="199" column="15" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
-      <jump line="359" column="31" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/otp/TimeBasedOneTimePassword.kt" />
       <jump line="210" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
       <jump line="211" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
       <jump line="212" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
@@ -286,6 +284,13 @@
       <jump line="17" column="26" filename="E:/repos/autocoin-arbitrage-bot/src/test/resources/kraken-stream-message-order-book-update.json" />
       <jump line="1010" column="1" filename="E:/repos/autocoin-arbitrage-bot/src/test/resources/kraken-stream-message-order-book-snapshot.json" />
       <jump line="12" column="0" filename="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/kraken/KrakenOrderBookStream.kt" />
+      <jump line="993" column="20" filename="E:/repos/autocoin-arbitrage-bot/target/test2.json" />
+      <jump line="17" column="26" filename="E:/repos/autocoin-arbitrage-bot/target/test2.json" />
+      <jump line="0" column="0" filename="E:/repos/autocoin-arbitrage-bot/target/test2.json" />
+      <jump line="137" column="9" filename="E:/repos/autocoin-arbitrage-bot/target/test2.json" />
+      <jump line="534" column="9" filename="E:/repos/autocoin-arbitrage-bot/target/test2.json" />
+      <jump line="594" column="9" filename="E:/repos/autocoin-arbitrage-bot/target/test2.json" />
+      <jump line="24" column="6" filename="E:/repos/autocoin-arbitrage-bot/target/test2.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -297,7 +302,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>ore</text>
+        <text>839127</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNhcHRvci52YWx1ZS5idXlPcmRlcnMpLmhhc1NpemUoMjApCg==</text>
@@ -336,9 +341,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ore</last-search>
+      <last-search>839127</last-search>
       <last-offset />
-      <last-pattern>ore</last-pattern>
+      <last-pattern>839127</last-pattern>
       <last-replace>bitgoproxy</last-replace>
       <last-substitute>Bob</last-substitute>
       <last-dir>1</last-dir>
