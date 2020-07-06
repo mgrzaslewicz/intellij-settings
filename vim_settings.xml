@@ -118,11 +118,11 @@
         <mark key="." line="14" column="5" />
       </file>
       <file name="E:/repos/autocoin-arbitrage-bot/src/test/resources/kraken/kraken-stream-message-order-book-update2.json" timestamp="1593943749305" />
-      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/kraken/KrakenStreamMessageParser.kt" timestamp="1593943635931">
-        <mark key="[" line="45" column="85" />
-        <mark key="]" line="24" column="56" />
-        <mark key="^" line="24" column="56" />
-        <mark key="." line="24" column="55" />
+      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/kraken/KrakenStreamMessageParser.kt" timestamp="1594016170531">
+        <mark key="[" line="58" column="77" />
+        <mark key="]" line="58" column="77" />
+        <mark key="^" line="7" column="42" />
+        <mark key="." line="58" column="77" />
       </file>
       <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/kraken/KrakenStreamMessageVisitor.kt" timestamp="1593897305298">
         <mark key="[" line="2" column="0" />
@@ -135,11 +135,16 @@
       <file name="E:/repos/autocoin-arbitrage-bot/src/test/resources/kraken/kraken-stream-message-order-book-subscribed.json" timestamp="1593898277159">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/order/Order.kt" timestamp="1594015568259">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="4" column="1" />
+      </file>
       <file name="E:/repos/autocoin-arbitrage-bot/src/test/resources/kraken-stream-message-order-book-snapshot.json" timestamp="1593898081815">
         <mark key="'" line="0" column="1" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/repos/angeleo-wallet-service/src/test/kotlin/angeleo/wallet/bitgo/BitgoServiceTest.kt" timestamp="1593885085306" />
       <file name="E:/repos/poloniex-api-java/src/main/java/com/cf/client/poloniex/wss/model/PoloniexWSSOrderBookUpdate.java" timestamp="1593970822643" />
       <file name="E:/repos/autocoin-arbitrage-bot/src/test/kotlin/autocoin/arbitrage/bot/kraken/KrakenStreamMessageParserTest.kt" timestamp="1593937158295">
         <mark key="[" line="26" column="58" />
@@ -171,12 +176,12 @@
         <mark key="." line="42" column="41" />
       </file>
       <file name="E:/repos/angeleo-wallet-service/pom.xml" timestamp="1593895188884" />
-      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/kraken/KrakenOrderBookStream.kt" timestamp="1593943411806">
+      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/kraken/KrakenOrderBookStream.kt" timestamp="1594015694525">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="56" column="21" />
-        <mark key="]" line="17" column="29" />
-        <mark key="^" line="17" column="29" />
-        <mark key="." line="17" column="28" />
+        <mark key="[" line="78" column="72" />
+        <mark key="]" line="81" column="8" />
+        <mark key="^" line="81" column="8" />
+        <mark key="." line="81" column="7" />
       </file>
       <file name="E:/repos/autocoin-arbitrage-bot/src/test/resources/kraken/kraken-stream-message-order-book-update.json" timestamp="1593944640813" />
     </filemarks>
@@ -286,43 +291,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>BokSnapshot</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>BokSnapshot</text>
       </register>
       <register name="/" type="4">
         <text>1593943784</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNhcHRvci52YWx1ZS5idXlPcmRlcnMpLmhhc1NpemUoMjApCg==</text>
+        <text encoding="base64">ICAgICAgICBASnNvblByb3BlcnR5KCJhcyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBASnNvblByb3BlcnR5KCJicyIpCiAgICAgICAgdmFsIGJ1eU9yZGVyczogTGlzdDxMaXN0PFN0cmluZz4+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZ1biBvbk9yZGVyQm9va1VwZGF0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGZ1biBvbk9yZGVyQm9va1VwZGF0ZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga3Jha2VuT3JkZXJCb2tTbmFwc2hvdFJhd1JlYWRlci5yZWFkVmFsdWU8S3Jha2VuT3JkZXJCb2tTbmFwc2hvdFJhdz4obWVzc2FnZSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga3Jha2VuT3JkZXJCb2tTbmFwc2hvdFJhd1JlYWRlci5yZWFkVmFsdWU8S3Jha2VuT3JkZXJCb2tTbmFwc2hvdFJhdz4obWVzc2FnZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGFyc2VyID0gS3Jha2VuU3RyZWFtTWVzc2FnZVBhcnNlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name=":" type="4">
         <text>action $SelectAll</text>
