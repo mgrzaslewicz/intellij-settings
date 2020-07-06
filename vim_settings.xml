@@ -113,6 +113,31 @@
       <file name="C:/Program Files/OpenJDK/jdk-14/lib/src.zip!/java.base/java/util/AbstractMap.java" timestamp="1594057573803">
         <mark key="'" line="327" column="28" />
       </file>
+      <file name="/fragment.kt" timestamp="1594016428374">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/repos/autocoin-arbitrage-bot/src/test/kotlin/autocoin/arbitrage/bot/kraken/KrakenStreamMessageParserTest.kt" timestamp="1594057821242">
+        <mark key="[" line="27" column="58" />
+        <mark key="]" line="51" column="64" />
+        <mark key="." line="51" column="63" />
+        <mark key="^" line="51" column="64" />
+      </file>
+      <file name="/" timestamp="1594065139109">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/config/AppContext.kt" timestamp="1593935588910">
+        <mark key="'" line="24" column="3" />
+        <mark key="[" line="32" column="49" />
+        <mark key="]" line="29" column="74" />
+        <mark key="." line="29" column="73" />
+        <mark key="^" line="29" column="74" />
+      </file>
+      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/binance/BinanceOrderBookStream.kt" timestamp="1594057539928">
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="20" column="54" />
+        <mark key="." line="23" column="52" />
+        <mark key="^" line="20" column="54" />
+      </file>
       <file name="E:/repos/autocoin-arbitrage-bot/target/test2.json" timestamp="1593944772678">
         <mark key="'" line="137" column="9" />
         <mark key="[" line="14" column="6" />
@@ -120,12 +145,27 @@
         <mark key="^" line="14" column="6" />
         <mark key="." line="14" column="5" />
       </file>
-      <file name="E:/repos/autocoin-arbitrage-bot/src/test/resources/kraken/kraken-stream-message-order-book-update2.json" timestamp="1593943749305" />
+      <file name="E:/repos/autocoin-arbitrage-bot/src/test/resources/kraken-stream-message-order-book-update.json" timestamp="1593898097875">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/repos/autocoin-arbitrage-bot/src/test/kotlin/autocoin/arbitrage/bot/kraken/KrakenOrderBookStreamTest.kt" timestamp="1593897559988">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="42" column="41" />
+        <mark key="^" line="42" column="60" />
+        <mark key="." line="42" column="41" />
+      </file>
       <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/kraken/KrakenStreamMessageParser.kt" timestamp="1594057777209">
         <mark key="[" line="79" column="51" />
         <mark key="]" line="87" column="45" />
         <mark key="." line="87" column="45" />
         <mark key="^" line="17" column="112" />
+      </file>
+      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/kraken/KrakenOrderBookStream.kt" timestamp="1594057548849">
+        <mark key="'" line="73" column="57" />
+        <mark key="[" line="83" column="28" />
+        <mark key="]" line="86" column="61" />
+        <mark key="^" line="86" column="61" />
+        <mark key="." line="86" column="60" />
       </file>
       <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/kraken/KrakenStreamMessageVisitor.kt" timestamp="1593897305298">
         <mark key="[" line="2" column="0" />
@@ -133,12 +173,6 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="E:/repos/autocoin-arbitrage-bot/src/test/resources/kraken/kraken-stream-message-open.json" timestamp="1593898242986">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/repos/autocoin-arbitrage-bot/src/test/resources/kraken/kraken-stream-message-order-book-subscribed.json" timestamp="1593898277159">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.kt" timestamp="1594016428374">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/order/Order.kt" timestamp="1594057647812">
@@ -151,44 +185,9 @@
         <mark key="'" line="0" column="1" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/repos/poloniex-api-java/src/main/java/com/cf/client/poloniex/wss/model/PoloniexWSSOrderBookUpdate.java" timestamp="1593970822643" />
-      <file name="E:/repos/autocoin-arbitrage-bot/src/test/kotlin/autocoin/arbitrage/bot/kraken/KrakenStreamMessageParserTest.kt" timestamp="1594057821242">
-        <mark key="[" line="27" column="58" />
-        <mark key="]" line="51" column="64" />
-        <mark key="." line="51" column="63" />
-        <mark key="^" line="51" column="64" />
-      </file>
-      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/config/AppContext.kt" timestamp="1593935588910">
-        <mark key="'" line="24" column="3" />
-        <mark key="[" line="32" column="49" />
-        <mark key="]" line="29" column="74" />
-        <mark key="." line="29" column="73" />
-        <mark key="^" line="29" column="74" />
-      </file>
-      <file name="E:/repos/autocoin-arbitrage-bot/src/test/resources/kraken-stream-message-order-book-update.json" timestamp="1593898097875">
+      <file name="E:/repos/autocoin-arbitrage-bot/src/test/resources/kraken/kraken-stream-message-order-book-subscribed.json" timestamp="1593898277159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/repos/autocoin-arbitrage-bot/src/test/resources/kraken-stream-message-order-book-update2.json" timestamp="1593898107815" />
-      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/binance/BinanceOrderBookStream.kt" timestamp="1594057539928">
-        <mark key="[" line="23" column="39" />
-        <mark key="]" line="20" column="54" />
-        <mark key="." line="23" column="52" />
-        <mark key="^" line="20" column="54" />
-      </file>
-      <file name="E:/repos/autocoin-arbitrage-bot/src/test/kotlin/autocoin/arbitrage/bot/kraken/KrakenOrderBookStreamTest.kt" timestamp="1593897559988">
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="42" column="41" />
-        <mark key="^" line="42" column="60" />
-        <mark key="." line="42" column="41" />
-      </file>
-      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/kraken/KrakenOrderBookStream.kt" timestamp="1594057548849">
-        <mark key="'" line="73" column="57" />
-        <mark key="[" line="83" column="28" />
-        <mark key="]" line="86" column="61" />
-        <mark key="^" line="86" column="61" />
-        <mark key="." line="86" column="60" />
-      </file>
-      <file name="E:/repos/autocoin-arbitrage-bot/src/test/resources/kraken/kraken-stream-message-order-book-update.json" timestamp="1593944640813" />
     </filemarks>
     <jumps>
       <jump line="217" column="16" filename="/mnt/projects/repos/angeleo-wallet-service/src/main/kotlin/angeleo/wallet/bitgo/BitgoService.kt" />
