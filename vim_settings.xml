@@ -118,11 +118,11 @@
         <mark key="." line="14" column="5" />
       </file>
       <file name="E:/repos/autocoin-arbitrage-bot/src/test/resources/kraken/kraken-stream-message-order-book-update2.json" timestamp="1593943749305" />
-      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/kraken/KrakenStreamMessageParser.kt" timestamp="1594054688931">
-        <mark key="[" line="21" column="32" />
-        <mark key="]" line="21" column="57" />
-        <mark key="." line="21" column="56" />
-        <mark key="^" line="21" column="57" />
+      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/kraken/KrakenStreamMessageParser.kt" timestamp="1594055926575">
+        <mark key="[" line="87" column="44" />
+        <mark key="]" line="27" column="112" />
+        <mark key="." line="27" column="112" />
+        <mark key="^" line="27" column="35" />
       </file>
       <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/kraken/KrakenStreamMessageVisitor.kt" timestamp="1593897305298">
         <mark key="[" line="2" column="0" />
@@ -138,22 +138,22 @@
       <file name="/fragment.kt" timestamp="1594016428374">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/order/Order.kt" timestamp="1594015568259">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="1" />
-        <mark key="^" line="3" column="25" />
-        <mark key="." line="4" column="1" />
+      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/order/Order.kt" timestamp="1594056020119">
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="18" column="27" />
+        <mark key="^" line="18" column="27" />
+        <mark key="." line="18" column="26" />
       </file>
       <file name="E:/repos/autocoin-arbitrage-bot/src/test/resources/kraken-stream-message-order-book-snapshot.json" timestamp="1593898081815">
         <mark key="'" line="0" column="1" />
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/repos/poloniex-api-java/src/main/java/com/cf/client/poloniex/wss/model/PoloniexWSSOrderBookUpdate.java" timestamp="1593970822643" />
-      <file name="E:/repos/autocoin-arbitrage-bot/src/test/kotlin/autocoin/arbitrage/bot/kraken/KrakenStreamMessageParserTest.kt" timestamp="1594017522377">
-        <mark key="[" line="52" column="26" />
-        <mark key="]" line="51" column="8" />
-        <mark key="." line="51" column="7" />
-        <mark key="^" line="51" column="8" />
+      <file name="E:/repos/autocoin-arbitrage-bot/src/test/kotlin/autocoin/arbitrage/bot/kraken/KrakenStreamMessageParserTest.kt" timestamp="1594056155591">
+        <mark key="[" line="30" column="71" />
+        <mark key="]" line="30" column="105" />
+        <mark key="." line="30" column="104" />
+        <mark key="^" line="30" column="105" />
       </file>
       <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/config/AppContext.kt" timestamp="1593935588910">
         <mark key="'" line="24" column="3" />
@@ -179,12 +179,12 @@
         <mark key="." line="42" column="41" />
       </file>
       <file name="E:/repos/angeleo-wallet-service/pom.xml" timestamp="1593895188884" />
-      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/kraken/KrakenOrderBookStream.kt" timestamp="1594054659150">
+      <file name="E:/repos/autocoin-arbitrage-bot/src/main/kotlin/autocoin/arbitrage/bot/kraken/KrakenOrderBookStream.kt" timestamp="1594055900625">
         <mark key="'" line="22" column="1" />
-        <mark key="[" line="26" column="27" />
-        <mark key="]" line="26" column="30" />
-        <mark key="^" line="26" column="30" />
-        <mark key="." line="26" column="29" />
+        <mark key="[" line="90" column="44" />
+        <mark key="]" line="90" column="50" />
+        <mark key="^" line="90" column="50" />
+        <mark key="." line="90" column="49" />
       </file>
       <file name="E:/repos/autocoin-arbitrage-bot/src/test/resources/kraken/kraken-stream-message-order-book-update.json" timestamp="1593944640813" />
     </filemarks>
@@ -294,43 +294,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>: Int {</text>
+        <text>buy</text>
       </register>
       <register name="-" type="4">
-        <text>: Int {</text>
+        <text>buy</text>
       </register>
       <register name="/" type="4">
         <text>In</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBASnNvblByb3BlcnR5KCJhIikK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNhcHRvci5maXJzdFZhbHVlLmJ1eU9yZGVycy5lbnRyaWVzLmZpcnN0KCkua2V5KS5pc0dyZWF0ZXJUaGFuKGNhcHRvci5maXJzdFZhbHVlLmJ1eU9yZGVycy5lbnRyaWVzLmxhc3QoKS5rZXkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNhcHRvci5maXJzdFZhbHVlLnByaWNlKS5pc0VxdWFsVG8oIjkwMjUuMzAwMDAiKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNhcHRvci5zZWNvbmRWYWx1ZS5wcmljZSkuaXNFcXVhbFRvKCI5MDI1LjMwMDAwIikK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkobWVzc2FnZVZpc2l0b3IpLm9uUmVtb3ZlT3JkZXIoT3JkZXJUeXBlLkFTS19TRUxMLCBjYXB0b3IuY2FwdHVyZSgpKQogICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBASnNvblByb3BlcnR5KCJicyIpCiAgICAgICAgdmFsIGJ1eU9yZGVyczogTGlzdDxMaXN0PFN0cmluZz4+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNhcHRvci5maXJzdFZhbHVlLnByaWNlKS5pc0VxdWFsVG8oIjkwMjUuMzAwMDAiKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNhcHRvci5zZWNvbmRWYWx1ZS5wcmljZSkuaXNFcXVhbFRvKCI5MDI1LjMwMDAwIikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkobWVzc2FnZVZpc2l0b3IpLm9uUmVtb3ZlT3JkZXIoT3JkZXJUeXBlLkFTS19TRUxMLCBjYXB0b3IuY2FwdHVyZSgpKQogICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBASnNvblByb3BlcnR5KCJicyIpCiAgICAgICAgdmFsIGJ1eU9yZGVyczogTGlzdDxMaXN0PFN0cmluZz4+Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBvbk9yZGVyQm9va1VwZGF0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGZ1biBvbk9yZGVyQm9va1VwZGF0ZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action $SelectAll</text>
