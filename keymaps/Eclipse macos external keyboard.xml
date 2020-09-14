@@ -7,6 +7,9 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CollapseSelection" />
+  <action id="Diff.ShowDiff">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="EditorChooseLookupItemDot" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl o" />
