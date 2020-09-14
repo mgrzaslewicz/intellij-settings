@@ -8,10 +8,17 @@
   </action>
   <action id="CollapseSelection" />
   <action id="EditorChooseLookupItemDot" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
   <action id="Git.Rename.Local.Branch" />
   <action id="Git.Reword.Commit" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl comma" />
