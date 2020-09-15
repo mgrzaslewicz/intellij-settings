@@ -4,7 +4,7 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
   </action>
   <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="CollapseSelection" />
   <action id="Diff.ShowDiff">
