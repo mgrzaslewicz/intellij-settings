@@ -2,6 +2,7 @@
   <component name="download-consent">
     <option name="consentItems">
       <item download="ALLOWED" kind="jdk" url="https://index-cdn.jetbrains.com" />
+      <item download="ALLOWED" kind="project" url="https://statlas.prod.atl-paas.net/intellij-indexes/project/confluence-server" />
     </option>
   </component>
 </application>
