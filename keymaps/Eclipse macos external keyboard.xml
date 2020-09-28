@@ -77,7 +77,7 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="ctrl comma" />
+    <keyboard-shortcut first-keystroke="meta comma" />
   </action>
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="shift f1" />
