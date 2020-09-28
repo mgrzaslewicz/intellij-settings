@@ -5,6 +5,9 @@
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="meta x" />
   </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
@@ -36,6 +39,9 @@
   <action id="Editor Cut">
     <keyboard-shortcut first-keystroke="meta x" />
   </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
@@ -43,6 +49,12 @@
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
   <action id="EditorChooseLookupItemDot" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDeleteToWordEnd">
+    <keyboard-shortcut first-keystroke="meta delete" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl o" />
     <keyboard-shortcut first-keystroke="meta o" />
@@ -94,7 +106,6 @@
   </action>
   <action id="Terminal.Paste">
     <keyboard-shortcut first-keystroke="shift insert" />
-    <keyboard-shortcut first-keystroke="meta v" />
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="shift meta f11" />
