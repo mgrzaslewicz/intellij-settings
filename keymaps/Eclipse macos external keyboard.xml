@@ -14,6 +14,10 @@
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
   <action id="ChangesView.Rename" />
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="ctrl f4" />
