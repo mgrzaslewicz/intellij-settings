@@ -624,7 +624,7 @@
   </component>
   <component name="NodeRendererSettings">
     <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="automate.profit.autocoin.exchange.arbitrage.orderbook.OrderBookPair" />
         <Renderer ID="ExpressionChildrenRenderer" role="children">
@@ -637,9 +637,7 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general>
-      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
-    </general>
+    <general />
     <debuggers>
       <debugger id="oracle">
         <configuration>
