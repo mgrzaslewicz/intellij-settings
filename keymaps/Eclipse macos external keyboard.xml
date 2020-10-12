@@ -84,6 +84,9 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt help" />
+  </action>
   <action id="Git.Rename.Local.Branch" />
   <action id="Git.Reword.Commit" />
   <action id="GotoAction">
