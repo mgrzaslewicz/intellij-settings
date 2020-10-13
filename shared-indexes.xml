@@ -3,6 +3,7 @@
     <option name="consentItems">
       <item download="ALLOWED" kind="jdk" url="https://index-cdn.jetbrains.com" />
       <item download="ALLOWED" kind="project" url="https://statlas.prod.atl-paas.net/intellij-indexes/project/confluence-server" />
+      <item download="ALLOWED" kind="project" url="https://statlas.prod.atl-paas.net/intellij-indexes/project/jira-cloud" />
     </option>
   </component>
 </application>
