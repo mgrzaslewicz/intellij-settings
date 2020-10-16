@@ -1,7 +1,12 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <option id="SHOW_PROPERTY_HINT" value="true" />
+    <option id="java.multiple.params.same.type" value="true" />
+    <option id="java.build.like.method" value="true" />
     <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
     <option id="SHOW_FUNCTION_HINT" value="true" />
+    <option id="java.simple.sequentially.numbered" value="true" />
+    <option id="java.clear.expression.type" value="true" />
+    <option id="java.method.name.contains.parameter.name" value="true" />
   </component>
 </application>
