@@ -16,4 +16,8 @@
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseAccessors" value="true" />
+    <option name="replaceVarWithInferredType" value="true" />
+  </component>
 </application>
