@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value=".gitignore" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,5 +14,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.vm</mask>
+    <mask>.gitignore</mask>
   </component>
 </application>
