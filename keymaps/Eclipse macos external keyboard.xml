@@ -138,9 +138,11 @@
   </action>
   <action id="Terminal.CopySelectedText">
     <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="ctrl insert" second-keystroke="meta c" />
   </action>
   <action id="Terminal.Paste">
     <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="shift insert" second-keystroke="meta v" />
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="shift meta f11" />
