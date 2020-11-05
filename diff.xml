@@ -43,6 +43,13 @@
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
+      <entry key="CommitDialog">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="HIGHLIGHT_POLICY" value="BY_CHAR" />
+          <option name="SHOW_INDENT_LINES" value="true" />
+        </PlaceSettings>
+      </entry>
       <entry key="Default">
         <PlaceSettings>
           <option name="HIGHLIGHT_POLICY" value="BY_CHAR" />
