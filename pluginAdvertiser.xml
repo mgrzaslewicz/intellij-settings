@@ -2564,6 +2564,21 @@
                       <FeaturePluginData displayName="Plugin" pluginName="Plugin DevKit" pluginId="DevKit" />
                     </value>
                   </entry>
+                  <entry key="AZURE_DOCKER_SUPPORT_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Azure Docker Support" pluginName="Azure Toolkit for IntelliJ" pluginId="com.microsoft.tooling.msservices.intellij.azure" />
+                    </value>
+                  </entry>
+                  <entry key="AZURE_FUNCTION_SUPPORT">
+                    <value>
+                      <FeaturePluginData displayName="Azure Functions" pluginName="Azure Toolkit for IntelliJ" pluginId="com.microsoft.tooling.msservices.intellij.azure" />
+                    </value>
+                  </entry>
+                  <entry key="AZURE_SPRING_CLOUD_SUPPORT">
+                    <value>
+                      <FeaturePluginData displayName="Azure Spring Cloud Services" pluginName="Azure Toolkit for IntelliJ" pluginId="com.microsoft.tooling.msservices.intellij.azure" />
+                    </value>
+                  </entry>
                   <entry key="AndroidJUnit">
                     <value>
                       <FeaturePluginData displayName="Android JUnit" pluginName="Android" pluginId="org.jetbrains.android" />
@@ -2587,6 +2602,16 @@
                   <entry key="Application">
                     <value>
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" />
+                    </value>
+                  </entry>
+                  <entry key="ArcadiaOnSparkConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Apache Spark on Azure Synapse" pluginName="Azure Toolkit for IntelliJ" pluginId="com.microsoft.tooling.msservices.intellij.azure" />
+                    </value>
+                  </entry>
+                  <entry key="ArisOnSparkConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Apache Spark on SQL Server Big Data Cluster" pluginName="Azure Toolkit for IntelliJ" pluginId="com.microsoft.tooling.msservices.intellij.azure" />
                     </value>
                   </entry>
                   <entry key="ArquillianJUnit">
@@ -2622,6 +2647,16 @@
                   <entry key="CompoundRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="CosmosADLSparkConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Apache Spark on Cosmos" pluginName="Azure Toolkit for IntelliJ" pluginId="com.microsoft.tooling.msservices.intellij.azure" />
+                    </value>
+                  </entry>
+                  <entry key="CosmosServerlessSparkConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Apache Spark on Cosmos Serverless" pluginName="Azure Toolkit for IntelliJ" pluginId="com.microsoft.tooling.msservices.intellij.azure" />
                     </value>
                   </entry>
                   <entry key="CucumberJavaRunConfigurationType">
@@ -2859,6 +2894,11 @@
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
                     </value>
                   </entry>
+                  <entry key="SparkFailureLocalDebugConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Apache Spark Failure Debug" pluginName="Azure Toolkit for IntelliJ" pluginId="com.microsoft.tooling.msservices.intellij.azure" />
+                    </value>
+                  </entry>
                   <entry key="Specs2RunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Specs2" pluginName="Scala" pluginId="org.intellij.scala" />
@@ -2867,6 +2907,11 @@
                   <entry key="SpringBootApplicationConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Spring Boot" pluginName="Spring Boot" pluginId="com.intellij.spring.boot" />
+                    </value>
+                  </entry>
+                  <entry key="SubmitSparkJob_Configuration">
+                    <value>
+                      <FeaturePluginData displayName="Apache Spark on HDInsight" pluginName="Azure Toolkit for IntelliJ" pluginId="com.microsoft.tooling.msservices.intellij.azure" />
                     </value>
                   </entry>
                   <entry key="SwaggerCodegen">
@@ -2897,6 +2942,11 @@
                   <entry key="XSLT">
                     <value>
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
+                    </value>
+                  </entry>
+                  <entry key="com.microsoft.intellij.run.configuration.WebAppConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Azure Web App" pluginName="Azure Toolkit for IntelliJ" pluginId="com.microsoft.tooling.msservices.intellij.azure" />
                     </value>
                   </entry>
                   <entry key="docker-deploy">
@@ -2957,6 +3007,11 @@
                   <entry key="AspectJ">
                     <value>
                       <FeaturePluginData displayName="AspectJ" pluginName="AspectJ" pluginId="com.intellij.aspectj" />
+                    </value>
+                  </entry>
+                  <entry key="AzureFunctions">
+                    <value>
+                      <FeaturePluginData displayName="AzureFunctions" pluginName="Azure Toolkit for IntelliJ" pluginId="com.microsoft.tooling.msservices.intellij.azure" />
                     </value>
                   </entry>
                   <entry key="Python">
