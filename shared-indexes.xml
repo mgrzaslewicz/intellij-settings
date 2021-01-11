@@ -2,7 +2,10 @@
   <component name="download-consent">
     <option name="consentItems">
       <item download="ALLOWED" kind="jdk" url="https://index-cdn.jetbrains.com" />
-      <item download="ALLOWED" kind="mvn" url="https://index-cdn.jetbrains.com" />
+      <item download="ALLOWED" kind="project" url="https://statlas.prod.atl-paas.net/intellij-indexes/project/confluence-server" />
+      <item download="ALLOWED" kind="project" url="https://statlas.prod.atl-paas.net/intellij-indexes/project/jira-cloud" />
+      <item download="ALLOWED" kind="project" url="https://intellij-indexes-cache.staging.atl-paas.net/project/jira-cloud" />
+      <item download="ALLOWED" kind="project" url="https://intellij-indexes-cache.staging.atl-paas.net/project/confluence-cloud" />
       <item download="ALLOWED" kind="jdk" url="https://index-cdn.jetbrains.com/v2/jdk" />
       <item download="ALLOWED" kind="mvn" url="https://index-cdn.jetbrains.com/v2/mvn" />
     </option>
