@@ -1,0 +1,41 @@
+<keymap version="1" name="Eclipse copy windows/linux" parent="Eclipse">
+  <action id="ChangesView.Rename" />
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CollapseSelection" />
+  <action id="EditorChooseLookupItemDot" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="Git.Rename.Local.Branch" />
+  <action id="Git.Reword.Commit" />
+  <action id="GotoChangedFile" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift f1" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
+  <action id="ResourceExplorer.show" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="ShelvedChanges.Rename" />
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+</keymap>
