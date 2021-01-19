@@ -22,9 +22,6 @@
     <keyboard-shortcut first-keystroke="shift f1" />
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
-  <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="shift meta i" />
-  </action>
   <action id="ResourceExplorer.show" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
@@ -32,6 +29,7 @@
   </action>
   <action id="ShelvedChanges.Rename" />
   <action id="UpdateRunningApplication" />
+  <action id="XDebugger.Inspect" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
