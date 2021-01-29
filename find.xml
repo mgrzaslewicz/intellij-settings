@@ -9,7 +9,6 @@
     <mask>*.html</mask>
     <mask>*.kt</mask>
     <mask>*.md</mask>
-    <mask>*.xml</mask>
     <mask>.gitignore</mask>
     <mask>*.jsp</mask>
     <mask>*Servlet.java</mask>
@@ -18,5 +17,6 @@
     <mask>*.vm</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
