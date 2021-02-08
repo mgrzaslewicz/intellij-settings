@@ -5,10 +5,10 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.md" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.kt</mask>
-    <mask>*.md</mask>
     <mask>.gitignore</mask>
     <mask>*.jsp</mask>
     <mask>*Servlet.java</mask>
@@ -18,5 +18,6 @@
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.md</mask>
   </component>
 </application>
