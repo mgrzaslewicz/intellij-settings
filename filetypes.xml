@@ -7,8 +7,6 @@
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="generate-certificate" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-with-build" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
