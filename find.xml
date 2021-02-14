@@ -9,15 +9,15 @@
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.kt</mask>
-    <mask>*.md</mask>
-    <mask>*.xml</mask>
     <mask>.gitignore</mask>
     <mask>*.jsp</mask>
     <mask>*Servlet.java</mask>
     <mask>package.json</mask>
     <mask>*.properties</mask>
     <mask>*.vm</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.md</mask>
     <mask>pom.xml</mask>
   </component>
 </application>
