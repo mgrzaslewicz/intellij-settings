@@ -5,7 +5,6 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.kt</mask>
@@ -17,7 +16,7 @@
     <mask>*.vm</mask>
     <mask>*.md</mask>
     <mask>*.xml</mask>
-    <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
