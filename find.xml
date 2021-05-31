@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="Jobs.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.kt</mask>
@@ -18,5 +19,6 @@
     <mask>*.py</mask>
     <mask>*.groovy</mask>
     <mask>pom.xml</mask>
+    <mask>Jobs.java</mask>
   </component>
 </application>
