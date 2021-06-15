@@ -10,7 +10,6 @@
     <mask>*.jsp</mask>
     <mask>*Servlet.java</mask>
     <mask>package.json</mask>
-    <mask>*.properties</mask>
     <mask>*.vm</mask>
     <mask>*.md</mask>
     <mask>*.xml</mask>
@@ -19,5 +18,6 @@
     <mask>Jobs.java</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
