@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.kt</mask>
@@ -14,11 +14,11 @@
     <mask>*.vm</mask>
     <mask>*.md</mask>
     <mask>*.xml</mask>
-    <mask>*.py</mask>
     <mask>*.groovy</mask>
     <mask>Jobs.java</mask>
     <mask>*.properties</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*.py</mask>
   </component>
 </application>
