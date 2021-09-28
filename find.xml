@@ -3,19 +3,20 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
-    <mask>*.html</mask>
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.kt</mask>
     <mask>.gitignore</mask>
-    <mask>*.jsp</mask>
     <mask>*Servlet.java</mask>
     <mask>package.json</mask>
-    <mask>*.properties</mask>
     <mask>*.vm</mask>
     <mask>*.md</mask>
-    <mask>*.java</mask>
-    <mask>*.xml</mask>
-    <mask>pom.xml</mask>
     <mask>*.groovy</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
