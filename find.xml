@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>.gitignore</mask>
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*Servlet.java</mask>
     <mask>package.json</mask>
     <mask>*.vm</mask>
@@ -16,6 +16,7 @@
     <mask>pom.xml</mask>
     <mask>*.kt</mask>
     <mask>*.java</mask>
+    <mask>.gitignore</mask>
     <mask>*.xml</mask>
   </component>
 </application>
