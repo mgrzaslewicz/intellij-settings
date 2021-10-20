@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="Module 'jira-api'" />
+    <option name="defaultScopeName" value="Module 'jira-api'" />
+    <option name="SEARCH_SCOPE" value="Module 'jira-api'" />
     <option name="FILE_MASK" value="pom.xml" />
     <mask>*Servlet.java</mask>
     <mask>package.json</mask>
