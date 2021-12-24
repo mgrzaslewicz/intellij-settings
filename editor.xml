@@ -10,7 +10,17 @@
     <option name="BIDI_TEXT_DIRECTION" value="LTR" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="KotlinReferencesTypeHintsProvider" />
+    <settingsMapElement>
+      <kotlin.KotlinReferencesTypeHintsProvider>
+        <Settings>
+          <option name="functionReturnType" value="true" />
+          <option name="localVariableType" value="true" />
+          <option name="parameterType" value="true" />
+          <option name="propertyType" value="true" />
+        </Settings>
+      </kotlin.KotlinReferencesTypeHintsProvider>
+    </settingsMapElement>
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAccessors" value="true" />
