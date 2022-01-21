@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.lockfile" />
+    <option name="FILE_MASK" value="build.gradle.kts" />
     <mask>*Servlet.java</mask>
     <mask>package.json</mask>
     <mask>*.vm</mask>
@@ -21,5 +21,6 @@
     <mask>*.jpt</mask>
     <mask>*.kts</mask>
     <mask>*.lockfile</mask>
+    <mask>build.gradle.kts</mask>
   </component>
 </application>
