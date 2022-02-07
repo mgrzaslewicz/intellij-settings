@@ -7,7 +7,9 @@
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-with-build" type="PLAIN_TEXT" />
       <mapping pattern=".credentials" type="PLAIN_TEXT" />
+      <mapping pattern=".rvmrc" type="PLAIN_TEXT" />
       <mapping pattern="generate-certificate" type="PLAIN_TEXT" />
+      <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
