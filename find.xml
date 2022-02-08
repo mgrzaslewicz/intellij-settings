@@ -22,5 +22,6 @@
     <mask>*.lockfile</mask>
     <mask>build.gradle.kts</mask>
     <mask>*.jmx</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
