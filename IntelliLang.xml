@@ -404,6 +404,18 @@
       <place><![CDATA[receiver().ofFunction(kotlinFunction().withName("toPattern").withReceiver("kotlin.String").definedInPackage("kotlin.text"))]]></place>
       <place><![CDATA[receiver().ofFunction(kotlinFunction().withName("toRegex").withReceiver("kotlin.String").definedInPackage("kotlin.text"))]]></place>
     </injection>
+    <injection language="JavaScript" injector-id="ruby">
+      <display-name>Heredoc JavaScript</display-name>
+      <single-file value="true" />
+      <place><![CDATA[heredocElement("JAVASCRIPT")]]></place>
+      <place><![CDATA[heredocElement("JS")]]></place>
+    </injection>
+    <injection language="ruby" injector-id="ruby">
+      <display-name>Heredoc Ruby</display-name>
+      <single-file value="true" />
+      <place><![CDATA[heredocElement("RB")]]></place>
+      <place><![CDATA[heredocElement("RUBY")]]></place>
+    </injection>
     <injection language="JSON" injector-id="sql">
       <display-name>ClickHouse JSON</display-name>
       <single-file value="true" />
