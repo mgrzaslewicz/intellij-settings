@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*Servlet.java</mask>
     <mask>package.json</mask>
     <mask>*.vm</mask>
@@ -16,12 +17,12 @@
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
-    <mask>*.kt</mask>
     <mask>*.jpt</mask>
     <mask>*.kts</mask>
     <mask>*.lockfile</mask>
     <mask>*.jmx</mask>
     <mask>*.yml</mask>
     <mask>build.gradle.kts</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
