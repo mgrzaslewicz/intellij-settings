@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '…/jira-functional-tests/jira-func-tests/src [jira-func-tests]'" />
-    <option name="defaultScopeName" value="Directory '…/jira-functional-tests/jira-func-tests/src [jira-func-tests]'" />
-    <option name="SEARCH_SCOPE" value="Directory '…/jira-functional-tests/jira-func-tests/src [jira-func-tests]'" />
+    <option name="customScope" value="Directory '…/jira-functional-tests/jira-func-tests/src/main [jira-func-tests]'" />
+    <option name="defaultScopeName" value="Directory '…/jira-functional-tests/jira-func-tests/src/main [jira-func-tests]'" />
+    <option name="SEARCH_SCOPE" value="Directory '…/jira-functional-tests/jira-func-tests/src/main [jira-func-tests]'" />
     <mask>*Servlet.java</mask>
     <mask>package.json</mask>
     <mask>*.vm</mask>
