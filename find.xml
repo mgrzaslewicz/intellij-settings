@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*Servlet.java</mask>
     <mask>package.json</mask>
     <mask>*.vm</mask>
@@ -13,7 +14,6 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>.gitignore</mask>
-    <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*.jpt</mask>
     <mask>*.kts</mask>
@@ -23,5 +23,6 @@
     <mask>*.lockfile</mask>
     <mask>*.kt</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
