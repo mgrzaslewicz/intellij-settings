@@ -107,7 +107,6 @@
                   <option value="com.intellij.modules.ultimate" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -220,9 +219,7 @@
         </entry>
         <entry key="com.intellij.guice">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.intellij.jboss.core">
@@ -256,9 +253,7 @@
         </entry>
         <entry key="com.intellij.selenium">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.intellij.spring.mvc">
@@ -406,9 +401,7 @@
         </entry>
         <entry key="org.jetbrains.plugins.ruby">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="org.strangeway.msa">
@@ -431,6 +424,7 @@
                   <option value="com.intellij.modules.java" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
