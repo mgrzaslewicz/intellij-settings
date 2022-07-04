@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.spec.ts" />
     <mask>*Servlet.java</mask>
     <mask>package.json</mask>
     <mask>*.vm</mask>
@@ -24,5 +25,6 @@
     <mask>pom.xml</mask>
     <mask>*.scss</mask>
     <mask>*.kt</mask>
+    <mask>*.spec.ts</mask>
   </component>
 </application>
