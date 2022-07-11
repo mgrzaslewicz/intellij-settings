@@ -3,13 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*Servlet.java</mask>
     <mask>package.json</mask>
     <mask>*.vm</mask>
     <mask>*.md</mask>
     <mask>*.groovy</mask>
     <mask>*.css</mask>
-    <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>.gitignore</mask>
@@ -25,5 +25,6 @@
     <mask>*.scss</mask>
     <mask>*.kt</mask>
     <mask>*.spec.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
