@@ -55,6 +55,14 @@
         <option name="EFFECT_COLOR" value="1a62b7" />
       </value>
     </option>
+    <option name="ERRORS_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="943d3d" />
+        <option name="EFFECT_COLOR" value="3c3f41" />
+        <option name="ERROR_STRIPE_COLOR" value="a92121" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="92ff18" />
@@ -104,6 +112,14 @@
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff5d58" />
+      </value>
+    </option>
+    <option name="WRONG_REFERENCES_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="e05252" />
+        <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_COLOR" value="3c3f41" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
   </attributes>

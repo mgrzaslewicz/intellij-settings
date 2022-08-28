@@ -9,13 +9,21 @@
     <mask>*.md</mask>
     <mask>*.groovy</mask>
     <mask>*.css</mask>
-    <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.kt</mask>
     <mask>.gitignore</mask>
-    <mask>pom.xml</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.jpt</mask>
+    <mask>*.kts</mask>
+    <mask>*.jmx</mask>
+    <mask>*.yml</mask>
+    <mask>build.gradle.kts</mask>
+    <mask>*.lockfile</mask>
+    <mask>*.java</mask>
+    <mask>pom.xml</mask>
+    <mask>*.scss</mask>
+    <mask>*.spec.ts</mask>
+    <mask>*.html</mask>
+    <mask>*.kt</mask>
   </component>
 </application>

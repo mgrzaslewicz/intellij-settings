@@ -1,0 +1,922 @@
+<application>
+  <component name="GlobalInteractionsState">
+    <option name="interactions">
+      <list>
+        <InteractionState>
+          <option name="argsCount" value="3" />
+          <option name="className" value="java.nio.file.Files" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="createTempFile" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="java.net.http.HttpClient" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="send" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="java.io.PrintStream" />
+          <option name="interactionType" value="IO_WRITE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="println" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="org.springframework.data.r2dbc.core.R2dbcEntityTemplate" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="insert" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="org.springframework.web.reactive.function.client.WebClient.RequestHeadersSpec" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="exchangeToMono" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="java.io.File" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="exists" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="java.io.File" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="mkdir" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="java.lang.Throwable" />
+          <option name="interactionType" value="IO_WRITE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="printStackTrace" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="io.micronaut.http.client.HttpClient" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="retrieve" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="com.intellij.util.io.RequestBuilder" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="connect" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="com.intellij.util.io.HttpRequests.Request" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="saveToFile" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="java.io.File" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="delete" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="com.intellij.util.io.HttpRequests.Request" />
+          <option name="interactionType" value="IO_WRITE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="write" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="com.intellij.util.io.HttpRequests.Request" />
+          <option name="interactionType" value="IO_READ" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="readString" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="javax.persistence.EntityManager" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="merge" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="javax.persistence.EntityManager" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="persist" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="javax.persistence.EntityManager" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="remove" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="javax.persistence.EntityManager" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="find" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="javax.persistence.EntityManager" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="flush" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="javax.persistence.EntityTransaction" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="commit" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="javax.persistence.EntityTransaction" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="rollback" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="javax.persistence.TypedQuery" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="getResultList" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="javax.persistence.Query" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="getResultList" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="org.springframework.web.reactive.function.client.ClientResponse" />
+          <option name="interactionType" value="IO_READ" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="bodyToMono" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="java.nio.file.Files" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="createDirectories" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="org.springframework.util.FileSystemUtils" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="deleteRecursively" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="java.nio.file.Files" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="createTempDirectory" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="java.nio.file.Files" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="createDirectory" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="java.nio.file.Files" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="newInputStream" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="java.nio.file.Files" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="deleteIfExists" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="org.springframework.http.codec.multipart.FilePart" />
+          <option name="interactionType" value="IO_WRITE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="transferTo" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="java.util.Properties" />
+          <option name="interactionType" value="IO_READ" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="load" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="java.nio.file.Files" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="newOutputStream" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="org.springframework.data.r2dbc.core.R2dbcEntityTemplate" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="delete" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="org.springframework.r2dbc.core.DatabaseClient.GenericExecuteSpec" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="fetch" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="org.springframework.test.web.reactive.server.WebTestClient.RequestHeadersSpec" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="exchange" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="org.springframework.mail.javamail.JavaMailSender" />
+          <option name="interactionType" value="MESSAGE_SEND" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="send" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="org.springframework.amqp.core.AmqpTemplate" />
+          <option name="interactionType" value="MESSAGE_SEND" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="convertAndSend" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="5" />
+          <option name="className" value="org.springframework.web.client.RestTemplate" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="exchange" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="java.io.PrintStream" />
+          <option name="interactionType" value="IO_WRITE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="println" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="java.io.FileOutputStream" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="FileOutputStream" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="java.nio.file.Files" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="delete" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="java.nio.file.Files" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="exists" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="io.micronaut.http.client.BlockingHttpClient" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="retrieve" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="javax.jms.MessageProducer" />
+          <option name="interactionType" value="MESSAGE_SEND" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="send" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="javax.jms.MessageConsumer" />
+          <option name="interactionType" value="MESSAGE_RECEIVE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="setMessageListener" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="java.nio.file.Files" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="readAllBytes" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="java.lang.ProcessBuilder" />
+          <option name="interactionType" value="RUN_PROCESS" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="start" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="4" />
+          <option name="className" value="java.nio.file.Files" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="createTempFile" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="org.apache.commons.io.FileUtils" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="deleteQuietly" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="io.micronaut.http.client.BlockingHttpClient" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="exchange" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="javax.mail.Transport" />
+          <option name="interactionType" value="MESSAGE_SEND" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="send" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="org.apache.velocity.app.VelocityEngine" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="getTemplate" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="com.google.common.io.Resources" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="getResource" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="io.micronaut.http.client.BlockingHttpClient" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="exchange" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="javax.xml.bind.Marshaller" />
+          <option name="interactionType" value="IO_WRITE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="marshal" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="java.io.InputStream" />
+          <option name="interactionType" value="IO_READ" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="read" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="java.io.FileOutputStream" />
+          <option name="interactionType" value="IO_WRITE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="write" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="io.micronaut.websocket.WebSocketBroadcaster" />
+          <option name="interactionType" value="BROADCAST" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="broadcast" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="java.sql.Statement" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="executeUpdate" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="java.sql.PreparedStatement" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="executeUpdate" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="java.sql.PreparedStatement" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="executeQuery" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="java.sql.Statement" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="executeQuery" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="java.io.PrintWriter" />
+          <option name="interactionType" value="IO_WRITE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="write" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="org.springframework.jms.core.JmsTemplate" />
+          <option name="interactionType" value="MESSAGE_SEND" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="send" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="org.springframework.jdbc.core.JdbcTemplate" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="query" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="org.springframework.jdbc.core.JdbcTemplate" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="update" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="javax.persistence.EntityTransaction" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="begin" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="java.nio.file.Files" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="newBufferedWriter" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="com.fasterxml.jackson.databind.ObjectWriter" />
+          <option name="interactionType" value="IO_WRITE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="writeValue" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="java.io.FileInputStream" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="FileInputStream" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="com.fasterxml.jackson.databind.ObjectMapper" />
+          <option name="interactionType" value="IO_READ" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="readValue" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="org.apache.poi.hssf.usermodel.HSSFWorkbook" />
+          <option name="interactionType" value="IO_WRITE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="write" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="org.hibernate.Session" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="get" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="org.hibernate.Session" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="refresh" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="org.hibernate.Criteria" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="list" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="org.hibernate.Criteria" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="uniqueResult" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="org.hibernate.query.Query" />
+          <option name="interactionType" value="DATABASE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="list" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="software.amazon.awssdk.services.eventbridge.EventBridgeClient" />
+          <option name="interactionType" value="MESSAGE_SEND" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="putEvents" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="software.amazon.awssdk.services.sqs.SqsAsyncClient" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="deleteMessage" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="software.amazon.awssdk.services.sqs.SqsAsyncClient" />
+          <option name="interactionType" value="MESSAGE_SEND" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="sendMessage" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="org.apache.commons.io.FileUtils" />
+          <option name="interactionType" value="IO_WRITE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="copyInputStreamToFile" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="org.apache.commons.io.FileUtils" />
+          <option name="interactionType" value="IO_WRITE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="copyToFile" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="java.net.URL" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="openStream" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="java.io.File" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="mkdirs" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="com.fasterxml.jackson.databind.ObjectMapper" />
+          <option name="interactionType" value="IO_READ" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="readTree" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="3" />
+          <option name="className" value="io.ktor.client.request.BuildersKt" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="post" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="com.amazonaws.services.s3.AmazonS3" />
+          <option name="interactionType" value="CLOUD_STORAGE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="getObject" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="4" />
+          <option name="className" value="com.amazonaws.services.s3.AmazonS3" />
+          <option name="interactionType" value="CLOUD_STORAGE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="putObject" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="java.nio.file.Files" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="size" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="3" />
+          <option name="className" value="java.nio.file.Files" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="createTempDirectory" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="software.amazon.awssdk.services.s3.S3Client" />
+          <option name="interactionType" value="CLOUD_STORAGE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="getObjectAsBytes" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="com.fasterxml.jackson.core.JsonParser" />
+          <option name="interactionType" value="IO_READ" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="readValueAsTree" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="org.apache.camel.builder.endpoint.dsl.DirectEndpointBuilderFactory.DirectBuilders" />
+          <option name="interactionType" value="MESSAGE_SEND" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="direct" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="org.apache.camel.model.ProcessorDefinition" />
+          <option name="interactionType" value="STREAMING" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="split" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="org.apache.camel.model.ProcessorDefinition" />
+          <option name="interactionType" value="IO_READ" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="process" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="3" />
+          <option name="className" value="java.nio.file.Files" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="write" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="java.nio.file.Files" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="createFile" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="com.fasterxml.jackson.databind.ObjectWriter" />
+          <option name="interactionType" value="IO_WRITE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="writeValueAsString" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="org.springframework.util.StreamUtils" />
+          <option name="interactionType" value="IO_WRITE" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="copy" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="java.nio.file.Files" />
+          <option name="interactionType" value="FILESYSTEM" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="readString" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="java.net.Socket" />
+          <option name="interactionType" value="IO_READ" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="getInputStream" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="4" />
+          <option name="className" value="org.springframework.web.client.RestTemplate" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="postForObject" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="3" />
+          <option name="className" value="org.springframework.web.client.RestTemplate" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="getForObject" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="3" />
+          <option name="className" value="org.springframework.web.client.RestTemplate" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="getForEntity" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="org.springframework.web.client.RestTemplate" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="getForEntity" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="3" />
+          <option name="className" value="org.springframework.web.client.RestTemplate" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="patchForObject" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="4" />
+          <option name="className" value="org.springframework.web.client.RestTemplate" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="patchForObject" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="org.springframework.web.client.RestTemplate" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="delete" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="org.springframework.web.client.RestTemplate" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="delete" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="4" />
+          <option name="className" value="org.springframework.web.client.RestTemplate" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="exchange" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="org.springframework.web.client.RestTemplate" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="headForHeaders" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="org.springframework.web.client.RestTemplate" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="headForHeaders" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="org.springframework.web.client.RestTemplate" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="optionsForAllow" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="org.springframework.web.client.RestTemplate" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="optionsForAllow" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="3" />
+          <option name="className" value="org.springframework.web.client.RestTemplate" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="postForLocation" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="2" />
+          <option name="className" value="org.springframework.web.client.RestTemplate" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="postForLocation" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="4" />
+          <option name="className" value="org.springframework.web.client.RestTemplate" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="postForEntity" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="3" />
+          <option name="className" value="org.springframework.web.client.RestTemplate" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="postForEntity" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="className" value="java.io.BufferedReader" />
+          <option name="interactionType" value="IO_READ" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="readLine" />
+          <option name="shared" value="true" />
+        </InteractionState>
+        <InteractionState>
+          <option name="argsCount" value="1" />
+          <option name="className" value="java.io.Reader" />
+          <option name="interactionType" value="IO_READ" />
+          <option name="language" value="JVM" />
+          <option name="methodName" value="read" />
+          <option name="shared" value="true" />
+        </InteractionState>
+      </list>
+    </option>
+    <option name="lastUpdateTs" value="1656931708572" />
+  </component>
+</application>
