@@ -12,7 +12,6 @@
       <mapping pattern=".credentials" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -24,6 +23,7 @@
       <removed_mapping ext="qrc" approved="true" type="XML" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="Puppetfile" type="Ruby" />
     </extensionMap>
   </component>
