@@ -12,7 +12,6 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>.gitignore</mask>
-    <mask>*.xml</mask>
     <mask>*.jpt</mask>
     <mask>*.kts</mask>
     <mask>*.jmx</mask>
@@ -25,5 +24,6 @@
     <mask>*.spec.ts</mask>
     <mask>*.html</mask>
     <mask>*.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
