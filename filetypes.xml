@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-with-build" type="PLAIN_TEXT" />
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
@@ -12,7 +12,6 @@
       <mapping pattern="generate-certificate" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
-      <mapping pattern="Puppetfile" type="Ruby" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -25,6 +24,7 @@
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <mapping ext="plantuml" type="PlantUML file" />
+      <mapping pattern="Puppetfile" type="Ruby" />
     </extensionMap>
   </component>
 </application>
