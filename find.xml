@@ -19,7 +19,6 @@
     <mask>*.yml</mask>
     <mask>build.gradle.kts</mask>
     <mask>*.java</mask>
-    <mask>pom.xml</mask>
     <mask>*.scss</mask>
     <mask>*.spec.ts</mask>
     <mask>*.html</mask>
@@ -27,5 +26,6 @@
     <mask>*.kts</mask>
     <mask>*.lockfile</mask>
     <mask>*.kt</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>

@@ -9,6 +9,7 @@
       <item download="ALLOWED" kind="jdk" url="https://index-cdn.jetbrains.com/v2/jdk" />
       <item download="ALLOWED" kind="mvn" url="https://index-cdn.jetbrains.com/v2/mvn" />
       <item download="ALLOWED" kind="project" url="https://intellij-indexes-cache.staging.atl-paas.net/project/jira-server" />
+      <item download="ALLOWED" kind="project" url="https://intellij-indexes-cache.prod.atl-paas.net/project/jira-server" />
     </option>
   </component>
 </application>
