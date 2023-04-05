@@ -1,4 +1,8 @@
 <keymap version="1" name="Eclipse copy windows/linux" parent="Eclipse">
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
   <action id="ChangesView.Rename" />
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="ctrl f4" />
