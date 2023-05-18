@@ -1,0 +1,34 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
+    <mask>*Servlet.java</mask>
+    <mask>package.json</mask>
+    <mask>*.vm</mask>
+    <mask>*.md</mask>
+    <mask>*.groovy</mask>
+    <mask>*.css</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>.gitignore</mask>
+    <mask>*.jpt</mask>
+    <mask>*.jmx</mask>
+    <mask>*.yml</mask>
+    <mask>build.gradle.kts</mask>
+    <mask>*.java</mask>
+    <mask>*.scss</mask>
+    <mask>*.spec.ts</mask>
+    <mask>*.xml</mask>
+    <mask>*.kts</mask>
+    <mask>*.lockfile</mask>
+    <mask>pom.xml</mask>
+    <mask>*.kt</mask>
+    <mask>*.html</mask>
+  </component>
+</application>
