@@ -82,33 +82,6 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
-  <component name="NodeRendererSettings">
-    <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundNodeRenderer">
-        <option name="NAME" value="List" />
-        <option name="ENABLED" value="true" />
-        <option name="QUALIFIED_NAME" value="java.util.List" />
-        <Renderer ID="LabelRenderer" role="label">
-          <option name="QUALIFIED_NAME" value="java.util.List" />
-          <option name="ON_DEMAND" value="false" />
-          <option name="LABEL_EXPRESSION" value="listOf()&#13;&#13;Kotlin" />
-        </Renderer>
-      </Renderer>
-      <Renderer ID="CompoundNodeRenderer">
-        <option name="ENABLED" value="true" />
-        <option name="QUALIFIED_NAME" value="autocoin.balance.api.controller.BalanceSummaryResponseDto" />
-      </Renderer>
-      <Renderer ID="CompoundNodeRenderer">
-        <option name="ENABLED" value="true" />
-        <option name="QUALIFIED_NAME" value="automate.profit.autocoin.exchange.arbitrage.orderbook.OrderBookPair" />
-        <Renderer ID="ExpressionChildrenRenderer" role="children">
-          <option name="QUALIFIED_NAME" value="automate.profit.autocoin.exchange.arbitrage.orderbook.OrderBookPair" />
-          <option name="CHILDREN_EXPANDABLE" value="&#13;&#13;JAVA" />
-          <option name="CHILDREN_EXPRESSION" expression="jacksonObjectMapper().writeValueAsString(this)" language="kotlin" custom="import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper" mode="CODE_FRAGMENT" />
-        </Renderer>
-      </Renderer>
-    </CustomRenderers>
-  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general>
