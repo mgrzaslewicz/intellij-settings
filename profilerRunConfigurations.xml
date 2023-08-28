@@ -1,0 +1,23 @@
+<application>
+  <component name="ProfilerRunConfigurations">
+    <profilerRunConfigurations>
+      <item configurationTypeId="RbSpyProfilerConfigurationType">
+        <RbSpyProfilerConfigurationState name="RbSpy profiler" SAMPLING_FREQUENCY="97" PROFILE_SUBPROCESS="true" />
+      </item>
+      <item configurationTypeId="IntellijProfilerConfiguration">
+        <IntellijProfilerConfigurationState name="IntelliJ Profiler" />
+      </item>
+    </profilerRunConfigurations>
+    <knownConfigurationTypes>
+      <id>RbSpyProfilerConfigurationType</id>
+      <id>IntellijProfilerConfiguration</id>
+      <id>AsyncProfilerCPUConfiguration</id>
+      <id>AsyncProfilerMemoryConfiguration</id>
+      <id>AsyncProfilerConfiguration</id>
+      <id>JFRSimpleConfiguration</id>
+    </knownConfigurationTypes>
+    <migrationStatus>
+      <status languageGroup="Java Profiler Configuration Type" lastMigrationIndex="3" />
+    </migrationStatus>
+  </component>
+</application>
