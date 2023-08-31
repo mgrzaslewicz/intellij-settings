@@ -1,90 +1,276 @@
 <application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">UGVsdG9jaGU=</entry>
+        <entry encoding="base64">YW5zaWJsZQ==</entry>
+        <entry encoding="base64">aWdub3Jl</entry>
+        <entry encoding="base64">SWdub3Jl</entry>
+        <entry encoding="base64">RHVyYXRpb24=</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JXMvUGVsdG9jaGUvbHNkLXJzL2c=</entry>
+      </history-cmd>
+    </history>
+  </component>
   <component name="VimJumpsSettings">
-    <jump line="183" column="4" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/gui/src/main/kotlin/com/atlassian/jira/performance/gui/websocket/GuiServer.kt" />
-    <jump line="143" column="63" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/gui/src/main/kotlin/com/atlassian/jira/performance/gui/websocket/GuiServer.kt" />
-    <jump line="0" column="0" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
-    <jump line="62" column="64" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/gui/src/test/kotlin/com/atlassian/jira/performance/gui/websocket/GuiServerTest.kt" />
-    <jump line="0" column="0" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/build.gradle.kts" />
-    <jump line="0" column="0" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/.java-version" />
-    <jump line="17" column="33" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/gui/src/test/kotlin/com/atlassian/jira/performance/gui/websocket/GuiServerTest.kt" />
-    <jump line="55" column="8" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
-    <jump line="61" column="0" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
-    <jump line="148" column="17" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/gui/src/main/kotlin/com/atlassian/jira/performance/gui/websocket/GuiServer.kt" />
-    <jump line="15" column="39" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/main/kotlin/com/atlassian/jira/test/performance/gui/websocket/ExploreGui.kt" />
-    <jump line="163" column="37" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/gui/src/main/kotlin/com/atlassian/jira/performance/gui/websocket/GuiServer.kt" />
-    <jump line="33" column="9" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/gui/src/test/kotlin/com/atlassian/jira/performance/gui/websocket/GuiServerTest.kt" />
-    <jump line="103" column="32" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/gui/src/main/kotlin/com/atlassian/jira/performance/gui/websocket/GuiServer.kt" />
-    <jump line="53" column="27" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/gui/src/main/kotlin/com/atlassian/jira/performance/gui/websocket/GuiServer.kt" />
-    <jump line="119" column="21" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/gui/src/main/kotlin/com/atlassian/jira/performance/gui/websocket/GuiServer.kt" />
-    <jump line="53" column="16" filename="/mnt/other/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-jetty-api/11.0.15/5163982b0534ae2d87f240b9678666ac8a27c52b/websocket-jetty-api-11.0.15-sources.jar!/org/eclipse/jetty/websocket/api/WebSocketAdapter.java" />
-    <jump line="65" column="0" filename="/mnt/other/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-jetty-api/11.0.15/5163982b0534ae2d87f240b9678666ac8a27c52b/websocket-jetty-api-11.0.15-sources.jar!/org/eclipse/jetty/websocket/api/WebSocketAdapter.java" />
-    <jump line="129" column="8" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/gui/src/main/kotlin/com/atlassian/jira/performance/gui/websocket/GuiServer.kt" />
-    <jump line="110" column="44" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/gui/src/main/kotlin/com/atlassian/jira/performance/gui/websocket/GuiServer.kt" />
-    <jump line="111" column="17" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/gui/src/main/kotlin/com/atlassian/jira/performance/gui/websocket/GuiServer.kt" />
-    <jump line="109" column="36" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/gui/src/main/kotlin/com/atlassian/jira/performance/gui/websocket/GuiServer.kt" />
-    <jump line="43" column="3" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionIT.kt" />
-    <jump line="33" column="4" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/gui/src/main/kotlin/com/atlassian/jira/performance/gui/websocket/GuiServer.kt" />
-    <jump line="81" column="4" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckIT.kt" />
-    <jump line="28" column="17" filename="/mnt/other/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-jetty-api/11.0.15/5163982b0534ae2d87f240b9678666ac8a27c52b/websocket-jetty-api-11.0.15-sources.jar!/org/eclipse/jetty/websocket/api/WebSocketConnectionListener.java" />
-    <jump line="123" column="0" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/gui/src/main/kotlin/com/atlassian/jira/performance/gui/websocket/GuiServer.kt" />
-    <jump line="7" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/jpt.md" />
-    <jump line="182" column="41" filename="/mnt/other/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/javax-websocket-server-impl/9.4.51.v20230217/f74776b89fcc808823375394a682cb81e818a187/javax-websocket-server-impl-9.4.51.v20230217-sources.jar!/org/eclipse/jetty/websocket/jsr356/server/ServerContainer.java" />
-    <jump line="128" column="0" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/gui/src/main/kotlin/com/atlassian/jira/performance/gui/websocket/GuiServer.kt" />
+    <jump line="178" column="8" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="199" column="71" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="83" column="37" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="201" column="10" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="205" column="9" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="155" column="14" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="199" column="18" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="197" column="32" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="279" column="8" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="257" column="8" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="214" column="8" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="103" column="8" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="136" column="8" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="76" column="0" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="186" column="39" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="22" column="24" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/main/resources/log4j2.xml" />
+    <jump line="99" column="24" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="285" column="47" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="281" column="10" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="294" column="30" filename="/usr/lib/jvm/java-1.11.0-openjdk-amd64/lib/src.zip!/java.base/java/lang/Thread.java" />
+    <jump line="283" column="35" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="198" column="11" filename="/usr/lib/jvm/java-1.11.0-openjdk-amd64/lib/src.zip!/java.base/java/util/concurrent/CountDownLatch.java" />
+    <jump line="86" column="0" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="400" column="16" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="406" column="30" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="92" column="18" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="413" column="29" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="100" column="12" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="55" column="8" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="70" column="16" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="81" column="17" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="106" column="12" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="118" column="23" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="286" column="21" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="126" column="0" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="287" column="37" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="414" column="0" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="290" column="0" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="127" column="0" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="310" column="14" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="300" column="4" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="299" column="31" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="294" column="0" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="306" column="84" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="305" column="40" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="295" column="13" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="128" column="0" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="288" column="10" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="282" column="15" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="302" column="67" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="308" column="14" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="309" column="22" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="284" column="16" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="131" column="19" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="291" column="26" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="861" column="16" filename="/mnt/other/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.5.31/ee22598c6d20e94e0fd08cc696f09f83e41b3935/kotlin-stdlib-common-1.5.31-sources.jar!/kotlin/time/Duration.kt" />
+    <jump line="303" column="8" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="289" column="28" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="4" column="2" filename="/repos/dev-machine-provision/playbooks/dotfiles/home-dir-as-git-repository.yml" />
+    <jump line="3" column="2" filename="/repos/dev-machine-provision/playbooks/vim/vim-plug.yml" />
+    <jump line="3" column="2" filename="/repos/dev-machine-provision/playbooks/javascript/nvm-zsh.yml" />
+    <jump line="311" column="17" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="0" column="0" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/scaling/data/report/chart/DatasetChartTest.kt" />
+    <jump line="0" column="0" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/scaling/data/report/chart/DatasetChart.kt" />
+    <jump line="33" column="8" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/scaling/data/report/chart/DatasetChart.kt" />
+    <jump line="72" column="22" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/scaling/data/report/chart/DatasetChart.kt" />
+    <jump line="89" column="21" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/scaling/data/report/chart/DatasetChartTest.kt" />
+    <jump line="44" column="31" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/scaling/data/report/chart/DatasetChartTest.kt" />
+    <jump line="54" column="24" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/scaling/data/report/chart/DatasetChartTest.kt" />
+    <jump line="61" column="14" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/scaling/data/report/chart/DatasetChartTest.kt" />
+    <jump line="68" column="42" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/scaling/data/report/chart/DatasetChartTest.kt" />
+    <jump line="204" column="39" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="298" column="0" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="236" column="25" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="226" column="32" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="181" column="8" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="166" column="27" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="167" column="22" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="19" column="56" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/main/resources/log4j2.xml" />
+    <jump line="136" column="28" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="67" column="21" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="64" column="55" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="62" column="38" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="74" column="14" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="77" column="16" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="183" column="30" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="124" column="25" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="179" column="32" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
+    <jump line="113" column="15" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="116" column="29" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="0" column="0" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="45" column="0" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="129" column="75" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="117" column="14" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="287" column="68" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="107" column="61" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" />
+    <jump line="15" column="60" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/main/resources/log4j2.xml" />
+    <jump line="72" column="13" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckIT.kt" />
+    <jump line="41" column="0" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckIT.kt" />
+    <jump line="187" column="55" filename="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" />
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <localmarks>
-      <file name="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/build.gradle.kts" timestamp="1693212241088">
+      <file name="/usr/lib/jvm/java-1.11.0-openjdk-amd64/lib/src.zip!/java.base/java/lang/Thread.java" timestamp="1693467636060">
+        <mark key="&quot;" line="294" column="30" />
+      </file>
+      <file name="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/gui/src/test/kotlin/com/atlassian/jira/performance/gui/websocket/GuiServerTest.kt" timestamp="1693467637098">
+        <mark key="&quot;" line="33" column="9" />
+      </file>
+      <file name="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/regression/AwsSamplerFactory.kt" timestamp="1693467860472">
+        <mark key="&quot;" line="43" column="30" />
+      </file>
+      <file name="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionIT.kt" timestamp="1693467638796">
+        <mark key="&quot;" line="43" column="3" />
+      </file>
+      <file name="/AIAssistantInput-8ea10739-8043-495c-8108-34055c363774" timestamp="1693467614402">
         <mark key="&quot;" line="0" column="0" />
-      </file>
-      <file name="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/.java-version" timestamp="1693212242855">
-        <mark key="&quot;" line="0" column="0" />
-      </file>
-      <file name="/mnt/other/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-jetty-api/11.0.15/5163982b0534ae2d87f240b9678666ac8a27c52b/websocket-jetty-api-11.0.15-sources.jar!/org/eclipse/jetty/websocket/api/WebSocketAdapter.java" timestamp="1693214471698">
-        <mark key="&quot;" line="53" column="16" />
-      </file>
-      <file name="/fragment.kt" timestamp="1693214434889">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/other/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-jetty-api/11.0.15/5163982b0534ae2d87f240b9678666ac8a27c52b/websocket-jetty-api-11.0.15-sources.jar!/org/eclipse/jetty/websocket/api/WebSocketConnectionListener.java" timestamp="1693214480776">
-        <mark key="&quot;" line="28" column="17" />
+      <file name="/repos/dev-machine-provision/playbooks/docker/docker-registry.yml" timestamp="1693467614398">
+        <mark key="&quot;" line="3" column="2" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" timestamp="1693213249021">
-        <mark key="&quot;" line="61" column="0" />
+      <file name="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/scaling/data/report/chart/DatasetChartTest.kt" timestamp="1693467617678">
+        <mark key="&quot;" line="68" column="42" />
+        <mark key="[" line="68" column="24" />
+        <mark key="]" line="68" column="24" />
+        <mark key="." line="68" column="24" />
       </file>
-      <file name="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/gui/src/main/kotlin/com/atlassian/jira/performance/gui/websocket/GuiServer.kt" timestamp="1693214509047">
+      <file name="/repos/dev-machine-provision/playbooks/various/konsave.yml" timestamp="1693467614401">
+        <mark key="&quot;" line="6" column="13" />
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="22" />
+      </file>
+      <file name="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheck.kt" timestamp="1693468571377">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="107" column="41" />
+        <mark key="]" line="107" column="62" />
+        <mark key="^" line="107" column="62" />
+        <mark key="." line="107" column="61" />
+      </file>
+      <file name="/repos/dev-machine-provision/playbooks/browser/tor.yml" timestamp="1693467614397">
+        <mark key="&quot;" line="3" column="2" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/build.gradle.kts" timestamp="1693467637738">
+        <mark key="&quot;" line="180" column="9" />
+      </file>
+      <file name="/repos/dev-machine-provision/playbooks/docker/docker.yml" timestamp="1693467614398">
+        <mark key="&quot;" line="4" column="8" />
+      </file>
+      <file name="/repos/dev-machine-provision/playbooks/various/imagemagick.yml" timestamp="1693467614400">
+        <mark key="&quot;" line="3" column="2" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/eventbus/src/main/kotlin/com/atlassian/jira/performance/eventbus/EventBus.kt" timestamp="1693467861754">
+        <mark key="&quot;" line="24" column="0" />
+      </file>
+      <file name="/usr/lib/jvm/java-1.11.0-openjdk-amd64/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" timestamp="1693467638282">
+        <mark key="&quot;" line="1994" column="13" />
+      </file>
+      <file name="/repos/dev-machine-provision/playbooks/various/delta.yml" timestamp="1693467614400">
+        <mark key="&quot;" line="3" column="2" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/RegressionCheckTest.kt" timestamp="1693468369776">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="187" column="102" />
+        <mark key="]" line="187" column="102" />
+        <mark key="^" line="187" column="103" />
+        <mark key="." line="187" column="103" />
+      </file>
+      <file name="/repos/dev-machine-provision/playbooks/various/broot.yml" timestamp="1693467614399">
+        <mark key="&quot;" line="3" column="2" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/jira-software-tests/src/test/kotlin/com/atlassian/jira/test/performance/scaling/data/report/chart/DatasetChart.kt" timestamp="1693467852263">
+        <mark key="&quot;" line="71" column="5" />
+      </file>
+      <file name="/repos/atlassian/jiraserver/jira-performance-tests/jira-performance-tests-master/gui/src/main/kotlin/com/atlassian/jira/performance/gui/websocket/GuiServer.kt" timestamp="1693467862634">
+        <mark key="&quot;" line="148" column="0" />
         <mark key="[" line="129" column="19" />
         <mark key="]" line="129" column="24" />
         <mark key="." line="129" column="23" />
         <mark key="^" line="129" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1693214434892">
-        <mark key="&quot;" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
     </localmarks>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbnMucmVtb3ZlKHNlc3Npb24pCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJDbGllbnQgZGlzY29ubmVjdGVkOiAke3Nlc3Npb24ucmVtb3RlQWRkcmVzc30gd2l0aCByZWFzb246ICRyZWFzb24gYW5kIHN0YXR1c0NvZGU6ICRzdGF0dXNDb2RlIikK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIub25XZWJTb2NrZXRFcnJvcihjYXVzZSkK</text>
-      </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">aW5mbw==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5mbw==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="." type="4">
-        <text encoding="base64">ZXJyb3I=</text>
+        <text encoding="base64">ID0gRHVyYXRpb24ub2ZIb3VycygpMg==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">RHVyYXRpb24=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHZlcmRpY3RzIDwgZGVzaXJlZFZlcmRpY3RzICYmIEluc3RhbnQubm93KCkgPCBkZWFkbGluZSkgewo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdvb2RTYW1wbGVyLnNhbXBsZShyZXN1bHRDb25zdW1lcikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGxhdGNoMS5jb3VudERvd24oKQovLyAgICAgICAgbGF0Y2gyLmNvdW50RG93bigpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUmVncmVzc2lvbkNoZWNrLkJ1aWxkZXIoYmFzZWxpbmUsIGV4cGVyaW1lbnQpCiAgICAgICAgICAgIC5kcml2ZXIoVmVyZGljdENvdW50aW5nU2FtcGxlRHJpdmVyKGRlc2lyZWRWZXJkaWN0cyA9IDEpKQogICAgICAgICAgICAuYnVpbGQoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgY2hlY2sgPSBSZWdyZXNzaW9uQ2hlY2suQnVpbGRlcihiYXNlbGluZSwgZXhwZXJpbWVudCkKICAgICAgICAgICAgLmRyaXZlcihWZXJkaWN0Q291bnRpbmdTYW1wbGVEcml2ZXIoZGVzaXJlZFZlcmRpY3RzID0gMSkpCiAgICAgICAgICAgIC5idWlsZCgpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgY2hlY2sgPSBSZWdyZXNzaW9uQ2hlY2suQnVpbGRlcihiYXNlbGluZSwgZXhwZXJpbWVudCkKICAgICAgICAgICAgLmRyaXZlcihWZXJkaWN0Q291bnRpbmdTYW1wbGVEcml2ZXIoZGVzaXJlZFZlcmRpY3RzID0gMSkpCiAgICAgICAgICAgIC5idWlsZCgpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JXMvUGVsdG9jaGUvbHNkLXJzL2c=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
+      <last-search encoding="base64">RHVyYXRpb24=</last-search>
+      <last-substitute encoding="base64">UGVsdG9jaGU=</last-substitute>
+      <last-replace encoding="base64">bHNkLXJz</last-replace>
+      <last-pattern encoding="base64">RHVyYXRpb24=</last-pattern>
       <last-dir encoding="base64">MQ==</last-dir>
       <show-last encoding="base64">ZmFsc2U=</show-last>
     </search>
