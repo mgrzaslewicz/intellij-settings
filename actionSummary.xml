@@ -67,13 +67,13 @@
       <i c="4" l="1693466247869" />
     </e>
     <e n="EditorBackSpace">
-      <i c="212" l="1693493293466" />
+      <i c="240" l="1693494138235" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="149" l="1693493142914" />
+      <i c="165" l="1693493953743" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="9" l="1693483409420" />
+      <i c="12" l="1693493869711" />
     </e>
     <e n="EditorCopy">
       <i c="17" l="1693484763256" />
@@ -82,25 +82,25 @@
       <i c="1" l="1693480617362" />
     </e>
     <e n="EditorDelete">
-      <i c="13" l="1693482921750" />
+      <i c="15" l="1693493880214" />
     </e>
     <e n="EditorDeleteLine">
-      <i c="104" l="1693484688413" />
+      <i c="116" l="1693493923093" />
     </e>
     <e n="EditorDeleteToWordEnd">
       <i c="5" l="1693484177170" />
     </e>
     <e n="EditorDeleteToWordStart">
-      <i c="19" l="1693492522540" />
+      <i c="20" l="1693493745809" />
     </e>
     <e n="EditorDown">
-      <i c="24" l="1693483408683" />
+      <i c="26" l="1693493934281" />
     </e>
     <e n="EditorDuplicateLines">
       <i c="1" l="1693409808943" />
     </e>
     <e n="EditorEnter">
-      <i c="114" l="1693492952080" />
+      <i c="122" l="1693493957430" />
     </e>
     <e n="EditorEscape">
       <i c="1" l="1693492670194" />
@@ -151,13 +151,13 @@
       <i c="2" l="1693482672932" />
     </e>
     <e n="Git.CompareWithBranch">
-      <i c="1" d="1" l="1693492526038" k="1693492526038" />
+      <i c="2" d="2" l="1693493535634" k="1693493535634" />
     </e>
     <e n="Git.Reword.Commit">
       <i c="1" l="1693404348497" />
     </e>
     <e n="GotoAction">
-      <i c="14" l="1693492520572" />
+      <i c="15" l="1693493534463" />
     </e>
     <e n="GotoClass">
       <i c="26" l="1693492516679" />
@@ -175,7 +175,7 @@
       <i c="24" l="1693492897033" />
     </e>
     <e n="GotoNextError">
-      <i c="57" l="1693483097778" />
+      <i c="65" l="1693493939388" />
     </e>
     <e n="IntroduceConstant">
       <i c="2" l="1693317558582" />
@@ -199,13 +199,13 @@
       <i c="10" l="1693484177820" />
     </e>
     <e n="OptimizeImports">
-      <i c="14" l="1693484510558" />
+      <i c="16" l="1693493894913" />
     </e>
     <e n="PasteMultiple">
       <i c="1" l="1693317543148" />
     </e>
     <e n="QuickImplementations">
-      <i c="7" l="1693492661710" />
+      <i c="9" l="1693493502575" />
     </e>
     <e n="QuickJavaDoc">
       <i c="3" l="1693409519359" />
@@ -214,7 +214,7 @@
       <i c="8" l="1693470395836" />
     </e>
     <e n="ReformatCode">
-      <i c="50" l="1693493300581" />
+      <i c="57" l="1693493960679" />
     </e>
     <e n="RenameElement">
       <i c="13" l="1693492666852" />
@@ -238,13 +238,13 @@
       <i c="1" l="1693493347688" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="39" l="1693493302327" />
+      <i c="41" l="1693493937079" />
     </e>
     <e n="ShowProjectStructureSettings">
       <i c="1" l="1693212216785" />
     </e>
     <e n="ShowSettings">
-      <i c="2" l="1693474793980" />
+      <i c="3" l="1693494135588" />
     </e>
     <e n="StepInto">
       <i c="3" l="1693411271274" />
@@ -318,6 +318,9 @@
     <e n="com.intellij.diff.actions.impl.SetEditorSettingsAction">
       <i c="1" l="1693408416264" />
     </e>
+    <e n="com.intellij.diff.impl.DiffRequestProcessor$MyOpenInEditorAction">
+      <i c="1" l="1693493583782" />
+    </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="20" l="1693483103578" />
     </e>
@@ -331,7 +334,7 @@
       <i c="9" l="1693482591081" />
     </e>
     <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
-      <i c="584" l="1693493293465" />
+      <i c="623" l="1693493946994" />
     </e>
     <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
       <i c="1" l="1693300485545" />
@@ -340,7 +343,7 @@
       <i c="1" l="1693406862550" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="49" l="1693492526033" />
+      <i c="50" l="1693493535627" />
     </e>
     <e n="com.intellij.openapi.vcs.changes.ui.ChangesBrowserBase$MyShowDiffAction">
       <i c="4" l="1693492553703" />
@@ -384,8 +387,11 @@
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="14" l="1693411608299" />
     </e>
+    <e n="com.maddyhome.idea.vim.ui.ShortcutConflictsSettings">
+      <i c="1" l="1693493352420" />
+    </e>
     <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
-      <i c="20" l="1693493337009" />
+      <i c="22" l="1693493525101" />
     </e>
     <e n="copilot.applyInlays">
       <i c="14" l="1693474024467" />
