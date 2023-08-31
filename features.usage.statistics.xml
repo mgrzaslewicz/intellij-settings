@@ -47,7 +47,7 @@
     <feature id="jupyter.preview.markdown.cell" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.find" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="3" last-shown="0" last-used="1693473604459" shown-count="0" />
-    <feature id="editing.completion.basic" count="61" last-shown="0" last-used="1693475758291" shown-count="0" />
+    <feature id="editing.completion.basic" count="62" last-shown="0" last-used="1693478997605" shown-count="0" />
     <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.locations" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -71,7 +71,7 @@
     <feature id="spring.endpoint.actions" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.clipboard.history" count="1" last-shown="0" last-used="1693317546993" shown-count="0" />
     <feature id="editing.compare.editor.with.clipboard" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="refactoring.rename" count="4" last-shown="0" last-used="1693474286758" shown-count="0" />
+    <feature id="refactoring.rename" count="5" last-shown="0" last-used="1693475816677" shown-count="0" />
     <feature id="navigation.popup.action" count="12" last-shown="0" last-used="1693475605553" shown-count="0" />
     <feature id="refactoring.show.quick.list" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.forget.cached.schemas" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -92,7 +92,7 @@
     <feature id="codeassists.javadoc.external" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="95" last-shown="0" last-used="1693475742383" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="98" last-shown="0" last-used="1693479022529" shown-count="0" />
     <feature id="jupyter.add.cell" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="8" last-shown="0" last-used="1693468756244" shown-count="0" />
@@ -141,8 +141,8 @@
     <feature id="db.assign.color" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="spring.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="359" />
-      <option name="invocations" value="42" />
+      <option name="sparedCharacters" value="361" />
+      <option name="invocations" value="43" />
       <option name="startDate" value="1693260000000" />
       <option name="dayCount" value="3" />
       <option name="lastDate" value="1693432800000" />
