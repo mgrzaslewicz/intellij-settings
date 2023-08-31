@@ -16,7 +16,7 @@
       <i c="2" l="1693468615153" />
     </e>
     <e n="ActivateVersionControlToolWindow">
-      <i c="8" l="1693492537198" />
+      <i c="9" l="1693508338163" />
     </e>
     <e n="Annotate">
       <i c="1" l="1693406860786" />
@@ -157,7 +157,7 @@
       <i c="1" l="1693404348497" />
     </e>
     <e n="GotoAction">
-      <i c="15" l="1693493534463" />
+      <i c="19" l="1693509442859" />
     </e>
     <e n="GotoClass">
       <i c="26" l="1693492516679" />
@@ -169,7 +169,7 @@
       <i c="173" l="1693493265091" />
     </e>
     <e n="GotoFile">
-      <i c="7" l="1693481183206" />
+      <i c="8" l="1693509325274" />
     </e>
     <e n="GotoImplementation">
       <i c="24" l="1693492897033" />
@@ -187,7 +187,7 @@
       <i c="1" l="1693314386809" />
     </e>
     <e n="Maven.Reimport">
-      <i c="2" d="2" l="1693392969718" k="1693392969718" />
+      <i c="5" d="5" l="1693509444163" k="1693509444163" />
     </e>
     <e n="MethodDown">
       <i c="7" l="1693408642163" />
@@ -223,7 +223,7 @@
       <i c="134" l="1693411302842" />
     </e>
     <e n="Run">
-      <i c="48" l="1693484730369" />
+      <i c="51" l="1693509447412" />
     </e>
     <e n="RunAnything">
       <i c="2" l="1693412216891" />
@@ -307,7 +307,7 @@
       <i c="8" l="1693492176492" />
     </e>
     <e n="ZoomOutIdeAction">
-      <i c="8" l="1693485893532" />
+      <i c="10" l="1693507993423" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="8" l="1693492864082" />
@@ -328,7 +328,7 @@
       <i c="2" l="1693467809594" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="1" l="1693404560852" />
+      <i c="2" l="1693508954415" />
     </e>
     <e n="com.intellij.ide.util.FileStructurePopup$NavigateSelectedElementAction">
       <i c="9" l="1693482591081" />
@@ -343,7 +343,7 @@
       <i c="1" l="1693406862550" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="50" l="1693493535627" />
+      <i c="54" l="1693509444155" />
     </e>
     <e n="com.intellij.openapi.vcs.changes.ui.ChangesBrowserBase$MyShowDiffAction">
       <i c="4" l="1693492553703" />
@@ -352,7 +352,7 @@
       <i c="9" l="1693480761918" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="8" l="1693482202073" />
+      <i c="9" l="1693508960902" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="10" l="1693493046431" />
@@ -376,10 +376,13 @@
       <i c="45" l="1693483334025" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="5" l="1693492693467" />
+      <i c="10" l="1693508388057" />
     </e>
     <e n="com.intellij.util.config.DumbAwareToggleInvertedBooleanProperty">
       <i c="4" l="1693471109791" />
+    </e>
+    <e n="com.intellij.vcs.log.ui.filter.BranchFilterPopupComponent$MyBranchPopupBuilder$BranchFilterAction">
+      <i c="1" l="1693508367929" />
     </e>
     <e n="com.intellij.xdebugger.impl.actions.EditBreakpointAction$ContextAction">
       <i c="1" l="1693396599210" />
@@ -391,7 +394,7 @@
       <i c="1" l="1693493352420" />
     </e>
     <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
-      <i c="22" l="1693493525101" />
+      <i c="23" l="1693509328996" />
     </e>
     <e n="copilot.applyInlays">
       <i c="14" l="1693474024467" />
