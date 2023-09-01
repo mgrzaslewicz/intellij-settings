@@ -244,7 +244,7 @@
       <i c="1" l="1693212216785" />
     </e>
     <e n="ShowSettings">
-      <i c="3" l="1693494135588" />
+      <i c="4" l="1693570313860" />
     </e>
     <e n="StepInto">
       <i c="3" l="1693411271274" />
@@ -333,6 +333,9 @@
     <e n="com.intellij.ide.util.FileStructurePopup$NavigateSelectedElementAction">
       <i c="9" l="1693482591081" />
     </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1693570308535" />
+    </e>
     <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
       <i c="623" l="1693493946994" />
     </e>
@@ -377,6 +380,9 @@
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
       <i c="10" l="1693508388057" />
+    </e>
+    <e n="com.intellij.ui.components.BasicOptionButtonUI$ActionDelegate">
+      <i c="6" l="1693570555544" />
     </e>
     <e n="com.intellij.util.config.DumbAwareToggleInvertedBooleanProperty">
       <i c="4" l="1693471109791" />
