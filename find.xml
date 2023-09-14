@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kts" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*Servlet.java</mask>
     <mask>package.json</mask>
     <mask>*.vm</mask>
@@ -25,8 +25,8 @@
     <mask>*.xml</mask>
     <mask>*.lockfile</mask>
     <mask>pom.xml</mask>
-    <mask>*.kt</mask>
     <mask>*.html</mask>
     <mask>*.kts</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
