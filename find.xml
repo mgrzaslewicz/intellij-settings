@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <mask>*Servlet.java</mask>
     <mask>package.json</mask>
     <mask>*.vm</mask>
@@ -22,12 +22,12 @@
     <mask>*.java</mask>
     <mask>*.scss</mask>
     <mask>*.spec.ts</mask>
-    <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*.html</mask>
     <mask>*.kts</mask>
     <mask>*.kt</mask>
     <mask>*.md</mask>
     <mask>*.lockfile</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
