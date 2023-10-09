@@ -24,10 +24,10 @@
     <mask>*.spec.ts</mask>
     <mask>pom.xml</mask>
     <mask>*.html</mask>
-    <mask>*.kts</mask>
-    <mask>*.kt</mask>
     <mask>*.md</mask>
     <mask>*.lockfile</mask>
     <mask>*.xml</mask>
+    <mask>*.kt</mask>
+    <mask>*.kts</mask>
   </component>
 </application>
