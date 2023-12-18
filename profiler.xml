@@ -8,6 +8,7 @@
     <option name="flameGraphState">
       <flame-graph-ui>
         <option name="experimentalStyleForNewUi" value="true" />
+        <option name="filterSlider" value="true" />
       </flame-graph-ui>
     </option>
     <option name="threadListOptions">
